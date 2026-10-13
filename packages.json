@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "albums": [
+    {
+      "officialId": "panini.fwc1994.standard",
+      "version": 1,
+      "file": "albums/panini-1994-standard-v1.zip",
+      "bytes": 147416,
+      "sha256": "d6fc60278e80e015e0491cc8f1413246622a22db1f7bd480cbca4fb39f127009"
+    },
+    {
+      "officialId": "panini.fwc1998.standard",
+      "version": 1,
+      "file": "albums/panini-1998-standard-v1.zip",
+      "bytes": 195020,
+      "sha256": "5ff7796f79e69497c6a01baa3386b433e3ca9113f0979d1f634e01110b524d49"
+    },
+    {
+      "officialId": "panini.fwc2002.standard",
+      "version": 1,
+      "file": "albums/panini-2002-standard-v1.zip",
+      "bytes": 186009,
+      "sha256": "978f42c0c446aa0ddc8a20c77f7bbd69c9ea7e98e2738c97d791cb54a1e9547b"
+    },
+    {
+      "officialId": "panini.fwc2006.standard",
+      "version": 1,
+      "file": "albums/panini-2006-standard-v1.zip",
+      "bytes": 196749,
+      "sha256": "ae43cbe07b1cc4628a1eb5c3b4e95cac084c9427f0f91187711df5b1cda1bce7"
+    },
+    {
+      "officialId": "panini.fwc2010.standard",
+      "version": 1,
+      "file": "albums/panini-2010-standard-v1.zip",
+      "bytes": 184279,
+      "sha256": "ec691c386babb6487780719453a6ee0dfcc5c984d5322e1e196bcfdf61cc8dec"
+    },
+    {
+      "officialId": "panini.fwc2014.standard",
+      "version": 1,
+      "file": "albums/panini-2014-standard-v1.zip",
+      "bytes": 184781,
+      "sha256": "1dc1a253a17809246a84d9751f3490670d7aace600c019e5adf104ca94a51b47"
+    },
+    {
+      "officialId": "panini.fwc2018.standard",
+      "version": 1,
+      "file": "albums/panini-2018-standard-v1.zip",
+      "bytes": 181411,
+      "sha256": "0c0fcd01cd72004d258c435512b47a64f37b50d158f02f960937fa41e50f4315"
+    },
+    {
+      "officialId": "fifa-mwc-2022-panini-standard",
+      "version": 4,
+      "file": "albums/panini-2022-standard-v4.zip",
+      "bytes": 338727,
+      "sha256": "7c11cbe2aca0fbd104d727057c6055b4789d3e0533e1fb4aa3759d412f585c85"
+    },
+    {
+      "officialId": "panini.fwc2022.extra-stickers",
+      "version": 4,
+      "file": "albums/panini-2022-extras-v4.zip",
+      "bytes": 112409,
+      "sha256": "d47d8401c4087d8f1ce39a099cf740eb88236a8581a793ce7e8e405abb808ebe"
+    }
+  ]
+}
