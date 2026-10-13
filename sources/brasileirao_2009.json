@@ -1,0 +1,3089 @@
+{
+  "officialId": "panini.brasileirao2009.standard",
+  "version": 1,
+  "name": "Campeonato Brasileiro 2009",
+  "collection": "Campeonato Brasileiro 2009",
+  "year": "2009",
+  "publisher": "Panini",
+  "description": "Coleção de figurinhas do Campeonato Brasileiro. Inclui as figurinhas oficiais extras e variantes no progresso.",
+  "plannedTotal": 485,
+  "coverAsset": "assets/album_library/imagens/brasileirao_2009/capa.jpg",
+  "libraryCategory": {
+    "id": "brasileirao",
+    "name": "Campeonato Brasileiro",
+    "order": 20
+  },
+  "availability": "online",
+  "releaseReady": true,
+  "verificationNote": "Numeração física e seções conferidas contra os checklists",
+  "sections": [
+    {
+      "id": "SEC001",
+      "name": "Entrada"
+    },
+    {
+      "id": "SEC002",
+      "name": "Série A"
+    },
+    {
+      "id": "SEC003",
+      "name": "Atlético-MG"
+    },
+    {
+      "id": "SEC004",
+      "name": "Avaí"
+    },
+    {
+      "id": "SEC005",
+      "name": "Coritiba"
+    },
+    {
+      "id": "SEC006",
+      "name": "Cruzeiro"
+    },
+    {
+      "id": "SEC007",
+      "name": "Flamengo"
+    },
+    {
+      "id": "SEC008",
+      "name": "Fluminense"
+    },
+    {
+      "id": "SEC009",
+      "name": "Goiás"
+    },
+    {
+      "id": "SEC010",
+      "name": "Grêmio"
+    },
+    {
+      "id": "SEC011",
+      "name": "Grêmio Barueri"
+    },
+    {
+      "id": "SEC012",
+      "name": "Internacional"
+    },
+    {
+      "id": "SEC013",
+      "name": "Náutico"
+    },
+    {
+      "id": "SEC014",
+      "name": "Palmeiras"
+    },
+    {
+      "id": "SEC015",
+      "name": "Santo André"
+    },
+    {
+      "id": "SEC016",
+      "name": "São Paulo"
+    },
+    {
+      "id": "SEC017",
+      "name": "Sport"
+    },
+    {
+      "id": "SEC018",
+      "name": "Vitória"
+    },
+    {
+      "id": "SEC019",
+      "name": "Série B"
+    },
+    {
+      "id": "SEC020",
+      "name": "ABC"
+    },
+    {
+      "id": "SEC021",
+      "name": "América-RN"
+    },
+    {
+      "id": "SEC022",
+      "name": "Atlético Goianiense"
+    },
+    {
+      "id": "SEC023",
+      "name": "Bahia"
+    },
+    {
+      "id": "SEC024",
+      "name": "Bragantino"
+    },
+    {
+      "id": "SEC025",
+      "name": "Brasiliense"
+    },
+    {
+      "id": "SEC026",
+      "name": "Campinense"
+    },
+    {
+      "id": "SEC027",
+      "name": "Ceará"
+    },
+    {
+      "id": "SEC028",
+      "name": "Duque de Caxias"
+    },
+    {
+      "id": "SEC029",
+      "name": "Figueirense"
+    },
+    {
+      "id": "SEC030",
+      "name": "Fortaleza"
+    },
+    {
+      "id": "SEC031",
+      "name": "Guarani"
+    },
+    {
+      "id": "SEC032",
+      "name": "Ipatinga-MG"
+    },
+    {
+      "id": "SEC033",
+      "name": "Juventude"
+    },
+    {
+      "id": "SEC034",
+      "name": "Paraná"
+    },
+    {
+      "id": "SEC035",
+      "name": "Ponte Preta"
+    },
+    {
+      "id": "SEC036",
+      "name": "Portuguesa"
+    },
+    {
+      "id": "SEC037",
+      "name": "São Caetano"
+    },
+    {
+      "id": "SEC038",
+      "name": "Vasco"
+    },
+    {
+      "id": "SEC039",
+      "name": "Vila Nova"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "number-5feceb66ffc86f38d952786c",
+      "number": "0",
+      "name": "Figurinha Zero",
+      "sectionId": "SEC001"
+    },
+    {
+      "id": "number-6b86b273ff34fce19d6b804e",
+      "number": "1",
+      "name": "Camisa do Atlético-MG",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-d4735e3a265e16eee03f5971",
+      "number": "2",
+      "name": "Camisa do Avaí",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-4e07408562bedb8b60ce05c1",
+      "number": "3",
+      "name": "Camisa do Coritiba",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-4b227777d4dd1fc61c6f884f",
+      "number": "4",
+      "name": "Camisa do Cruzeiro",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-ef2d127de37b942baad06145",
+      "number": "5",
+      "name": "Camisa do Flamengo",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-e7f6c011776e8db7cd330b54",
+      "number": "6",
+      "name": "Camisa do Fluminense",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-7902699be42c8a8e46fbbb45",
+      "number": "7",
+      "name": "Camisa do Goiás",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-2c624232cdd221771294dfbb",
+      "number": "8",
+      "name": "Camisa do Grêmio",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-19581e27de7ced00ff1ce50b",
+      "number": "9",
+      "name": "Camisa do Grêmio Barueri",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-4a44dc15364204a80fe80e90",
+      "number": "10",
+      "name": "Camisa do Internacional",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-4fc82b26aecb47d2868c4efb",
+      "number": "11",
+      "name": "Camisa do Náutico",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-6b51d431df5d7f141cbececc",
+      "number": "12",
+      "name": "Camisa do Palmeiras",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-3fdba35f04dc8c462986c992",
+      "number": "13",
+      "name": "Camisa do Santo André",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-8527a891e224136950ff32ca",
+      "number": "14",
+      "name": "Camisa do São Paulo",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-e629fa6598d732768f7c726b",
+      "number": "15",
+      "name": "Camisa do Sport",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-b17ef6d19c7a5b1ee83b907c",
+      "number": "16",
+      "name": "Camisa do Vitória",
+      "sectionId": "SEC002"
+    },
+    {
+      "id": "number-4523540f1504cd17100c4835",
+      "number": "17",
+      "name": "Escudo do Atlético-MG",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-4ec9599fc203d176a301536c",
+      "number": "18",
+      "name": "Aranha",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-9400f1b21cb527d7fa3d3eab",
+      "number": "19",
+      "name": "Carlos Alberto",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-f5ca38f748a1d6eaf726b8a4",
+      "number": "20",
+      "name": "Welton Felipe",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-6f4b6612125fb3a0daecd279",
+      "number": "21",
+      "name": "Leandro Almeida",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-785f3ec7eb32f30b90cd0fcf",
+      "number": "22",
+      "name": "Jonílson",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-535fa30d7e25dd8a49f15367",
+      "number": "23",
+      "name": "Thiago Feltri",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-c2356069e9d1e79ca9243781",
+      "number": "24",
+      "name": "Renan Silva",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-b7a56873cd771f2c446d369b",
+      "number": "25",
+      "name": "Márcio Araújo",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-5f9c4ab08cac7457e9111a30",
+      "number": "26",
+      "name": "Mascote do Atlético-MG",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-670671cd97404156226e5079",
+      "number": "27",
+      "name": "Diego Tardelli",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-59e19706d51d39f66711c265",
+      "number": "28",
+      "name": "Júnior",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-35135aaa6cc23891b40cb3f3",
+      "number": "29",
+      "name": "Éder Luís",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-624b60c58c9d8bfb6ff1886c",
+      "number": "30",
+      "name": "Werley",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-eb1e33e8a81b697b75855af6",
+      "number": "31",
+      "name": "Marcos Rocha",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-e29c9c180c6279b0b02abd6a",
+      "number": "32",
+      "name": "Serginho",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-c6f3ac57944a531490cd3990",
+      "number": "33",
+      "name": "Renan Oliveira",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-86e50149658661312a9e0b35",
+      "number": "34",
+      "name": "Kléber",
+      "sectionId": "SEC003"
+    },
+    {
+      "id": "number-9f14025af0065b30e47e23eb",
+      "number": "35",
+      "name": "Escudo do Avaí",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-76a50887d8f1c2e930175542",
+      "number": "36",
+      "name": "Eduardo",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-7a61b53701befdae0eeeffae",
+      "number": "37",
+      "name": "Ferdinando",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-aea92132c4cbeb263e6ac2bf",
+      "number": "38",
+      "name": "Émerson",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-0b918943df0962bc7a1824c0",
+      "number": "39",
+      "name": "Turatto",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-d59eced1ded07f84c145592f",
+      "number": "40",
+      "name": "Uendel",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-3d914f9348c9cc0ff8a79716",
+      "number": "41",
+      "name": "Marcus Vinícius",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-73475cb40a568e8da8a045ce",
+      "number": "42",
+      "name": "Bruno Silva",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-44cb730c420480a0477b505a",
+      "number": "43",
+      "name": "Léo Gago",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-71ee45a3c0db9a9865f7313d",
+      "number": "44",
+      "name": "Mascote do Avaí",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-811786ad1ae74adfdd20dd03",
+      "number": "45",
+      "name": "Marquinhos",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-25fc0e7096fc653718202dc3",
+      "number": "46",
+      "name": "Caio",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-31489056e0916d59fe3add79",
+      "number": "47",
+      "name": "Odair",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-98010bd9270f9b100b6214a2",
+      "number": "48",
+      "name": "Muriqui",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-0e17daca5f3e175f448bacac",
+      "number": "49",
+      "name": "William",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-1a6562590ef19d1045d06c40",
+      "number": "50",
+      "name": "Lima",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-031b4af5197ec30a926f48cf",
+      "number": "51",
+      "name": "Luis Ricardo",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-41cfc0d1f2d127b04555b724",
+      "number": "52",
+      "name": "Rafael",
+      "sectionId": "SEC004"
+    },
+    {
+      "id": "number-2858dcd1057d3eae7f7d5f78",
+      "number": "53",
+      "name": "Escudo do Coritiba",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-2fca346db656187102ce806a",
+      "number": "54",
+      "name": "Vanderlei",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-02d20bbd7e394ad5999a4ceb",
+      "number": "55",
+      "name": "Márcio Gabriel",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-7688b6ef52555962d008fff8",
+      "number": "56",
+      "name": "Felipe",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-c837649cce43f2729138e72c",
+      "number": "57",
+      "name": "Cleiton",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-6208ef0f7750c111548cf90b",
+      "number": "58",
+      "name": "Vicente",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-3e1e967e9b793e908f8eae83",
+      "number": "59",
+      "name": "Leandro Donizete",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-39fa9ec190eee7b6f4dff110",
+      "number": "60",
+      "name": "Douglas Silva",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-d029fa3a95e174a19934857f",
+      "number": "61",
+      "name": "Carlinhos Paraíba",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-81b8a03f97e8787c53fe1a86",
+      "number": "62",
+      "name": "Mascote do Coritiba",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-da4ea2a5506f2693eae190d9",
+      "number": "63",
+      "name": "Pedro Ken",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-a68b412c4282555f15546cf6",
+      "number": "64",
+      "name": "Marcelinho Paraíba",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-108c995b953c8a35561103e2",
+      "number": "65",
+      "name": "Ariel Nahuelpán",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-3ada92f28b4ceda38562ebf0",
+      "number": "66",
+      "name": "Marcos Aurélio",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-49d180ecf56132819571bf39",
+      "number": "67",
+      "name": "Édson Bastos",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-a21855da08cb102d1d217c53",
+      "number": "68",
+      "name": "Guarú",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-c75cb66ae28d8ebc6eded002",
+      "number": "69",
+      "name": "Renatinho",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-ff5a1ae012afa5d4c889c50a",
+      "number": "70",
+      "name": "Hugo",
+      "sectionId": "SEC005"
+    },
+    {
+      "id": "number-7f2253d7e228b22a08bda1f0",
+      "number": "71",
+      "name": "Escudo do Cruzeiro",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-8722616204217eddb39e7df9",
+      "number": "72",
+      "name": "Fábio",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-96061e92f58e4bdcdee73df3",
+      "number": "73",
+      "name": "Jonathan",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-eb624dbe56eb6620ae62080c",
+      "number": "74",
+      "name": "Leonardo Silva",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-f369cb89fc627e668987007d",
+      "number": "75",
+      "name": "Thiago Heleno",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-f74efabef12ea619e30b79bd",
+      "number": "76",
+      "name": "Gerson Magrão",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-a88a7902cb4ef697ba0b6759",
+      "number": "77",
+      "name": "Fabrício",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-349c41201b62db851192665c",
+      "number": "78",
+      "name": "Henrique",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-98a3ab7c340e8a033e7b37b6",
+      "number": "79",
+      "name": "Marquinhos Paraná",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-48449a14a4ff7d79bb7a1b6f",
+      "number": "80",
+      "name": "Mascote do Cruzeiro",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-5316ca1c5ddca8e6ceccfce5",
+      "number": "81",
+      "name": "Wagner",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-a46e37632fa6ca51a13fe39a",
+      "number": "82",
+      "name": "Kléber",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-bbb965ab0c80d6538cf2184b",
+      "number": "83",
+      "name": "Wellington Paulista",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-44c8031cb036a7350d8b9b86",
+      "number": "84",
+      "name": "Rafael",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-b4944c6ff08dc6f43da2e9c8",
+      "number": "85",
+      "name": "Elicarlos",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-434c9b5ae514646bbd91b500",
+      "number": "86",
+      "name": "Fabinho",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-bdd2d3af3a5a1213497d4f1f",
+      "number": "87",
+      "name": "Bernardo",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-8b940be7fb78aaa6b6567dd7",
+      "number": "88",
+      "name": "Thiago Ribeiro",
+      "sectionId": "SEC006"
+    },
+    {
+      "id": "number-cd70bea023f752a0564abb6e",
+      "number": "89",
+      "name": "Escudo do Flamengo",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-69f59c273b6e669ac32a6dd5",
+      "number": "90",
+      "name": "Bruno",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-1da51b8d8ff98f6a48f80ae7",
+      "number": "91",
+      "name": "Leonardo Moura",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-8241649609f88ccd2a0a5b23",
+      "number": "92",
+      "name": "Toró",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-6e4001871c0cf27c7634ef1d",
+      "number": "93",
+      "name": "Ronaldo Angelim",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-e3d6c4d4599e00882384ca98",
+      "number": "94",
+      "name": "Júan",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-ad48ff99415b2f007dc35b7e",
+      "number": "95",
+      "name": "Airton",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-7b1a278f5abe8e9da907fc9c",
+      "number": "96",
+      "name": "Willians",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-d6d824abba4afde81129c71d",
+      "number": "97",
+      "name": "Ibson",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-29db0c6782dbd5000559ef4d",
+      "number": "98",
+      "name": "Mascote do Flamengo",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-8c1f1046219ddd216a023f79",
+      "number": "99",
+      "name": "Kléberson",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-ad57366865126e55649ecb23",
+      "number": "100",
+      "name": "Emerson",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-16dc368a89b428b248548431",
+      "number": "101",
+      "name": "Zé Roberto",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-37834f2f25762f23e1f74a53",
+      "number": "102",
+      "name": "Diego",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-454f63ac30c8322997ef025e",
+      "number": "103",
+      "name": "Josiel",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-5ef6fdf32513aa7cd11f72be",
+      "number": "104",
+      "name": "Jônatas",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-1253e9373e781b7500266caa",
+      "number": "105",
+      "name": "Erick Flores",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-482d9673cfee5de391f97fde",
+      "number": "106",
+      "name": "Adriano",
+      "sectionId": "SEC007"
+    },
+    {
+      "id": "number-3346f2bbf6c34bd2dbe28bd1",
+      "number": "107",
+      "name": "Escudo do Fluminense",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-9537f32ec7599e1ae953af6c",
+      "number": "108",
+      "name": "Fernando Henrique",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-0fd42b3f73c448b34940b339",
+      "number": "109",
+      "name": "Wellington Monteiro",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-9bdb2af6799204a299c60399",
+      "number": "110",
+      "name": "Edcarlos",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-f6e0a1e2ac41945a9aa7ff8a",
+      "number": "111",
+      "name": "Luiz Alberto",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-b1556dea32e9d0cdbfed038f",
+      "number": "112",
+      "name": "Diguinho",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-6c658ee83fb7e812482494f3",
+      "number": "113",
+      "name": "João Paulo",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-9f1f9dce319c4700ef28ec8c",
+      "number": "114",
+      "name": "Leandro Bonfim",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-28dae7c8bde2f3ca608f86d0",
+      "number": "115",
+      "name": "Darío Conca",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-e5b861a6d8a966dfca7e7341",
+      "number": "116",
+      "name": "Mascote do Fluminense",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-2ac878b0e2180616993b4b6a",
+      "number": "117",
+      "name": "Thiago Neves",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-85daaf6f7055cd5736287fae",
+      "number": "118",
+      "name": "Fred",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-3038bfb575bee6a0e61945ef",
+      "number": "119",
+      "name": "Ricardo Berna",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-2abaca4911e68fa9bfbf3482",
+      "number": "120",
+      "name": "Maicón",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-89aa1e580023722db67646e8",
+      "number": "121",
+      "name": "Cássio",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-1be00341082e25c4e251ca67",
+      "number": "122",
+      "name": "Fabinho",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-a665a45920422f9d417e4867",
+      "number": "123",
+      "name": "Maurício",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-6affdae3b3c1aa6aa7689e9b",
+      "number": "124",
+      "name": "Tartá",
+      "sectionId": "SEC008"
+    },
+    {
+      "id": "number-0f8ef3377b30fc47f96b4824",
+      "number": "125",
+      "name": "Escudo do Goiás",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-65a699905c02619370bcf920",
+      "number": "126",
+      "name": "Harlei",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-922c7954216ccfe7a61def60",
+      "number": "127",
+      "name": "Vítor",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-2747b7c718564ba5f066f052",
+      "number": "128",
+      "name": "Ernando",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-6566230e3a3ce3774c1bbc7c",
+      "number": "129",
+      "name": "Rafael Tolói",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-38d66d9692ac590000a91b03",
+      "number": "130",
+      "name": "Júlio César",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-eeca91fd439b6d5e827e8fda",
+      "number": "131",
+      "name": "Éverton",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-dbb1ded63bc70732626c5dfe",
+      "number": "132",
+      "name": "Ramalho",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-d2f483672c0239f6d7dd3c9e",
+      "number": "133",
+      "name": "Wendell",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-5d389f5e2e34c6b0bad96581",
+      "number": "134",
+      "name": "Mascote do Goiás",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-13671077b66a29874a2578b5",
+      "number": "135",
+      "name": "Iarley",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-36ebe205bcdfc499a25e6923",
+      "number": "136",
+      "name": "Felipe",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-d80eae6e96d148b3b2abbbc6",
+      "number": "137",
+      "name": "Leandro Euzébio",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-d6a4031733610bb080d0bfa7",
+      "number": "138",
+      "name": "Jael",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-8d27ba37c5d810106b55f3fd",
+      "number": "139",
+      "name": "Valmir Lucas",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-dbae772db29058a88f9bd830",
+      "number": "140",
+      "name": "Bruno Meneghel",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-2c7d5490e6050836f8f2f0d4",
+      "number": "141",
+      "name": "Felipe Menezes",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-d4ee9f58e5860574ca98e3b4",
+      "number": "142",
+      "name": "Romerito",
+      "sectionId": "SEC009"
+    },
+    {
+      "id": "number-d6f0c71ef0c88e45e4b3a211",
+      "number": "143",
+      "name": "Escudo do Grêmio",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-5ec1a0c99d428601ce42b407",
+      "number": "144",
+      "name": "Victor",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-be47addbcb8f60566a3d7fd5",
+      "number": "145",
+      "name": "Léo",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-0a5b046d07f6f971b7776de6",
+      "number": "146",
+      "name": "Rafael Marques",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-1d28c120568c10e19b9d8abe",
+      "number": "147",
+      "name": "Réver",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-ec2e990b934dde55cb873006",
+      "number": "148",
+      "name": "Ruy",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-05ada863a4cf9660fd8c68e2",
+      "number": "149",
+      "name": "Adilson",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-9ae2bdd7beedc2e766c6b765",
+      "number": "150",
+      "name": "Tcheco",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-8e612bd1f5d132a339575b8d",
+      "number": "151",
+      "name": "Souza",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-043066daf2109523a7490d4b",
+      "number": "152",
+      "name": "Mascote do Grêmio",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-620c9c332101a5bae955c66a",
+      "number": "153",
+      "name": "Fábio Santos",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-1d0ebea552eb43d0b1e1561f",
+      "number": "154",
+      "name": "Jonas",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-210e3b160c355818509425b9",
+      "number": "155",
+      "name": "Maxi López",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-0fecf9247f3ddc84db8a804f",
+      "number": "156",
+      "name": "Marcelo Grohe",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-c75de23d89df36ba92128761",
+      "number": "157",
+      "name": "Túlio",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-7ed8f0f3b707956d9fb1e889",
+      "number": "158",
+      "name": "Douglas Costa",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-ff2ccb6ba423d356bd549ed4",
+      "number": "159",
+      "name": "Germán Herrera",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-a512db2741cd20693e4b16f1",
+      "number": "160",
+      "name": "Alex Mineiro",
+      "sectionId": "SEC010"
+    },
+    {
+      "id": "number-bb668ca95563216088b98a62",
+      "number": "161",
+      "name": "Escudo do Grêmio Barueri",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-79d6eaa2676189eb927f2e16",
+      "number": "162",
+      "name": "Renê",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-3d3286f7cd19074f04e514b0",
+      "number": "163",
+      "name": "Marcos Pimentel",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-3f9807cb9ae9fb6c30942af6",
+      "number": "164",
+      "name": "Daniel Marques",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-bc52dd634277c4a34a2d6210",
+      "number": "165",
+      "name": "Leandro Castan",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-e0f05da93a0f5a86a3be5fc0",
+      "number": "166",
+      "name": "Márcio Careca",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-73d3f1ba062585bce51f77d7",
+      "number": "167",
+      "name": "Ralf",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-80c3cd40fa35f9088b8741bd",
+      "number": "168",
+      "name": "Leanderson",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-f57e5cb1f4532c008183057e",
+      "number": "169",
+      "name": "Everton",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-734d0759cdb4e0d0a35e4fd7",
+      "number": "170",
+      "name": "Mascote do Grêmio Barueri",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-284de502c9847342318c17d4",
+      "number": "171",
+      "name": "Thiago Humberto",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-68519a9eca55c68c72658a2a",
+      "number": "172",
+      "name": "Fernandinho",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-4a8596a7790b5ca9e067da40",
+      "number": "173",
+      "name": "Pedrão",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-41e521adf8ae7a0f419ee06e",
+      "number": "174",
+      "name": "Márcio",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-dac53c17c250fd4d4d81eaf6",
+      "number": "175",
+      "name": "Éder Sciola",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-cba28b89eb859497f544956d",
+      "number": "176",
+      "name": "André Luis",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-8cd2510271575d8430c05368",
+      "number": "177",
+      "name": "Diego Giaretta",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-01d54579da446ae1e75cda80",
+      "number": "178",
+      "name": "Basílio",
+      "sectionId": "SEC011"
+    },
+    {
+      "id": "number-3068430da9e4b7a674184035",
+      "number": "179",
+      "name": "Escudo do Internacional",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-7b69759630f869f2723875f8",
+      "number": "180",
+      "name": "Lauro",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-580811fa95269f3ecd4f22d1",
+      "number": "181",
+      "name": "Bolívar",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-bfa7634640c53da7cb5e9c39",
+      "number": "182",
+      "name": "Álvaro",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-b8aed072d29403ece56ae964",
+      "number": "183",
+      "name": "Índio",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-52f11620e397f867b7d9f19e",
+      "number": "184",
+      "name": "Kléber",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-61a229bae1e90331edd986b6",
+      "number": "185",
+      "name": "Pablo Guiñazú",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-2811745d7b8d8874f6e653d1",
+      "number": "186",
+      "name": "Magrão",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-38b2d03f3256502b1e9db02b",
+      "number": "187",
+      "name": "Andrés D'Alessandro",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-d6061bbee6cf13bd73765faa",
+      "number": "188",
+      "name": "Mascote do Internacional",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-7045d16ae7f043ec25774a0a",
+      "number": "189",
+      "name": "Taison",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-2397346b45823e070f6fc72a",
+      "number": "190",
+      "name": "Nilmar",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-70260742c2952154c84e2ea9",
+      "number": "191",
+      "name": "Alecsandro",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-eb3be230bbd2844b1f5d8f2e",
+      "number": "192",
+      "name": "Michel Alves",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-684fe39f03758de6a882ae61",
+      "number": "193",
+      "name": "Danny Morais",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-7559ca4a957c8c82ba04781c",
+      "number": "194",
+      "name": "Marcelo Cordeiro",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-1dfacb2ea5a03e0a915999e0",
+      "number": "195",
+      "name": "Sandro",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-b4bbe448fde336bb6a7d7d76",
+      "number": "196",
+      "name": "Andrezinho",
+      "sectionId": "SEC012"
+    },
+    {
+      "id": "number-8bcbb4c131df56f7c7906601",
+      "number": "197",
+      "name": "Escudo do Náutico",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-a4e00d7e6aa82111575438c5",
+      "number": "198",
+      "name": "Eduardo",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-5a39cadd1b007093db507447",
+      "number": "199",
+      "name": "Galiardo",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-27badc983df1780b60c2b3fa",
+      "number": "200",
+      "name": "Vágner",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-43974ed74066b207c30ffd0f",
+      "number": "201",
+      "name": "Gladstone",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-c17edaae86e4016a583e0985",
+      "number": "202",
+      "name": "Negretti",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-4621c1d55fa4e86ce0dae428",
+      "number": "203",
+      "name": "Anderson Lessa",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-fc56dbc6d4652b315b86b71c",
+      "number": "204",
+      "name": "Derley",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-f8809aff4d69bece79dabe35",
+      "number": "205",
+      "name": "Acosta",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-5cf4e26bd3d87da5e03f80a4",
+      "number": "206",
+      "name": "Mascote do Náutico",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-968076be2e38cf897d4d6cea",
+      "number": "207",
+      "name": "Johnny",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-8df66f64b57424391d363fd6",
+      "number": "208",
+      "name": "Carlinhos Bala",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-83f814f7a92e365cbd79f9ad",
+      "number": "209",
+      "name": "Gilmar",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-d29d53701d3c859e29e1b900",
+      "number": "210",
+      "name": "André",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-093434a3ee9e0a010bb2c2aa",
+      "number": "211",
+      "name": "Asprilla",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-fa2b7af0a811b9acde602aac",
+      "number": "212",
+      "name": "Juliano",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-d48ff4b2f68a10fd7c86f185",
+      "number": "213",
+      "name": "Dinda",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-802b906a18591ead8a6dd809",
+      "number": "214",
+      "name": "Kuki",
+      "sectionId": "SEC013"
+    },
+    {
+      "id": "number-d86580a57f7bf542e8520228",
+      "number": "215",
+      "name": "Escudo do Palmeiras",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-0f4121d0ef1df4c86854c7eb",
+      "number": "216",
+      "name": "Bruno",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-16badfc6202cb3f8889e0f27",
+      "number": "217",
+      "name": "Marcos",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-5966abd0cbfc86f98a186531",
+      "number": "218",
+      "name": "Edmílson",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-314f04b30f62e0056bd05935",
+      "number": "219",
+      "name": "Pierre",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-36790ecd55c2030dc553685b",
+      "number": "220",
+      "name": "Pablo Armero",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-67e9c3acebb154a282f326d4",
+      "number": "221",
+      "name": "Diego Souza",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-9b871512327c09ce91dd649b",
+      "number": "222",
+      "name": "Willians",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-56f4da26ed956730309fa148",
+      "number": "223",
+      "name": "Keirrison",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-84a5092e4a5b6fe968fd523f",
+      "number": "224",
+      "name": "Mascote do Palmeiras",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-0e6523810856a138a75dec70",
+      "number": "225",
+      "name": "Cleiton Xavier",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-8f1f64db81c40ea10e1e9080",
+      "number": "226",
+      "name": "Marcão",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-dfe62e836a0a6f2633422230",
+      "number": "227",
+      "name": "Mauricio Ramos",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-9d693eeee1d1899cbc50b6d4",
+      "number": "228",
+      "name": "Wendel",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-08490295488a1189099751eb",
+      "number": "229",
+      "name": "Souza",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-a0eaec5a55dc2f5b2ba52301",
+      "number": "230",
+      "name": "Mozart",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-138d9e809e386a7b800791d1",
+      "number": "231",
+      "name": "Danilo",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-835d5e8314340ab852a2f979",
+      "number": "232",
+      "name": "Obina",
+      "sectionId": "SEC014"
+    },
+    {
+      "id": "number-c0509a487a18b003ba05e505",
+      "number": "233",
+      "name": "Escudo do Santo André",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-114bd151f8fb0c58642d2170",
+      "number": "234",
+      "name": "Neneca",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-0a2d643bfd24a028cd236e76",
+      "number": "235",
+      "name": "Cicinho",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-9a049b03f6fc40bfcf2f1363",
+      "number": "236",
+      "name": "Cesinha",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-f0bc318fb8965cad8d73d578",
+      "number": "237",
+      "name": "Marcel",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-8ae4c23b80d1e7c8ff79e515",
+      "number": "238",
+      "name": "Gustavo Nery",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-79bf08685d3138f9b109c354",
+      "number": "239",
+      "name": "Vinícius Ferreira",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-6af1f692e9496c6d0b668316",
+      "number": "240",
+      "name": "Fernando",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-749fc650cacb0f06547520d5",
+      "number": "241",
+      "name": "Ricardo Conceição",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-14063697603e22d600d336be",
+      "number": "242",
+      "name": "Mascote do Santo André",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-72440a20f54075ac43f51a2c",
+      "number": "243",
+      "name": "Sidney",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-82c01ce15b431d420eb6a1fe",
+      "number": "244",
+      "name": "Pablo Escobar",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-011af72a910ac4acf367eef9",
+      "number": "245",
+      "name": "Antônio Flávio",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-37c20f19f3272b5ccc3a5d80",
+      "number": "246",
+      "name": "Nunes",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-396f804443825586c1283a27",
+      "number": "247",
+      "name": "Diego",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-766cb53c753baedac5dc7825",
+      "number": "248",
+      "name": "Rodrigo Fabri",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-9f484139a27415ae2e8612bf",
+      "number": "249",
+      "name": "Dutra",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-1e472b39b105d349bcd069c4",
+      "number": "250",
+      "name": "Ricardo Goulart",
+      "sectionId": "SEC015"
+    },
+    {
+      "id": "number-c75d3f1f5bcd6914d0331ce5",
+      "number": "251",
+      "name": "Escudo do São Paulo",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-d6e5a20b30f87216b2c758f5",
+      "number": "252",
+      "name": "Rogério Ceni",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-e7866fdc6672f827c76f6124",
+      "number": "253",
+      "name": "André Dias",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-9512d95d00d61bdec03d2b99",
+      "number": "254",
+      "name": "Miranda",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-9556b82499cc0aaf86aee7f0",
+      "number": "255",
+      "name": "Renato Silva",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-51e8ea280b44e16934d4d611",
+      "number": "256",
+      "name": "Jean",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-4c970004b0678d439f177e77",
+      "number": "257",
+      "name": "Eduardo Costa",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-a30f4ef42176d28f0e229353",
+      "number": "258",
+      "name": "Arouca",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-7c252ab334fb8fd88e8242c4",
+      "number": "259",
+      "name": "Hernanes",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-39bb88f40d3aa2b2fe9dea67",
+      "number": "260",
+      "name": "Mascote do São Paulo",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-e888a676e1926d0c08b5f11f",
+      "number": "261",
+      "name": "Jorge Wagner",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-9e6a72557ada15d02001f024",
+      "number": "262",
+      "name": "Washington",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-4be84111a613654b362415e5",
+      "number": "263",
+      "name": "Borges",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-bba58959c32abe688d9cb522",
+      "number": "264",
+      "name": "Dagoberto",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-768b84ef05f655d57fe22d48",
+      "number": "265",
+      "name": "Bosco",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-ea5b27556fbb134def2c2fbf",
+      "number": "266",
+      "name": "Júnior César",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-8acc23987b8960d83c44541f",
+      "number": "267",
+      "name": "Hugo",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-8b496bf96bbcc9e5ac11c068",
+      "number": "268",
+      "name": "Marlos",
+      "sectionId": "SEC016"
+    },
+    {
+      "id": "number-f747870ae666c39b589f5778",
+      "number": "269",
+      "name": "Escudo do Sport",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-d8d1790737d57ac4fe91a2c0",
+      "number": "270",
+      "name": "Magrão",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-3635a91e3da857f7847f6818",
+      "number": "271",
+      "name": "Moacir",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-1c6c0bb2c7ecdc3be8e134f7",
+      "number": "272",
+      "name": "Igor",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-303c8bd55875dda240897db1",
+      "number": "273",
+      "name": "Durval",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-718127812c05853f0bec6158",
+      "number": "274",
+      "name": "Dutra",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-3a1dfb05d7257530e6349233",
+      "number": "275",
+      "name": "Vandinho",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-c76b405781134be1dab7fe45",
+      "number": "276",
+      "name": "Sandro Goiano",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-27d719c754aacd492a6dc8a1",
+      "number": "277",
+      "name": "Hamilton",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-ee62de25ccc2b55d3a049524",
+      "number": "278",
+      "name": "Mascote do Sport",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-efd96aedf377e20afd95285a",
+      "number": "279",
+      "name": "Weldon",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-7f0a22117f8fe0172cf9209f",
+      "number": "280",
+      "name": "Fumagalli",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-71a1c003a2b855d85582c8f6",
+      "number": "281",
+      "name": "Ciro",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-27e1615212f3c6ea846ed6c4",
+      "number": "282",
+      "name": "Cléber",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-e0850a775c17a87060c0cf6e",
+      "number": "283",
+      "name": "César",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-1e68ed4e3d58a51096a7feea",
+      "number": "284",
+      "name": "Andrade",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-a0d177b4967a6d99f4ff117d",
+      "number": "285",
+      "name": "Luciano Henrique",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-00328ce57bbc14b33bd6695b",
+      "number": "286",
+      "name": "Wilson",
+      "sectionId": "SEC017"
+    },
+    {
+      "id": "number-d7cdaa5ca0582076c8e772cc",
+      "number": "287",
+      "name": "Escudo do Vitória",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-23c657f2efda7731a3c1990b",
+      "number": "288",
+      "name": "Julián Viáfara",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-af180e4359fc6179dc953abd",
+      "number": "289",
+      "name": "Apodi",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-09895de0407bcb0386733daa",
+      "number": "290",
+      "name": "Wallace",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-33512007840ced1bb0aab68f",
+      "number": "291",
+      "name": "Anderson Martins",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-6db6eb4af1e18ab81d3878e4",
+      "number": "292",
+      "name": "Robson",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-7cb676d57114874e00c53691",
+      "number": "293",
+      "name": "Vanderson",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-2cfc8ccbd7c0b17615323b41",
+      "number": "294",
+      "name": "Bida",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-9cfd3c755be26b4e1645918e",
+      "number": "295",
+      "name": "Jackson",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-a0f8b2c4cb1ac82abdb37f0f",
+      "number": "296",
+      "name": "Mascote do Vitória",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-4c15f47afe7f817fd559e12d",
+      "number": "297",
+      "name": "Ramon",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-76ebdb6d45c61ca12e622118",
+      "number": "298",
+      "name": "Neto Baiano",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-308831041ea4863c3f87d222",
+      "number": "299",
+      "name": "Leandro Domingues",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-983bd614bb5afece5ab3b602",
+      "number": "300",
+      "name": "Adriano",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-c3ea99f86b2f8a74ef4145bb",
+      "number": "301",
+      "name": "Leandro",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-f32828acecb4282c87eaa554",
+      "number": "302",
+      "name": "Victor Ramos",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-8bd9c0d453533757387ed019",
+      "number": "303",
+      "name": "Marcos Aurélio",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-d874e4e4a5df21173b0f83e3",
+      "number": "304",
+      "name": "Carlos Alberto",
+      "sectionId": "SEC018"
+    },
+    {
+      "id": "number-090d3859ff6840b2280f4708",
+      "number": "305",
+      "name": "Camisa do ABC",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-38b83caefa1ef26940f1d07b",
+      "number": "306",
+      "name": "Camisa do América-RN",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-6d976934be74941fba578b14",
+      "number": "307",
+      "name": "Camisa do Atlético Goianiense",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-48a1706eca5ee6148f748ca9",
+      "number": "308",
+      "name": "Camisa do Bahia",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-43c727ee4fc7250574d2ef90",
+      "number": "309",
+      "name": "Camisa do Bragantino",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-226f76b55acb49701e06ded1",
+      "number": "310",
+      "name": "Camisa do Brasiliense",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-20e9c64c05a54d199610fb7e",
+      "number": "311",
+      "name": "Camisa do Campinense",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-865736a1c30a82dc67aba820",
+      "number": "312",
+      "name": "Camisa do Ceará",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-8efbbe9bc19ad2e043c6cdb1",
+      "number": "313",
+      "name": "Camisa do Duque de Caxias",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-748064be03a08df81e31bd6f",
+      "number": "314",
+      "name": "Camisa do Figueirense",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-377adeb4cd4096adc7ca64b5",
+      "number": "315",
+      "name": "Camisa do Fortaleza",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-7a20311cf7a4b222d4364244",
+      "number": "316",
+      "name": "Camisa do Guarani",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-8d1ede4f889e0ed6f0823d8c",
+      "number": "317",
+      "name": "Camisa do Ipatinga-MG",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-aae02129362d611717b6c00a",
+      "number": "318",
+      "name": "Camisa do Juventude",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-156091ee0884f36de9836d58",
+      "number": "319",
+      "name": "Camisa do Paraná",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-88820462180e5c893eff2ed7",
+      "number": "320",
+      "name": "Camisa do Ponte Preta",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-8d23cf6c86e834a7aa6eded5",
+      "number": "321",
+      "name": "Camisa do Portuguesa",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-f10d91a7596bf5a6773579ff",
+      "number": "322",
+      "name": "Camisa do São Caetano",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-3949ac1596ec77106a709a61",
+      "number": "323",
+      "name": "Camisa do Vasco",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-1038e0b72d98745fac0fb015",
+      "number": "324",
+      "name": "Camisa do Vila Nova",
+      "sectionId": "SEC019"
+    },
+    {
+      "id": "number-9e11c362bc3d3572970b973d",
+      "number": "325",
+      "name": "Escudo do ABC",
+      "sectionId": "SEC020"
+    },
+    {
+      "id": "number-a4e987d17584557e2fbed011",
+      "number": "326",
+      "name": "Mascote do ABC",
+      "sectionId": "SEC020"
+    },
+    {
+      "id": "number-b3fb3cf410b7db8cc47f376a",
+      "number": "327-328",
+      "name": "Tiago Cardoso / Marco Aurélio",
+      "sectionId": "SEC020"
+    },
+    {
+      "id": "number-2341a0fb812e25e8a3710d66",
+      "number": "329-330",
+      "name": "Gaúcho / Ben-Hur",
+      "sectionId": "SEC020"
+    },
+    {
+      "id": "number-d81f94ed098b783f50f086fc",
+      "number": "331-332",
+      "name": "Juninho / Rogerinho",
+      "sectionId": "SEC020"
+    },
+    {
+      "id": "number-39da93e15e464b3bef061b2f",
+      "number": "333-334",
+      "name": "Rogério / Erandir",
+      "sectionId": "SEC020"
+    },
+    {
+      "id": "number-50df0110a5e647926f9ff2d7",
+      "number": "335-336",
+      "name": "Sandro / Fábio Silva",
+      "sectionId": "SEC020"
+    },
+    {
+      "id": "number-7497386519cb78a8f48d5334",
+      "number": "337-338",
+      "name": "Gabriel Silva / Raniere",
+      "sectionId": "SEC020"
+    },
+    {
+      "id": "number-fc95ce176603e9e1d1ffee39",
+      "number": "339",
+      "name": "Escudo do América-RN",
+      "sectionId": "SEC021"
+    },
+    {
+      "id": "number-9644294ac4ffb3091eef0121",
+      "number": "340",
+      "name": "Mascote do América-RN",
+      "sectionId": "SEC021"
+    },
+    {
+      "id": "number-26602dcd019648033f09247a",
+      "number": "341-342",
+      "name": "Rodolpho / Thoni",
+      "sectionId": "SEC021"
+    },
+    {
+      "id": "number-c03f3a451aa85db21a4dc2b9",
+      "number": "343-344",
+      "name": "Marcelo Ramos / Ricardo Oliveira",
+      "sectionId": "SEC021"
+    },
+    {
+      "id": "number-e9a06ccf92a0b3c9464b0c0f",
+      "number": "345-346",
+      "name": "Alexandre / Leto",
+      "sectionId": "SEC021"
+    },
+    {
+      "id": "number-ea87c347ce6772e14190f48f",
+      "number": "347-348",
+      "name": "Souza / Jackson",
+      "sectionId": "SEC021"
+    },
+    {
+      "id": "number-8ee8cde562784deba63fbcb2",
+      "number": "349-350",
+      "name": "Sandro Hiroshi / Guarú",
+      "sectionId": "SEC021"
+    },
+    {
+      "id": "number-81da974434ba60b54072d9cd",
+      "number": "351-352",
+      "name": "Lúcio / Wéverton",
+      "sectionId": "SEC021"
+    },
+    {
+      "id": "number-459535faa370a3b5f8b87203",
+      "number": "353",
+      "name": "Escudo do Atlético Goianiense",
+      "sectionId": "SEC022"
+    },
+    {
+      "id": "number-09a1b036b82baba3177d83c2",
+      "number": "354",
+      "name": "Mascote do Atlético Goianiense",
+      "sectionId": "SEC022"
+    },
+    {
+      "id": "number-285b5122060556698f5a6b86",
+      "number": "355-356",
+      "name": "Márcio / Rafael Cruz",
+      "sectionId": "SEC022"
+    },
+    {
+      "id": "number-6548bcbf996a3f128c34818b",
+      "number": "357-358",
+      "name": "Gil / Jairo",
+      "sectionId": "SEC022"
+    },
+    {
+      "id": "number-d56eb05b19e5595823c3137b",
+      "number": "359-360",
+      "name": "Chiquinho Baiano / Pituca",
+      "sectionId": "SEC022"
+    },
+    {
+      "id": "number-1be147874d28943cf62982e7",
+      "number": "361-362",
+      "name": "Róbston / Weslley",
+      "sectionId": "SEC022"
+    },
+    {
+      "id": "number-8d42f2acf56ff3812149d5dc",
+      "number": "363-364",
+      "name": "Elias / Marcão",
+      "sectionId": "SEC022"
+    },
+    {
+      "id": "number-a49858ae30cc435e6ccd0725",
+      "number": "365-366",
+      "name": "Juninho / Anaílson",
+      "sectionId": "SEC022"
+    },
+    {
+      "id": "number-0788979fc9366e21cd563115",
+      "number": "367",
+      "name": "Escudo do Bahia",
+      "sectionId": "SEC023"
+    },
+    {
+      "id": "number-8e6aee9efac8086ebac545d4",
+      "number": "368",
+      "name": "Mascote do Bahia",
+      "sectionId": "SEC023"
+    },
+    {
+      "id": "number-9d877869278c230dc338f9a4",
+      "number": "369-370",
+      "name": "Marcelo / Dedé",
+      "sectionId": "SEC023"
+    },
+    {
+      "id": "number-1f840dbe4348eb98ba0a41ae",
+      "number": "371-372",
+      "name": "Evaldo / Nen",
+      "sectionId": "SEC023"
+    },
+    {
+      "id": "number-3eeb3c4be2be15d2f9c8b7b9",
+      "number": "373-374",
+      "name": "Rubens Cardoso / Leandro",
+      "sectionId": "SEC023"
+    },
+    {
+      "id": "number-7f81e10718cb6a81a3f7f594",
+      "number": "375-376",
+      "name": "Rogerio / Élton",
+      "sectionId": "SEC023"
+    },
+    {
+      "id": "number-020122692d71d37c90b76ae3",
+      "number": "377-378",
+      "name": "Léo Medeiros / Paulo Roberto",
+      "sectionId": "SEC023"
+    },
+    {
+      "id": "number-a5943b5405152b03e4378c74",
+      "number": "379-380",
+      "name": "Beto / Reinaldo Alagoano",
+      "sectionId": "SEC023"
+    },
+    {
+      "id": "number-392a52e4f77c40bf3321dc2f",
+      "number": "381",
+      "name": "Escudo do Bragantino",
+      "sectionId": "SEC024"
+    },
+    {
+      "id": "number-f65ccfbfec288565c1d41427",
+      "number": "382",
+      "name": "Mascote do Bragantino",
+      "sectionId": "SEC024"
+    },
+    {
+      "id": "number-6617650674f303040c8d6fc4",
+      "number": "383-384",
+      "name": "Gilvan / Marcelo Godri",
+      "sectionId": "SEC024"
+    },
+    {
+      "id": "number-bb61c8d1eaaaa64a2cdefd3c",
+      "number": "385-386",
+      "name": "Carlinhos / Kadu",
+      "sectionId": "SEC024"
+    },
+    {
+      "id": "number-90a1d58674df92bbb90c807a",
+      "number": "387-388",
+      "name": "Thiago Almeida / Diego Macedo",
+      "sectionId": "SEC024"
+    },
+    {
+      "id": "number-4f6e54697f80da6966b076d7",
+      "number": "389-390",
+      "name": "Juninho / Jair",
+      "sectionId": "SEC024"
+    },
+    {
+      "id": "number-8180d080eca87fb12eb1b935",
+      "number": "391-392",
+      "name": "Sérgio Manoel / Danilo Bueno",
+      "sectionId": "SEC024"
+    },
+    {
+      "id": "number-cd89cded76e8800dcd60d6c3",
+      "number": "393-394",
+      "name": "Bill / Fábio Luis",
+      "sectionId": "SEC024"
+    },
+    {
+      "id": "number-a3af7b3808c4cf72478d05c9",
+      "number": "395",
+      "name": "Escudo do Brasiliense",
+      "sectionId": "SEC025"
+    },
+    {
+      "id": "number-3c1b7053f0edd447b778edbc",
+      "number": "396",
+      "name": "Mascote do Brasiliense",
+      "sectionId": "SEC025"
+    },
+    {
+      "id": "number-8f8402cd00dd37ef9e98a835",
+      "number": "397-398",
+      "name": "Guto / Ailson",
+      "sectionId": "SEC025"
+    },
+    {
+      "id": "number-eb4c99281f8554003a7773b3",
+      "number": "399-400",
+      "name": "Edinho / Juninho",
+      "sectionId": "SEC025"
+    },
+    {
+      "id": "number-e3af2a6e3b85292813d59f3a",
+      "number": "401-402",
+      "name": "Júlio César / Adrianinho",
+      "sectionId": "SEC025"
+    },
+    {
+      "id": "number-e275aa3e761206b8e7cee8cb",
+      "number": "403-404",
+      "name": "Iranildo / Osmair",
+      "sectionId": "SEC025"
+    },
+    {
+      "id": "number-2e9e696cf27ac8bf08007537",
+      "number": "405-406",
+      "name": "Moacri / Ricardinho",
+      "sectionId": "SEC025"
+    },
+    {
+      "id": "number-a3ec6deafb2d09b212775808",
+      "number": "407-408",
+      "name": "Fábio Júnior / Gustavo Papa",
+      "sectionId": "SEC025"
+    },
+    {
+      "id": "number-480f5a496560ae4228bb7977",
+      "number": "409",
+      "name": "Escudo do Campinense",
+      "sectionId": "SEC026"
+    },
+    {
+      "id": "number-612111a352a571cbed3927ec",
+      "number": "410",
+      "name": "Mascote do Campinense",
+      "sectionId": "SEC026"
+    },
+    {
+      "id": "number-037096c9608053fa8d5b06ed",
+      "number": "411-412",
+      "name": "Fabiano / Kléber",
+      "sectionId": "SEC026"
+    },
+    {
+      "id": "number-6216a9946d1e5b6a97c29212",
+      "number": "413-414",
+      "name": "Márcio Paraíba / Aderlan",
+      "sectionId": "SEC026"
+    },
+    {
+      "id": "number-e33251159d18fdc04a502b57",
+      "number": "415-416",
+      "name": "Fernandes / Charles Vágner",
+      "sectionId": "SEC026"
+    },
+    {
+      "id": "number-96df56d6a5bb7b049b201a88",
+      "number": "417-418",
+      "name": "Henrique / Giuliano",
+      "sectionId": "SEC026"
+    },
+    {
+      "id": "number-65b27109a7ef7ce010cdb71f",
+      "number": "419-420",
+      "name": "Rodrigo Broa / Jaílton",
+      "sectionId": "SEC026"
+    },
+    {
+      "id": "number-49f5e3ea6d961c87067c64b6",
+      "number": "421-422",
+      "name": "Fábio Júnior / Reiff",
+      "sectionId": "SEC026"
+    },
+    {
+      "id": "number-814bb6b8dc12188a44b71e37",
+      "number": "423",
+      "name": "Escudo do Ceará",
+      "sectionId": "SEC027"
+    },
+    {
+      "id": "number-814fd2e8e45e9a6d3e1f6ff8",
+      "number": "424",
+      "name": "Mascote do Ceará",
+      "sectionId": "SEC027"
+    },
+    {
+      "id": "number-cb416f9d417a8437afc3edcb",
+      "number": "425-426",
+      "name": "Adílson / Arlindo Maracanã",
+      "sectionId": "SEC027"
+    },
+    {
+      "id": "number-47c2d23ae119931d3dedd70c",
+      "number": "427-428",
+      "name": "Erivélton / Fabrício",
+      "sectionId": "SEC027"
+    },
+    {
+      "id": "number-d429a53524f452bd22460a6b",
+      "number": "429-430",
+      "name": "Fábio Vidal / Michel",
+      "sectionId": "SEC027"
+    },
+    {
+      "id": "number-c0b92ca6afa43c8dca26633e",
+      "number": "431-432",
+      "name": "Geraldo / Alex Gaibú",
+      "sectionId": "SEC027"
+    },
+    {
+      "id": "number-50155f18c347c42878db8aeb",
+      "number": "433-434",
+      "name": "Misael / Wellington Amorim",
+      "sectionId": "SEC027"
+    },
+    {
+      "id": "number-5d69bc04d3efe950fa2bca19",
+      "number": "435-436",
+      "name": "Sérgio Alves / Boiadeiro",
+      "sectionId": "SEC027"
+    },
+    {
+      "id": "number-0ef962215cc055786d516355",
+      "number": "437",
+      "name": "Escudo do Duque de Caxias",
+      "sectionId": "SEC028"
+    },
+    {
+      "id": "number-18d37c950a3e810d9b9a84c7",
+      "number": "438",
+      "name": "Mascote do Duque de Caxias",
+      "sectionId": "SEC028"
+    },
+    {
+      "id": "number-7f25788435f7b8728f742448",
+      "number": "439-440",
+      "name": "Vinícius / Oziel",
+      "sectionId": "SEC028"
+    },
+    {
+      "id": "number-3eba2aee2d4b6bbddaaee55d",
+      "number": "441-442",
+      "name": "Eduardo Teles / Santiago",
+      "sectionId": "SEC028"
+    },
+    {
+      "id": "number-f21bbe2e28f7e9a6d9ef4e3c",
+      "number": "443-444",
+      "name": "Silva / Paulo Rodrigues",
+      "sectionId": "SEC028"
+    },
+    {
+      "id": "number-4c0123eae42e814db2c18149",
+      "number": "445-446",
+      "name": "Thiaguinho / Bruno Moreno",
+      "sectionId": "SEC028"
+    },
+    {
+      "id": "number-63ad32f6bdf26ef3784b2e26",
+      "number": "447-448",
+      "name": "Edivaldo / Geovani",
+      "sectionId": "SEC028"
+    },
+    {
+      "id": "number-98115854adc2ba8ef0cf9a4c",
+      "number": "449-450",
+      "name": "Clayton / Zé Carlos",
+      "sectionId": "SEC028"
+    },
+    {
+      "id": "number-caa1aedb2a6ce96b39b9fde1",
+      "number": "451",
+      "name": "Escudo do Figueirense",
+      "sectionId": "SEC029"
+    },
+    {
+      "id": "number-549a2fac47d713cc00f2db49",
+      "number": "452",
+      "name": "Mascote do Figueirense",
+      "sectionId": "SEC029"
+    },
+    {
+      "id": "number-93422a384b38f9a269ff88f8",
+      "number": "453-454",
+      "name": "Wilson / Lucas",
+      "sectionId": "SEC029"
+    },
+    {
+      "id": "number-adb150368a064279a57b98e2",
+      "number": "455-456",
+      "name": "Toninho / Bruno Perone",
+      "sectionId": "SEC029"
+    },
+    {
+      "id": "number-11c6cda9d0b8489cdc8aebe9",
+      "number": "457-458",
+      "name": "Anderson Pico / Roger",
+      "sectionId": "SEC029"
+    },
+    {
+      "id": "number-f4b5ad81c58438a68a9c9da7",
+      "number": "459-460",
+      "name": "Alê / Pedrinho",
+      "sectionId": "SEC029"
+    },
+    {
+      "id": "number-4bb8df72db023a4b1fc984fb",
+      "number": "461-462",
+      "name": "Kássio / Rafael Coelho",
+      "sectionId": "SEC029"
+    },
+    {
+      "id": "number-8f21982e9b0b39618d727b08",
+      "number": "463-464",
+      "name": "Schwenck / Dalton",
+      "sectionId": "SEC029"
+    },
+    {
+      "id": "number-ad3b83575249b68aab9602de",
+      "number": "465",
+      "name": "Escudo do Fortaleza",
+      "sectionId": "SEC030"
+    },
+    {
+      "id": "number-826e27285307a923759de350",
+      "number": "466",
+      "name": "Mascote do Fortaleza",
+      "sectionId": "SEC030"
+    },
+    {
+      "id": "number-bdd678d06234aecd9dcc4f59",
+      "number": "467-468",
+      "name": "Douglas / Gilmak",
+      "sectionId": "SEC030"
+    },
+    {
+      "id": "number-e9239a4de5dd1c2ba44eabca",
+      "number": "469-470",
+      "name": "Silvio / Édson Silva",
+      "sectionId": "SEC030"
+    },
+    {
+      "id": "number-cd84c5ab565afb37c34ecfe7",
+      "number": "471-472",
+      "name": "Eusébio / Coutinho",
+      "sectionId": "SEC030"
+    },
+    {
+      "id": "number-a56540e4b0bffb1c2162df63",
+      "number": "473-474",
+      "name": "Bismarck / Luiz Carlos",
+      "sectionId": "SEC030"
+    },
+    {
+      "id": "number-44bce769fbcf81ac9aa29832",
+      "number": "475-476",
+      "name": "Marcelo Nicácio / Marcos Bambam",
+      "sectionId": "SEC030"
+    },
+    {
+      "id": "number-a12e7c51a292efd5894188ee",
+      "number": "477-478",
+      "name": "Wanderley / Guto",
+      "sectionId": "SEC030"
+    },
+    {
+      "id": "number-9869a8a3a11a33284dc2bcc3",
+      "number": "479",
+      "name": "Escudo do Guarani",
+      "sectionId": "SEC031"
+    },
+    {
+      "id": "number-ddfe0e8d462af661f81db365",
+      "number": "480",
+      "name": "Mascote do Guarani",
+      "sectionId": "SEC031"
+    },
+    {
+      "id": "number-d1b9fa1e53d92efb73667e9a",
+      "number": "481-482",
+      "name": "Douglas / Maranhão",
+      "sectionId": "SEC031"
+    },
+    {
+      "id": "number-a8b04813f612d4964e883581",
+      "number": "483-484",
+      "name": "Bruno Aguiar / Dão",
+      "sectionId": "SEC031"
+    },
+    {
+      "id": "number-11d3bc9848d94b5f6b127bec",
+      "number": "485-486",
+      "name": "Andrezinho / Cléber Goiano",
+      "sectionId": "SEC031"
+    },
+    {
+      "id": "number-5939f38d974c53e14f36dcfe",
+      "number": "487-488",
+      "name": "Luciano Santos / Adriano Gabirú",
+      "sectionId": "SEC031"
+    },
+    {
+      "id": "number-0fc55241ec9f49a1e5087278",
+      "number": "489-490",
+      "name": "Rodriguinho / Walter Minhoca",
+      "sectionId": "SEC031"
+    },
+    {
+      "id": "number-29472814d987391eb288ee1d",
+      "number": "491-492",
+      "name": "Caique / Ricardo Xavier",
+      "sectionId": "SEC031"
+    },
+    {
+      "id": "number-560aa3e6e94314c78236109e",
+      "number": "493",
+      "name": "Escudo do Ipatinga-MG",
+      "sectionId": "SEC032"
+    },
+    {
+      "id": "number-d18b29d80a8bd366b77c952d",
+      "number": "494",
+      "name": "Mascote do Ipatinga-MG",
+      "sectionId": "SEC032"
+    },
+    {
+      "id": "number-1dd7fe25c4374691d57e18e8",
+      "number": "495-496",
+      "name": "Marcelo Cruz / Cláudio Roberto",
+      "sectionId": "SEC032"
+    },
+    {
+      "id": "number-d6ff030140c1720ebb371ef1",
+      "number": "497-498",
+      "name": "Alessandro Lopes / Léo Oliveira",
+      "sectionId": "SEC032"
+    },
+    {
+      "id": "number-d749f9bfd87fcc3a27de0394",
+      "number": "499-500",
+      "name": "Júlio César / Max",
+      "sectionId": "SEC032"
+    },
+    {
+      "id": "number-bc81531d16489e16eacac028",
+      "number": "501-502",
+      "name": "Lucas / Leandro Brasilia",
+      "sectionId": "SEC032"
+    },
+    {
+      "id": "number-678ff264e38779fd76d59a0f",
+      "number": "503-504",
+      "name": "Marcelo Moscatelli / Marcelo Ramos",
+      "sectionId": "SEC032"
+    },
+    {
+      "id": "number-2ec5cb385762d9eec8bb1ab3",
+      "number": "505-506",
+      "name": "Amílton / Luiz Fernando",
+      "sectionId": "SEC032"
+    },
+    {
+      "id": "number-a435270b90e9b7091c77f478",
+      "number": "507",
+      "name": "Escudo do Juventude",
+      "sectionId": "SEC033"
+    },
+    {
+      "id": "number-ecac903ea62dc1d5446a8833",
+      "number": "508",
+      "name": "Mascote do Juventude",
+      "sectionId": "SEC033"
+    },
+    {
+      "id": "number-b9f9ab331f3fa73f7d47df62",
+      "number": "509-510",
+      "name": "Gatti / Cicinho",
+      "sectionId": "SEC033"
+    },
+    {
+      "id": "number-e26c1fc7ad8e9713a4a5197b",
+      "number": "511-512",
+      "name": "Da Silva / Douglas",
+      "sectionId": "SEC033"
+    },
+    {
+      "id": "number-4a9f6d87a21ddf82592d286b",
+      "number": "513-514",
+      "name": "Fábio / Renan",
+      "sectionId": "SEC033"
+    },
+    {
+      "id": "number-8923ccac93f97c335c282ee5",
+      "number": "515-516",
+      "name": "Zezinho / Walker",
+      "sectionId": "SEC033"
+    },
+    {
+      "id": "number-53b200cee3b4e12a871d20d8",
+      "number": "517-518",
+      "name": "Ivo / Mendes",
+      "sectionId": "SEC033"
+    },
+    {
+      "id": "number-33c46977d360718e2bf646f6",
+      "number": "519-520",
+      "name": "Lauro / Tiago Renz",
+      "sectionId": "SEC033"
+    },
+    {
+      "id": "number-72933e3b31f0070af6478edc",
+      "number": "521",
+      "name": "Escudo do Paraná",
+      "sectionId": "SEC034"
+    },
+    {
+      "id": "number-a9346b0068335c634304afa5",
+      "number": "522",
+      "name": "Mascote do Paraná",
+      "sectionId": "SEC034"
+    },
+    {
+      "id": "number-6b745a73034a74927d401171",
+      "number": "523-524",
+      "name": "Rodolfo / Murilo",
+      "sectionId": "SEC034"
+    },
+    {
+      "id": "number-fe49e1542fdac1a8b0f4111f",
+      "number": "525-526",
+      "name": "Gabriel / Aderaldo",
+      "sectionId": "SEC034"
+    },
+    {
+      "id": "number-19222f567cc5dad515113efd",
+      "number": "527-528",
+      "name": "Fabinho / Dinélson",
+      "sectionId": "SEC034"
+    },
+    {
+      "id": "number-e34441d49632aa48a721dd54",
+      "number": "529-530",
+      "name": "Vinicius / Bruninho",
+      "sectionId": "SEC034"
+    },
+    {
+      "id": "number-2d960b6cc4b20dfe6f4854a1",
+      "number": "531-532",
+      "name": "Élvis / Wando",
+      "sectionId": "SEC034"
+    },
+    {
+      "id": "number-94e72fe38fe79336095f55ba",
+      "number": "533-534",
+      "name": "Alex Afonso / Wellington Silva",
+      "sectionId": "SEC034"
+    },
+    {
+      "id": "number-20ca98162ba780883712eb70",
+      "number": "535",
+      "name": "Escudo do Ponte Preta",
+      "sectionId": "SEC035"
+    },
+    {
+      "id": "number-d11501b090fb2749f2c49284",
+      "number": "536",
+      "name": "Mascote do Ponte Preta",
+      "sectionId": "SEC035"
+    },
+    {
+      "id": "number-f1d592d1348bf7d0c2c025fc",
+      "number": "537-538",
+      "name": "Gilson / Edilson",
+      "sectionId": "SEC035"
+    },
+    {
+      "id": "number-ba31975f41a5cb42fc89ab98",
+      "number": "539-540",
+      "name": "Gum / Dezinho",
+      "sectionId": "SEC035"
+    },
+    {
+      "id": "number-016471a90b6b652f638a5faf",
+      "number": "541-542",
+      "name": "Pirão / Deda",
+      "sectionId": "SEC035"
+    },
+    {
+      "id": "number-0bcf0786796d9f54e08c84bc",
+      "number": "543-544",
+      "name": "Wilian Favoni / Tinga",
+      "sectionId": "SEC035"
+    },
+    {
+      "id": "number-03f45178457d2599f191fc64",
+      "number": "545-546",
+      "name": "Fabiano Gadelha / Danilo Neco",
+      "sectionId": "SEC035"
+    },
+    {
+      "id": "number-78cc77449399e218c392f410",
+      "number": "547-548",
+      "name": "Márcio Mexerica / Guilherme",
+      "sectionId": "SEC035"
+    },
+    {
+      "id": "number-068814875fcdfb8faf539ef4",
+      "number": "549",
+      "name": "Escudo do Portuguesa",
+      "sectionId": "SEC036"
+    },
+    {
+      "id": "number-f89f8d0e735a91c5269ab08d",
+      "number": "550",
+      "name": "Mascote do Portuguesa",
+      "sectionId": "SEC036"
+    },
+    {
+      "id": "number-0774156a568b3bd89dc61eac",
+      "number": "551-552",
+      "name": "Fábio / César Prates",
+      "sectionId": "SEC036"
+    },
+    {
+      "id": "number-886ac93912709ad624b31688",
+      "number": "553-554",
+      "name": "Bruno Rodrigo / Ediglê",
+      "sectionId": "SEC036"
+    },
+    {
+      "id": "number-d91a37739db59a354b1c19d1",
+      "number": "555-556",
+      "name": "Anderson Paim / Erick",
+      "sectionId": "SEC036"
+    },
+    {
+      "id": "number-d5ae106ba44f2a01415f2c93",
+      "number": "557-558",
+      "name": "Acleisson / Marco Antônio",
+      "sectionId": "SEC036"
+    },
+    {
+      "id": "number-f2d6bf9c57da0914c6f0fb01",
+      "number": "559-560",
+      "name": "Fellype Gabriel / Edno",
+      "sectionId": "SEC036"
+    },
+    {
+      "id": "number-d00f4afbe08f68570028f4f5",
+      "number": "561-562",
+      "name": "Christian / Vitor",
+      "sectionId": "SEC036"
+    },
+    {
+      "id": "number-fa4ddf29f41b575377ce14a7",
+      "number": "563",
+      "name": "Escudo do São Caetano",
+      "sectionId": "SEC037"
+    },
+    {
+      "id": "number-621cb5d0bdea9584dc9f7ede",
+      "number": "564",
+      "name": "Mascote do São Caetano",
+      "sectionId": "SEC037"
+    },
+    {
+      "id": "number-9ec4613067c7923642594db2",
+      "number": "565-566",
+      "name": "Luiz Silva / Iran",
+      "sectionId": "SEC037"
+    },
+    {
+      "id": "number-cf93e3ec14e454dcce9075cc",
+      "number": "567-568",
+      "name": "Everaldo / Anderson Marques",
+      "sectionId": "SEC037"
+    },
+    {
+      "id": "number-52779c92013146250e2a81eb",
+      "number": "569-570",
+      "name": "Ademir Sopa / Tobi",
+      "sectionId": "SEC037"
+    },
+    {
+      "id": "number-ec936aa8f357194e8bedf022",
+      "number": "571-572",
+      "name": "Perdigão / Marcinho",
+      "sectionId": "SEC037"
+    },
+    {
+      "id": "number-e9354cec247be090ae7132ef",
+      "number": "573-574",
+      "name": "Luan / Vandinho",
+      "sectionId": "SEC037"
+    },
+    {
+      "id": "number-19c7086ad15c1322d92a5437",
+      "number": "575-576",
+      "name": "Betinho / Roger",
+      "sectionId": "SEC037"
+    },
+    {
+      "id": "number-1086d35563c495c1cecbce12",
+      "number": "577",
+      "name": "Escudo do Vasco",
+      "sectionId": "SEC038"
+    },
+    {
+      "id": "number-b2cc86ae48fd3b8775335b58",
+      "number": "578",
+      "name": "Mascote do Vasco",
+      "sectionId": "SEC038"
+    },
+    {
+      "id": "number-e3454616fccf7ec62f3da9f4",
+      "number": "579-580",
+      "name": "Tiago / Paulo Sérgio",
+      "sectionId": "SEC038"
+    },
+    {
+      "id": "number-2f972070d2611ccac4f2a6ad",
+      "number": "581-582",
+      "name": "Fernando / Titi",
+      "sectionId": "SEC038"
+    },
+    {
+      "id": "number-936ac91c5b05bc2d0e68a7f5",
+      "number": "583-584",
+      "name": "Ramon / Nílton",
+      "sectionId": "SEC038"
+    },
+    {
+      "id": "number-2a8ebbe578e462d567841825",
+      "number": "585-586",
+      "name": "Amaral / Carlos Alberto",
+      "sectionId": "SEC038"
+    },
+    {
+      "id": "number-1521648d090195de6a1ae3fb",
+      "number": "587-588",
+      "name": "Jéferson / Élton",
+      "sectionId": "SEC038"
+    },
+    {
+      "id": "number-c30538940f5411f02069734b",
+      "number": "589-590",
+      "name": "Aloísio / Rodrigo Pimpão",
+      "sectionId": "SEC038"
+    },
+    {
+      "id": "number-60f070e3393291d6f836bf0a",
+      "number": "591",
+      "name": "Escudo do Vila Nova",
+      "sectionId": "SEC039"
+    },
+    {
+      "id": "number-793733573a1dfd14a2e889a1",
+      "number": "592",
+      "name": "Mascote do Vila Nova",
+      "sectionId": "SEC039"
+    },
+    {
+      "id": "number-7b483a475a9ec73676d706bb",
+      "number": "593-594",
+      "name": "Juninho / Osmar",
+      "sectionId": "SEC039"
+    },
+    {
+      "id": "number-981b17246e2237dd092ed785",
+      "number": "595-596",
+      "name": "Matheus / Leonardo",
+      "sectionId": "SEC039"
+    },
+    {
+      "id": "number-cce66dafd270a260d45a4799",
+      "number": "597-598",
+      "name": "Edson Borges / Otacílio",
+      "sectionId": "SEC039"
+    },
+    {
+      "id": "number-3730858430831c87d5be1dc9",
+      "number": "599-600",
+      "name": "Marcel / Canindé",
+      "sectionId": "SEC039"
+    },
+    {
+      "id": "number-0176c4ddac88721c79bf9bed",
+      "number": "601-602",
+      "name": "Willian / Vanderlei",
+      "sectionId": "SEC039"
+    },
+    {
+      "id": "number-4736b29c48f850a21ae99d8f",
+      "number": "603-604",
+      "name": "Cocito / Thiago Carvalho",
+      "sectionId": "SEC039"
+    }
+  ]
+}

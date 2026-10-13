@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "approvedByUser": true,
+  "note": "Imagens aprovadas para capas, URLs externas ainda precisam passar por download e verificação técnica; não substituir por outras sem aprovação",
+  "urls": {
+    "1996": "https://down-br.img.susercontent.com/file/br-11134201-23010-85bgkirf6qmv40",
+    "1997": "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_m/24764/16389966.jpg",
+    "1998": "https://http2.mlstatic.com/D_NQ_NP_715808-MLB77329280133_062024-O.webp",
+    "1999": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lno9n0qtr8a177",
+    "2000": "https://http2.mlstatic.com/D_855114-MLB101692420361_122025-C.jpg",
+    "2001": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lvbelo1jq8nlb9",
+    "2002": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m27azwmd71ble8",
+    "2003": "https://trocafigurinhas.com/uploads/albums/81.jpg",
+    "2004": "https://img.olx.com.br/images/29/293514233447438.jpg",
+    "2005": "https://online.anyflip.com/bybf/pxvj/files/mobile/1.webp",
+    "2006": "https://down-br.img.susercontent.com/file/br-11134207-820m2-mond735n670g04",
+    "2007": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m9uvuov1su82f9",
+    "2008": "https://images.tcdn.com.br/img/img_prod/1103549/luva_case_caixa_para_lbum_do_campeonato_brasileiro_1_20260219003512_2a9aca9fee5a.jpg",
+    "2009": "https://images.tcdn.com.br/img/img_prod/1103549/luva_case_caixa_para_lbum_do_campeonato_brasileiro_1_20260219003607_85a2b4799ee2.jpg",
+    "2010": "https://online.anyflip.com/bybf/sbut/files/mobile/1.webp",
+    "2011": "https://down-br.img.susercontent.com/file/br-11134201-23010-7fyensux0wlvb0",
+    "2012": "https://images.tcdn.com.br/img/img_prod/1103549/luva_case_caixa_para_lbum_do_campeonato_brasileiro_1_20260219003748_17f41430b210.jpg",
+    "2013": "https://www.euro-soccer-cards.com/9500-large_default/collection-panini-campeonato-brasileiro-2013.jpg",
+    "2014": "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_m/49929/24604131.jpg",
+    "2015": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lnq7558tpex8cc",
+    "2016": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lnqfqj9qjzc93b",
+    "2017": "https://terceirotempo.uol.com.br/imagens/67/57/arq_216757.jpg?1495047256=1495047256%3F1495047266",
+    "2018": "https://2.bp.blogspot.com/-TuTUC63X9Hs/XIa7evn5koI/AAAAAAAAK4I/39Ne8B8AwmIZ7XiDNIBvag10mHgbkvz3wCLcBGAs/s1600/IMG_2714.JPG",
+    "2019": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lr5wd3ecicjx8a",
+    "2020": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mc5iwbkec8mf1b",
+    "2021": "https://trocafigurinhas.com/uploads/albums/2792.jpg",
+    "2022": "https://a-static.mlcdn.com.br/1500x1500/album-de-figurinhas-brasileirao-2022-oficial-panini/ebancas/0fca6470e80c11ecb6d64201ac185078/e9fca863da6a443961637ccb960e4548.jpeg",
+    "2023": "https://drogal.vtexassets.com/arquivos/ids/203404/80772.jpg?v=638406885599300000",
+    "2024": "https://static.hayapek.com.br/produtos/84429/2000/1.jpg"
+  },
+  "originalApprovedUrls": {
+    "2003": "https://online.anyflip.com/bybf/nzyu/files/mobile/1.jpg",
+    "2021": "https://revistadestac.com.br/wp-content/uploads/2021/08/240f5ab5-5034-4dc4-a600-58a11c70ae22.jpg"
+  },
+  "retrievalNotes": {
+    "2003": "Mesmo design aprovado, capa frontal completa disponível no catálogo TrocaFigurinhas; original AnyFlip retorna 403 no build.",
+    "2021": "Mesmo modelo de capa frontal aprovado; fotografia integral do exemplar real no catálogo TrocaFigurinhas; URL original retorna 403 no build."
+  }
+}
