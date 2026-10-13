@@ -63,6 +63,209 @@
       "file": "albums/panini-2022-extras-v4.zip",
       "bytes": 112409,
       "sha256": "d47d8401c4087d8f1ce39a099cf740eb88236a8581a793ce7e8e405abb808ebe"
+    },
+    {
+      "officialId": "panini.brasileirao1996.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-1996-standard-v1.zip",
+      "bytes": 109224,
+      "sha256": "ff67d1b21a1b6a9a1577435dc8f5d595927e4ec8c0da147a9027b81c7a05fa86"
+    },
+    {
+      "officialId": "panini.brasileirao1997.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-1997-standard-v1.zip",
+      "bytes": 57525,
+      "sha256": "4f02ec3ceaca86c311c096e012773b7e98b22d77e217d6dd236e935d1e0b332e"
+    },
+    {
+      "officialId": "panini.brasileirao1998.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-1998-standard-v1.zip",
+      "bytes": 65260,
+      "sha256": "66feb247c8f46b2c099fc8cd84858ff6062ec789bf55385aaae585ff1ef9c0fe"
+    },
+    {
+      "officialId": "panini.brasileirao1999.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-1999-standard-v1.zip",
+      "bytes": 91685,
+      "sha256": "2518adffd276dd7b0b7a66398f686fc99310f7dde3970eb9cfa82079135c352f"
+    },
+    {
+      "officialId": "panini.brasileirao2000.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2000-standard-v1.zip",
+      "bytes": 53676,
+      "sha256": "c5542594493a35d277ad2881c8b19d9c57e461b54f3e524829f7b81d2ff33103"
+    },
+    {
+      "officialId": "panini.brasileirao2001.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2001-standard-v1.zip",
+      "bytes": 83952,
+      "sha256": "b653964ea06660af9a284294a55a2d63ac89532e10a1b006c73eb75bc6f99c8d"
+    },
+    {
+      "officialId": "panini.brasileirao2002.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2002-standard-v1.zip",
+      "bytes": 118351,
+      "sha256": "a1dd8b942541fdc6fe09af5d9c73cad1c25f361f901ce878711e85a9f02065a1"
+    },
+    {
+      "officialId": "panini.brasileirao2003.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2003-standard-v1.zip",
+      "bytes": 61660,
+      "sha256": "90a7336b00097fedcdea1894c7b5122b2929cda12cda618c5c13c7eaf6215d60"
+    },
+    {
+      "officialId": "panini.brasileirao2004.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2004-standard-v1.zip",
+      "bytes": 135916,
+      "sha256": "2cd7de3cddd8897fe1c860d532474ddff0ce27c58204eb3ea3047e569f2bb402"
+    },
+    {
+      "officialId": "panini.brasileirao2005.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2005-standard-v1.zip",
+      "bytes": 175852,
+      "sha256": "81ac9817c15bd7d35d27c1943b091e8065b242f8781dfcde389e6b0d855e0aa9"
+    },
+    {
+      "officialId": "panini.brasileirao2006.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2006-standard-v1.zip",
+      "bytes": 79649,
+      "sha256": "3359bc124faa7004609f2cc04462285caa4b78152a4b76a1c27f4779a669d81f"
+    },
+    {
+      "officialId": "panini.brasileirao2007.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2007-standard-v1.zip",
+      "bytes": 120358,
+      "sha256": "74acd1fa3dac2371c44e8d3c0012841d50a054e9b6394a3aa1a1d66a366aad9b"
+    },
+    {
+      "officialId": "panini.brasileirao2008.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2008-standard-v1.zip",
+      "bytes": 78211,
+      "sha256": "8e8580594ab16765eb3b42da47394444f92e2572eac3ac668582525b7936e6e5"
+    },
+    {
+      "officialId": "panini.brasileirao2009.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2009-standard-v1.zip",
+      "bytes": 77241,
+      "sha256": "5391631cd5d409aee3894da9f7fc3cac18422614048690efd1351810f2a0a901"
+    },
+    {
+      "officialId": "panini.brasileirao2010.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2010-standard-v1.zip",
+      "bytes": 163085,
+      "sha256": "2aa9990327a4fc2dff6a16e0430d6387f5ab88636723ebe49c8f6a130d51c50d"
+    },
+    {
+      "officialId": "panini.brasileirao2011.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2011-standard-v1.zip",
+      "bytes": 76613,
+      "sha256": "078283471dfe4b600c90491c654f0ce06c3f7c3cfe1d85d88b8db2d5c6eaef43"
+    },
+    {
+      "officialId": "panini.brasileirao2012.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2012-standard-v1.zip",
+      "bytes": 67315,
+      "sha256": "01d048ad641f11e8fd92d4c0cf2ce65bca9c0f021c5704307bdbe196a1c1e306"
+    },
+    {
+      "officialId": "panini.brasileirao2013.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2013-standard-v1.zip",
+      "bytes": 52748,
+      "sha256": "c304890cb3a8966402c5445fb4ec62bc803397aad00450387dcc1d6b229a3074"
+    },
+    {
+      "officialId": "panini.brasileirao2014.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2014-standard-v1.zip",
+      "bytes": 68012,
+      "sha256": "ec855d2499125375f0c2110131df1b9248dbff2870cc5d3625ebaaf173962099"
+    },
+    {
+      "officialId": "panini.brasileirao2015.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2015-standard-v1.zip",
+      "bytes": 85267,
+      "sha256": "48286d946a0eee148e1cf269cff4b371bd5f2f7d44293edc8cfffbbb11ec5aa2"
+    },
+    {
+      "officialId": "panini.brasileirao2016.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2016-standard-v1.zip",
+      "bytes": 104280,
+      "sha256": "63a6c7a8d0e54ab9c601d83bea2c225701e7abbc285f7d1d9d8b2a44a1d92257"
+    },
+    {
+      "officialId": "panini.brasileirao2017.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2017-standard-v1.zip",
+      "bytes": 128986,
+      "sha256": "70f3b36bdceb57ea65df196e9d23296e08c069040dfd414c7a0e8f0fb5236d0c"
+    },
+    {
+      "officialId": "panini.brasileirao2018.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2018-standard-v1.zip",
+      "bytes": 136655,
+      "sha256": "9d4a2026cface25cd52b15cf1e5de09c3dc034a6df8767ce4db6007ff8e62c5c"
+    },
+    {
+      "officialId": "panini.brasileirao2019.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2019-standard-v1.zip",
+      "bytes": 97346,
+      "sha256": "c4ecbf8a429f55b20e456121c84bc6da851e5a91d2773e6846aa48e2992077d1"
+    },
+    {
+      "officialId": "panini.brasileirao2020.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2020-standard-v1.zip",
+      "bytes": 117342,
+      "sha256": "e60f3e111a5695f1edfce32606881c1d5f01cf0dbfb351a2088b9e1966390dad"
+    },
+    {
+      "officialId": "panini.brasileirao2021.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2021-standard-v1.zip",
+      "bytes": 145668,
+      "sha256": "899a49485be3b626ac2a1c15a6fc29e5f9113b4bdcbe4915cf1851592e3c0a03"
+    },
+    {
+      "officialId": "panini.brasileirao2022.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2022-standard-v1.zip",
+      "bytes": 104456,
+      "sha256": "54b1e4fb2accb72d50b75ebb858e08612ccde220c349a796724383608d97e73c"
+    },
+    {
+      "officialId": "panini.brasileirao2023.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2023-standard-v1.zip",
+      "bytes": 90415,
+      "sha256": "9d58412412fdd9a3ba15da5966a9eb5632372440ced366e260c5582365662e94"
+    },
+    {
+      "officialId": "panini.brasileirao2024.standard",
+      "version": 1,
+      "file": "albums/panini-brasileirao-2024-standard-v1.zip",
+      "bytes": 135234,
+      "sha256": "b9abe74e0e445b71ff296eb75426381bb8a32f741427b74a432386b63d9f05e0"
     }
   ]
 }
