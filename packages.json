@@ -266,6 +266,20 @@
       "file": "albums/panini-brasileirao-2024-standard-v1.zip",
       "bytes": 135234,
       "sha256": "b9abe74e0e445b71ff296eb75426381bb8a32f741427b74a432386b63d9f05e0"
+    },
+    {
+      "officialId": "panini.libertadores2023.standard",
+      "version": 1,
+      "file": "albums/panini-libertadores-2023-standard-v1.zip",
+      "bytes": 1030515,
+      "sha256": "a3677b3ba226f55e89652ac23be590d5f6e896096ba0c90fac75bab34f79dfd1"
+    },
+    {
+      "officialId": "panini.libertadores2024.standard",
+      "version": 1,
+      "file": "albums/panini-libertadores-2024-standard-v1.zip",
+      "bytes": 986098,
+      "sha256": "577e87d67904c2ab25f27f6addcd82218b9edeceb755286f5df833774a0f3851"
     }
   ]
 }
