@@ -1,0 +1,327 @@
+{
+  "officialId": "topps.ucl2025-26.standard",
+  "policy": "Current club crests; eight labeled project-created thematic illustrations; official Topps Brazil cover",
+  "images": [
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_afc_ajax.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/netherlands/Ajax.svg",
+      "kind": "current_club_crest",
+      "sha256": "782b9a6d0da5d7f6b0fc418c84771150cb6615a3a926a6b19d364f43b5a7e734",
+      "sourceSha256": "e0b5a383b97862f7bae27c3d5f37f81e24b68f16b1f717a03ef6ac716a548442"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_arsenal.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/england/Arsenal.svg",
+      "kind": "current_club_crest",
+      "sha256": "e5f1cfdef75c5a6bc698149a5a473498be0a1adf26250a8a6b7e7af326da1154",
+      "sourceSha256": "8d036c0f4bb97e4fc955fb935637ccf6c4dd08bf48394c35df04ddce20673980"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_as_monaco.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/france/AS_Monaco.svg",
+      "kind": "current_club_crest",
+      "sha256": "3274526e45887219dda17597084d0af6fe4b8c686ccb079ecf26f85f165fd83d",
+      "sourceSha256": "1577e7148e52821cd50e0d1c11bf032ded0431d491d2a001a519ef507c14c2b6"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_atalanta_bc.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/italy/Atalanta.svg",
+      "kind": "current_club_crest",
+      "sha256": "1cade010b19e05754162939328a764e1a184b1ad4de4157424bc35ccc70a5382",
+      "sourceSha256": "d8ac29d3fcb6d80b64c150d31a54c656460082fe9c08d693349beab56e89f8f4"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_athletic_club.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/spain/Athletic_Club_Bilbao.svg",
+      "kind": "current_club_crest",
+      "sha256": "5e203a5ef01d6e62e936b072389779489a7188812f9076d3c46153f64b130c51",
+      "sourceSha256": "251e668c87ae454affdf80cdba8b96060c7d4d585e170ee9983d102fc29b1e94"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_atletico_de_madrid.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/spain/Atletico_Madrid.svg",
+      "kind": "current_club_crest",
+      "sha256": "3517b8438a50c898e3d7518aca07010d35e3725a36137cfa4810e11c1263b5eb",
+      "sourceSha256": "9c8c77476ac539d8a627026f71739fa9551ddc962b8d763bff4e35c113670c48"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_bayer_04_leverkusen.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/germany/Bayer_Leverkusen.svg",
+      "kind": "current_club_crest",
+      "sha256": "2ae49c5e0acc4b7783c38afbf38c9ecb85b05cafe4f20f5574ac442c2cca00d2",
+      "sourceSha256": "4bcf00f02358ed65e1474e3d08013a643a5bb927c90a29511968a557fd03ff0d"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_borussia_dortmund.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/germany/Borussia_Dortmund.svg",
+      "kind": "current_club_crest",
+      "sha256": "bf8f4fd5344fac31095a0cd371059e73c51eadd4ca89886164fcea613f546ac2",
+      "sourceSha256": "87fe54bb53dc407c51d60eb715d4e9c32e90c2e96f4c888edaab239ddb4447dc"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_chelsea_fc.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/england/Chelsea.svg",
+      "kind": "current_club_crest",
+      "sha256": "b03d72d471107126cf4a7e88b4c12a15f7cec3d8760a463ab91634ffb6b65cf0",
+      "sourceSha256": "49985614fc7fc14f3d6ca0c79d8e95a38adaadfcd98c7018a8502baf674490c5"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_eintracht_frankfurt.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/germany/Eintracht_Frankfurt.svg",
+      "kind": "current_club_crest",
+      "sha256": "522eedc51f50de2a76c689b15b5e9204668feaa638c34560b3023a22e98e8204",
+      "sourceSha256": "2aee749a31fe1e1398560d02383645a2aca411ee9f11f468c1be476fbfe38288"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_fc_barcelona.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/spain/Barcelona.svg",
+      "kind": "current_club_crest",
+      "sha256": "4a6cfa906340698eb3aa8545c1d5ad783550d70c078f36a83657db6d91e107ee",
+      "sourceSha256": "af65ab7d0636939f1574980e047e497a28d2140d7d02ef2e8ea989b8450376ca"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_fc_bayern_munchen.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/germany/Bayern_M%C3%BCnchen.svg",
+      "kind": "current_club_crest",
+      "sha256": "95659e51f403995da2061f66c736ab3f0ebd034b1d49cd1027b7a7a9bdb8f15f",
+      "sourceSha256": "131033ddb169ec1363c5b7174f39bf883255afa308f8cdf6a604d68e920b6f0f"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_fc_internazionale_milano.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/italy/Inter.svg",
+      "kind": "current_club_crest",
+      "sha256": "8d75377637fe34536c1fe299242c6793b3bca1fe7b16b3c40f38b70c4e2c0fbf",
+      "sourceSha256": "5e51212e97a473905fc7f9e46626628b766c18145c3b2474a7b2c84ad2a70c4d"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_galatasaray_sk.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/turkey/Galatasaray.svg",
+      "kind": "current_club_crest",
+      "sha256": "9aa3a7a1272df2069b9945c256ffcbb7000948b24ca3c1dceb6f35e7767b9475",
+      "sourceSha256": "8bf3294a26d100264fee0d2b75a481cf34705527a29eadd46ade0b52d8743d91"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_juventus.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/italy/Juventus.svg",
+      "kind": "current_club_crest",
+      "sha256": "37e69cf97a8c6390aa9ace1624a7335e75f1bd228e30abcd4fa521149fe198b2",
+      "sourceSha256": "708f5c3094068531b0b41595a9425ca67be5d60058a1d375b88062e255e6481d"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_liverpool_fc.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/england/Liverpool_FC.svg",
+      "kind": "current_club_crest",
+      "sha256": "06805c2a6312c83c8c9a5b875877ea80bb3780d2251dff9ed8173304987b1e50",
+      "sourceSha256": "452567ade6b4ecc5dc7c9242f1fa1fbb69ff3304bbf661bd08eceeb3cbc4de83"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_manchester_city.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/england/Manchester_City.svg",
+      "kind": "current_club_crest",
+      "sha256": "deb6cdbe89a10b7ace41b6668dfe618b6147df9abaede5d8bb7a342c8c778916",
+      "sourceSha256": "82041e5d7cd12f2ca65346f8087fd2bc29bdfbaca99185a031aa71f585a535e9"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_newcastle_united.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/england/Newcastle_United.svg",
+      "kind": "current_club_crest",
+      "sha256": "857a0ae189da4102493369eeaaed4a63be46b5c64795f53881dfdc296112cc9f",
+      "sourceSha256": "87ae9ae04777e4015f7ec9edda243658fd5e5721d41dedd2c8ed07bec4f9c67e"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_olympiacos_fc.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/greece/Olympiacos.svg",
+      "kind": "current_club_crest",
+      "sha256": "1ebd7dbafb65a1000d2a4f70a00eff2fb19ebcf4fd107633b6534125ac63314f",
+      "sourceSha256": "83ce165aa847c188b777bb350b54ab6725efc0d03a24cde0ce182389a6c9f804"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_olympique_de_marseille.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/france/Marseille.svg",
+      "kind": "current_club_crest",
+      "sha256": "adbeb05b8f5b9137249f8408325bc7d1d36dfc2abaf6531c27a35b65cbc8a6b3",
+      "sourceSha256": "402687a66f3a885e3d7728fef946d1851e9fc11a12244422fa9dcb4aa7fc9507"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_paris_saint_germain.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/france/Paris_Saint-Germain_%28PSG%29.svg",
+      "kind": "current_club_crest",
+      "sha256": "88004a1b018b86d855f076f5c01c717598902ffb4529798c49da9ce8ff4b8365",
+      "sourceSha256": "e84ea40d76120257439495e18ae747aef60d179bd5d351dfc2c7e9a02e93a1ea"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_psv_eindhoven.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/netherlands/PSV_Eindhoven.svg",
+      "kind": "current_club_crest",
+      "sha256": "3050d28dc78100305a2e5b7308e6635340615c377e9f869982a0b72a980a4a22",
+      "sourceSha256": "4c41d54bb12cb38cb93f2d0e853931e7a6eb699ecae5423023a65095a46be67d"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_real_madrid_c_f.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/spain/Real_Madrid.svg",
+      "kind": "current_club_crest",
+      "sha256": "a4e8fc2733ad7c5525fcd8daf32504e6491050d13f8dad03462f668c48b68749",
+      "sourceSha256": "6e2f0c526a731e44a1d29c342006590c0baf5ae28a457f50ef3733dda5cc96c9"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_sk_slavia_praha.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/czech-republic/SK_Slavia_Praha.svg",
+      "kind": "current_club_crest",
+      "sha256": "ac95e36872d70b4cae61579d55a5b181daeccdaedc371b57a0212760953f0350",
+      "sourceSha256": "2c59f46f9f54adf17700c014050531baa1999759ce7116dc679bd236a4dee44e"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_sporting_cp.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/portugal/Sporting_CP.svg",
+      "kind": "current_club_crest",
+      "sha256": "bc3fb78d65cfd5db01cdd3509441f44f84b09bb46025fd12f79beca0cb62358d",
+      "sourceSha256": "02292ece31ac352f9aa9f47164bee4d9311ffe07cc547038dde9c39e6f8dc295"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_ssc_napoli.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/italy/Napoli.svg",
+      "kind": "current_club_crest",
+      "sha256": "bb76d610cd1ce95bbac9db8d3d8def9525e8a52030a6980bb500a9b13ca93e6e",
+      "sourceSha256": "caf81c4e11a22a8751b915e31f9da89595f74b1e520587e439ab013938d3b0b6"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_tottenham_hotspur.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/england/Tottenham.svg",
+      "kind": "current_club_crest",
+      "sha256": "4d0096bdb6d0c978cc36f15131b49cce60b237263bb1894f5560f3d107e25a12",
+      "sourceSha256": "beaf068bc0f7c582f70a458599145fd2397d659d2acc24a9b0d4eaf23ef861e1"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_union_sg.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/belgium/Union_Saint-Gilloise.svg",
+      "kind": "current_club_crest",
+      "sha256": "3ae488c4183930d5aa275189083e12dc5a3e27c6bba2fe0d8ca4caa5b2fd6e5b",
+      "sourceSha256": "f4b2df955547898a6b1ed955246b40f6599ab437510eccff7f87cd9213473e1f"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_villarreal_cf.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/spain/Villarreal.svg",
+      "kind": "current_club_crest",
+      "sha256": "f20c6f9c0b92730e69267566624394ea03a10bca0f816fa77710226b5b43d496",
+      "sourceSha256": "9782a7e1e529d2dd8bd62e61ff34c26d4b7edb0f9e7b1643f352c33bc53da46f"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_club_brugge.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/belgium/Club_Brugge.svg",
+      "kind": "current_club_crest",
+      "sha256": "ea1d1109e47d3436ab653c616dd919294377e5a0e784c6a9e040cef2ee91a639",
+      "sourceSha256": "ba9154c9334d58305ca15a071c8daafb2fe8f121932a843d9104630b004d24e6"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_f_c_copenhagen.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/denmark/F.C._Copenhagen.svg",
+      "kind": "current_club_crest",
+      "sha256": "b40198b226cf084d8e0235e34bd17c0b891b7c1d1e8c7a3c66648f70b5b976ba",
+      "sourceSha256": "ff21dc98e706e511b7ec9b8a90a0dc40542143ebad921d5c4abfa6527b71ee03"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_fk_kairat_almaty.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/kazakhstan/Kairat.svg",
+      "kind": "current_club_crest",
+      "sha256": "8c8b163f65b329724d172f9a925ff952822f7aa7ffe1414d0b02422f4914af31",
+      "sourceSha256": "259914c7530bf775da4e36d8a0b904d4bb16d32977a2dfb521fcb8158e959533"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_fk_bod_glimt.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/norway/Bod%C3%B8Glimt.svg",
+      "kind": "current_club_crest",
+      "sha256": "abe9d2bf51f3ce677e65b6e7df268edde8d01f51917d335f7faffe972360068b",
+      "sourceSha256": "0a8cdaba6e316022dc54914d27d355517c6fafc50fecd5417a0aa3b9437ebd5d"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_pafos_fc.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/cyprus/Pafos.svg",
+      "kind": "current_club_crest",
+      "sha256": "1da8401e97cb7f2b951210c302ff6603a6a38dce7d2e4114a195c3098c5daf58",
+      "sourceSha256": "aec038c1abc919f7b873aa4e9d367081b5b2efe167fdf86878f63eac94517d36"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_qarabag_fk.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/azerbaijan/Qaraba%C4%9F.svg",
+      "kind": "current_club_crest",
+      "sha256": "15a80cf105e2a504f3039c6e06602b768be8bcd7a839ddbe6e3f320f5e266525",
+      "sourceSha256": "73145bdaea7f1dfd62c275b216deaef31a3af21f1f8b7de938d9f34a18d915b7"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/club_sl_benfica.png",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/1b0a81b0a5538131a2867b3c28a19a459a51d987/logos/portugal/Benfica.svg",
+      "kind": "current_club_crest",
+      "sha256": "66ae98c9e5b4deb2f3f6b8852150b05e90a15de3509d6b62967a3dfe29a1048f",
+      "sourceSha256": "59b0c8b016e2f6eb332e861eed68216caec562fa7e86488964b88c94b7f26e66"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/section_intro.png",
+      "source": "tools/stage_topps_ucl_images.py",
+      "kind": "project_created_illustration",
+      "sha256": "5d84cc8dbfd4d985b97d41e0fdf09aff1015ffaf5efea67d9f2501ce5918e3eb",
+      "sourceSha256": "5d84cc8dbfd4d985b97d41e0fdf09aff1015ffaf5efea67d9f2501ce5918e3eb"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/section_ucl_team_of_the_season_2024_25.png",
+      "source": "tools/stage_topps_ucl_images.py",
+      "kind": "project_created_illustration",
+      "sha256": "675af07efc4c92821832aa7894eef981ec78edbc0abb95139603ce6255266ae1",
+      "sourceSha256": "675af07efc4c92821832aa7894eef981ec78edbc0abb95139603ce6255266ae1"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/section_uwcl_team_of_the_season_2024_25.png",
+      "source": "tools/stage_topps_ucl_images.py",
+      "kind": "project_created_illustration",
+      "sha256": "67529ce379629deea8ea4cffb93612dfb2cb81c032b7bcf243883f2d1d36c154",
+      "sourceSha256": "67529ce379629deea8ea4cffb93612dfb2cb81c032b7bcf243883f2d1d36c154"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/section_historic_hat_trick_heroes.png",
+      "source": "tools/stage_topps_ucl_images.py",
+      "kind": "project_created_illustration",
+      "sha256": "796a0f68df0c7a8e51a414f4aa733f9340deb3b856f394db312eb0daf2fda8b2",
+      "sourceSha256": "796a0f68df0c7a8e51a414f4aa733f9340deb3b856f394db312eb0daf2fda8b2"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/section_leading_legacies.png",
+      "source": "tools/stage_topps_ucl_images.py",
+      "kind": "project_created_illustration",
+      "sha256": "8fcf7aa3e993407d36f21ec044add1dee738bf14350d84f6af9f1978e92ba2d2",
+      "sourceSha256": "8fcf7aa3e993407d36f21ec044add1dee738bf14350d84f6af9f1978e92ba2d2"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/section_1st_stickers.png",
+      "source": "tools/stage_topps_ucl_images.py",
+      "kind": "project_created_illustration",
+      "sha256": "7f8f40d03ea2c564dd41d2c4fe52891e4c25d2f7429cd6a9751681e3cfc79f21",
+      "sourceSha256": "7f8f40d03ea2c564dd41d2c4fe52891e4c25d2f7429cd6a9751681e3cfc79f21"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/section_uefa_youth_league.png",
+      "source": "tools/stage_topps_ucl_images.py",
+      "kind": "project_created_illustration",
+      "sha256": "5ec7e2fb9a49294b6ad2a7fd89e89e33d33faef0214745a4a2c46c49270f799e",
+      "sourceSha256": "5ec7e2fb9a49294b6ad2a7fd89e89e33d33faef0214745a4a2c46c49270f799e"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/section_energy_legends.png",
+      "source": "tools/stage_topps_ucl_images.py",
+      "kind": "project_created_illustration",
+      "sha256": "f404512a5c6214f89a29bd701108653a5d08f017bda5dbb52326e73bb89fced7",
+      "sourceSha256": "f404512a5c6214f89a29bd701108653a5d08f017bda5dbb52326e73bb89fced7"
+    },
+    {
+      "asset": "imagens/topps_ucl_2025_26/capa.jpg",
+      "source": "https://cdn.shopify.com/s/files/1/0568/5326/6517/files/402fc0c74c3f9a7aff81ccc37f17f1f5c8390787_CAPADURA_BLUE_UCL2526_16.png?v=1762367234",
+      "kind": "official_topps_brazil_cover",
+      "sha256": "cae8ff1c560fbfb5c2c3e0cea6dfecb2a6fd30f375d75d0bb70afbeb5ecb8d92",
+      "sourceSha256": "35602e22ae0f56a975809369350bf65c668b546c9fc88605ad76c5466604758b"
+    }
+  ],
+  "checklistSources": [
+    "https://www.collectosk.com/topps-uefa-champions-league-2025-26-sticker/",
+    "https://www.laststicker.com/br/cards/topps_uefa_champions_league_2025-2026/"
+  ],
+  "primaryProduct": "https://uk.topps.com/products/champions-league-stickers-25-26-hardcover-album",
+  "validationScope": "Documentary main-album checklist; not all 574 stickers visually inspected; no claim of verified Brazilian print-by-print equivalence"
+}

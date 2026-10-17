@@ -280,6 +280,13 @@
       "file": "albums/panini-libertadores-2024-standard-v1.zip",
       "bytes": 986098,
       "sha256": "577e87d67904c2ab25f27f6addcd82218b9edeceb755286f5df833774a0f3851"
+    },
+    {
+      "officialId": "topps.ucl2025-26.standard",
+      "version": 1,
+      "file": "albums/topps-ucl-2025-26-standard-v1.zip",
+      "bytes": 1141805,
+      "sha256": "9cad125f657d0cc20dddbbb28e87ecde9986416d1bd88355ee299b17354c062f"
     }
   ]
 }
