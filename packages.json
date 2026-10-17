@@ -287,6 +287,13 @@
       "file": "albums/topps-ucl-2025-26-standard-v1.zip",
       "bytes": 1141805,
       "sha256": "9cad125f657d0cc20dddbbb28e87ecde9986416d1bd88355ee299b17354c062f"
+    },
+    {
+      "officialId": "panini.fwwc2023.standard",
+      "version": 1,
+      "file": "albums/panini-fwwc-2023-standard-v1.zip",
+      "bytes": 258584,
+      "sha256": "1e4ead0bef456ad6aebbbb5880964b91802b5d60a6592440f27be6b400e45a34"
     }
   ]
 }
