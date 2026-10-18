@@ -1,0 +1,2745 @@
+{
+  "officialId": "panini.copaamerica2024.standard",
+  "version": 1,
+  "name": "Copa América 2024 — Seleções",
+  "collection": "Copa América",
+  "year": "2024",
+  "publisher": "Panini",
+  "availability": "online",
+  "description": "Coleção principal latino-americana com 430 figurinhas, incluindo 18 seleções, cidades-sede, lendas e galeria de campeões. Preserva os quatro países da repescagem. Extra Stickers, Upgrade Set e paralelas americanas são coleções complementares e não integram este catálogo.",
+  "plannedTotal": 430,
+  "coverAsset": "assets/album_library/imagens/copa_america_2024/capa.webp",
+  "libraryCategory": {
+    "id": "copa-america",
+    "name": "Copa América",
+    "order": 20
+  },
+  "imageAttributions": {
+    "flags": {
+      "project": "lipis/flag-icons",
+      "license": "MIT",
+      "notice": "The MIT License (MIT)\n\nCopyright (c) 2013 Panayiotis Lipiridis\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies\nof the Software, and to permit persons to whom the Software is furnished to do\nso, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+    },
+    "cover": {
+      "source": "https://paninitienda.com/products/completacion-copa-america-2024",
+      "processing": "Remoção de fundo aprovada pelo usuário em 18/10/2026; WebP transparente"
+    },
+    "sectionArt": "Ícones vetoriais ilustrativos criados para o aplicativo; não oficiais"
+  },
+  "sections": [
+    {
+      "id": "INTR",
+      "name": "Introdução",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/INTR.png",
+      "description": "Imagem temática ilustrativa, não oficial"
+    },
+    {
+      "id": "HCI",
+      "name": "Cidades-sede",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/HCI.png",
+      "description": "Imagem temática ilustrativa, não oficial"
+    },
+    {
+      "id": "ARG",
+      "name": "Argentina",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/ARG.png",
+      "description": "Grupo A"
+    },
+    {
+      "id": "PER",
+      "name": "Peru",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/PER.png",
+      "description": "Grupo A"
+    },
+    {
+      "id": "CHI",
+      "name": "Chile",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/CHI.png",
+      "description": "Grupo A"
+    },
+    {
+      "id": "MEX",
+      "name": "México",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/MEX.png",
+      "description": "Grupo B"
+    },
+    {
+      "id": "ECU",
+      "name": "Equador",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/ECU.png",
+      "description": "Grupo B"
+    },
+    {
+      "id": "VEN",
+      "name": "Venezuela",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/VEN.png",
+      "description": "Grupo B"
+    },
+    {
+      "id": "JAM",
+      "name": "Jamaica",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/JAM.png",
+      "description": "Grupo B"
+    },
+    {
+      "id": "USA",
+      "name": "Estados Unidos",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/USA.png",
+      "description": "Grupo C"
+    },
+    {
+      "id": "URU",
+      "name": "Uruguai",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/URU.png",
+      "description": "Grupo C"
+    },
+    {
+      "id": "PAN",
+      "name": "Panamá",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/PAN.png",
+      "description": "Grupo C"
+    },
+    {
+      "id": "BOL",
+      "name": "Bolívia",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/BOL.png",
+      "description": "Grupo C"
+    },
+    {
+      "id": "BRA",
+      "name": "Brasil",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/BRA.png",
+      "description": "Grupo D"
+    },
+    {
+      "id": "COL",
+      "name": "Colômbia",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/COL.png",
+      "description": "Grupo D"
+    },
+    {
+      "id": "PAR",
+      "name": "Paraguai",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/PAR.png",
+      "description": "Grupo D"
+    },
+    {
+      "id": "CAN",
+      "name": "Canadá",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/CAN.png",
+      "description": "Repescagem da Concacaf — composição original do álbum"
+    },
+    {
+      "id": "CRC",
+      "name": "Costa Rica",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/CRC.png",
+      "description": "Repescagem da Concacaf — composição original do álbum"
+    },
+    {
+      "id": "HON",
+      "name": "Honduras",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/HON.png",
+      "description": "Repescagem da Concacaf — composição original do álbum"
+    },
+    {
+      "id": "TRI",
+      "name": "Trinidad e Tobago",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/TRI.png",
+      "description": "Repescagem da Concacaf — composição original do álbum"
+    },
+    {
+      "id": "LEG",
+      "name": "Lendas",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/LEG.png",
+      "description": "Imagem temática ilustrativa, não oficial"
+    },
+    {
+      "id": "ROH",
+      "name": "Galeria de campeões",
+      "imageAsset": "assets/album_library/imagens/copa_america_2024/ROH.png",
+      "description": "Imagem temática ilustrativa, não oficial"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "ca2024_INTR1",
+      "number": "INTR1",
+      "name": "Símbolo da Copa América",
+      "sectionId": "INTR"
+    },
+    {
+      "id": "ca2024_INTR2",
+      "number": "INTR2",
+      "name": "Mascote — Capitán",
+      "sectionId": "INTR"
+    },
+    {
+      "id": "ca2024_INTR3",
+      "number": "INTR3",
+      "name": "Troféu da Copa América",
+      "sectionId": "INTR"
+    },
+    {
+      "id": "ca2024_INTR4",
+      "number": "INTR4",
+      "name": "Bola oficial",
+      "sectionId": "INTR"
+    },
+    {
+      "id": "ca2024_HCI1",
+      "number": "HCI1",
+      "name": "Kansas City",
+      "sectionId": "HCI"
+    },
+    {
+      "id": "ca2024_HCI2",
+      "number": "HCI2",
+      "name": "Las Vegas",
+      "sectionId": "HCI"
+    },
+    {
+      "id": "ca2024_HCI3",
+      "number": "HCI3",
+      "name": "Glendale",
+      "sectionId": "HCI"
+    },
+    {
+      "id": "ca2024_HCI4",
+      "number": "HCI4",
+      "name": "Austin",
+      "sectionId": "HCI"
+    },
+    {
+      "id": "ca2024_HCI5",
+      "number": "HCI5",
+      "name": "Houston",
+      "sectionId": "HCI"
+    },
+    {
+      "id": "ca2024_HCI6",
+      "number": "HCI6",
+      "name": "East Rutherford",
+      "sectionId": "HCI"
+    },
+    {
+      "id": "ca2024_HCI7",
+      "number": "HCI7",
+      "name": "Charlotte",
+      "sectionId": "HCI"
+    },
+    {
+      "id": "ca2024_HCI8",
+      "number": "HCI8",
+      "name": "Atlanta",
+      "sectionId": "HCI"
+    },
+    {
+      "id": "ca2024_HCI9",
+      "number": "HCI9",
+      "name": "Orlando",
+      "sectionId": "HCI"
+    },
+    {
+      "id": "ca2024_HCI10",
+      "number": "HCI10",
+      "name": "Miami Gardens",
+      "sectionId": "HCI"
+    },
+    {
+      "id": "ca2024_ARG1",
+      "number": "ARG1",
+      "name": "Escudo — Argentina",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG2",
+      "number": "ARG2",
+      "name": "Comemoração — Argentina",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG3",
+      "number": "ARG3",
+      "name": "Emiliano Martínez",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG4",
+      "number": "ARG4",
+      "name": "Franco Armani",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG5",
+      "number": "ARG5",
+      "name": "Nicolás Otamendi",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG6",
+      "number": "ARG6",
+      "name": "Cristian Romero",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG7",
+      "number": "ARG7",
+      "name": "Germán Pezzella",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG8",
+      "number": "ARG8",
+      "name": "Lisandro Martínez",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG9",
+      "number": "ARG9",
+      "name": "Marcos Acuña",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG10",
+      "number": "ARG10",
+      "name": "Nahuel Molina",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG11",
+      "number": "ARG11",
+      "name": "Nicolás Tagliafico",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG12",
+      "number": "ARG12",
+      "name": "Exequiel Palacios",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG13",
+      "number": "ARG13",
+      "name": "Leandro Paredes",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG14",
+      "number": "ARG14",
+      "name": "Rodrigo De Paul",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG15",
+      "number": "ARG15",
+      "name": "Enzo Fernández",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG16",
+      "number": "ARG16",
+      "name": "Alexis Mac Allister",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG17",
+      "number": "ARG17",
+      "name": "Paulo Dybala",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG18",
+      "number": "ARG18",
+      "name": "Nicolás González",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG19",
+      "number": "ARG19",
+      "name": "Lionel Messi",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG20",
+      "number": "ARG20",
+      "name": "Julián Álvarez",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG21",
+      "number": "ARG21",
+      "name": "Ángel Di María",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_ARG22",
+      "number": "ARG22",
+      "name": "Lautaro Martínez",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "ca2024_PER1",
+      "number": "PER1",
+      "name": "Escudo — Peru",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER2",
+      "number": "PER2",
+      "name": "Comemoração — Peru",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER3",
+      "number": "PER3",
+      "name": "Pedro Gallese",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER4",
+      "number": "PER4",
+      "name": "Miguel Araujo",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER5",
+      "number": "PER5",
+      "name": "Luis Advíncula",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER6",
+      "number": "PER6",
+      "name": "Carlos Zambrano",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER7",
+      "number": "PER7",
+      "name": "Aldo Corzo",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER8",
+      "number": "PER8",
+      "name": "Luis Abram",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER9",
+      "number": "PER9",
+      "name": "Marcos López",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER10",
+      "number": "PER10",
+      "name": "Alexander Callens",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER11",
+      "number": "PER11",
+      "name": "Wilder Cartagena",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER12",
+      "number": "PER12",
+      "name": "Christofer Gonzáles",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER13",
+      "number": "PER13",
+      "name": "Miguel Trauco",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER14",
+      "number": "PER14",
+      "name": "Renato Tapia",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER15",
+      "number": "PER15",
+      "name": "Yoshimar Yotún",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER16",
+      "number": "PER16",
+      "name": "Pedro Aquino",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER17",
+      "number": "PER17",
+      "name": "Christian Cueva",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER18",
+      "number": "PER18",
+      "name": "Bryan Reyna",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER19",
+      "number": "PER19",
+      "name": "Gianluca Lapadula",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER20",
+      "number": "PER20",
+      "name": "Andy Polo",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER21",
+      "number": "PER21",
+      "name": "André Carrillo",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_PER22",
+      "number": "PER22",
+      "name": "Paolo Guerrero",
+      "sectionId": "PER"
+    },
+    {
+      "id": "ca2024_CHI1",
+      "number": "CHI1",
+      "name": "Escudo — Chile",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI2",
+      "number": "CHI2",
+      "name": "Comemoração — Chile",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI3",
+      "number": "CHI3",
+      "name": "Brayan Cortés",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI4",
+      "number": "CHI4",
+      "name": "Claudio Bravo",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI5",
+      "number": "CHI5",
+      "name": "Gabriel Suazo",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI6",
+      "number": "CHI6",
+      "name": "Benjamín Kuščević",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI7",
+      "number": "CHI7",
+      "name": "Guillermo Maripán",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI8",
+      "number": "CHI8",
+      "name": "Paulo Díaz",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI9",
+      "number": "CHI9",
+      "name": "Matías Catalán",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI10",
+      "number": "CHI10",
+      "name": "Gary Medel",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI11",
+      "number": "CHI11",
+      "name": "Nayel Mehssatou",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI12",
+      "number": "CHI12",
+      "name": "Guillermo Soto",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI13",
+      "number": "CHI13",
+      "name": "Marcelino Núñez",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI14",
+      "number": "CHI14",
+      "name": "Diego Valdés",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI15",
+      "number": "CHI15",
+      "name": "Arturo Vidal",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI16",
+      "number": "CHI16",
+      "name": "Víctor Méndez",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI17",
+      "number": "CHI17",
+      "name": "Esteban Pavez",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI18",
+      "number": "CHI18",
+      "name": "Bruno Barticciotto",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI19",
+      "number": "CHI19",
+      "name": "Diego Rubio",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI20",
+      "number": "CHI20",
+      "name": "Alexander Aravena",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI21",
+      "number": "CHI21",
+      "name": "Alexis Sánchez",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_CHI22",
+      "number": "CHI22",
+      "name": "Ben Brereton Díaz",
+      "sectionId": "CHI"
+    },
+    {
+      "id": "ca2024_MEX1",
+      "number": "MEX1",
+      "name": "Escudo — México",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX2",
+      "number": "MEX2",
+      "name": "Comemoração — México",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX3",
+      "number": "MEX3",
+      "name": "Guillermo Ochoa",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX4",
+      "number": "MEX4",
+      "name": "Luis Malagón",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX5",
+      "number": "MEX5",
+      "name": "Jesús Gallardo",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX6",
+      "number": "MEX6",
+      "name": "César Montes",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX7",
+      "number": "MEX7",
+      "name": "Jorge Sánchez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX8",
+      "number": "MEX8",
+      "name": "Gerardo Arteaga",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX9",
+      "number": "MEX9",
+      "name": "Johan Vásquez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX10",
+      "number": "MEX10",
+      "name": "Ramón Juárez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX11",
+      "number": "MEX11",
+      "name": "Marcel Ruiz",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX12",
+      "number": "MEX12",
+      "name": "Érick Sánchez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX13",
+      "number": "MEX13",
+      "name": "Luis Chávez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX14",
+      "number": "MEX14",
+      "name": "Luis Romo",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX15",
+      "number": "MEX15",
+      "name": "Edson Álvarez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX16",
+      "number": "MEX16",
+      "name": "Orbelín Pineda",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX17",
+      "number": "MEX17",
+      "name": "Jordi Cortizo",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX18",
+      "number": "MEX18",
+      "name": "Santiago Giménez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX19",
+      "number": "MEX19",
+      "name": "Henry Martín",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX20",
+      "number": "MEX20",
+      "name": "Uriel Antuna",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX21",
+      "number": "MEX21",
+      "name": "Hirving Lozano",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_MEX22",
+      "number": "MEX22",
+      "name": "Raúl Jiménez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "ca2024_ECU1",
+      "number": "ECU1",
+      "name": "Escudo — Equador",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU2",
+      "number": "ECU2",
+      "name": "Comemoração — Equador",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU3",
+      "number": "ECU3",
+      "name": "Alexander Domínguez",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU4",
+      "number": "ECU4",
+      "name": "Hernán Galíndez",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU5",
+      "number": "ECU5",
+      "name": "Piero Hincapié",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU6",
+      "number": "ECU6",
+      "name": "Félix Torres",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU7",
+      "number": "ECU7",
+      "name": "Ángelo Preciado",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU8",
+      "number": "ECU8",
+      "name": "Willian Pacho",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU9",
+      "number": "ECU9",
+      "name": "Pervis Estupiñán",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU10",
+      "number": "ECU10",
+      "name": "Robert Arboleda",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU11",
+      "number": "ECU11",
+      "name": "Jhoanner Chávez",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU12",
+      "number": "ECU12",
+      "name": "Alan Franco",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU13",
+      "number": "ECU13",
+      "name": "Moisés Caicedo",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU14",
+      "number": "ECU14",
+      "name": "Carlos Gruezo",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU15",
+      "number": "ECU15",
+      "name": "José Cifuentes",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU16",
+      "number": "ECU16",
+      "name": "Junior Sornoza",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU17",
+      "number": "ECU17",
+      "name": "Kendry Páez",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU18",
+      "number": "ECU18",
+      "name": "Ángel Mena",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU19",
+      "number": "ECU19",
+      "name": "Leonardo Campana",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU20",
+      "number": "ECU20",
+      "name": "Kevin Rodríguez",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU21",
+      "number": "ECU21",
+      "name": "Jordy Caicedo",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_ECU22",
+      "number": "ECU22",
+      "name": "Enner Valencia",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "ca2024_VEN1",
+      "number": "VEN1",
+      "name": "Escudo — Venezuela",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN2",
+      "number": "VEN2",
+      "name": "Comemoração — Venezuela",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN3",
+      "number": "VEN3",
+      "name": "Rafael Romo",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN4",
+      "number": "VEN4",
+      "name": "Joel Graterol",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN5",
+      "number": "VEN5",
+      "name": "Alexander González",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN6",
+      "number": "VEN6",
+      "name": "Wilker Ángel",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN7",
+      "number": "VEN7",
+      "name": "Yordan Osorio",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN8",
+      "number": "VEN8",
+      "name": "Miguel Navarro",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN9",
+      "number": "VEN9",
+      "name": "Christian Makoun",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN10",
+      "number": "VEN10",
+      "name": "Jhon Chancellor",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN11",
+      "number": "VEN11",
+      "name": "Nahuel Ferraresi",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN12",
+      "number": "VEN12",
+      "name": "José Martínez",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN13",
+      "number": "VEN13",
+      "name": "Cristian Cásseres",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN14",
+      "number": "VEN14",
+      "name": "Yangel Herrera",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN15",
+      "number": "VEN15",
+      "name": "Tomás Rincón",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN16",
+      "number": "VEN16",
+      "name": "Eduard Bello",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN17",
+      "number": "VEN17",
+      "name": "Samuel Sosa",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN18",
+      "number": "VEN18",
+      "name": "Yeferson Soteldo",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN19",
+      "number": "VEN19",
+      "name": "Jefferson Savarino",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN20",
+      "number": "VEN20",
+      "name": "Darwin Machís",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN21",
+      "number": "VEN21",
+      "name": "Josef Martínez",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_VEN22",
+      "number": "VEN22",
+      "name": "Salomón Rondón",
+      "sectionId": "VEN"
+    },
+    {
+      "id": "ca2024_JAM1",
+      "number": "JAM1",
+      "name": "Escudo — Jamaica",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM2",
+      "number": "JAM2",
+      "name": "Comemoração — Jamaica",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM3",
+      "number": "JAM3",
+      "name": "Andre Blake",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM4",
+      "number": "JAM4",
+      "name": "Jahmali Waite",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM5",
+      "number": "JAM5",
+      "name": "Damion Lowe",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM6",
+      "number": "JAM6",
+      "name": "Michael Hector",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM7",
+      "number": "JAM7",
+      "name": "Ethan Pinnock",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM8",
+      "number": "JAM8",
+      "name": "Adrian Mariappa",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM9",
+      "number": "JAM9",
+      "name": "Dexter Lembikisa",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM10",
+      "number": "JAM10",
+      "name": "Di'Shon Bernard",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM11",
+      "number": "JAM11",
+      "name": "Amari'i Bell",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM12",
+      "number": "JAM12",
+      "name": "Greg Leigh",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM13",
+      "number": "JAM13",
+      "name": "Joel Latibeaudiere",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM14",
+      "number": "JAM14",
+      "name": "Karoy Anderson",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM15",
+      "number": "JAM15",
+      "name": "Daniel Johnson",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM16",
+      "number": "JAM16",
+      "name": "Kevon Lambert",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM17",
+      "number": "JAM17",
+      "name": "Michail Antonio",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM18",
+      "number": "JAM18",
+      "name": "Demarai Gray",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM19",
+      "number": "JAM19",
+      "name": "Romario Williams",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM20",
+      "number": "JAM20",
+      "name": "Bobby Decordova-Reid",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM21",
+      "number": "JAM21",
+      "name": "Leon Bailey",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_JAM22",
+      "number": "JAM22",
+      "name": "Shamar Nicholson",
+      "sectionId": "JAM"
+    },
+    {
+      "id": "ca2024_USA1",
+      "number": "USA1",
+      "name": "Escudo — Estados Unidos",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA2",
+      "number": "USA2",
+      "name": "Comemoração — Estados Unidos",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA3",
+      "number": "USA3",
+      "name": "Matt Turner",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA4",
+      "number": "USA4",
+      "name": "Ethan Horvath",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA5",
+      "number": "USA5",
+      "name": "Chris Richards",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA6",
+      "number": "USA6",
+      "name": "Miles Robinson",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA7",
+      "number": "USA7",
+      "name": "Cameron Carter-Vickers",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA8",
+      "number": "USA8",
+      "name": "Tim Ream",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA9",
+      "number": "USA9",
+      "name": "Antonee Robinson",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA10",
+      "number": "USA10",
+      "name": "Sergiño Dest",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA11",
+      "number": "USA11",
+      "name": "Joe Scally",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA12",
+      "number": "USA12",
+      "name": "Tyler Adams",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA13",
+      "number": "USA13",
+      "name": "Yunus Musah",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA14",
+      "number": "USA14",
+      "name": "Weston McKennie",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA15",
+      "number": "USA15",
+      "name": "Luca de la Torre",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA16",
+      "number": "USA16",
+      "name": "Giovanni Reyna",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA17",
+      "number": "USA17",
+      "name": "Paxten Aaronson",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA18",
+      "number": "USA18",
+      "name": "Timothy Weah",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA19",
+      "number": "USA19",
+      "name": "Malik Tillman",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA20",
+      "number": "USA20",
+      "name": "Christian Pulisic",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA21",
+      "number": "USA21",
+      "name": "Folarin Balogun",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_USA22",
+      "number": "USA22",
+      "name": "Ricardo Pepi",
+      "sectionId": "USA"
+    },
+    {
+      "id": "ca2024_URU1",
+      "number": "URU1",
+      "name": "Escudo — Uruguai",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU2",
+      "number": "URU2",
+      "name": "Comemoração — Uruguai",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU3",
+      "number": "URU3",
+      "name": "Sergio Rochet",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU4",
+      "number": "URU4",
+      "name": "Franco Israel",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU5",
+      "number": "URU5",
+      "name": "Ronald Araújo",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU6",
+      "number": "URU6",
+      "name": "José María Giménez",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU7",
+      "number": "URU7",
+      "name": "Martín Cáceres",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU8",
+      "number": "URU8",
+      "name": "Guillermo Varela",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU9",
+      "number": "URU9",
+      "name": "Matías Viña",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU10",
+      "number": "URU10",
+      "name": "Joaquín Piquerez",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU11",
+      "number": "URU11",
+      "name": "Mathías Olivera",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU12",
+      "number": "URU12",
+      "name": "Manuel Ugarte",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU13",
+      "number": "URU13",
+      "name": "Federico Valverde",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU14",
+      "number": "URU14",
+      "name": "Rodrigo Bentancur",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU15",
+      "number": "URU15",
+      "name": "Nicolás De La Cruz",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU16",
+      "number": "URU16",
+      "name": "Nahitan Nández",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU17",
+      "number": "URU17",
+      "name": "Matías Vecino",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU18",
+      "number": "URU18",
+      "name": "Giorgian De Arrascaeta",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU19",
+      "number": "URU19",
+      "name": "Maximiliano Araújo",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU20",
+      "number": "URU20",
+      "name": "Facundo Pellistri",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU21",
+      "number": "URU21",
+      "name": "Darwin Núñez",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_URU22",
+      "number": "URU22",
+      "name": "Luis Suárez",
+      "sectionId": "URU"
+    },
+    {
+      "id": "ca2024_PAN1",
+      "number": "PAN1",
+      "name": "Escudo — Panamá",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN2",
+      "number": "PAN2",
+      "name": "Comemoração — Panamá",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN3",
+      "number": "PAN3",
+      "name": "Luis Mejía",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN4",
+      "number": "PAN4",
+      "name": "Orlando Mosquera",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN5",
+      "number": "PAN5",
+      "name": "Eric Davis",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN6",
+      "number": "PAN6",
+      "name": "Fidel Escobar",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN7",
+      "number": "PAN7",
+      "name": "Michael Amir Murillo",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN8",
+      "number": "PAN8",
+      "name": "Andrés Andrade",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN9",
+      "number": "PAN9",
+      "name": "José Córdoba",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN10",
+      "number": "PAN10",
+      "name": "César Blackman",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN11",
+      "number": "PAN11",
+      "name": "Adalberto Carrasquilla",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN12",
+      "number": "PAN12",
+      "name": "Alfredo Stephens",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN13",
+      "number": "PAN13",
+      "name": "Cristian Martínez",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN14",
+      "number": "PAN14",
+      "name": "Aníbal Godoy",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN15",
+      "number": "PAN15",
+      "name": "Alberto Quintero",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN16",
+      "number": "PAN16",
+      "name": "Eduardo Guerrero",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN17",
+      "number": "PAN17",
+      "name": "Ismael Díaz",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN18",
+      "number": "PAN18",
+      "name": "José Luis Rodríguez",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN19",
+      "number": "PAN19",
+      "name": "Yoel Bárcenas",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN20",
+      "number": "PAN20",
+      "name": "César Yanis",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN21",
+      "number": "PAN21",
+      "name": "Cecilio Waterman",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_PAN22",
+      "number": "PAN22",
+      "name": "José Fajardo",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "ca2024_BOL1",
+      "number": "BOL1",
+      "name": "Escudo — Bolívia",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL2",
+      "number": "BOL2",
+      "name": "Comemoração — Bolívia",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL3",
+      "number": "BOL3",
+      "name": "Carlos Lampe",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL4",
+      "number": "BOL4",
+      "name": "Guillermo Viscarra",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL5",
+      "number": "BOL5",
+      "name": "José Sagredo",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL6",
+      "number": "BOL6",
+      "name": "Diego Bejarano",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL7",
+      "number": "BOL7",
+      "name": "Luis Haquin",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL8",
+      "number": "BOL8",
+      "name": "Jairo Quinteros",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL9",
+      "number": "BOL9",
+      "name": "Diego Medina",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL10",
+      "number": "BOL10",
+      "name": "Carlos Roca",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL11",
+      "number": "BOL11",
+      "name": "Roberto Fernández",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL12",
+      "number": "BOL12",
+      "name": "Adrián Jusino",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL13",
+      "number": "BOL13",
+      "name": "Miguel Terceros",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL14",
+      "number": "BOL14",
+      "name": "Moisés Villarroel",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL15",
+      "number": "BOL15",
+      "name": "Ramiro Vaca",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL16",
+      "number": "BOL16",
+      "name": "Gabriel Villamíl",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL17",
+      "number": "BOL17",
+      "name": "Leonel Justiniano",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL18",
+      "number": "BOL18",
+      "name": "Jaime Arrascaita",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL19",
+      "number": "BOL19",
+      "name": "Jaume Cuéllar",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL20",
+      "number": "BOL20",
+      "name": "Henry Vaca",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL21",
+      "number": "BOL21",
+      "name": "Rodrigo Ramallo",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BOL22",
+      "number": "BOL22",
+      "name": "Víctor Ábrego",
+      "sectionId": "BOL"
+    },
+    {
+      "id": "ca2024_BRA1",
+      "number": "BRA1",
+      "name": "Escudo — Brasil",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA2",
+      "number": "BRA2",
+      "name": "Comemoração — Brasil",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA3",
+      "number": "BRA3",
+      "name": "Ederson",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA4",
+      "number": "BRA4",
+      "name": "Alisson Becker",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA5",
+      "number": "BRA5",
+      "name": "Marquinhos",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA6",
+      "number": "BRA6",
+      "name": "Danilo",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA7",
+      "number": "BRA7",
+      "name": "Gabriel Magalhães",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA8",
+      "number": "BRA8",
+      "name": "Nino",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA9",
+      "number": "BRA9",
+      "name": "Carlos Augusto",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA10",
+      "number": "BRA10",
+      "name": "Emerson Royal",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA11",
+      "number": "BRA11",
+      "name": "André",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA12",
+      "number": "BRA12",
+      "name": "Bruno Guimarães",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA13",
+      "number": "BRA13",
+      "name": "Casemiro",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA14",
+      "number": "BRA14",
+      "name": "Joelinton",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA15",
+      "number": "BRA15",
+      "name": "Raphael Veiga",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA16",
+      "number": "BRA16",
+      "name": "Vitor Roque",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA17",
+      "number": "BRA17",
+      "name": "Rodrygo",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA18",
+      "number": "BRA18",
+      "name": "Viní Jr",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA19",
+      "number": "BRA19",
+      "name": "Raphinha",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA20",
+      "number": "BRA20",
+      "name": "Gabriel Jesus",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA21",
+      "number": "BRA21",
+      "name": "Gabriel Martinelli",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_BRA22",
+      "number": "BRA22",
+      "name": "Endrick",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "ca2024_COL1",
+      "number": "COL1",
+      "name": "Escudo — Colômbia",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL2",
+      "number": "COL2",
+      "name": "Comemoração — Colômbia",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL3",
+      "number": "COL3",
+      "name": "David Ospina",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL4",
+      "number": "COL4",
+      "name": "Camilo Vargas",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL5",
+      "number": "COL5",
+      "name": "Deiver Machado",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL6",
+      "number": "COL6",
+      "name": "Frank Fabra",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL7",
+      "number": "COL7",
+      "name": "Davinson Sánchez",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL8",
+      "number": "COL8",
+      "name": "Jhon Lucumí",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL9",
+      "number": "COL9",
+      "name": "Carlos Cuesta",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL10",
+      "number": "COL10",
+      "name": "Daniel Muñoz",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL11",
+      "number": "COL11",
+      "name": "Yerry Mina",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL12",
+      "number": "COL12",
+      "name": "Jorge Carrascal",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL13",
+      "number": "COL13",
+      "name": "Kevin Castaño",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL14",
+      "number": "COL14",
+      "name": "Jhon Arias",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL15",
+      "number": "COL15",
+      "name": "Mateus Uribe",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL16",
+      "number": "COL16",
+      "name": "Jefferson Lerma",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL17",
+      "number": "COL17",
+      "name": "Juan Cuadrado",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL18",
+      "number": "COL18",
+      "name": "James Rodríguez",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL19",
+      "number": "COL19",
+      "name": "Jhon Durán",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL20",
+      "number": "COL20",
+      "name": "Luis Sinisterra",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL21",
+      "number": "COL21",
+      "name": "Rafael Santos Borré",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_COL22",
+      "number": "COL22",
+      "name": "Luis Díaz",
+      "sectionId": "COL"
+    },
+    {
+      "id": "ca2024_PAR1",
+      "number": "PAR1",
+      "name": "Escudo — Paraguai",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR2",
+      "number": "PAR2",
+      "name": "Comemoração — Paraguai",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR3",
+      "number": "PAR3",
+      "name": "Carlos Coronel",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR4",
+      "number": "PAR4",
+      "name": "Santiago Rojas",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR5",
+      "number": "PAR5",
+      "name": "Gustavo Gómez",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR6",
+      "number": "PAR6",
+      "name": "Júnior Alonso",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR7",
+      "number": "PAR7",
+      "name": "Fabián Balbuena",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR8",
+      "number": "PAR8",
+      "name": "Robert Rojas",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR9",
+      "number": "PAR9",
+      "name": "Santiago Arzamendia",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR10",
+      "number": "PAR10",
+      "name": "Omar Alderete",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR11",
+      "number": "PAR11",
+      "name": "Matías Espinoza",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR12",
+      "number": "PAR12",
+      "name": "Matías Rojas",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR13",
+      "number": "PAR13",
+      "name": "Kaku Alejandro Romero Gamarra",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR14",
+      "number": "PAR14",
+      "name": "Mathías Villasanti",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR15",
+      "number": "PAR15",
+      "name": "Miguel Almirón",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR16",
+      "number": "PAR16",
+      "name": "Richard Sánchez",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR17",
+      "number": "PAR17",
+      "name": "Andrés Cubas",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR18",
+      "number": "PAR18",
+      "name": "Braian Ojeda",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR19",
+      "number": "PAR19",
+      "name": "Gabriel Ávalos",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR20",
+      "number": "PAR20",
+      "name": "Julio Enciso",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR21",
+      "number": "PAR21",
+      "name": "Antonio Sanabria",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_PAR22",
+      "number": "PAR22",
+      "name": "Ramón Sosa",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "ca2024_CAN1",
+      "number": "CAN1",
+      "name": "Escudo — Canadá",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN2",
+      "number": "CAN2",
+      "name": "Comemoração — Canadá",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN3",
+      "number": "CAN3",
+      "name": "Milan Borjan",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN4",
+      "number": "CAN4",
+      "name": "Maxime Crépeau",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN5",
+      "number": "CAN5",
+      "name": "Kamal Miller",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN6",
+      "number": "CAN6",
+      "name": "Richie Laryea",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN7",
+      "number": "CAN7",
+      "name": "Steven Vitória",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN8",
+      "number": "CAN8",
+      "name": "Alphonso Davies",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN9",
+      "number": "CAN9",
+      "name": "Alistair Johnston",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN10",
+      "number": "CAN10",
+      "name": "Derek Cornelius",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN11",
+      "number": "CAN11",
+      "name": "Samuel Adekugbe",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN12",
+      "number": "CAN12",
+      "name": "Jonathan Osorio",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN13",
+      "number": "CAN13",
+      "name": "Stephen Eustáquio",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN14",
+      "number": "CAN14",
+      "name": "Ismaël Koné",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN15",
+      "number": "CAN15",
+      "name": "Samuel Piette",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN16",
+      "number": "CAN16",
+      "name": "Ali Ahmed",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN17",
+      "number": "CAN17",
+      "name": "Tajon Buchanan",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN18",
+      "number": "CAN18",
+      "name": "David Junior Hoilett",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN19",
+      "number": "CAN19",
+      "name": "Cyle Larin",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN20",
+      "number": "CAN20",
+      "name": "Jonathan David",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN21",
+      "number": "CAN21",
+      "name": "Liam Millar",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CAN22",
+      "number": "CAN22",
+      "name": "Lucas Cavallini",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "ca2024_CRC1",
+      "number": "CRC1",
+      "name": "Escudo — Costa Rica",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC2",
+      "number": "CRC2",
+      "name": "Comemoração — Costa Rica",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC3",
+      "number": "CRC3",
+      "name": "Keylor Navas",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC4",
+      "number": "CRC4",
+      "name": "Kendall Waston",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC5",
+      "number": "CRC5",
+      "name": "Francisco Calvo",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC6",
+      "number": "CRC6",
+      "name": "Juan Pablo Vargas",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC7",
+      "number": "CRC7",
+      "name": "Julio Cascante",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC8",
+      "number": "CRC8",
+      "name": "Bryan Oviedo",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC9",
+      "number": "CRC9",
+      "name": "Óscar Duarte",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC10",
+      "number": "CRC10",
+      "name": "Ronald Matarrita",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC11",
+      "number": "CRC11",
+      "name": "Jimmy Marín",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC12",
+      "number": "CRC12",
+      "name": "Jewison Bennette",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC13",
+      "number": "CRC13",
+      "name": "Roan Wilson",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC14",
+      "number": "CRC14",
+      "name": "Jefry Valverde",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC15",
+      "number": "CRC15",
+      "name": "Celso Borges",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC16",
+      "number": "CRC16",
+      "name": "Randall Leal",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC17",
+      "number": "CRC17",
+      "name": "Brandon Aguilera",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC18",
+      "number": "CRC18",
+      "name": "Sebastián Acuña",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC19",
+      "number": "CRC19",
+      "name": "Manfred Ugalde",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC20",
+      "number": "CRC20",
+      "name": "Josimar Alcócer",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC21",
+      "number": "CRC21",
+      "name": "Anthony Contreras",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_CRC22",
+      "number": "CRC22",
+      "name": "Joel Campbell",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "ca2024_HON1",
+      "number": "HON1",
+      "name": "Escudo — Honduras",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON2",
+      "number": "HON2",
+      "name": "Comemoração — Honduras",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON3",
+      "number": "HON3",
+      "name": "Edrick Menjívar",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON4",
+      "number": "HON4",
+      "name": "Luis López",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON5",
+      "number": "HON5",
+      "name": "Andy Najar",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON6",
+      "number": "HON6",
+      "name": "Denil Maldonado",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON7",
+      "number": "HON7",
+      "name": "Luis Vega",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON8",
+      "number": "HON8",
+      "name": "Elison Rivas",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON9",
+      "number": "HON9",
+      "name": "Marcelo Santos",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON10",
+      "number": "HON10",
+      "name": "Joseph Rosales",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON11",
+      "number": "HON11",
+      "name": "Jorge Álvarez",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON12",
+      "number": "HON12",
+      "name": "Edwin Rodríguez",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON13",
+      "number": "HON13",
+      "name": "Rigoberto Rivas",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON14",
+      "number": "HON14",
+      "name": "Bryan Acosta",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON15",
+      "number": "HON15",
+      "name": "Alexander López",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON16",
+      "number": "HON16",
+      "name": "Deiby Flores",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON17",
+      "number": "HON17",
+      "name": "Kervin Arriaga",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON18",
+      "number": "HON18",
+      "name": "Luis Palma",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON19",
+      "number": "HON19",
+      "name": "Bryan Róchez",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON20",
+      "number": "HON20",
+      "name": "Anthony Lozano",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON21",
+      "number": "HON21",
+      "name": "Alberth Elis",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_HON22",
+      "number": "HON22",
+      "name": "Romell Quioto",
+      "sectionId": "HON"
+    },
+    {
+      "id": "ca2024_TRI1",
+      "number": "TRI1",
+      "name": "Escudo — Trinidad e Tobago",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI2",
+      "number": "TRI2",
+      "name": "Comemoração — Trinidad e Tobago",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI3",
+      "number": "TRI3",
+      "name": "Denzil Smith",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI4",
+      "number": "TRI4",
+      "name": "Christopher Biggette",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI5",
+      "number": "TRI5",
+      "name": "Ross Russell Jr.",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI6",
+      "number": "TRI6",
+      "name": "Aubrey David",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI7",
+      "number": "TRI7",
+      "name": "Justin Garcia",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI8",
+      "number": "TRI8",
+      "name": "Neveal Hackshaw",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI9",
+      "number": "TRI9",
+      "name": "Shannon Gomez",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI10",
+      "number": "TRI10",
+      "name": "Alvin Jones",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI11",
+      "number": "TRI11",
+      "name": "Andre Raymond",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI12",
+      "number": "TRI12",
+      "name": "Noah Powder",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI13",
+      "number": "TRI13",
+      "name": "Nathaniel James",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI14",
+      "number": "TRI14",
+      "name": "Michel Poon-Angeron",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI15",
+      "number": "TRI15",
+      "name": "Kaïlé Auvray",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI16",
+      "number": "TRI16",
+      "name": "Andre Rampersad",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI17",
+      "number": "TRI17",
+      "name": "Ryan Telfer",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI18",
+      "number": "TRI18",
+      "name": "Kristian Lee-Him",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI19",
+      "number": "TRI19",
+      "name": "Levi García",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI20",
+      "number": "TRI20",
+      "name": "Daniel Phillips",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI21",
+      "number": "TRI21",
+      "name": "Malcolm Shaw",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_TRI22",
+      "number": "TRI22",
+      "name": "Reon Moore",
+      "sectionId": "TRI"
+    },
+    {
+      "id": "ca2024_LEG1",
+      "number": "LEG1",
+      "name": "Gabriel Batistuta 1/2",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG2",
+      "number": "LEG2",
+      "name": "Gabriel Batistuta 2/2",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG3",
+      "number": "LEG3",
+      "name": "Pelé",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG4",
+      "number": "LEG4",
+      "name": "Enzo Francescoli 1/2",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG5",
+      "number": "LEG5",
+      "name": "Enzo Francescoli 2/2",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG6",
+      "number": "LEG6",
+      "name": "Lionel Messi",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG7",
+      "number": "LEG7",
+      "name": "Diego Forlan 1/2",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG8",
+      "number": "LEG8",
+      "name": "Diego Forlan 2/2",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG9",
+      "number": "LEG9",
+      "name": "Ronaldinho",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG10",
+      "number": "LEG10",
+      "name": "Ronaldo 1/2",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG11",
+      "number": "LEG11",
+      "name": "Ronaldo 2/2",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG12",
+      "number": "LEG12",
+      "name": "Marcelo Moreno — Bolívia",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG13",
+      "number": "LEG13",
+      "name": "Diego Maradona 1/2",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG14",
+      "number": "LEG14",
+      "name": "Diego Maradona 2/2",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG15",
+      "number": "LEG15",
+      "name": "Paolo Guerrero",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG16",
+      "number": "LEG16",
+      "name": "Cafu 1/2",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG17",
+      "number": "LEG17",
+      "name": "Cafu 2/2",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_LEG18",
+      "number": "LEG18",
+      "name": "Alexis Sanchez",
+      "sectionId": "LEG"
+    },
+    {
+      "id": "ca2024_ROH1",
+      "number": "ROH1",
+      "name": "Argentina — Campeã de 2021 — Parte 1/2",
+      "sectionId": "ROH"
+    },
+    {
+      "id": "ca2024_ROH2",
+      "number": "ROH2",
+      "name": "Argentina — Campeã de 2021 — Parte 2/2",
+      "sectionId": "ROH"
+    }
+  ]
+}

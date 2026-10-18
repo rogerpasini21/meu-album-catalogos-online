@@ -294,6 +294,13 @@
       "file": "albums/panini-fwwc-2023-standard-v1.zip",
       "bytes": 258584,
       "sha256": "f47f692784009d6156161537d4c2124e6dac48b226c18c339ac9319dd9da406f"
+    },
+    {
+      "officialId": "panini.copaamerica2024.standard",
+      "version": 1,
+      "file": "albums/panini-copa-america-2024-standard-v1.zip",
+      "bytes": 234205,
+      "sha256": "9ba9714a79af600f6de4fd9948d98ebe4bcb7032a7753fe5895b949da1dcff3c"
     }
   ]
 }
