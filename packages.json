@@ -322,6 +322,13 @@
       "file": "albums/panini-fwwc-2019-standard-v1.zip",
       "bytes": 299737,
       "sha256": "55356090c329da67e98f88d0d95c80b8576954edf25d7a019362ca4a0fe5198b"
+    },
+    {
+      "officialId": "panini.fwwc2015.standard",
+      "version": 1,
+      "file": "albums/panini-fwwc-2015-standard-v1.zip",
+      "bytes": 257860,
+      "sha256": "a6661da8d6c8664790a7bbc4f0b5baf4d15714ef1e69362d4cd75407452e95ff"
     }
   ]
 }
