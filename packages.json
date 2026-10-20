@@ -308,6 +308,13 @@
       "file": "albums/topps-ucl-2024-25-standard-v1.zip",
       "bytes": 1321908,
       "sha256": "acb02936d106395c7691780b24a998e7dce4ce25cd072f43c76c574659fee0b5"
+    },
+    {
+      "officialId": "panini.copaamerica2021.standard",
+      "version": 1,
+      "file": "albums/panini-copa-america-2021-standard-v1.zip",
+      "bytes": 765318,
+      "sha256": "c4005a3abc8867e1159f1ad467a3a5882cefc3bc43c51d128d11d1b2ef420981"
     }
   ]
 }
