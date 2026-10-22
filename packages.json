@@ -329,6 +329,13 @@
       "file": "albums/panini-fwwc-2015-standard-v1.zip",
       "bytes": 249840,
       "sha256": "be29d78fac4098814ae48ceec0aedc01c2ac1ce3789b0aeda847717107391fbb"
+    },
+    {
+      "officialId": "topps.premierleague2026.standard",
+      "version": 1,
+      "file": "albums/topps-premier-league-2026-standard-v1.zip",
+      "bytes": 564086,
+      "sha256": "bd5ea20f599581fd3c627446c2634d70ac4ac456018816313139195c0e65ec8b"
     }
   ]
 }
