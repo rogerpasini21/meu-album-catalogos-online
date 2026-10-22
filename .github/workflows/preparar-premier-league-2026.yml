@@ -1,0 +1,48 @@
+name: Preparar pacote Premier League 2026
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  package:
+    if: github.head_ref == 'catalogos/premier-league-2026' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Validar candidato e preservar manifesto anterior
+        run: |
+          python3 - <<'PY'
+          import base64,hashlib,json,zipfile,io
+          from pathlib import Path
+          source=Path('staging/premier-league-2026.json')
+          x=json.loads(source.read_text()); entry=x['entry']
+          previous=json.loads(Path('packages.json').read_text())
+          assert previous==x['baseManifest']
+          assert len(previous['albums'])==47
+          assert entry['officialId']=='topps.premierleague2026.standard'
+          assert entry['file']=='albums/topps-premier-league-2026-standard-v1.zip'
+          raw=base64.b64decode(x['payload'],validate=True)
+          assert len(raw)==entry['bytes'] and hashlib.sha256(raw).hexdigest()==entry['sha256']
+          with zipfile.ZipFile(io.BytesIO(raw)) as z:
+              assert z.testzip() is None and len(z.namelist())==27
+              assert all(n=='album.json' or n.startswith('imagens/premier_league_2026/') for n in z.namelist())
+              album=json.loads(z.read('album.json'))
+              assert album['officialId']==entry['officialId']
+              assert len(album['stickers'])==album['plannedTotal']==561
+              assert len(album['sections'])==25
+          assert not any(e['officialId']==entry['officialId'] for e in previous['albums'])
+          path=Path(entry['file']);path.parent.mkdir(exist_ok=True);path.write_bytes(raw)
+          Path('packages.json').write_text(json.dumps({**previous,'albums':previous['albums']+[entry]},ensure_ascii=False,indent=2)+'\n')
+          source.unlink()
+          PY
+      - name: Guardar somente o pacote candidato nesta branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add packages.json albums/topps-premier-league-2026-standard-v1.zip staging/premier-league-2026.json
+          git commit -m "catalog: materializar Premier League 2026 e preservar os 47 pacotes"
+          git push origin HEAD:catalogos/premier-league-2026
