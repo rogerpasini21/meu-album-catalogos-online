@@ -336,6 +336,27 @@
       "file": "albums/topps-premier-league-2026-standard-v1.zip",
       "bytes": 564086,
       "sha256": "bd5ea20f599581fd3c627446c2634d70ac4ac456018816313139195c0e65ec8b"
+    },
+    {
+      "officialId": "panini.harrypotter.saga2021.standard",
+      "version": 1,
+      "file": "albums/panini-harry-potter-saga2021-standard-v1.zip",
+      "bytes": 44824,
+      "sha256": "f6546f10f0c49b0c17b2feaf82b1324fe35d83f816c81b7935b049d0075ed8b5"
+    },
+    {
+      "officialId": "panini.harrypotter.antologia2022.standard",
+      "version": 1,
+      "file": "albums/panini-harry-potter-antologia2022-standard-v1.zip",
+      "bytes": 36857,
+      "sha256": "ff5506b91e51afbf13730dfd57834c671645b3a145c1648819e609b53a013ed0"
+    },
+    {
+      "officialId": "panini.harrypotter.hogwarts2023.standard",
+      "version": 1,
+      "file": "albums/panini-harry-potter-hogwarts2023-standard-v1.zip",
+      "bytes": 45045,
+      "sha256": "55cfe43a77e1e029e071443b87515ab662e2f596f70353c27a32446c86fe1213"
     }
   ]
 }
