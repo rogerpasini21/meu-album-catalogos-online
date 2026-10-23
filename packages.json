@@ -399,6 +399,13 @@
       "file": "albums/panini-marvelcomics2025-standard-v1.zip",
       "bytes": 148377,
       "sha256": "f045e83e530b686d9cba20d771b4fbaacd07e0a557e1397815ab62a57b433c9d"
+    },
+    {
+      "officialId": "panini.coringa2026.standard",
+      "version": 1,
+      "file": "albums/panini-coringa2026-standard-v1.zip",
+      "bytes": 43089,
+      "sha256": "2470c8c5e9e1643b6e733784e4627dd5c1167116cf570aa2f710be26750881d1"
     }
   ]
 }
