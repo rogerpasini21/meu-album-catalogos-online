@@ -357,6 +357,62 @@
       "file": "albums/panini-harry-potter-hogwarts2023-standard-v1.zip",
       "bytes": 45045,
       "sha256": "55cfe43a77e1e029e071443b87515ab662e2f596f70353c27a32446c86fe1213"
+    },
+    {
+      "officialId": "panini.naruto2025.standard",
+      "version": 1,
+      "file": "albums/panini-naruto2025-standard-v1.zip",
+      "bytes": 48100,
+      "sha256": "f74272722a34cf00729ed8bf5d7a9e79e447087344aacd0f7c6e86b78a6a85bf"
+    },
+    {
+      "officialId": "panini.onepiece2025.standard",
+      "version": 1,
+      "file": "albums/panini-onepiece2025-standard-v1.zip",
+      "bytes": 48861,
+      "sha256": "3b1cb8b14722890132a858d2355b29ebe4e77271eb9a7ff98ddf0ff337d34f65"
+    },
+    {
+      "officialId": "panini.dragonballsuper2026.standard",
+      "version": 1,
+      "file": "albums/panini-dragonballsuper2026-standard-v1.zip",
+      "bytes": 58102,
+      "sha256": "032c6404d4968d70a5357bef2b3035b0ff8b3b6dca4772448bcd8676d4f163b4"
+    },
+    {
+      "officialId": "panini.myheroacademia2025.standard",
+      "version": 1,
+      "file": "albums/panini-myheroacademia2025-standard-v1.zip",
+      "bytes": 119853,
+      "sha256": "e5fba8c9cd83c6b4e44b6caa7d2f622daa7d6f734a2a34dad999a21ecfc01cea"
+    },
+    {
+      "officialId": "panini.cavaleiros2017.standard",
+      "version": 1,
+      "file": "albums/panini-cavaleiros2017-standard-v1.zip",
+      "bytes": 152096,
+      "sha256": "c5ca67fa43f792aefa5c35aaa79019f0c6b3bf1097dcc55f2747e317c88f3e95"
+    },
+    {
+      "officialId": "panini.marvelcomics2025.standard",
+      "version": 1,
+      "file": "albums/panini-marvelcomics2025-standard-v1.zip",
+      "bytes": 148377,
+      "sha256": "f045e83e530b686d9cba20d771b4fbaacd07e0a557e1397815ab62a57b433c9d"
+    },
+    {
+      "officialId": "panini.coringa2026.standard",
+      "version": 1,
+      "file": "albums/panini-coringa2026-standard-v1.zip",
+      "bytes": 43089,
+      "sha256": "2470c8c5e9e1643b6e733784e4627dd5c1167116cf570aa2f710be26750881d1"
+    },
+    {
+      "officialId": "panini.spiderman2026.standard",
+      "version": 1,
+      "file": "albums/panini-spiderman2026-standard-v1.zip",
+      "bytes": 167095,
+      "sha256": "257704c128f1d7a1fe428cdf2d4add8330d7b027fcdbe7a2ade5afafad95320c"
     }
   ]
 }
