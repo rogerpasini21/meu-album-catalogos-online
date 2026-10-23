@@ -406,6 +406,13 @@
       "file": "albums/panini-coringa2026-standard-v1.zip",
       "bytes": 43089,
       "sha256": "2470c8c5e9e1643b6e733784e4627dd5c1167116cf570aa2f710be26750881d1"
+    },
+    {
+      "officialId": "panini.spiderman2026.standard",
+      "version": 1,
+      "file": "albums/panini-spiderman2026-standard-v1.zip",
+      "bytes": 167095,
+      "sha256": "257704c128f1d7a1fe428cdf2d4add8330d7b027fcdbe7a2ade5afafad95320c"
     }
   ]
 }
