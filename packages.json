@@ -413,6 +413,13 @@
       "file": "albums/panini-spiderman2026-standard-v1.zip",
       "bytes": 167095,
       "sha256": "257704c128f1d7a1fe428cdf2d4add8330d7b027fcdbe7a2ade5afafad95320c"
+    },
+    {
+      "officialId": "panini.fwc2026.adrenalyn-xl",
+      "version": 1,
+      "file": "albums/panini-adrenalyn-wc2026-standard-v1.zip",
+      "bytes": 2299958,
+      "sha256": "1c2775dad0a3eace5b18d26f0b33609a69403e88262511a4d579121a06a3ac8d"
     }
   ]
 }

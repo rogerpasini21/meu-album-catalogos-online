@@ -1,0 +1,4062 @@
+{
+  "officialId": "panini.fwc2026.adrenalyn-xl",
+  "version": 1,
+  "name": "Copa do Mundo FIFA 2026 — Adrenalyn XL",
+  "collection": "FIFA World Cup 2026 — Adrenalyn XL",
+  "year": "2026",
+  "publisher": "Panini",
+  "availability": "online",
+  "description": "Coleção principal de 630 cards numerados de 1 a 630. Inclui 42 seleções, Golden Ballers, Contenders, categorias especiais, emblema, mascotes e Eternos 22. Upgrade, Final Teams Set, Dream Box, Momentum, edições limitadas e variantes não fazem parte deste catálogo.",
+  "plannedTotal": 630,
+  "variantCount": 0,
+  "coverAsset": "assets/album_library/imagens/adrenalyn_wc2026/capa.png",
+  "libraryCategory": {
+    "id": "world-cup-men",
+    "name": "Copa do Mundo Masculina",
+    "order": 10
+  },
+  "sections": [
+    {
+      "id": "golden_ballers",
+      "name": "Golden Ballers",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/golden_ballers.png"
+    },
+    {
+      "id": "ALG",
+      "name": "Argélia",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/ALG.png"
+    },
+    {
+      "id": "ARG",
+      "name": "Argentina",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/ARG.png"
+    },
+    {
+      "id": "AUS",
+      "name": "Austrália",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/AUS.png"
+    },
+    {
+      "id": "AUT",
+      "name": "Áustria",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/AUT.png"
+    },
+    {
+      "id": "BEL",
+      "name": "Bélgica",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/BEL.png"
+    },
+    {
+      "id": "BRA",
+      "name": "Brasil",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/BRA.png"
+    },
+    {
+      "id": "CAN",
+      "name": "Canadá",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/CAN.png"
+    },
+    {
+      "id": "CPV",
+      "name": "Cabo Verde",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/CPV.png"
+    },
+    {
+      "id": "COL",
+      "name": "Colômbia",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/COL.png"
+    },
+    {
+      "id": "CRO",
+      "name": "Croácia",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/CRO.png"
+    },
+    {
+      "id": "CUW",
+      "name": "Curaçao",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/CUW.png"
+    },
+    {
+      "id": "ECU",
+      "name": "Equador",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/ECU.png"
+    },
+    {
+      "id": "EGY",
+      "name": "Egito",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/EGY.png"
+    },
+    {
+      "id": "ENG",
+      "name": "Inglaterra",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/ENG.png"
+    },
+    {
+      "id": "FRA",
+      "name": "França",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/FRA.png"
+    },
+    {
+      "id": "GER",
+      "name": "Alemanha",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/GER.png"
+    },
+    {
+      "id": "GHA",
+      "name": "Gana",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/GHA.png"
+    },
+    {
+      "id": "HAI",
+      "name": "Haiti",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/HAI.png"
+    },
+    {
+      "id": "IRN",
+      "name": "Irã",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/IRN.png"
+    },
+    {
+      "id": "CIV",
+      "name": "Costa do Marfim",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/CIV.png"
+    },
+    {
+      "id": "JPN",
+      "name": "Japão",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/JPN.png"
+    },
+    {
+      "id": "JOR",
+      "name": "Jordânia",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/JOR.png"
+    },
+    {
+      "id": "KOR",
+      "name": "Coreia do Sul",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/KOR.png"
+    },
+    {
+      "id": "MEX",
+      "name": "México",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/MEX.png"
+    },
+    {
+      "id": "MAR",
+      "name": "Marrocos",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/MAR.png"
+    },
+    {
+      "id": "NED",
+      "name": "Países Baixos",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/NED.png"
+    },
+    {
+      "id": "NZL",
+      "name": "Nova Zelândia",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/NZL.png"
+    },
+    {
+      "id": "NOR",
+      "name": "Noruega",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/NOR.png"
+    },
+    {
+      "id": "PAN",
+      "name": "Panamá",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/PAN.png"
+    },
+    {
+      "id": "PAR",
+      "name": "Paraguai",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/PAR.png"
+    },
+    {
+      "id": "POR",
+      "name": "Portugal",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/POR.png"
+    },
+    {
+      "id": "QAT",
+      "name": "Catar",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/QAT.png"
+    },
+    {
+      "id": "KSA",
+      "name": "Arábia Saudita",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/KSA.png"
+    },
+    {
+      "id": "SCO",
+      "name": "Escócia",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/SCO.png"
+    },
+    {
+      "id": "SEN",
+      "name": "Senegal",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/SEN.png"
+    },
+    {
+      "id": "RSA",
+      "name": "África do Sul",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/RSA.png"
+    },
+    {
+      "id": "ESP",
+      "name": "Espanha",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/ESP.png"
+    },
+    {
+      "id": "SUI",
+      "name": "Suíça",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/SUI.png"
+    },
+    {
+      "id": "TUN",
+      "name": "Tunísia",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/TUN.png"
+    },
+    {
+      "id": "USA",
+      "name": "Estados Unidos",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/USA.png"
+    },
+    {
+      "id": "URU",
+      "name": "Uruguai",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/URU.png"
+    },
+    {
+      "id": "UZB",
+      "name": "Uzbequistão",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/UZB.png"
+    },
+    {
+      "id": "contenders",
+      "name": "Contenders",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/contenders.png"
+    },
+    {
+      "id": "top_keepers",
+      "name": "Top Keepers",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/top_keepers.png"
+    },
+    {
+      "id": "defensive_rocks",
+      "name": "Defensive Rocks",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/defensive_rocks.png"
+    },
+    {
+      "id": "midfield_maestros",
+      "name": "Midfield Maestros",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/midfield_maestros.png"
+    },
+    {
+      "id": "goal_machines",
+      "name": "Goal Machines",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/goal_machines.png"
+    },
+    {
+      "id": "master_rookies",
+      "name": "Master Rookies",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/master_rookies.png"
+    },
+    {
+      "id": "emblema",
+      "name": "Emblema oficial",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/emblema.png"
+    },
+    {
+      "id": "mascotes",
+      "name": "Mascotes oficiais",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/mascotes.png"
+    },
+    {
+      "id": "eternos22",
+      "name": "Eternos 22",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2026/eternos22.png"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "axl2026_001",
+      "number": "1",
+      "name": "Lionel Messi",
+      "sectionId": "golden_ballers"
+    },
+    {
+      "id": "axl2026_002",
+      "number": "2",
+      "name": "Vinícius Júnior",
+      "sectionId": "golden_ballers"
+    },
+    {
+      "id": "axl2026_003",
+      "number": "3",
+      "name": "Mohamed Salah",
+      "sectionId": "golden_ballers"
+    },
+    {
+      "id": "axl2026_004",
+      "number": "4",
+      "name": "Harry Kane",
+      "sectionId": "golden_ballers"
+    },
+    {
+      "id": "axl2026_005",
+      "number": "5",
+      "name": "Kylian Mbappé",
+      "sectionId": "golden_ballers"
+    },
+    {
+      "id": "axl2026_006",
+      "number": "6",
+      "name": "Heung-min Son",
+      "sectionId": "golden_ballers"
+    },
+    {
+      "id": "axl2026_007",
+      "number": "7",
+      "name": "Erling Haaland",
+      "sectionId": "golden_ballers"
+    },
+    {
+      "id": "axl2026_008",
+      "number": "8",
+      "name": "Cristiano Ronaldo",
+      "sectionId": "golden_ballers"
+    },
+    {
+      "id": "axl2026_009",
+      "number": "9",
+      "name": "Lamine Yamal",
+      "sectionId": "golden_ballers"
+    },
+    {
+      "id": "axl2026_010",
+      "number": "10",
+      "name": "Rayan Aït-Nouri",
+      "sectionId": "ALG"
+    },
+    {
+      "id": "axl2026_011",
+      "number": "11",
+      "name": "Escudo — Argélia",
+      "sectionId": "ALG"
+    },
+    {
+      "id": "axl2026_012",
+      "number": "12",
+      "name": "Riyad Mahrez",
+      "sectionId": "ALG"
+    },
+    {
+      "id": "axl2026_013",
+      "number": "13",
+      "name": "Alexis Guendouz",
+      "sectionId": "ALG"
+    },
+    {
+      "id": "axl2026_014",
+      "number": "14",
+      "name": "Ramy Bensebaini",
+      "sectionId": "ALG"
+    },
+    {
+      "id": "axl2026_015",
+      "number": "15",
+      "name": "Youcef Atal",
+      "sectionId": "ALG"
+    },
+    {
+      "id": "axl2026_016",
+      "number": "16",
+      "name": "Aïssa Mandi",
+      "sectionId": "ALG"
+    },
+    {
+      "id": "axl2026_017",
+      "number": "17",
+      "name": "Nabil Bentaleb",
+      "sectionId": "ALG"
+    },
+    {
+      "id": "axl2026_018",
+      "number": "18",
+      "name": "Saïd Benrahma",
+      "sectionId": "ALG"
+    },
+    {
+      "id": "axl2026_019",
+      "number": "19",
+      "name": "Amine Gouiri",
+      "sectionId": "ALG"
+    },
+    {
+      "id": "axl2026_020",
+      "number": "20",
+      "name": "Mohamed Amoura",
+      "sectionId": "ALG"
+    },
+    {
+      "id": "axl2026_021",
+      "number": "21",
+      "name": "Baghdad Bounedjah",
+      "sectionId": "ALG"
+    },
+    {
+      "id": "axl2026_022",
+      "number": "22",
+      "name": "Julián Alvarez",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2026_023",
+      "number": "23",
+      "name": "Escudo — Argentina",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2026_024",
+      "number": "24",
+      "name": "Lionel Messi",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2026_025",
+      "number": "25",
+      "name": "Emiliano Martínez",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2026_026",
+      "number": "26",
+      "name": "Nahuel Molina",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2026_027",
+      "number": "27",
+      "name": "Cristian Romero",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2026_028",
+      "number": "28",
+      "name": "Nicolás Otamendi",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2026_029",
+      "number": "29",
+      "name": "Enzo Fernández",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2026_030",
+      "number": "30",
+      "name": "Alexis Mac Allister",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2026_031",
+      "number": "31",
+      "name": "Rodrigo De Paul",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2026_032",
+      "number": "32",
+      "name": "Giuliano Simeone",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2026_033",
+      "number": "33",
+      "name": "Lautaro Martínez",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2026_034",
+      "number": "34",
+      "name": "Harry Souttar",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2026_035",
+      "number": "35",
+      "name": "Escudo — Austrália",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2026_036",
+      "number": "36",
+      "name": "Mathew Ryan",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2026_037",
+      "number": "37",
+      "name": "Alessandro Circati",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2026_038",
+      "number": "38",
+      "name": "Jordan Bos",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2026_039",
+      "number": "39",
+      "name": "Lewis Miller",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2026_040",
+      "number": "40",
+      "name": "Milos Degenek",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2026_041",
+      "number": "41",
+      "name": "Jackson Irvine",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2026_042",
+      "number": "42",
+      "name": "Riley McGree",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2026_043",
+      "number": "43",
+      "name": "Aiden O'Neill",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2026_044",
+      "number": "44",
+      "name": "Connor Metcalfe",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2026_045",
+      "number": "45",
+      "name": "Craig Goodwin",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2026_046",
+      "number": "46",
+      "name": "Marko Arnautović",
+      "sectionId": "AUT"
+    },
+    {
+      "id": "axl2026_047",
+      "number": "47",
+      "name": "Escudo — Áustria",
+      "sectionId": "AUT"
+    },
+    {
+      "id": "axl2026_048",
+      "number": "48",
+      "name": "David Alaba",
+      "sectionId": "AUT"
+    },
+    {
+      "id": "axl2026_049",
+      "number": "49",
+      "name": "Alexander Schlager",
+      "sectionId": "AUT"
+    },
+    {
+      "id": "axl2026_050",
+      "number": "50",
+      "name": "Kevin Danso",
+      "sectionId": "AUT"
+    },
+    {
+      "id": "axl2026_051",
+      "number": "51",
+      "name": "Philipp Lienhart",
+      "sectionId": "AUT"
+    },
+    {
+      "id": "axl2026_052",
+      "number": "52",
+      "name": "Konrad Laimer",
+      "sectionId": "AUT"
+    },
+    {
+      "id": "axl2026_053",
+      "number": "53",
+      "name": "Nicolas Seiwald",
+      "sectionId": "AUT"
+    },
+    {
+      "id": "axl2026_054",
+      "number": "54",
+      "name": "Marcel Sabitzer",
+      "sectionId": "AUT"
+    },
+    {
+      "id": "axl2026_055",
+      "number": "55",
+      "name": "Florian Grillitsch",
+      "sectionId": "AUT"
+    },
+    {
+      "id": "axl2026_056",
+      "number": "56",
+      "name": "Christoph Baumgartner",
+      "sectionId": "AUT"
+    },
+    {
+      "id": "axl2026_057",
+      "number": "57",
+      "name": "Michael Gregoritsch",
+      "sectionId": "AUT"
+    },
+    {
+      "id": "axl2026_058",
+      "number": "58",
+      "name": "Youri Tielemans",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2026_059",
+      "number": "59",
+      "name": "Escudo — Bélgica",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2026_060",
+      "number": "60",
+      "name": "Kevin de Bruyne",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2026_061",
+      "number": "61",
+      "name": "Thibaut Courtois",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2026_062",
+      "number": "62",
+      "name": "Arthur Theate",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2026_063",
+      "number": "63",
+      "name": "Timothy Castagne",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2026_064",
+      "number": "64",
+      "name": "Maxim de Cuyper",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2026_065",
+      "number": "65",
+      "name": "Amadou Onana",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2026_066",
+      "number": "66",
+      "name": "Jérémy Doku",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2026_067",
+      "number": "67",
+      "name": "Charles de Ketelaere",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2026_068",
+      "number": "68",
+      "name": "Leandro Trossard",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2026_069",
+      "number": "69",
+      "name": "Romelu Lukaku",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2026_070",
+      "number": "70",
+      "name": "Marquinhos",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2026_071",
+      "number": "71",
+      "name": "Escudo — Brasil",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2026_072",
+      "number": "72",
+      "name": "Vinícius Júnior",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2026_073",
+      "number": "73",
+      "name": "Alisson",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2026_074",
+      "number": "74",
+      "name": "Danilo",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2026_075",
+      "number": "75",
+      "name": "Éder Militão",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2026_076",
+      "number": "76",
+      "name": "Gabriel Magalhães",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2026_077",
+      "number": "77",
+      "name": "Casemiro",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2026_078",
+      "number": "78",
+      "name": "Bruno Guimarães",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2026_079",
+      "number": "79",
+      "name": "Rodrygo",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2026_080",
+      "number": "80",
+      "name": "Matheus Cunha",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2026_081",
+      "number": "81",
+      "name": "Raphinha",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2026_082",
+      "number": "82",
+      "name": "Jonathan David",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2026_083",
+      "number": "83",
+      "name": "Escudo — Canadá",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2026_084",
+      "number": "84",
+      "name": "Alphonso Davies",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2026_085",
+      "number": "85",
+      "name": "Dayne St. Clair",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2026_086",
+      "number": "86",
+      "name": "Richie Laryea",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2026_087",
+      "number": "87",
+      "name": "Derek Cornelius",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2026_088",
+      "number": "88",
+      "name": "Stephen Eustáquio",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2026_089",
+      "number": "89",
+      "name": "Ismaël Koné",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2026_090",
+      "number": "90",
+      "name": "Jonathan Osorio",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2026_091",
+      "number": "91",
+      "name": "Jacob Shaffelburg",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2026_092",
+      "number": "92",
+      "name": "Tajon Buchanan",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2026_093",
+      "number": "93",
+      "name": "Cyle Larin",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2026_094",
+      "number": "94",
+      "name": "Vozinha",
+      "sectionId": "CPV"
+    },
+    {
+      "id": "axl2026_095",
+      "number": "95",
+      "name": "Escudo — Cabo Verde",
+      "sectionId": "CPV"
+    },
+    {
+      "id": "axl2026_096",
+      "number": "96",
+      "name": "Ryan Mendes",
+      "sectionId": "CPV"
+    },
+    {
+      "id": "axl2026_097",
+      "number": "97",
+      "name": "Logan Costa",
+      "sectionId": "CPV"
+    },
+    {
+      "id": "axl2026_098",
+      "number": "98",
+      "name": "Pico",
+      "sectionId": "CPV"
+    },
+    {
+      "id": "axl2026_099",
+      "number": "99",
+      "name": "Steven Moreira",
+      "sectionId": "CPV"
+    },
+    {
+      "id": "axl2026_100",
+      "number": "100",
+      "name": "João Paulo",
+      "sectionId": "CPV"
+    },
+    {
+      "id": "axl2026_101",
+      "number": "101",
+      "name": "Kevin Pina",
+      "sectionId": "CPV"
+    },
+    {
+      "id": "axl2026_102",
+      "number": "102",
+      "name": "Jamiro Monteiro",
+      "sectionId": "CPV"
+    },
+    {
+      "id": "axl2026_103",
+      "number": "103",
+      "name": "Yannick Semedo",
+      "sectionId": "CPV"
+    },
+    {
+      "id": "axl2026_104",
+      "number": "104",
+      "name": "Jovane Cabral",
+      "sectionId": "CPV"
+    },
+    {
+      "id": "axl2026_105",
+      "number": "105",
+      "name": "Dailon Livramento",
+      "sectionId": "CPV"
+    },
+    {
+      "id": "axl2026_106",
+      "number": "106",
+      "name": "Luis Díaz",
+      "sectionId": "COL"
+    },
+    {
+      "id": "axl2026_107",
+      "number": "107",
+      "name": "Escudo — Colômbia",
+      "sectionId": "COL"
+    },
+    {
+      "id": "axl2026_108",
+      "number": "108",
+      "name": "James Rodríguez",
+      "sectionId": "COL"
+    },
+    {
+      "id": "axl2026_109",
+      "number": "109",
+      "name": "Camilo Vargas",
+      "sectionId": "COL"
+    },
+    {
+      "id": "axl2026_110",
+      "number": "110",
+      "name": "Dávinson Sánchez",
+      "sectionId": "COL"
+    },
+    {
+      "id": "axl2026_111",
+      "number": "111",
+      "name": "Yerry Mina",
+      "sectionId": "COL"
+    },
+    {
+      "id": "axl2026_112",
+      "number": "112",
+      "name": "Daniel Muñoz",
+      "sectionId": "COL"
+    },
+    {
+      "id": "axl2026_113",
+      "number": "113",
+      "name": "Jefferson Lerma",
+      "sectionId": "COL"
+    },
+    {
+      "id": "axl2026_114",
+      "number": "114",
+      "name": "Richard Ríos",
+      "sectionId": "COL"
+    },
+    {
+      "id": "axl2026_115",
+      "number": "115",
+      "name": "Juan Fernando Quintero",
+      "sectionId": "COL"
+    },
+    {
+      "id": "axl2026_116",
+      "number": "116",
+      "name": "Jhon Arias",
+      "sectionId": "COL"
+    },
+    {
+      "id": "axl2026_117",
+      "number": "117",
+      "name": "Luis Suárez",
+      "sectionId": "COL"
+    },
+    {
+      "id": "axl2026_118",
+      "number": "118",
+      "name": "Ivan Perišić",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2026_119",
+      "number": "119",
+      "name": "Escudo — Croácia",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2026_120",
+      "number": "120",
+      "name": "Luka Modrić",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2026_121",
+      "number": "121",
+      "name": "Dominik Livaković",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2026_122",
+      "number": "122",
+      "name": "Duje Ćaleta-Car",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2026_123",
+      "number": "123",
+      "name": "Joško Gvardiol",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2026_124",
+      "number": "124",
+      "name": "Josip Stanišić",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2026_125",
+      "number": "125",
+      "name": "Mateo Kovačić",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2026_126",
+      "number": "126",
+      "name": "Lovro Majer",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2026_127",
+      "number": "127",
+      "name": "Mario Pašalić",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2026_128",
+      "number": "128",
+      "name": "Ante Budimir",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2026_129",
+      "number": "129",
+      "name": "Andrej Kramarić",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2026_130",
+      "number": "130",
+      "name": "Juriën Gaari",
+      "sectionId": "CUW"
+    },
+    {
+      "id": "axl2026_131",
+      "number": "131",
+      "name": "Escudo — Curaçao",
+      "sectionId": "CUW"
+    },
+    {
+      "id": "axl2026_132",
+      "number": "132",
+      "name": "Leandro Bacuna",
+      "sectionId": "CUW"
+    },
+    {
+      "id": "axl2026_133",
+      "number": "133",
+      "name": "Eloy Room",
+      "sectionId": "CUW"
+    },
+    {
+      "id": "axl2026_134",
+      "number": "134",
+      "name": "Sherel Floranus",
+      "sectionId": "CUW"
+    },
+    {
+      "id": "axl2026_135",
+      "number": "135",
+      "name": "Roshon van Eijma",
+      "sectionId": "CUW"
+    },
+    {
+      "id": "axl2026_136",
+      "number": "136",
+      "name": "Armando Obispo",
+      "sectionId": "CUW"
+    },
+    {
+      "id": "axl2026_137",
+      "number": "137",
+      "name": "Livano Comenencia",
+      "sectionId": "CUW"
+    },
+    {
+      "id": "axl2026_138",
+      "number": "138",
+      "name": "Juninho Bacuna",
+      "sectionId": "CUW"
+    },
+    {
+      "id": "axl2026_139",
+      "number": "139",
+      "name": "Kenji Gorré",
+      "sectionId": "CUW"
+    },
+    {
+      "id": "axl2026_140",
+      "number": "140",
+      "name": "Sontje Hansen",
+      "sectionId": "CUW"
+    },
+    {
+      "id": "axl2026_141",
+      "number": "141",
+      "name": "Jearl Margaritha",
+      "sectionId": "CUW"
+    },
+    {
+      "id": "axl2026_142",
+      "number": "142",
+      "name": "Moisés Caicedo",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2026_143",
+      "number": "143",
+      "name": "Escudo — Equador",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2026_144",
+      "number": "144",
+      "name": "Enner Valencia",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2026_145",
+      "number": "145",
+      "name": "Hernán Galíndez",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2026_146",
+      "number": "146",
+      "name": "Piero Hincapié",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2026_147",
+      "number": "147",
+      "name": "Pervis Estupiñán",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2026_148",
+      "number": "148",
+      "name": "Willian Pacho",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2026_149",
+      "number": "149",
+      "name": "Ángelo Preciado",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2026_150",
+      "number": "150",
+      "name": "Joel Ordóñez",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2026_151",
+      "number": "151",
+      "name": "Alan Franco",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2026_152",
+      "number": "152",
+      "name": "Gonzalo Plata",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2026_153",
+      "number": "153",
+      "name": "Kevin Rodríguez",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2026_154",
+      "number": "154",
+      "name": "Omar Marmoush",
+      "sectionId": "EGY"
+    },
+    {
+      "id": "axl2026_155",
+      "number": "155",
+      "name": "Escudo — Egito",
+      "sectionId": "EGY"
+    },
+    {
+      "id": "axl2026_156",
+      "number": "156",
+      "name": "Mohamed Salah",
+      "sectionId": "EGY"
+    },
+    {
+      "id": "axl2026_157",
+      "number": "157",
+      "name": "Mohamed El Shenawy",
+      "sectionId": "EGY"
+    },
+    {
+      "id": "axl2026_158",
+      "number": "158",
+      "name": "Mohamed Hany",
+      "sectionId": "EGY"
+    },
+    {
+      "id": "axl2026_159",
+      "number": "159",
+      "name": "Mohamed Abdelmonem",
+      "sectionId": "EGY"
+    },
+    {
+      "id": "axl2026_160",
+      "number": "160",
+      "name": "Ramy Rabia",
+      "sectionId": "EGY"
+    },
+    {
+      "id": "axl2026_161",
+      "number": "161",
+      "name": "Marwan Attia",
+      "sectionId": "EGY"
+    },
+    {
+      "id": "axl2026_162",
+      "number": "162",
+      "name": "Zizo",
+      "sectionId": "EGY"
+    },
+    {
+      "id": "axl2026_163",
+      "number": "163",
+      "name": "Hamdy Fathy",
+      "sectionId": "EGY"
+    },
+    {
+      "id": "axl2026_164",
+      "number": "164",
+      "name": "Mostafa Mohamed",
+      "sectionId": "EGY"
+    },
+    {
+      "id": "axl2026_165",
+      "number": "165",
+      "name": "Trézéguet",
+      "sectionId": "EGY"
+    },
+    {
+      "id": "axl2026_166",
+      "number": "166",
+      "name": "Jude Bellingham",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2026_167",
+      "number": "167",
+      "name": "Escudo — Inglaterra",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2026_168",
+      "number": "168",
+      "name": "Harry Kane",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2026_169",
+      "number": "169",
+      "name": "Jordan Pickford",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2026_170",
+      "number": "170",
+      "name": "Reece James",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2026_171",
+      "number": "171",
+      "name": "John Stones",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2026_172",
+      "number": "172",
+      "name": "Declan Rice",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2026_173",
+      "number": "173",
+      "name": "Jordan Henderson",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2026_174",
+      "number": "174",
+      "name": "Phil Foden",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2026_175",
+      "number": "175",
+      "name": "Bukayo Saka",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2026_176",
+      "number": "176",
+      "name": "Cole Palmer",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2026_177",
+      "number": "177",
+      "name": "Marcus Rashford",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2026_178",
+      "number": "178",
+      "name": "Ousmane Dembélé",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2026_179",
+      "number": "179",
+      "name": "Escudo — França",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2026_180",
+      "number": "180",
+      "name": "Kylian Mbappé",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2026_181",
+      "number": "181",
+      "name": "Mike Maignan",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2026_182",
+      "number": "182",
+      "name": "William Saliba",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2026_183",
+      "number": "183",
+      "name": "Jules Koundé",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2026_184",
+      "number": "184",
+      "name": "Théo Hernández",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2026_185",
+      "number": "185",
+      "name": "Aurélien Tchouaméni",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2026_186",
+      "number": "186",
+      "name": "Eduardo Camavinga",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2026_187",
+      "number": "187",
+      "name": "Bradley Barcola",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2026_188",
+      "number": "188",
+      "name": "Marcus Thuram",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2026_189",
+      "number": "189",
+      "name": "Randal Kolo Muani",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2026_190",
+      "number": "190",
+      "name": "Jamal Musiala",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2026_191",
+      "number": "191",
+      "name": "Escudo — Alemanha",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2026_192",
+      "number": "192",
+      "name": "Joshua Kimmich",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2026_193",
+      "number": "193",
+      "name": "Marc-André ter Stegen",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2026_194",
+      "number": "194",
+      "name": "Antonio Rüdiger",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2026_195",
+      "number": "195",
+      "name": "Jonathan Tah",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2026_196",
+      "number": "196",
+      "name": "Felix Nmecha",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2026_197",
+      "number": "197",
+      "name": "Leon Goretzka",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2026_198",
+      "number": "198",
+      "name": "Florian Wirtz",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2026_199",
+      "number": "199",
+      "name": "Serge Gnabry",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2026_200",
+      "number": "200",
+      "name": "Kai Havertz",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2026_201",
+      "number": "201",
+      "name": "Leroy Sané",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2026_202",
+      "number": "202",
+      "name": "Thomas Partey",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2026_203",
+      "number": "203",
+      "name": "Escudo — Gana",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2026_204",
+      "number": "204",
+      "name": "Mohammed Kudus",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2026_205",
+      "number": "205",
+      "name": "Lawrence Ati Zigi",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2026_206",
+      "number": "206",
+      "name": "Alidu Seidu",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2026_207",
+      "number": "207",
+      "name": "Alexander Djiku",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2026_208",
+      "number": "208",
+      "name": "Gideon Mensah",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2026_209",
+      "number": "209",
+      "name": "Caleb Yirenkyi",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2026_210",
+      "number": "210",
+      "name": "Abdul Issahaku Fatawu",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2026_211",
+      "number": "211",
+      "name": "Kamaldeen Sulemana",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2026_212",
+      "number": "212",
+      "name": "Jordan Ayew",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2026_213",
+      "number": "213",
+      "name": "Antoine Semenyo",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2026_214",
+      "number": "214",
+      "name": "Frantzdy Pierrot",
+      "sectionId": "HAI"
+    },
+    {
+      "id": "axl2026_215",
+      "number": "215",
+      "name": "Escudo — Haiti",
+      "sectionId": "HAI"
+    },
+    {
+      "id": "axl2026_216",
+      "number": "216",
+      "name": "Duckens Nazon",
+      "sectionId": "HAI"
+    },
+    {
+      "id": "axl2026_217",
+      "number": "217",
+      "name": "Johny Placide",
+      "sectionId": "HAI"
+    },
+    {
+      "id": "axl2026_218",
+      "number": "218",
+      "name": "Ricardo Adé",
+      "sectionId": "HAI"
+    },
+    {
+      "id": "axl2026_219",
+      "number": "219",
+      "name": "Carlens Arcus",
+      "sectionId": "HAI"
+    },
+    {
+      "id": "axl2026_220",
+      "number": "220",
+      "name": "Hannes Delcroix",
+      "sectionId": "HAI"
+    },
+    {
+      "id": "axl2026_221",
+      "number": "221",
+      "name": "Leverton Pierre",
+      "sectionId": "HAI"
+    },
+    {
+      "id": "axl2026_222",
+      "number": "222",
+      "name": "Danley Jean Jacques",
+      "sectionId": "HAI"
+    },
+    {
+      "id": "axl2026_223",
+      "number": "223",
+      "name": "Jean-Ricner Bellegarde",
+      "sectionId": "HAI"
+    },
+    {
+      "id": "axl2026_224",
+      "number": "224",
+      "name": "Ruben Providence",
+      "sectionId": "HAI"
+    },
+    {
+      "id": "axl2026_225",
+      "number": "225",
+      "name": "Don Deedson Louicius",
+      "sectionId": "HAI"
+    },
+    {
+      "id": "axl2026_226",
+      "number": "226",
+      "name": "Mehdi Taremi",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2026_227",
+      "number": "227",
+      "name": "Escudo — Irã",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2026_228",
+      "number": "228",
+      "name": "Sardar Azmoun",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2026_229",
+      "number": "229",
+      "name": "Alireza Beiranvand",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2026_230",
+      "number": "230",
+      "name": "Shoja Khalilzadeh",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2026_231",
+      "number": "231",
+      "name": "Milad Mohammadi",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2026_232",
+      "number": "232",
+      "name": "Ramin Rezaeian",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2026_233",
+      "number": "233",
+      "name": "Hossein Kanaani",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2026_234",
+      "number": "234",
+      "name": "Saeid Ezatolahi",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2026_235",
+      "number": "235",
+      "name": "Saman Ghoddos",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2026_236",
+      "number": "236",
+      "name": "Mohammad Mohebi",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2026_237",
+      "number": "237",
+      "name": "Alireza Jahanbakhsh",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2026_238",
+      "number": "238",
+      "name": "Franck Kessié",
+      "sectionId": "CIV"
+    },
+    {
+      "id": "axl2026_239",
+      "number": "239",
+      "name": "Escudo — Costa do Marfim",
+      "sectionId": "CIV"
+    },
+    {
+      "id": "axl2026_240",
+      "number": "240",
+      "name": "Sébastien Haller",
+      "sectionId": "CIV"
+    },
+    {
+      "id": "axl2026_241",
+      "number": "241",
+      "name": "Yahia Fofana",
+      "sectionId": "CIV"
+    },
+    {
+      "id": "axl2026_242",
+      "number": "242",
+      "name": "Ghislain Konan",
+      "sectionId": "CIV"
+    },
+    {
+      "id": "axl2026_243",
+      "number": "243",
+      "name": "Odilon Kossounou",
+      "sectionId": "CIV"
+    },
+    {
+      "id": "axl2026_244",
+      "number": "244",
+      "name": "Evan N'Dicka",
+      "sectionId": "CIV"
+    },
+    {
+      "id": "axl2026_245",
+      "number": "245",
+      "name": "Wilfried Singo",
+      "sectionId": "CIV"
+    },
+    {
+      "id": "axl2026_246",
+      "number": "246",
+      "name": "Ibrahim Sangaré",
+      "sectionId": "CIV"
+    },
+    {
+      "id": "axl2026_247",
+      "number": "247",
+      "name": "Nicolas Pépé",
+      "sectionId": "CIV"
+    },
+    {
+      "id": "axl2026_248",
+      "number": "248",
+      "name": "Simon Adingra",
+      "sectionId": "CIV"
+    },
+    {
+      "id": "axl2026_249",
+      "number": "249",
+      "name": "Oumar Diakité",
+      "sectionId": "CIV"
+    },
+    {
+      "id": "axl2026_250",
+      "number": "250",
+      "name": "Takumi Minamino",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2026_251",
+      "number": "251",
+      "name": "Escudo — Japão",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2026_252",
+      "number": "252",
+      "name": "Takefusa Kubo",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2026_253",
+      "number": "253",
+      "name": "Zion Suzuki",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2026_254",
+      "number": "254",
+      "name": "Tsuyoshi Watanabe",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2026_255",
+      "number": "255",
+      "name": "Kaishu Sano",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2026_256",
+      "number": "256",
+      "name": "Ao Tanaka",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2026_257",
+      "number": "257",
+      "name": "Daichi Kamada",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2026_258",
+      "number": "258",
+      "name": "Ritsu Doan",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2026_259",
+      "number": "259",
+      "name": "Keito Nakamura",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2026_260",
+      "number": "260",
+      "name": "Shuto Machino",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2026_261",
+      "number": "261",
+      "name": "Ayase Ueda",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2026_262",
+      "number": "262",
+      "name": "Yazan Al-Naimat",
+      "sectionId": "JOR"
+    },
+    {
+      "id": "axl2026_263",
+      "number": "263",
+      "name": "Escudo — Jordânia",
+      "sectionId": "JOR"
+    },
+    {
+      "id": "axl2026_264",
+      "number": "264",
+      "name": "Musa Al-Taamari",
+      "sectionId": "JOR"
+    },
+    {
+      "id": "axl2026_265",
+      "number": "265",
+      "name": "Yazeed Abulaila",
+      "sectionId": "JOR"
+    },
+    {
+      "id": "axl2026_266",
+      "number": "266",
+      "name": "Mohammad Abu Hashish",
+      "sectionId": "JOR"
+    },
+    {
+      "id": "axl2026_267",
+      "number": "267",
+      "name": "Yazan Al-Arab",
+      "sectionId": "JOR"
+    },
+    {
+      "id": "axl2026_268",
+      "number": "268",
+      "name": "Abdallah Nasib",
+      "sectionId": "JOR"
+    },
+    {
+      "id": "axl2026_269",
+      "number": "269",
+      "name": "Ibrahim Saadeh",
+      "sectionId": "JOR"
+    },
+    {
+      "id": "axl2026_270",
+      "number": "270",
+      "name": "Nizar Al-Rashdan",
+      "sectionId": "JOR"
+    },
+    {
+      "id": "axl2026_271",
+      "number": "271",
+      "name": "Noor Al-Rawabdeh",
+      "sectionId": "JOR"
+    },
+    {
+      "id": "axl2026_272",
+      "number": "272",
+      "name": "Mahmoud Al-Mardi",
+      "sectionId": "JOR"
+    },
+    {
+      "id": "axl2026_273",
+      "number": "273",
+      "name": "Ali Olwan",
+      "sectionId": "JOR"
+    },
+    {
+      "id": "axl2026_274",
+      "number": "274",
+      "name": "Min-jae Kim",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2026_275",
+      "number": "275",
+      "name": "Escudo — Coreia do Sul",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2026_276",
+      "number": "276",
+      "name": "Heung-min Son",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2026_277",
+      "number": "277",
+      "name": "Hyeon-woo Jo",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2026_278",
+      "number": "278",
+      "name": "Young-woo Seol",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2026_279",
+      "number": "279",
+      "name": "Yu-min Cho",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2026_280",
+      "number": "280",
+      "name": "Tae-seok Lee",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2026_281",
+      "number": "281",
+      "name": "In-beom Hwang",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2026_282",
+      "number": "282",
+      "name": "Jae-sung Lee",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2026_283",
+      "number": "283",
+      "name": "Kang-in Lee",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2026_284",
+      "number": "284",
+      "name": "Hyeon-gyu Oh",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2026_285",
+      "number": "285",
+      "name": "Hee-chan Hwang",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2026_286",
+      "number": "286",
+      "name": "Edson Álvarez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2026_287",
+      "number": "287",
+      "name": "Escudo — México",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2026_288",
+      "number": "288",
+      "name": "Raúl Jiménez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2026_289",
+      "number": "289",
+      "name": "Luis Malagón",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2026_290",
+      "number": "290",
+      "name": "Israel Reyes",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2026_291",
+      "number": "291",
+      "name": "Johan Vásquez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2026_292",
+      "number": "292",
+      "name": "César Montes",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2026_293",
+      "number": "293",
+      "name": "Jesús Gallardo",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2026_294",
+      "number": "294",
+      "name": "Carlos Rodríguez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2026_295",
+      "number": "295",
+      "name": "Orbelín Pineda",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2026_296",
+      "number": "296",
+      "name": "Hirving Lozano",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2026_297",
+      "number": "297",
+      "name": "Santiago Giménez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2026_298",
+      "number": "298",
+      "name": "Youssef En-Nesyri",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2026_299",
+      "number": "299",
+      "name": "Escudo — Marrocos",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2026_300",
+      "number": "300",
+      "name": "Achraf Hakimi",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2026_301",
+      "number": "301",
+      "name": "Yassine Bounou",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2026_302",
+      "number": "302",
+      "name": "Noussair Mazraoui",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2026_303",
+      "number": "303",
+      "name": "Nayef Aguerd",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2026_304",
+      "number": "304",
+      "name": "Sofyan Amrabat",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2026_305",
+      "number": "305",
+      "name": "Eliesse Ben Seghir",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2026_306",
+      "number": "306",
+      "name": "Ismael Saibari",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2026_307",
+      "number": "307",
+      "name": "Brahim Díaz",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2026_308",
+      "number": "308",
+      "name": "Abde Ezzalzouli",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2026_309",
+      "number": "309",
+      "name": "Ayoub El Kaabi",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2026_310",
+      "number": "310",
+      "name": "Memphis Depay",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2026_311",
+      "number": "311",
+      "name": "Escudo — Países Baixos",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2026_312",
+      "number": "312",
+      "name": "Virgil van Dijk",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2026_313",
+      "number": "313",
+      "name": "Bart Verbruggen",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2026_314",
+      "number": "314",
+      "name": "Nathan Aké",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2026_315",
+      "number": "315",
+      "name": "Jeremie Frimpong",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2026_316",
+      "number": "316",
+      "name": "Denzel Dumfries",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2026_317",
+      "number": "317",
+      "name": "Tijjani Reijnders",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2026_318",
+      "number": "318",
+      "name": "Ryan Gravenberch",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2026_319",
+      "number": "319",
+      "name": "Cody Gakpo",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2026_320",
+      "number": "320",
+      "name": "Donyell Malen",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2026_321",
+      "number": "321",
+      "name": "Wout Weghorst",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2026_322",
+      "number": "322",
+      "name": "Marco Stamenic",
+      "sectionId": "NZL"
+    },
+    {
+      "id": "axl2026_323",
+      "number": "323",
+      "name": "Escudo — Nova Zelândia",
+      "sectionId": "NZL"
+    },
+    {
+      "id": "axl2026_324",
+      "number": "324",
+      "name": "Chris Wood",
+      "sectionId": "NZL"
+    },
+    {
+      "id": "axl2026_325",
+      "number": "325",
+      "name": "Max Crocombe",
+      "sectionId": "NZL"
+    },
+    {
+      "id": "axl2026_326",
+      "number": "326",
+      "name": "Michael Boxall",
+      "sectionId": "NZL"
+    },
+    {
+      "id": "axl2026_327",
+      "number": "327",
+      "name": "Liberato Cacace",
+      "sectionId": "NZL"
+    },
+    {
+      "id": "axl2026_328",
+      "number": "328",
+      "name": "Tim Payne",
+      "sectionId": "NZL"
+    },
+    {
+      "id": "axl2026_329",
+      "number": "329",
+      "name": "Finn Surman",
+      "sectionId": "NZL"
+    },
+    {
+      "id": "axl2026_330",
+      "number": "330",
+      "name": "Joe Bell",
+      "sectionId": "NZL"
+    },
+    {
+      "id": "axl2026_331",
+      "number": "331",
+      "name": "Sarpreet Singh",
+      "sectionId": "NZL"
+    },
+    {
+      "id": "axl2026_332",
+      "number": "332",
+      "name": "Matt Garbett",
+      "sectionId": "NZL"
+    },
+    {
+      "id": "axl2026_333",
+      "number": "333",
+      "name": "Elijah Just",
+      "sectionId": "NZL"
+    },
+    {
+      "id": "axl2026_334",
+      "number": "334",
+      "name": "Martin Ødegaard",
+      "sectionId": "NOR"
+    },
+    {
+      "id": "axl2026_335",
+      "number": "335",
+      "name": "Escudo — Noruega",
+      "sectionId": "NOR"
+    },
+    {
+      "id": "axl2026_336",
+      "number": "336",
+      "name": "Erling Haaland",
+      "sectionId": "NOR"
+    },
+    {
+      "id": "axl2026_337",
+      "number": "337",
+      "name": "Ørjan Nyland",
+      "sectionId": "NOR"
+    },
+    {
+      "id": "axl2026_338",
+      "number": "338",
+      "name": "Julian Ryerson",
+      "sectionId": "NOR"
+    },
+    {
+      "id": "axl2026_339",
+      "number": "339",
+      "name": "Kristoffer Vassbakk Ajer",
+      "sectionId": "NOR"
+    },
+    {
+      "id": "axl2026_340",
+      "number": "340",
+      "name": "David Møller Wolfe",
+      "sectionId": "NOR"
+    },
+    {
+      "id": "axl2026_341",
+      "number": "341",
+      "name": "Sander Berge",
+      "sectionId": "NOR"
+    },
+    {
+      "id": "axl2026_342",
+      "number": "342",
+      "name": "Patrick Berg",
+      "sectionId": "NOR"
+    },
+    {
+      "id": "axl2026_343",
+      "number": "343",
+      "name": "Antonio Nusa",
+      "sectionId": "NOR"
+    },
+    {
+      "id": "axl2026_344",
+      "number": "344",
+      "name": "Oscar Bobb",
+      "sectionId": "NOR"
+    },
+    {
+      "id": "axl2026_345",
+      "number": "345",
+      "name": "Alexander Sørloth",
+      "sectionId": "NOR"
+    },
+    {
+      "id": "axl2026_346",
+      "number": "346",
+      "name": "Michel Amir Murillo",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "axl2026_347",
+      "number": "347",
+      "name": "Escudo — Panamá",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "axl2026_348",
+      "number": "348",
+      "name": "Aníbal Godoy",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "axl2026_349",
+      "number": "349",
+      "name": "Orlando Mosquera",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "axl2026_350",
+      "number": "350",
+      "name": "Andrés Andrade",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "axl2026_351",
+      "number": "351",
+      "name": "Fidel Escobar",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "axl2026_352",
+      "number": "352",
+      "name": "Cristian Martínez",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "axl2026_353",
+      "number": "353",
+      "name": "Adalberto Carrasquilla",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "axl2026_354",
+      "number": "354",
+      "name": "Édgar Bárcenas",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "axl2026_355",
+      "number": "355",
+      "name": "José Fajardo",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "axl2026_356",
+      "number": "356",
+      "name": "Ismael Díaz",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "axl2026_357",
+      "number": "357",
+      "name": "José Luis Rodríguez",
+      "sectionId": "PAN"
+    },
+    {
+      "id": "axl2026_358",
+      "number": "358",
+      "name": "Gustavo Gómez",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "axl2026_359",
+      "number": "359",
+      "name": "Escudo — Paraguai",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "axl2026_360",
+      "number": "360",
+      "name": "Miguel Almirón",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "axl2026_361",
+      "number": "361",
+      "name": "Roberto Fernández",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "axl2026_362",
+      "number": "362",
+      "name": "Juan José Cáceres",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "axl2026_363",
+      "number": "363",
+      "name": "Omar Alderete",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "axl2026_364",
+      "number": "364",
+      "name": "Júnior Alonso",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "axl2026_365",
+      "number": "365",
+      "name": "Andrés Cubas",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "axl2026_366",
+      "number": "366",
+      "name": "Mathías Villasanti",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "axl2026_367",
+      "number": "367",
+      "name": "Julio Enciso",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "axl2026_368",
+      "number": "368",
+      "name": "Ramón Sosa",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "axl2026_369",
+      "number": "369",
+      "name": "Antonio Sanabria",
+      "sectionId": "PAR"
+    },
+    {
+      "id": "axl2026_370",
+      "number": "370",
+      "name": "Vitinha",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2026_371",
+      "number": "371",
+      "name": "Escudo — Portugal",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2026_372",
+      "number": "372",
+      "name": "Cristiano Ronaldo",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2026_373",
+      "number": "373",
+      "name": "Diogo Costa",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2026_374",
+      "number": "374",
+      "name": "Rúben Dias",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2026_375",
+      "number": "375",
+      "name": "Nuno Mendes",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2026_376",
+      "number": "376",
+      "name": "Bernardo Silva",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2026_377",
+      "number": "377",
+      "name": "Bruno Fernandes",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2026_378",
+      "number": "378",
+      "name": "Rúben Neves",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2026_379",
+      "number": "379",
+      "name": "Francisco Conceição",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2026_380",
+      "number": "380",
+      "name": "Pedro Neto",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2026_381",
+      "number": "381",
+      "name": "Rafael Leão",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2026_382",
+      "number": "382",
+      "name": "Almoez Ali",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2026_383",
+      "number": "383",
+      "name": "Escudo — Catar",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2026_384",
+      "number": "384",
+      "name": "Hasan Al-Haydos",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2026_385",
+      "number": "385",
+      "name": "Meshaal Barsham",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2026_386",
+      "number": "386",
+      "name": "Boualem Khoukhi",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2026_387",
+      "number": "387",
+      "name": "Lucas Mendes",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2026_388",
+      "number": "388",
+      "name": "Pedro Miguel",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2026_389",
+      "number": "389",
+      "name": "Homam Al-Amin",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2026_390",
+      "number": "390",
+      "name": "Ahmed Fathi",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2026_391",
+      "number": "391",
+      "name": "Edmílson Junior",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2026_392",
+      "number": "392",
+      "name": "Ahmed Al-Ganehi",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2026_393",
+      "number": "393",
+      "name": "Akram Hassan Afif",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2026_394",
+      "number": "394",
+      "name": "Feras Albrikan",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2026_395",
+      "number": "395",
+      "name": "Escudo — Arábia Saudita",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2026_396",
+      "number": "396",
+      "name": "Salem Al-Dawsari",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2026_397",
+      "number": "397",
+      "name": "Nawaf Alaqidi",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2026_398",
+      "number": "398",
+      "name": "Hassan Altambakti",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2026_399",
+      "number": "399",
+      "name": "Jehad Thikri",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2026_400",
+      "number": "400",
+      "name": "Saud Abdulhamid",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2026_401",
+      "number": "401",
+      "name": "Nasser Aldawsari",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2026_402",
+      "number": "402",
+      "name": "Abdullah Alkhaibari",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2026_403",
+      "number": "403",
+      "name": "Musab Aljuwayr",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2026_404",
+      "number": "404",
+      "name": "Saleh Abu Alshamat",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2026_405",
+      "number": "405",
+      "name": "Saleh Alshehri",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2026_406",
+      "number": "406",
+      "name": "Scott McTominay",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2026_407",
+      "number": "407",
+      "name": "Escudo — Escócia",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2026_408",
+      "number": "408",
+      "name": "Andrew Robertson",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2026_409",
+      "number": "409",
+      "name": "Angus Gunn",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2026_410",
+      "number": "410",
+      "name": "Kieran Tierney",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2026_411",
+      "number": "411",
+      "name": "Grant Hanley",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2026_412",
+      "number": "412",
+      "name": "Billy Gilmour",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2026_413",
+      "number": "413",
+      "name": "Lewis Ferguson",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2026_414",
+      "number": "414",
+      "name": "Ryan Christie",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2026_415",
+      "number": "415",
+      "name": "John McGinn",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2026_416",
+      "number": "416",
+      "name": "Ben Gannon-Doak",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2026_417",
+      "number": "417",
+      "name": "Ché Adams",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2026_418",
+      "number": "418",
+      "name": "Kalidou Koulibaly",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2026_419",
+      "number": "419",
+      "name": "Escudo — Senegal",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2026_420",
+      "number": "420",
+      "name": "Sadio Mané",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2026_421",
+      "number": "421",
+      "name": "Edouard Mendy",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2026_422",
+      "number": "422",
+      "name": "Moussa Niakhaté",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2026_423",
+      "number": "423",
+      "name": "El Hadji Malick Diouf",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2026_424",
+      "number": "424",
+      "name": "Idrissa Gana Gueye",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2026_425",
+      "number": "425",
+      "name": "Pape Matar Sarr",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2026_426",
+      "number": "426",
+      "name": "Iliman Ndiaye",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2026_427",
+      "number": "427",
+      "name": "Krépin Diatta",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2026_428",
+      "number": "428",
+      "name": "Ismaïla Sarr",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2026_429",
+      "number": "429",
+      "name": "Nicolas Jackson",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2026_430",
+      "number": "430",
+      "name": "Lyle Foster",
+      "sectionId": "RSA"
+    },
+    {
+      "id": "axl2026_431",
+      "number": "431",
+      "name": "Escudo — África do Sul",
+      "sectionId": "RSA"
+    },
+    {
+      "id": "axl2026_432",
+      "number": "432",
+      "name": "Ronwen Williams",
+      "sectionId": "RSA"
+    },
+    {
+      "id": "axl2026_433",
+      "number": "433",
+      "name": "Siyabonga Ngezana",
+      "sectionId": "RSA"
+    },
+    {
+      "id": "axl2026_434",
+      "number": "434",
+      "name": "Aubrey Modiba",
+      "sectionId": "RSA"
+    },
+    {
+      "id": "axl2026_435",
+      "number": "435",
+      "name": "Mbekezeli Mbokazi",
+      "sectionId": "RSA"
+    },
+    {
+      "id": "axl2026_436",
+      "number": "436",
+      "name": "Khuliso Mudau",
+      "sectionId": "RSA"
+    },
+    {
+      "id": "axl2026_437",
+      "number": "437",
+      "name": "Teboho Mokoena",
+      "sectionId": "RSA"
+    },
+    {
+      "id": "axl2026_438",
+      "number": "438",
+      "name": "Yaya Sithole",
+      "sectionId": "RSA"
+    },
+    {
+      "id": "axl2026_439",
+      "number": "439",
+      "name": "Themba Zwane",
+      "sectionId": "RSA"
+    },
+    {
+      "id": "axl2026_440",
+      "number": "440",
+      "name": "Oswin Appollis",
+      "sectionId": "RSA"
+    },
+    {
+      "id": "axl2026_441",
+      "number": "441",
+      "name": "Iqraam Rayners",
+      "sectionId": "RSA"
+    },
+    {
+      "id": "axl2026_442",
+      "number": "442",
+      "name": "Lamine Yamal",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2026_443",
+      "number": "443",
+      "name": "Escudo — Espanha",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2026_444",
+      "number": "444",
+      "name": "Rodri",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2026_445",
+      "number": "445",
+      "name": "Unai Simón",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2026_446",
+      "number": "446",
+      "name": "Robin Le Normand",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2026_447",
+      "number": "447",
+      "name": "Dean Huijsen",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2026_448",
+      "number": "448",
+      "name": "Marc Cucurella",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2026_449",
+      "number": "449",
+      "name": "Martín Zubimendi",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2026_450",
+      "number": "450",
+      "name": "Pedri",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2026_451",
+      "number": "451",
+      "name": "Fabián Ruiz",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2026_452",
+      "number": "452",
+      "name": "Nico Williams",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2026_453",
+      "number": "453",
+      "name": "Mikel Oyarzabal",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2026_454",
+      "number": "454",
+      "name": "Manuel Akanji",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2026_455",
+      "number": "455",
+      "name": "Escudo — Suíça",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2026_456",
+      "number": "456",
+      "name": "Granit Xhaka",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2026_457",
+      "number": "457",
+      "name": "Gregor Kobel",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2026_458",
+      "number": "458",
+      "name": "Nico Elvedi",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2026_459",
+      "number": "459",
+      "name": "Ricardo Rodríguez",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2026_460",
+      "number": "460",
+      "name": "Silvan Widmer",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2026_461",
+      "number": "461",
+      "name": "Denis Zakaria",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2026_462",
+      "number": "462",
+      "name": "Remo Freuler",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2026_463",
+      "number": "463",
+      "name": "Breel Embolo",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2026_464",
+      "number": "464",
+      "name": "Rubén Vargas",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2026_465",
+      "number": "465",
+      "name": "Dan Ndoye",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2026_466",
+      "number": "466",
+      "name": "Ferjani Sassi",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2026_467",
+      "number": "467",
+      "name": "Escudo — Tunísia",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2026_468",
+      "number": "468",
+      "name": "Ellyes Skhiri",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2026_469",
+      "number": "469",
+      "name": "Aymen Dahmen",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2026_470",
+      "number": "470",
+      "name": "Montassar Talbi",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2026_471",
+      "number": "471",
+      "name": "Yassine Meriah",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2026_472",
+      "number": "472",
+      "name": "Ali Abdi",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2026_473",
+      "number": "473",
+      "name": "Aïssa Laïdouni",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2026_474",
+      "number": "474",
+      "name": "Hannibal Mejbri",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2026_475",
+      "number": "475",
+      "name": "Naïm Sliti",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2026_476",
+      "number": "476",
+      "name": "Elias Achouri",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2026_477",
+      "number": "477",
+      "name": "Hazem Mastouri",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2026_478",
+      "number": "478",
+      "name": "Weston McKennie",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2026_479",
+      "number": "479",
+      "name": "Escudo — Estados Unidos",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2026_480",
+      "number": "480",
+      "name": "Christian Pulisic",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2026_481",
+      "number": "481",
+      "name": "Matt Freese",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2026_482",
+      "number": "482",
+      "name": "Chris Richards",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2026_483",
+      "number": "483",
+      "name": "Tim Ream",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2026_484",
+      "number": "484",
+      "name": "Antonee Robinson",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2026_485",
+      "number": "485",
+      "name": "Tanner Tessmann",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2026_486",
+      "number": "486",
+      "name": "Tyler Adams",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2026_487",
+      "number": "487",
+      "name": "Timothy Weah",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2026_488",
+      "number": "488",
+      "name": "Malik Tillman",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2026_489",
+      "number": "489",
+      "name": "Folarin Balogun",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2026_490",
+      "number": "490",
+      "name": "José María Giménez",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2026_491",
+      "number": "491",
+      "name": "Escudo — Uruguai",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2026_492",
+      "number": "492",
+      "name": "Federico Valverde",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2026_493",
+      "number": "493",
+      "name": "Sergio Rochet",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2026_494",
+      "number": "494",
+      "name": "Ronald Araújo",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2026_495",
+      "number": "495",
+      "name": "Sebastián Cáceres",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2026_496",
+      "number": "496",
+      "name": "Mathías Oliveira",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2026_497",
+      "number": "497",
+      "name": "Nahitan Nández",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2026_498",
+      "number": "498",
+      "name": "Rodrigo Bentancur",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2026_499",
+      "number": "499",
+      "name": "Manuel Ugarte",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2026_500",
+      "number": "500",
+      "name": "Facundo Pellistri",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2026_501",
+      "number": "501",
+      "name": "Darwin Núñez",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2026_502",
+      "number": "502",
+      "name": "Abdukodir Khusanov",
+      "sectionId": "UZB"
+    },
+    {
+      "id": "axl2026_503",
+      "number": "503",
+      "name": "Escudo — Uzbequistão",
+      "sectionId": "UZB"
+    },
+    {
+      "id": "axl2026_504",
+      "number": "504",
+      "name": "Eldor Shomurodov",
+      "sectionId": "UZB"
+    },
+    {
+      "id": "axl2026_505",
+      "number": "505",
+      "name": "Utkir Yusupov",
+      "sectionId": "UZB"
+    },
+    {
+      "id": "axl2026_506",
+      "number": "506",
+      "name": "Farrukh Sayfiev",
+      "sectionId": "UZB"
+    },
+    {
+      "id": "axl2026_507",
+      "number": "507",
+      "name": "Sherzod Nasrullaev",
+      "sectionId": "UZB"
+    },
+    {
+      "id": "axl2026_508",
+      "number": "508",
+      "name": "Husniddin Aliqulov",
+      "sectionId": "UZB"
+    },
+    {
+      "id": "axl2026_509",
+      "number": "509",
+      "name": "Rustam Ashurmatov",
+      "sectionId": "UZB"
+    },
+    {
+      "id": "axl2026_510",
+      "number": "510",
+      "name": "Khojiakbar Alijonov",
+      "sectionId": "UZB"
+    },
+    {
+      "id": "axl2026_511",
+      "number": "511",
+      "name": "Odiljon Hamrobekov",
+      "sectionId": "UZB"
+    },
+    {
+      "id": "axl2026_512",
+      "number": "512",
+      "name": "Otabek Shukurov",
+      "sectionId": "UZB"
+    },
+    {
+      "id": "axl2026_513",
+      "number": "513",
+      "name": "Abbosbek Fayzullaev",
+      "sectionId": "UZB"
+    },
+    {
+      "id": "axl2026_514",
+      "number": "514",
+      "name": "Playoffs — ITA–NIR / WAL–BIH",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_515",
+      "number": "515",
+      "name": "Playoffs — UKR–SWE / POL–ALB",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_516",
+      "number": "516",
+      "name": "Playoffs — TUR–ROU / SVK–KOS",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_517",
+      "number": "517",
+      "name": "Playoffs — DEN–MKD / CZE–IRL",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_518",
+      "number": "518",
+      "name": "Playoffs — NCL–JAM / COD",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_519",
+      "number": "519",
+      "name": "Playoffs — SUR–BOL / IRQ",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_520",
+      "number": "520",
+      "name": "Morten Hjulmand",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_521",
+      "number": "521",
+      "name": "Pierre-Emile Højbjerg",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_522",
+      "number": "522",
+      "name": "Christian Eriksen",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_523",
+      "number": "523",
+      "name": "Mikkel Damsgaard",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_524",
+      "number": "524",
+      "name": "Rasmus Højlund",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_525",
+      "number": "525",
+      "name": "Gianluigi Donnarumma",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_526",
+      "number": "526",
+      "name": "Alessandro Bastoni",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_527",
+      "number": "527",
+      "name": "Sandro Tonali",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_528",
+      "number": "528",
+      "name": "Nicolò Barella",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_529",
+      "number": "529",
+      "name": "Moise Kean",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_530",
+      "number": "530",
+      "name": "Andre Blake",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_531",
+      "number": "531",
+      "name": "Ethan Pinnock",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_532",
+      "number": "532",
+      "name": "Demarai Gray",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_533",
+      "number": "533",
+      "name": "Leon Bailey",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_534",
+      "number": "534",
+      "name": "Shamar Nicholson",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_535",
+      "number": "535",
+      "name": "Matty Cash",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_536",
+      "number": "536",
+      "name": "Jakub Kiwior",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_537",
+      "number": "537",
+      "name": "Piotr Zieliński",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_538",
+      "number": "538",
+      "name": "Sebastian Szymański",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_539",
+      "number": "539",
+      "name": "Robert Lewandowski",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_540",
+      "number": "540",
+      "name": "Isak Hien",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_541",
+      "number": "541",
+      "name": "Dejan Kulusevski",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_542",
+      "number": "542",
+      "name": "Anthony Elanga",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_543",
+      "number": "543",
+      "name": "Viktor Gyökeres",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_544",
+      "number": "544",
+      "name": "Alexander Isak",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_545",
+      "number": "545",
+      "name": "Çağlar Söyüncü",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_546",
+      "number": "546",
+      "name": "Hakan Çalhanoğlu",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_547",
+      "number": "547",
+      "name": "Arda Güler",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_548",
+      "number": "548",
+      "name": "Kenan Yildiz",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_549",
+      "number": "549",
+      "name": "Kerem Aktürkoğlu",
+      "sectionId": "contenders"
+    },
+    {
+      "id": "axl2026_550",
+      "number": "550",
+      "name": "Emiliano Martínez",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2026_551",
+      "number": "551",
+      "name": "Thibaut Courtois",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2026_552",
+      "number": "552",
+      "name": "Alisson",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2026_553",
+      "number": "553",
+      "name": "Mike Maignan",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2026_554",
+      "number": "554",
+      "name": "Zion Suzuki",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2026_555",
+      "number": "555",
+      "name": "Yassine Bounou",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2026_556",
+      "number": "556",
+      "name": "Diogo Costa",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2026_557",
+      "number": "557",
+      "name": "Unai Simón",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2026_558",
+      "number": "558",
+      "name": "Gregor Kobel",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2026_559",
+      "number": "559",
+      "name": "Éder Militão",
+      "sectionId": "defensive_rocks"
+    },
+    {
+      "id": "axl2026_560",
+      "number": "560",
+      "name": "Alphonso Davies",
+      "sectionId": "defensive_rocks"
+    },
+    {
+      "id": "axl2026_561",
+      "number": "561",
+      "name": "William Saliba",
+      "sectionId": "defensive_rocks"
+    },
+    {
+      "id": "axl2026_562",
+      "number": "562",
+      "name": "Antonio Rüdiger",
+      "sectionId": "defensive_rocks"
+    },
+    {
+      "id": "axl2026_563",
+      "number": "563",
+      "name": "Min-jae Kim",
+      "sectionId": "defensive_rocks"
+    },
+    {
+      "id": "axl2026_564",
+      "number": "564",
+      "name": "Achraf Hakimi",
+      "sectionId": "defensive_rocks"
+    },
+    {
+      "id": "axl2026_565",
+      "number": "565",
+      "name": "Virgil van Dijk",
+      "sectionId": "defensive_rocks"
+    },
+    {
+      "id": "axl2026_566",
+      "number": "566",
+      "name": "Nuno Mendes",
+      "sectionId": "defensive_rocks"
+    },
+    {
+      "id": "axl2026_567",
+      "number": "567",
+      "name": "Dean Huijsen",
+      "sectionId": "defensive_rocks"
+    },
+    {
+      "id": "axl2026_568",
+      "number": "568",
+      "name": "Enzo Fernández",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_569",
+      "number": "569",
+      "name": "Kevin de Bruyne",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_570",
+      "number": "570",
+      "name": "Casemiro",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_571",
+      "number": "571",
+      "name": "Luka Modrić",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_572",
+      "number": "572",
+      "name": "Moisés Caicedo",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_573",
+      "number": "573",
+      "name": "Jude Bellingham",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_574",
+      "number": "574",
+      "name": "Aurélien Tchouaméni",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_575",
+      "number": "575",
+      "name": "Florian Wirtz",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_576",
+      "number": "576",
+      "name": "Sofyan Amrabat",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_577",
+      "number": "577",
+      "name": "Tijjani Reijnders",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_578",
+      "number": "578",
+      "name": "Martin Ødegaard",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_579",
+      "number": "579",
+      "name": "Vitinha",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_580",
+      "number": "580",
+      "name": "Scott McTominay",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_581",
+      "number": "581",
+      "name": "Rodri",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_582",
+      "number": "582",
+      "name": "Pedri",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_583",
+      "number": "583",
+      "name": "Granit Xhaka",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_584",
+      "number": "584",
+      "name": "Tyler Adams",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_585",
+      "number": "585",
+      "name": "Federico Valverde",
+      "sectionId": "midfield_maestros"
+    },
+    {
+      "id": "axl2026_586",
+      "number": "586",
+      "name": "Julián Alvarez",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_587",
+      "number": "587",
+      "name": "Romelu Lukaku",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_588",
+      "number": "588",
+      "name": "Raphinha",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_589",
+      "number": "589",
+      "name": "Jonathan David",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_590",
+      "number": "590",
+      "name": "Luis Díaz",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_591",
+      "number": "591",
+      "name": "Andrej Kramarić",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_592",
+      "number": "592",
+      "name": "Enner Valencia",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_593",
+      "number": "593",
+      "name": "Omar Marmoush",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_594",
+      "number": "594",
+      "name": "Marcus Rashford",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_595",
+      "number": "595",
+      "name": "Randal Kolo Muani",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_596",
+      "number": "596",
+      "name": "Kai Havertz",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_597",
+      "number": "597",
+      "name": "Sébastien Haller",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_598",
+      "number": "598",
+      "name": "Raúl Jiménez",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_599",
+      "number": "599",
+      "name": "Youssef En-Nesyri",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_600",
+      "number": "600",
+      "name": "Cody Gakpo",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_601",
+      "number": "601",
+      "name": "Chris Wood",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_602",
+      "number": "602",
+      "name": "Alexander Sørloth",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_603",
+      "number": "603",
+      "name": "Nicolas Jackson",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_604",
+      "number": "604",
+      "name": "Mikel Oyarzabal",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_605",
+      "number": "605",
+      "name": "Breel Embolo",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_606",
+      "number": "606",
+      "name": "Christian Pulisic",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_607",
+      "number": "607",
+      "name": "Darwin Núñez",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2026_608",
+      "number": "608",
+      "name": "Nico Paz",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_609",
+      "number": "609",
+      "name": "Franco Mastantuono",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_610",
+      "number": "610",
+      "name": "Zeno Debast",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_611",
+      "number": "611",
+      "name": "Wesley",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_612",
+      "number": "612",
+      "name": "Estêvão",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_613",
+      "number": "613",
+      "name": "Petar Sučić",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_614",
+      "number": "614",
+      "name": "Kendry Páez",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_615",
+      "number": "615",
+      "name": "Morgan Rogers",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_616",
+      "number": "616",
+      "name": "Desiré Doué",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_617",
+      "number": "617",
+      "name": "Bradley Barcola",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_618",
+      "number": "618",
+      "name": "Nick Woltemade",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_619",
+      "number": "619",
+      "name": "Xavi Simons",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_620",
+      "number": "620",
+      "name": "Andreas Schjelderup",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_621",
+      "number": "621",
+      "name": "Gustavo Gómez",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_622",
+      "number": "622",
+      "name": "João Neves",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_623",
+      "number": "623",
+      "name": "Pau Cubarsí",
+      "sectionId": "master_rookies"
+    },
+    {
+      "id": "axl2026_624",
+      "number": "624",
+      "name": "Emblema oficial FIFA World Cup 2026",
+      "sectionId": "emblema"
+    },
+    {
+      "id": "axl2026_625",
+      "number": "625",
+      "name": "Mascote oficial — Maple",
+      "sectionId": "mascotes"
+    },
+    {
+      "id": "axl2026_626",
+      "number": "626",
+      "name": "Mascote oficial — Clutch",
+      "sectionId": "mascotes"
+    },
+    {
+      "id": "axl2026_627",
+      "number": "627",
+      "name": "Mascote oficial — Zavu",
+      "sectionId": "mascotes"
+    },
+    {
+      "id": "axl2026_628",
+      "number": "628",
+      "name": "Eternos 22 — Defensores",
+      "sectionId": "eternos22"
+    },
+    {
+      "id": "axl2026_629",
+      "number": "629",
+      "name": "Eternos 22 — Meio-campistas",
+      "sectionId": "eternos22"
+    },
+    {
+      "id": "axl2026_630",
+      "number": "630",
+      "name": "Eternos 22 — Atacantes",
+      "sectionId": "eternos22"
+    }
+  ]
+}
