@@ -1,0 +1,3168 @@
+{
+  "officialId": "panini.fwc2022.adrenalyn-xl",
+  "version": 1,
+  "name": "Copa do Mundo FIFA 2022 — Adrenalyn XL",
+  "collection": "FIFA World Cup Qatar 2022 — Adrenalyn XL",
+  "year": "2022",
+  "publisher": "Panini",
+  "availability": "online",
+  "description": "Coleção principal de 486 cards físicos. Numeração original de 1 a 495, sem os números 442–450 da Nova Zelândia, não lançados por questões de licenciamento. Não inclui Nordic Edition, edições limitadas, XXL, paralelas ou cards digitais.",
+  "plannedTotal": 486,
+  "variantCount": 0,
+  "coverAsset": "assets/album_library/imagens/adrenalyn_wc2022/capa.webp",
+  "libraryCategory": {
+    "id": "world-cup-men",
+    "name": "Copa do Mundo Masculina",
+    "order": 10
+  },
+  "sections": [
+    {
+      "id": "top_masters",
+      "name": "Top Masters",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/top_masters.png"
+    },
+    {
+      "id": "invincible",
+      "name": "Invincible",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/invincible.png"
+    },
+    {
+      "id": "rookies",
+      "name": "Rookies",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/rookies.png"
+    },
+    {
+      "id": "legends",
+      "name": "Legends",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/legends.png"
+    },
+    {
+      "id": "ARG",
+      "name": "Argentina",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/ARG.png"
+    },
+    {
+      "id": "BEL",
+      "name": "Bélgica",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/BEL.png"
+    },
+    {
+      "id": "BRA",
+      "name": "Brasil",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/BRA.png"
+    },
+    {
+      "id": "CMR",
+      "name": "Camarões",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/CMR.png"
+    },
+    {
+      "id": "CAN",
+      "name": "Canadá",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/CAN.png"
+    },
+    {
+      "id": "CRO",
+      "name": "Croácia",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/CRO.png"
+    },
+    {
+      "id": "DEN",
+      "name": "Dinamarca",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/DEN.png"
+    },
+    {
+      "id": "ECU",
+      "name": "Equador",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/ECU.png"
+    },
+    {
+      "id": "ENG",
+      "name": "Inglaterra",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/ENG.png"
+    },
+    {
+      "id": "FRA",
+      "name": "França",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/FRA.png"
+    },
+    {
+      "id": "GER",
+      "name": "Alemanha",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/GER.png"
+    },
+    {
+      "id": "GHA",
+      "name": "Gana",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/GHA.png"
+    },
+    {
+      "id": "IRN",
+      "name": "Irã",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/IRN.png"
+    },
+    {
+      "id": "JPN",
+      "name": "Japão",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/JPN.png"
+    },
+    {
+      "id": "KOR",
+      "name": "Coreia do Sul",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/KOR.png"
+    },
+    {
+      "id": "MEX",
+      "name": "México",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/MEX.png"
+    },
+    {
+      "id": "MAR",
+      "name": "Marrocos",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/MAR.png"
+    },
+    {
+      "id": "NED",
+      "name": "Países Baixos",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/NED.png"
+    },
+    {
+      "id": "POL",
+      "name": "Polônia",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/POL.png"
+    },
+    {
+      "id": "POR",
+      "name": "Portugal",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/POR.png"
+    },
+    {
+      "id": "QAT",
+      "name": "Catar",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/QAT.png"
+    },
+    {
+      "id": "KSA",
+      "name": "Arábia Saudita",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/KSA.png"
+    },
+    {
+      "id": "SEN",
+      "name": "Senegal",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/SEN.png"
+    },
+    {
+      "id": "SRB",
+      "name": "Sérvia",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/SRB.png"
+    },
+    {
+      "id": "ESP",
+      "name": "Espanha",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/ESP.png"
+    },
+    {
+      "id": "SUI",
+      "name": "Suíça",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/SUI.png"
+    },
+    {
+      "id": "TUN",
+      "name": "Tunísia",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/TUN.png"
+    },
+    {
+      "id": "URU",
+      "name": "Uruguai",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/URU.png"
+    },
+    {
+      "id": "USA",
+      "name": "Estados Unidos",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/USA.png"
+    },
+    {
+      "id": "fans_favourites",
+      "name": "Fans’ Favourites",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/fans_favourites.png"
+    },
+    {
+      "id": "titans",
+      "name": "Titans",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/titans.png"
+    },
+    {
+      "id": "magicians",
+      "name": "Magicians",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/magicians.png"
+    },
+    {
+      "id": "goal_machines",
+      "name": "Goal Machines",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/goal_machines.png"
+    },
+    {
+      "id": "top_keepers",
+      "name": "Top Keepers",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/top_keepers.png"
+    },
+    {
+      "id": "game_changers",
+      "name": "Game Changers",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/game_changers.png"
+    },
+    {
+      "id": "AUS",
+      "name": "Austrália",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/AUS.png"
+    },
+    {
+      "id": "CRC",
+      "name": "Costa Rica",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/CRC.png"
+    },
+    {
+      "id": "PER",
+      "name": "Peru",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/PER.png"
+    },
+    {
+      "id": "SCO",
+      "name": "Escócia",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/SCO.png"
+    },
+    {
+      "id": "UAE",
+      "name": "Emirados Árabes Unidos",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/UAE.png"
+    },
+    {
+      "id": "UKR",
+      "name": "Ucrânia",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/UKR.png"
+    },
+    {
+      "id": "WAL",
+      "name": "País de Gales",
+      "imageAsset": "assets/album_library/imagens/adrenalyn_wc2022/WAL.png"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "axl2022_001",
+      "number": "1",
+      "name": "Ángel Di María",
+      "sectionId": "top_masters"
+    },
+    {
+      "id": "axl2022_002",
+      "number": "2",
+      "name": "Kevin de Bruyne",
+      "sectionId": "top_masters"
+    },
+    {
+      "id": "axl2022_003",
+      "number": "3",
+      "name": "Neymar Jr",
+      "sectionId": "top_masters"
+    },
+    {
+      "id": "axl2022_004",
+      "number": "4",
+      "name": "Harry Kane",
+      "sectionId": "top_masters"
+    },
+    {
+      "id": "axl2022_005",
+      "number": "5",
+      "name": "Invincible — Mendy / Marquinhos / Pogba / Son",
+      "sectionId": "invincible"
+    },
+    {
+      "id": "axl2022_006",
+      "number": "6",
+      "name": "Kylian Mbappé",
+      "sectionId": "top_masters"
+    },
+    {
+      "id": "axl2022_007",
+      "number": "7",
+      "name": "Achraf Hakimi",
+      "sectionId": "top_masters"
+    },
+    {
+      "id": "axl2022_008",
+      "number": "8",
+      "name": "Virgil van Dijk",
+      "sectionId": "top_masters"
+    },
+    {
+      "id": "axl2022_009",
+      "number": "9",
+      "name": "Christian Pulisic",
+      "sectionId": "top_masters"
+    },
+    {
+      "id": "axl2022_010",
+      "number": "10",
+      "name": "Vinícius Jr",
+      "sectionId": "rookies"
+    },
+    {
+      "id": "axl2022_011",
+      "number": "11",
+      "name": "Jude Bellingham",
+      "sectionId": "rookies"
+    },
+    {
+      "id": "axl2022_012",
+      "number": "12",
+      "name": "Mohammed Kudus",
+      "sectionId": "rookies"
+    },
+    {
+      "id": "axl2022_013",
+      "number": "13",
+      "name": "Ryan Gravenberch",
+      "sectionId": "rookies"
+    },
+    {
+      "id": "axl2022_014",
+      "number": "14",
+      "name": "Diogo Costa",
+      "sectionId": "rookies"
+    },
+    {
+      "id": "axl2022_015",
+      "number": "15",
+      "name": "Dušan Vlahović",
+      "sectionId": "rookies"
+    },
+    {
+      "id": "axl2022_016",
+      "number": "16",
+      "name": "Gavi",
+      "sectionId": "rookies"
+    },
+    {
+      "id": "axl2022_017",
+      "number": "17",
+      "name": "Pedri",
+      "sectionId": "rookies"
+    },
+    {
+      "id": "axl2022_018",
+      "number": "18",
+      "name": "Ricardo Pepi",
+      "sectionId": "rookies"
+    },
+    {
+      "id": "axl2022_019",
+      "number": "19",
+      "name": "Lionel Messi",
+      "sectionId": "legends"
+    },
+    {
+      "id": "axl2022_020",
+      "number": "20",
+      "name": "Luka Modrić",
+      "sectionId": "legends"
+    },
+    {
+      "id": "axl2022_021",
+      "number": "21",
+      "name": "Hugo Lloris",
+      "sectionId": "legends"
+    },
+    {
+      "id": "axl2022_022",
+      "number": "22",
+      "name": "Thomas Müller",
+      "sectionId": "legends"
+    },
+    {
+      "id": "axl2022_023",
+      "number": "23",
+      "name": "Yuto Nagatomo",
+      "sectionId": "legends"
+    },
+    {
+      "id": "axl2022_024",
+      "number": "24",
+      "name": "Andrés Guardado",
+      "sectionId": "legends"
+    },
+    {
+      "id": "axl2022_025",
+      "number": "25",
+      "name": "Cristiano Ronaldo",
+      "sectionId": "legends"
+    },
+    {
+      "id": "axl2022_026",
+      "number": "26",
+      "name": "Sergio Busquets",
+      "sectionId": "legends"
+    },
+    {
+      "id": "axl2022_027",
+      "number": "27",
+      "name": "Fernando Muslera",
+      "sectionId": "legends"
+    },
+    {
+      "id": "axl2022_028",
+      "number": "28",
+      "name": "Emiliano Martínez",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2022_029",
+      "number": "29",
+      "name": "Marcos Acuña",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2022_030",
+      "number": "30",
+      "name": "Nahuel Molina",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2022_031",
+      "number": "31",
+      "name": "Leandro Paredes",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2022_032",
+      "number": "32",
+      "name": "Escudo — Argentina",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2022_033",
+      "number": "33",
+      "name": "Joaquín Correa",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2022_034",
+      "number": "34",
+      "name": "Nicolás González",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2022_035",
+      "number": "35",
+      "name": "Lautaro Martínez",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2022_036",
+      "number": "36",
+      "name": "Lionel Messi",
+      "sectionId": "ARG"
+    },
+    {
+      "id": "axl2022_037",
+      "number": "37",
+      "name": "Jason Denayer",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2022_038",
+      "number": "38",
+      "name": "Thomas Meunier",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2022_039",
+      "number": "39",
+      "name": "Kevin De Bruyne",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2022_040",
+      "number": "40",
+      "name": "Yannick Carrasco",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2022_041",
+      "number": "41",
+      "name": "Escudo — Bélgica",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2022_042",
+      "number": "42",
+      "name": "Youri Tielemans",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2022_043",
+      "number": "43",
+      "name": "Axel Witsel",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2022_044",
+      "number": "44",
+      "name": "Eden Hazard",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2022_045",
+      "number": "45",
+      "name": "Romelu Lukaku",
+      "sectionId": "BEL"
+    },
+    {
+      "id": "axl2022_046",
+      "number": "46",
+      "name": "Ederson",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2022_047",
+      "number": "47",
+      "name": "Danilo",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2022_048",
+      "number": "48",
+      "name": "Éder Militão",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2022_049",
+      "number": "49",
+      "name": "Marquinhos",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2022_050",
+      "number": "50",
+      "name": "Escudo — Brasil",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2022_051",
+      "number": "51",
+      "name": "Fred",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2022_052",
+      "number": "52",
+      "name": "Gabriel Jesus",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2022_053",
+      "number": "53",
+      "name": "Neymar Jr",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2022_054",
+      "number": "54",
+      "name": "Vinícius Jr",
+      "sectionId": "BRA"
+    },
+    {
+      "id": "axl2022_055",
+      "number": "55",
+      "name": "André Onana",
+      "sectionId": "CMR"
+    },
+    {
+      "id": "axl2022_056",
+      "number": "56",
+      "name": "Jean-Charles Castelletto",
+      "sectionId": "CMR"
+    },
+    {
+      "id": "axl2022_057",
+      "number": "57",
+      "name": "Michael Ngadeu",
+      "sectionId": "CMR"
+    },
+    {
+      "id": "axl2022_058",
+      "number": "58",
+      "name": "André-Frank Zambo Anguissa",
+      "sectionId": "CMR"
+    },
+    {
+      "id": "axl2022_059",
+      "number": "59",
+      "name": "Escudo — Camarões",
+      "sectionId": "CMR"
+    },
+    {
+      "id": "axl2022_060",
+      "number": "60",
+      "name": "Martin Hongla",
+      "sectionId": "CMR"
+    },
+    {
+      "id": "axl2022_061",
+      "number": "61",
+      "name": "Samuel Oum Gouet",
+      "sectionId": "CMR"
+    },
+    {
+      "id": "axl2022_062",
+      "number": "62",
+      "name": "Eric Maxim Choupo-Moting",
+      "sectionId": "CMR"
+    },
+    {
+      "id": "axl2022_063",
+      "number": "63",
+      "name": "Nicolas Moumingamaleu",
+      "sectionId": "CMR"
+    },
+    {
+      "id": "axl2022_064",
+      "number": "64",
+      "name": "Milan Borjan",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2022_065",
+      "number": "65",
+      "name": "Alistair Johnston",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2022_066",
+      "number": "66",
+      "name": "Kamal Miller",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2022_067",
+      "number": "67",
+      "name": "Tajon Buchanan",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2022_068",
+      "number": "68",
+      "name": "Escudo — Canadá",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2022_069",
+      "number": "69",
+      "name": "Alphonso Davies",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2022_070",
+      "number": "70",
+      "name": "Stephen Eustáquio",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2022_071",
+      "number": "71",
+      "name": "Jonathan Osorio",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2022_072",
+      "number": "72",
+      "name": "Jonathan David",
+      "sectionId": "CAN"
+    },
+    {
+      "id": "axl2022_073",
+      "number": "73",
+      "name": "Dominik Livaković",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2022_074",
+      "number": "74",
+      "name": "Duje Ćaleta-Car",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2022_075",
+      "number": "75",
+      "name": "Joško Gvardiol",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2022_076",
+      "number": "76",
+      "name": "Marcelo Brozović",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2022_077",
+      "number": "77",
+      "name": "Escudo — Croácia",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2022_078",
+      "number": "78",
+      "name": "Mateo Kovačić",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2022_079",
+      "number": "79",
+      "name": "Luka Modrić",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2022_080",
+      "number": "80",
+      "name": "Josip Brekalo",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2022_081",
+      "number": "81",
+      "name": "Andrej Kramarić",
+      "sectionId": "CRO"
+    },
+    {
+      "id": "axl2022_082",
+      "number": "82",
+      "name": "Kasper Schmeichel",
+      "sectionId": "DEN"
+    },
+    {
+      "id": "axl2022_083",
+      "number": "83",
+      "name": "Joakim Mæhle",
+      "sectionId": "DEN"
+    },
+    {
+      "id": "axl2022_084",
+      "number": "84",
+      "name": "Thomas Delaney",
+      "sectionId": "DEN"
+    },
+    {
+      "id": "axl2022_085",
+      "number": "85",
+      "name": "Pierre Emile Højbjerg",
+      "sectionId": "DEN"
+    },
+    {
+      "id": "axl2022_086",
+      "number": "86",
+      "name": "Escudo — Dinamarca",
+      "sectionId": "DEN"
+    },
+    {
+      "id": "axl2022_087",
+      "number": "87",
+      "name": "Daniel Wass",
+      "sectionId": "DEN"
+    },
+    {
+      "id": "axl2022_088",
+      "number": "88",
+      "name": "Martin Braithwaite",
+      "sectionId": "DEN"
+    },
+    {
+      "id": "axl2022_089",
+      "number": "89",
+      "name": "Yussuf Poulsen",
+      "sectionId": "DEN"
+    },
+    {
+      "id": "axl2022_090",
+      "number": "90",
+      "name": "Andreas Skov Olsen",
+      "sectionId": "DEN"
+    },
+    {
+      "id": "axl2022_091",
+      "number": "91",
+      "name": "Hernán Galíndez",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2022_092",
+      "number": "92",
+      "name": "Pervis Estupiñán",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2022_093",
+      "number": "93",
+      "name": "Ángelo Preciado",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2022_094",
+      "number": "94",
+      "name": "Félix Torres",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2022_095",
+      "number": "95",
+      "name": "Escudo — Equador",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2022_096",
+      "number": "96",
+      "name": "Moisés Caicedo",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2022_097",
+      "number": "97",
+      "name": "Carlos Gruezo",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2022_098",
+      "number": "98",
+      "name": "Michael Estrada",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2022_099",
+      "number": "99",
+      "name": "Gonzalo Plata",
+      "sectionId": "ECU"
+    },
+    {
+      "id": "axl2022_100",
+      "number": "100",
+      "name": "Jordan Pickford",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2022_101",
+      "number": "101",
+      "name": "Luke Shaw",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2022_102",
+      "number": "102",
+      "name": "John Stones",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2022_103",
+      "number": "103",
+      "name": "Kyle Walker",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2022_104",
+      "number": "104",
+      "name": "Escudo — Inglaterra",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2022_105",
+      "number": "105",
+      "name": "Phil Foden",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2022_106",
+      "number": "106",
+      "name": "Jordan Henderson",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2022_107",
+      "number": "107",
+      "name": "Declan Rice",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2022_108",
+      "number": "108",
+      "name": "Harry Kane",
+      "sectionId": "ENG"
+    },
+    {
+      "id": "axl2022_109",
+      "number": "109",
+      "name": "Hugo Lloris",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2022_110",
+      "number": "110",
+      "name": "Presnel Kimpembe",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2022_111",
+      "number": "111",
+      "name": "Jules Koundé",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2022_112",
+      "number": "112",
+      "name": "Benjamin Pavard",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2022_113",
+      "number": "113",
+      "name": "Escudo — França",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2022_114",
+      "number": "114",
+      "name": "Adrien Rabiot",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2022_115",
+      "number": "115",
+      "name": "Karim Benzema",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2022_116",
+      "number": "116",
+      "name": "Antoine Griezmann",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2022_117",
+      "number": "117",
+      "name": "Kylian Mbappé",
+      "sectionId": "FRA"
+    },
+    {
+      "id": "axl2022_118",
+      "number": "118",
+      "name": "Marc-André ter Stegen",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2022_119",
+      "number": "119",
+      "name": "Matthias Ginter",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2022_120",
+      "number": "120",
+      "name": "Robin Gosens",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2022_121",
+      "number": "121",
+      "name": "Niklas Süle",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2022_122",
+      "number": "122",
+      "name": "Escudo — Alemanha",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2022_123",
+      "number": "123",
+      "name": "Leon Goretzka",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2022_124",
+      "number": "124",
+      "name": "İlkay Gündoğan",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2022_125",
+      "number": "125",
+      "name": "Kai Havertz",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2022_126",
+      "number": "126",
+      "name": "Timo Werner",
+      "sectionId": "GER"
+    },
+    {
+      "id": "axl2022_127",
+      "number": "127",
+      "name": "Joe Wollacott",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2022_128",
+      "number": "128",
+      "name": "Daniel Amartey",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2022_129",
+      "number": "129",
+      "name": "Alexander Djiku",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2022_130",
+      "number": "130",
+      "name": "Iddrisu Baba",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2022_131",
+      "number": "131",
+      "name": "Escudo — Gana",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2022_132",
+      "number": "132",
+      "name": "Thomas Partey",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2022_133",
+      "number": "133",
+      "name": "Jordan Ayew",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2022_134",
+      "number": "134",
+      "name": "Issahaku Abdul Fatawu",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2022_135",
+      "number": "135",
+      "name": "Kamaldeen Sulemana",
+      "sectionId": "GHA"
+    },
+    {
+      "id": "axl2022_136",
+      "number": "136",
+      "name": "Amir Abedzadeh",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2022_137",
+      "number": "137",
+      "name": "Hossein Kanaani",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2022_138",
+      "number": "138",
+      "name": "Shoja Khalilzadeh",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2022_139",
+      "number": "139",
+      "name": "Sadegh Moharrami",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2022_140",
+      "number": "140",
+      "name": "Escudo — Irã",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2022_141",
+      "number": "141",
+      "name": "Saeid Ezatolahi",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2022_142",
+      "number": "142",
+      "name": "Ali Gholizadeh",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2022_143",
+      "number": "143",
+      "name": "Ahmad Nourollahi",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2022_144",
+      "number": "144",
+      "name": "Mehdi Taremi",
+      "sectionId": "IRN"
+    },
+    {
+      "id": "axl2022_145",
+      "number": "145",
+      "name": "Shuichi Gonda",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2022_146",
+      "number": "146",
+      "name": "Miki Yamane",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2022_147",
+      "number": "147",
+      "name": "Takehiro Tomiyasu",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2022_148",
+      "number": "148",
+      "name": "Wataru Endo",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2022_149",
+      "number": "149",
+      "name": "Escudo — Japão",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2022_150",
+      "number": "150",
+      "name": "Hidemasa Morita",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2022_151",
+      "number": "151",
+      "name": "Gaku Shibasaki",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2022_152",
+      "number": "152",
+      "name": "Ao Tanaka",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2022_153",
+      "number": "153",
+      "name": "Takumi Minamino",
+      "sectionId": "JPN"
+    },
+    {
+      "id": "axl2022_154",
+      "number": "154",
+      "name": "Seung-gyu Kim",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2022_155",
+      "number": "155",
+      "name": "Jin-su Kim",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2022_156",
+      "number": "156",
+      "name": "Young-gwon Kim",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2022_157",
+      "number": "157",
+      "name": "In-beom Hwang",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2022_158",
+      "number": "158",
+      "name": "Escudo — Coreia do Sul",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2022_159",
+      "number": "159",
+      "name": "Woo-young Jung",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2022_160",
+      "number": "160",
+      "name": "Hee-chan Hwang",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2022_161",
+      "number": "161",
+      "name": "Ui-jo Hwang",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2022_162",
+      "number": "162",
+      "name": "Heung-min Son",
+      "sectionId": "KOR"
+    },
+    {
+      "id": "axl2022_163",
+      "number": "163",
+      "name": "Jesús Gallardo",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2022_164",
+      "number": "164",
+      "name": "César Montes",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2022_165",
+      "number": "165",
+      "name": "Luis Rodríguez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2022_166",
+      "number": "166",
+      "name": "Edson Álvarez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2022_167",
+      "number": "167",
+      "name": "Escudo — México",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2022_168",
+      "number": "168",
+      "name": "Jesùs Manuel Corona",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2022_169",
+      "number": "169",
+      "name": "Héctor Herrera",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2022_170",
+      "number": "170",
+      "name": "Rogelio Funes Mori",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2022_171",
+      "number": "171",
+      "name": "Raúl Jiménez",
+      "sectionId": "MEX"
+    },
+    {
+      "id": "axl2022_172",
+      "number": "172",
+      "name": "Yassine Bounou",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2022_173",
+      "number": "173",
+      "name": "Nayef Aguerd",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2022_174",
+      "number": "174",
+      "name": "Achraf Hakimi",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2022_175",
+      "number": "175",
+      "name": "Adam Masina",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2022_176",
+      "number": "176",
+      "name": "Escudo — Marrocos",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2022_177",
+      "number": "177",
+      "name": "Sofyan Amrabat",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2022_178",
+      "number": "178",
+      "name": "Sofiane Boufal",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2022_179",
+      "number": "179",
+      "name": "Ayoub El Kaabi",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2022_180",
+      "number": "180",
+      "name": "Tarik Tissoudali",
+      "sectionId": "MAR"
+    },
+    {
+      "id": "axl2022_181",
+      "number": "181",
+      "name": "Justin Bijlow",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2022_182",
+      "number": "182",
+      "name": "Stefan de Vrij",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2022_183",
+      "number": "183",
+      "name": "Denzel Dumfries",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2022_184",
+      "number": "184",
+      "name": "Virgil van Dijk",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2022_185",
+      "number": "185",
+      "name": "Escudo — Países Baixos",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2022_186",
+      "number": "186",
+      "name": "Frenkie de Jong",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2022_187",
+      "number": "187",
+      "name": "Davy Klaassen",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2022_188",
+      "number": "188",
+      "name": "Donyell Malen",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2022_189",
+      "number": "189",
+      "name": "Memphis Depay",
+      "sectionId": "NED"
+    },
+    {
+      "id": "axl2022_190",
+      "number": "190",
+      "name": "Wojciech Szczęsny",
+      "sectionId": "POL"
+    },
+    {
+      "id": "axl2022_191",
+      "number": "191",
+      "name": "Jan Bednarek",
+      "sectionId": "POL"
+    },
+    {
+      "id": "axl2022_192",
+      "number": "192",
+      "name": "Bartosz Bereszyński",
+      "sectionId": "POL"
+    },
+    {
+      "id": "axl2022_193",
+      "number": "193",
+      "name": "Jakub Moder",
+      "sectionId": "POL"
+    },
+    {
+      "id": "axl2022_194",
+      "number": "194",
+      "name": "Escudo — Polônia",
+      "sectionId": "POL"
+    },
+    {
+      "id": "axl2022_195",
+      "number": "195",
+      "name": "Piotr Zieliński",
+      "sectionId": "POL"
+    },
+    {
+      "id": "axl2022_196",
+      "number": "196",
+      "name": "Robert Lewandowski",
+      "sectionId": "POL"
+    },
+    {
+      "id": "axl2022_197",
+      "number": "197",
+      "name": "Arkadiusz Milik",
+      "sectionId": "POL"
+    },
+    {
+      "id": "axl2022_198",
+      "number": "198",
+      "name": "Krzysztof Piątek",
+      "sectionId": "POL"
+    },
+    {
+      "id": "axl2022_199",
+      "number": "199",
+      "name": "João Cancelo",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2022_200",
+      "number": "200",
+      "name": "Raphaël Guerreiro",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2022_201",
+      "number": "201",
+      "name": "Danilo Pereira",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2022_202",
+      "number": "202",
+      "name": "João Moutinho",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2022_203",
+      "number": "203",
+      "name": "Escudo — Portugal",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2022_204",
+      "number": "204",
+      "name": "André Silva",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2022_205",
+      "number": "205",
+      "name": "Cristiano Ronaldo",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2022_206",
+      "number": "206",
+      "name": "Diogo Jota",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2022_207",
+      "number": "207",
+      "name": "João Félix",
+      "sectionId": "POR"
+    },
+    {
+      "id": "axl2022_208",
+      "number": "208",
+      "name": "Saad Al Sheeb",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2022_209",
+      "number": "209",
+      "name": "Homam Ahmed",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2022_210",
+      "number": "210",
+      "name": "Bassam Alrawi",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2022_211",
+      "number": "211",
+      "name": "Pedro Miguel",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2022_212",
+      "number": "212",
+      "name": "Escudo — Catar",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2022_213",
+      "number": "213",
+      "name": "Tarek Salman",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2022_214",
+      "number": "214",
+      "name": "Abdulaziz Hatem",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2022_215",
+      "number": "215",
+      "name": "Hasan Al-Haydos",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2022_216",
+      "number": "216",
+      "name": "Almoez Ali",
+      "sectionId": "QAT"
+    },
+    {
+      "id": "axl2022_217",
+      "number": "217",
+      "name": "Mohammed Al-Owais",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2022_218",
+      "number": "218",
+      "name": "Abdulelah Al-Amri",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2022_219",
+      "number": "219",
+      "name": "Sultan Al-Ghannam",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2022_220",
+      "number": "220",
+      "name": "Yasser Al-Shahrani",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2022_221",
+      "number": "221",
+      "name": "Escudo — Arábia Saudita",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2022_222",
+      "number": "222",
+      "name": "Mohamed Kanno",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2022_223",
+      "number": "223",
+      "name": "Firas Al-Buraikan",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2022_224",
+      "number": "224",
+      "name": "Salem Al-Dawsari",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2022_225",
+      "number": "225",
+      "name": "Saleh Al-Shehri",
+      "sectionId": "KSA"
+    },
+    {
+      "id": "axl2022_226",
+      "number": "226",
+      "name": "Abdou Diallo",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2022_227",
+      "number": "227",
+      "name": "Bouna Sarr",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2022_228",
+      "number": "228",
+      "name": "Idrissa Gueye",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2022_229",
+      "number": "229",
+      "name": "Cheikhou Kouyaté",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2022_230",
+      "number": "230",
+      "name": "Escudo — Senegal",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2022_231",
+      "number": "231",
+      "name": "Nampalys Mendy",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2022_232",
+      "number": "232",
+      "name": "Boulaye Dia",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2022_233",
+      "number": "233",
+      "name": "Sadio Mané",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2022_234",
+      "number": "234",
+      "name": "Ismaïla Sarr",
+      "sectionId": "SEN"
+    },
+    {
+      "id": "axl2022_235",
+      "number": "235",
+      "name": "Nikola Milenković",
+      "sectionId": "SRB"
+    },
+    {
+      "id": "axl2022_236",
+      "number": "236",
+      "name": "Strahinja Pavlović",
+      "sectionId": "SRB"
+    },
+    {
+      "id": "axl2022_237",
+      "number": "237",
+      "name": "Nemanja Gudelj",
+      "sectionId": "SRB"
+    },
+    {
+      "id": "axl2022_238",
+      "number": "238",
+      "name": "Darko Lazović",
+      "sectionId": "SRB"
+    },
+    {
+      "id": "axl2022_239",
+      "number": "239",
+      "name": "Escudo — Sérvia",
+      "sectionId": "SRB"
+    },
+    {
+      "id": "axl2022_240",
+      "number": "240",
+      "name": "Sergej Milinković-Savić",
+      "sectionId": "SRB"
+    },
+    {
+      "id": "axl2022_241",
+      "number": "241",
+      "name": "Aleksandar Mitrović",
+      "sectionId": "SRB"
+    },
+    {
+      "id": "axl2022_242",
+      "number": "242",
+      "name": "Dušan Tadić",
+      "sectionId": "SRB"
+    },
+    {
+      "id": "axl2022_243",
+      "number": "243",
+      "name": "Dušan Vlahović",
+      "sectionId": "SRB"
+    },
+    {
+      "id": "axl2022_244",
+      "number": "244",
+      "name": "Unai Simón",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2022_245",
+      "number": "245",
+      "name": "César Azpilicueta",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2022_246",
+      "number": "246",
+      "name": "Pau Torres",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2022_247",
+      "number": "247",
+      "name": "Koke",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2022_248",
+      "number": "248",
+      "name": "Escudo — Espanha",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2022_249",
+      "number": "249",
+      "name": "Marcos Llorente",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2022_250",
+      "number": "250",
+      "name": "Pedri",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2022_251",
+      "number": "251",
+      "name": "Rodri",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2022_252",
+      "number": "252",
+      "name": "Álvaro Morata",
+      "sectionId": "ESP"
+    },
+    {
+      "id": "axl2022_253",
+      "number": "253",
+      "name": "Manuel Akanji",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2022_254",
+      "number": "254",
+      "name": "Ricardo Rodríguez",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2022_255",
+      "number": "255",
+      "name": "Silvan Widmer",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2022_256",
+      "number": "256",
+      "name": "Remo Freuler",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2022_257",
+      "number": "257",
+      "name": "Escudo — Suíça",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2022_258",
+      "number": "258",
+      "name": "Granit Xhaka",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2022_259",
+      "number": "259",
+      "name": "Denis Zakaria",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2022_260",
+      "number": "260",
+      "name": "Breel Embolo",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2022_261",
+      "number": "261",
+      "name": "Haris Seferović",
+      "sectionId": "SUI"
+    },
+    {
+      "id": "axl2022_262",
+      "number": "262",
+      "name": "Bechir Ben Saïd",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2022_263",
+      "number": "263",
+      "name": "Dylan Bronn",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2022_264",
+      "number": "264",
+      "name": "Montassar Talbi",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2022_265",
+      "number": "265",
+      "name": "Anis Slimane",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2022_266",
+      "number": "266",
+      "name": "Escudo — Tunísia",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2022_267",
+      "number": "267",
+      "name": "Aïssa Laïdouni",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2022_268",
+      "number": "268",
+      "name": "Ellyes Skhiri",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2022_269",
+      "number": "269",
+      "name": "Seifeddine Jaziri",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2022_270",
+      "number": "270",
+      "name": "Naïm Sliti",
+      "sectionId": "TUN"
+    },
+    {
+      "id": "axl2022_271",
+      "number": "271",
+      "name": "Ronald Araújo",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2022_272",
+      "number": "272",
+      "name": "José Maria Giménez",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2022_273",
+      "number": "273",
+      "name": "Diego Godín",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2022_274",
+      "number": "274",
+      "name": "Rodrigo Bentancur",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2022_275",
+      "number": "275",
+      "name": "Escudo — Uruguai",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2022_276",
+      "number": "276",
+      "name": "Nahitan Nández",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2022_277",
+      "number": "277",
+      "name": "Lucas Torreira",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2022_278",
+      "number": "278",
+      "name": "Federico Valverde",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2022_279",
+      "number": "279",
+      "name": "Darwin Núñez",
+      "sectionId": "URU"
+    },
+    {
+      "id": "axl2022_280",
+      "number": "280",
+      "name": "Matt Turner",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2022_281",
+      "number": "281",
+      "name": "Antonee Robinson",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2022_282",
+      "number": "282",
+      "name": "Sergiño Dest",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2022_283",
+      "number": "283",
+      "name": "DeAndre Yedlin",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2022_284",
+      "number": "284",
+      "name": "Escudo — Estados Unidos",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2022_285",
+      "number": "285",
+      "name": "Brenden Aaronson",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2022_286",
+      "number": "286",
+      "name": "Tyler Adams",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2022_287",
+      "number": "287",
+      "name": "Yunus Musah",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2022_288",
+      "number": "288",
+      "name": "Christian Pulisic",
+      "sectionId": "USA"
+    },
+    {
+      "id": "axl2022_289",
+      "number": "289",
+      "name": "Nicolás Otamendi",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_290",
+      "number": "290",
+      "name": "Ángel Di María",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_291",
+      "number": "291",
+      "name": "Jan Vertonghen",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_292",
+      "number": "292",
+      "name": "Dries Mertens",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_293",
+      "number": "293",
+      "name": "Thiago Silva",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_294",
+      "number": "294",
+      "name": "Casemiro",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_295",
+      "number": "295",
+      "name": "Collins Fai",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_296",
+      "number": "296",
+      "name": "Vincent Aboubakar",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_297",
+      "number": "297",
+      "name": "Atiba Hutchinson",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_298",
+      "number": "298",
+      "name": "Cyle Larin",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_299",
+      "number": "299",
+      "name": "Domagoj Vida",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_300",
+      "number": "300",
+      "name": "Ivan Perišić",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_301",
+      "number": "301",
+      "name": "Simon Kjær",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_302",
+      "number": "302",
+      "name": "Christian Eriksen",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_303",
+      "number": "303",
+      "name": "Ángel Mena",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_304",
+      "number": "304",
+      "name": "Jack Grealish",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_305",
+      "number": "305",
+      "name": "Raheem Sterling",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_306",
+      "number": "306",
+      "name": "Paul Pogba",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_307",
+      "number": "307",
+      "name": "N’golo Kanté",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_308",
+      "number": "308",
+      "name": "Joshua Kimmich",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_309",
+      "number": "309",
+      "name": "Marco Reus",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_310",
+      "number": "310",
+      "name": "Abdul-Rahman Baba",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_311",
+      "number": "311",
+      "name": "André Ayew",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_312",
+      "number": "312",
+      "name": "Alireza Jahanbakhsh",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_313",
+      "number": "313",
+      "name": "Maya Yoshida",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_314",
+      "number": "314",
+      "name": "Kaoru Mitoma",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_315",
+      "number": "315",
+      "name": "Jae-sung Lee",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_316",
+      "number": "316",
+      "name": "Guillermo Ochoa",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_317",
+      "number": "317",
+      "name": "Néstor Araújo",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_318",
+      "number": "318",
+      "name": "Romain Saïss",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_319",
+      "number": "319",
+      "name": "Selim Amallah",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_320",
+      "number": "320",
+      "name": "Daley Blind",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_321",
+      "number": "321",
+      "name": "Georginio Wijnaldum",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_322",
+      "number": "322",
+      "name": "Kamil Glik",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_323",
+      "number": "323",
+      "name": "Grzegorz Krychowiak",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_324",
+      "number": "324",
+      "name": "Rui Patrício",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_325",
+      "number": "325",
+      "name": "Pepe",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_326",
+      "number": "326",
+      "name": "Abdulkarim Hassan",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_327",
+      "number": "327",
+      "name": "Karim Boudiaf",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_328",
+      "number": "328",
+      "name": "Abdulelah Al-Malki",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_329",
+      "number": "329",
+      "name": "Fahad Al-Muwallad",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_330",
+      "number": "330",
+      "name": "Saliou Ciss",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_331",
+      "number": "331",
+      "name": "Predrag Rajković",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_332",
+      "number": "332",
+      "name": "Filip Kostić",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_333",
+      "number": "333",
+      "name": "Jordi Alba",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_334",
+      "number": "334",
+      "name": "Sergio Busquets",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_335",
+      "number": "335",
+      "name": "Yann Sommer",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_336",
+      "number": "336",
+      "name": "Xherdan Shaqiri",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_337",
+      "number": "337",
+      "name": "Ali Maâloul",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_338",
+      "number": "338",
+      "name": "Youssef Msakni",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_339",
+      "number": "339",
+      "name": "Edinson Cavani",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_340",
+      "number": "340",
+      "name": "Luis Suárez",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_341",
+      "number": "341",
+      "name": "Miles Robinson",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_342",
+      "number": "342",
+      "name": "Giovanni Reyna",
+      "sectionId": "fans_favourites"
+    },
+    {
+      "id": "axl2022_343",
+      "number": "343",
+      "name": "Cristian Romero",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_344",
+      "number": "344",
+      "name": "Toby Alderweireld",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_345",
+      "number": "345",
+      "name": "Marquinhos",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_346",
+      "number": "346",
+      "name": "Dejan Lovren",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_347",
+      "number": "347",
+      "name": "Andreas Christensen",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_348",
+      "number": "348",
+      "name": "Piero Hincapié",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_349",
+      "number": "349",
+      "name": "Harry Maguire",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_350",
+      "number": "350",
+      "name": "Raphaël Varane",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_351",
+      "number": "351",
+      "name": "Antonio Rüdiger",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_352",
+      "number": "352",
+      "name": "Daniel Amartey",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_353",
+      "number": "353",
+      "name": "Min-Jae Kim",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_354",
+      "number": "354",
+      "name": "Matthijs De Ligt",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_355",
+      "number": "355",
+      "name": "Rúben Dias",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_356",
+      "number": "356",
+      "name": "Boualem Khoukhi",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_357",
+      "number": "357",
+      "name": "Kalidou Koulibaly",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_358",
+      "number": "358",
+      "name": "Aymeric Laporte",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_359",
+      "number": "359",
+      "name": "Nico Elvedi",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_360",
+      "number": "360",
+      "name": "Diego Godín",
+      "sectionId": "titans"
+    },
+    {
+      "id": "axl2022_361",
+      "number": "361",
+      "name": "Rodrigo De Paul",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_362",
+      "number": "362",
+      "name": "Thorgan Hazard",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_363",
+      "number": "363",
+      "name": "Lucas Paquetá",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_364",
+      "number": "364",
+      "name": "Karl Toko Ekambi",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_365",
+      "number": "365",
+      "name": "Mikkel Damsgaard",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_366",
+      "number": "366",
+      "name": "Mateo Kovačić",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_367",
+      "number": "367",
+      "name": "Mason Mount",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_368",
+      "number": "368",
+      "name": "Kingsley Coman",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_369",
+      "number": "369",
+      "name": "Leroy Sané",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_370",
+      "number": "370",
+      "name": "Saman Ghoddos",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_371",
+      "number": "371",
+      "name": "Hirving Lozano",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_372",
+      "number": "372",
+      "name": "Frenkie De Jong",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_373",
+      "number": "373",
+      "name": "Bernardo Silva",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_374",
+      "number": "374",
+      "name": "Salman Al-Faraj",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_375",
+      "number": "375",
+      "name": "Sergej Milinković-Savić",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_376",
+      "number": "376",
+      "name": "Dani Olmo",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_377",
+      "number": "377",
+      "name": "Wahbi Khazri",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_378",
+      "number": "378",
+      "name": "Timothy Weah",
+      "sectionId": "magicians"
+    },
+    {
+      "id": "axl2022_379",
+      "number": "379",
+      "name": "Lionel Messi",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_380",
+      "number": "380",
+      "name": "Romelu Lukaku",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_381",
+      "number": "381",
+      "name": "Neymar Jr",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_382",
+      "number": "382",
+      "name": "Jonathan David",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_383",
+      "number": "383",
+      "name": "Enner Valencia",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_384",
+      "number": "384",
+      "name": "Harry Kane",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_385",
+      "number": "385",
+      "name": "Karim Benzema",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_386",
+      "number": "386",
+      "name": "Serge Gnabry",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_387",
+      "number": "387",
+      "name": "Sardar Azmoun",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_388",
+      "number": "388",
+      "name": "Junya Ito",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_389",
+      "number": "389",
+      "name": "Heung-min Son",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_390",
+      "number": "390",
+      "name": "Raúl Jiménez",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_391",
+      "number": "391",
+      "name": "Youssef En-Nesyri",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_392",
+      "number": "392",
+      "name": "Memphis Depay",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_393",
+      "number": "393",
+      "name": "Robert Lewandowski",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_394",
+      "number": "394",
+      "name": "Cristiano Ronaldo",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_395",
+      "number": "395",
+      "name": "Ferran Torres",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_396",
+      "number": "396",
+      "name": "Luis Suárez",
+      "sectionId": "goal_machines"
+    },
+    {
+      "id": "axl2022_397",
+      "number": "397",
+      "name": "Emiliano Martínez",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2022_398",
+      "number": "398",
+      "name": "Thibaut Courtois",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2022_399",
+      "number": "399",
+      "name": "Alisson",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2022_400",
+      "number": "400",
+      "name": "Kasper Schmeichel",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2022_401",
+      "number": "401",
+      "name": "Manuel Neuer",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2022_402",
+      "number": "402",
+      "name": "Wojciech Szczęsny",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2022_403",
+      "number": "403",
+      "name": "Édouard Mendy",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2022_404",
+      "number": "404",
+      "name": "Unai Simón",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2022_405",
+      "number": "405",
+      "name": "Yann Sommer",
+      "sectionId": "top_keepers"
+    },
+    {
+      "id": "axl2022_406",
+      "number": "406",
+      "name": "Giovani Lo Celso",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_407",
+      "number": "407",
+      "name": "Eden Hazard",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_408",
+      "number": "408",
+      "name": "Richarlison",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_409",
+      "number": "409",
+      "name": "Alphonso Davies",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_410",
+      "number": "410",
+      "name": "Mario Pašalić",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_411",
+      "number": "411",
+      "name": "Bukayo Saka",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_412",
+      "number": "412",
+      "name": "Antoine Griezmann",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_413",
+      "number": "413",
+      "name": "Kai Havertz",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_414",
+      "number": "414",
+      "name": "Alireza Jahanbakhsh",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_415",
+      "number": "415",
+      "name": "Steven Berghuis",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_416",
+      "number": "416",
+      "name": "Bruno Fernandes",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_417",
+      "number": "417",
+      "name": "Akram Hassan Afif",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_418",
+      "number": "418",
+      "name": "Sadio Mané",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_419",
+      "number": "419",
+      "name": "Dušan Tadić",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_420",
+      "number": "420",
+      "name": "Alvaro Morata",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_421",
+      "number": "421",
+      "name": "Granit Xhaka",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_422",
+      "number": "422",
+      "name": "Giorgian de Arrascaeta",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_423",
+      "number": "423",
+      "name": "Weston McKennie",
+      "sectionId": "game_changers"
+    },
+    {
+      "id": "axl2022_424",
+      "number": "424",
+      "name": "Mathew Ryan",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2022_425",
+      "number": "425",
+      "name": "Trent Sainsbury",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2022_426",
+      "number": "426",
+      "name": "Harry Souttar",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2022_427",
+      "number": "427",
+      "name": "Ajdin Hrustić",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2022_428",
+      "number": "428",
+      "name": "Equipe — Austrália",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2022_429",
+      "number": "429",
+      "name": "Jackson Irvine",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2022_430",
+      "number": "430",
+      "name": "Awer Mabil",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2022_431",
+      "number": "431",
+      "name": "Tom Rogić",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2022_432",
+      "number": "432",
+      "name": "Mitchell Duke",
+      "sectionId": "AUS"
+    },
+    {
+      "id": "axl2022_433",
+      "number": "433",
+      "name": "Keylor Navas",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "axl2022_434",
+      "number": "434",
+      "name": "Francisco Calvo",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "axl2022_435",
+      "number": "435",
+      "name": "Óscar Duarte",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "axl2022_436",
+      "number": "436",
+      "name": "Celso Borges",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "axl2022_437",
+      "number": "437",
+      "name": "Equipe — Costa Rica",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "axl2022_438",
+      "number": "438",
+      "name": "Bryan Ruiz",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "axl2022_439",
+      "number": "439",
+      "name": "Yeltsin Tejeda",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "axl2022_440",
+      "number": "440",
+      "name": "Joel Campbell",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "axl2022_441",
+      "number": "441",
+      "name": "Anthony Contreras",
+      "sectionId": "CRC"
+    },
+    {
+      "id": "axl2022_451",
+      "number": "451",
+      "name": "Pedro Gallese",
+      "sectionId": "PER"
+    },
+    {
+      "id": "axl2022_452",
+      "number": "452",
+      "name": "Luis Advíncula",
+      "sectionId": "PER"
+    },
+    {
+      "id": "axl2022_453",
+      "number": "453",
+      "name": "Miguel Trauco",
+      "sectionId": "PER"
+    },
+    {
+      "id": "axl2022_454",
+      "number": "454",
+      "name": "Christian Cueva",
+      "sectionId": "PER"
+    },
+    {
+      "id": "axl2022_455",
+      "number": "455",
+      "name": "Equipe — Peru",
+      "sectionId": "PER"
+    },
+    {
+      "id": "axl2022_456",
+      "number": "456",
+      "name": "Renato Tapia",
+      "sectionId": "PER"
+    },
+    {
+      "id": "axl2022_457",
+      "number": "457",
+      "name": "Yoshimar Yotún",
+      "sectionId": "PER"
+    },
+    {
+      "id": "axl2022_458",
+      "number": "458",
+      "name": "André Carrillo",
+      "sectionId": "PER"
+    },
+    {
+      "id": "axl2022_459",
+      "number": "459",
+      "name": "Gianluca Lapadula",
+      "sectionId": "PER"
+    },
+    {
+      "id": "axl2022_460",
+      "number": "460",
+      "name": "Craig Gordon",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2022_461",
+      "number": "461",
+      "name": "Andrew Robertson",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2022_462",
+      "number": "462",
+      "name": "Kieran Tierney",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2022_463",
+      "number": "463",
+      "name": "John McGinn",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2022_464",
+      "number": "464",
+      "name": "Equipe — Escócia",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2022_465",
+      "number": "465",
+      "name": "Callum McGregor",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2022_466",
+      "number": "466",
+      "name": "Scott McTominay",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2022_467",
+      "number": "467",
+      "name": "Ché Adams",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2022_468",
+      "number": "468",
+      "name": "Lyndon Dykes",
+      "sectionId": "SCO"
+    },
+    {
+      "id": "axl2022_469",
+      "number": "469",
+      "name": "Ali Khaseif",
+      "sectionId": "UAE"
+    },
+    {
+      "id": "axl2022_470",
+      "number": "470",
+      "name": "Walid Abbas",
+      "sectionId": "UAE"
+    },
+    {
+      "id": "axl2022_471",
+      "number": "471",
+      "name": "Mohamed Al Attas",
+      "sectionId": "UAE"
+    },
+    {
+      "id": "axl2022_472",
+      "number": "472",
+      "name": "Bandar Mohamed",
+      "sectionId": "UAE"
+    },
+    {
+      "id": "axl2022_473",
+      "number": "473",
+      "name": "Equipe — Emirados Árabes Unidos",
+      "sectionId": "UAE"
+    },
+    {
+      "id": "axl2022_474",
+      "number": "474",
+      "name": "Fábio Lima",
+      "sectionId": "UAE"
+    },
+    {
+      "id": "axl2022_475",
+      "number": "475",
+      "name": "Abdalla Ramadan",
+      "sectionId": "UAE"
+    },
+    {
+      "id": "axl2022_476",
+      "number": "476",
+      "name": "Caio Canedo",
+      "sectionId": "UAE"
+    },
+    {
+      "id": "axl2022_477",
+      "number": "477",
+      "name": "Ali Mabkhout",
+      "sectionId": "UAE"
+    },
+    {
+      "id": "axl2022_478",
+      "number": "478",
+      "name": "Georgiy Bushchan",
+      "sectionId": "UKR"
+    },
+    {
+      "id": "axl2022_479",
+      "number": "479",
+      "name": "Mykola Matviyenko",
+      "sectionId": "UKR"
+    },
+    {
+      "id": "axl2022_480",
+      "number": "480",
+      "name": "Illia Zabarnyi",
+      "sectionId": "UKR"
+    },
+    {
+      "id": "axl2022_481",
+      "number": "481",
+      "name": "Ruslan Malinovskyi",
+      "sectionId": "UKR"
+    },
+    {
+      "id": "axl2022_482",
+      "number": "482",
+      "name": "Equipe — Ucrânia",
+      "sectionId": "UKR"
+    },
+    {
+      "id": "axl2022_483",
+      "number": "483",
+      "name": "Mykola Shaparenko",
+      "sectionId": "UKR"
+    },
+    {
+      "id": "axl2022_484",
+      "number": "484",
+      "name": "Oleksandr Zinchenko",
+      "sectionId": "UKR"
+    },
+    {
+      "id": "axl2022_485",
+      "number": "485",
+      "name": "Roman Yaremchuk",
+      "sectionId": "UKR"
+    },
+    {
+      "id": "axl2022_486",
+      "number": "486",
+      "name": "Andriy Yarmolenko",
+      "sectionId": "UKR"
+    },
+    {
+      "id": "axl2022_487",
+      "number": "487",
+      "name": "Danny Ward",
+      "sectionId": "WAL"
+    },
+    {
+      "id": "axl2022_488",
+      "number": "488",
+      "name": "Ben Davies",
+      "sectionId": "WAL"
+    },
+    {
+      "id": "axl2022_489",
+      "number": "489",
+      "name": "Joe Rodon",
+      "sectionId": "WAL"
+    },
+    {
+      "id": "axl2022_490",
+      "number": "490",
+      "name": "Joe Allen",
+      "sectionId": "WAL"
+    },
+    {
+      "id": "axl2022_491",
+      "number": "491",
+      "name": "Equipe — País de Gales",
+      "sectionId": "WAL"
+    },
+    {
+      "id": "axl2022_492",
+      "number": "492",
+      "name": "Ethan Ampadu",
+      "sectionId": "WAL"
+    },
+    {
+      "id": "axl2022_493",
+      "number": "493",
+      "name": "Aaron Ramsey",
+      "sectionId": "WAL"
+    },
+    {
+      "id": "axl2022_494",
+      "number": "494",
+      "name": "Gareth Bale",
+      "sectionId": "WAL"
+    },
+    {
+      "id": "axl2022_495",
+      "number": "495",
+      "name": "Daniel James",
+      "sectionId": "WAL"
+    }
+  ]
+}

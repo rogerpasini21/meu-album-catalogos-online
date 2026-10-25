@@ -420,6 +420,13 @@
       "file": "albums/panini-adrenalyn-wc2026-standard-v1.zip",
       "bytes": 2299958,
       "sha256": "1c2775dad0a3eace5b18d26f0b33609a69403e88262511a4d579121a06a3ac8d"
+    },
+    {
+      "officialId": "panini.fwc2022.adrenalyn-xl",
+      "version": 1,
+      "file": "albums/panini-adrenalyn-wc2022-standard-v1.zip",
+      "bytes": 1897556,
+      "sha256": "057681a85fbbebb3fafbedb9f4ac80209f2718c8057dc6597cd28b5932272c2b"
     }
   ]
 }
