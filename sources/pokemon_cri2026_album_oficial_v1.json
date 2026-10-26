@@ -1,0 +1,1698 @@
+{
+  "officialId": "pokemon.cri2026.standard",
+  "version": 1,
+  "name": "Megaevolução — Caos Ascendente",
+  "collection": "Megaevolução — Caos Ascendente",
+  "year": "2026",
+  "publisher": "The Pokémon Company / Copag",
+  "collectionType": "cards",
+  "availability": "online",
+  "description": "198 cards: 86 da coleção principal, 36 cartas secretas e 76 versões reversas. O sufixo -R identifica o acabamento reverso. Não inclui promocionais, carimbadas ou variantes de produtos.",
+  "plannedTotal": 198,
+  "variantCount": 0,
+  "coverAsset": "assets/album_library/imagens/pokemon_caos_ascendente2026/capa.webp",
+  "libraryCategory": {
+    "id": "pokemon",
+    "name": "Pokémon",
+    "order": 80
+  },
+  "sections": [
+    {
+      "id": "principal",
+      "name": "Coleção principal",
+      "imageAsset": "assets/album_library/imagens/pokemon_caos_ascendente2026/capa.webp"
+    },
+    {
+      "id": "secretas",
+      "name": "Cartas secretas",
+      "imageAsset": "assets/album_library/imagens/pokemon_caos_ascendente2026/capa.webp"
+    },
+    {
+      "id": "reversas",
+      "name": "Reversas",
+      "imageAsset": "assets/album_library/imagens/pokemon_caos_ascendente2026/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "cri-principal-001",
+      "number": "001/086",
+      "name": "Weedle",
+      "sectionId": "principal",
+      "printedNumber": "001/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-002",
+      "number": "002/086",
+      "name": "Kakuna",
+      "sectionId": "principal",
+      "printedNumber": "002/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-003",
+      "number": "003/086",
+      "name": "Beedrill ex",
+      "sectionId": "principal",
+      "printedNumber": "003/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-004",
+      "number": "004/086",
+      "name": "Carnivine",
+      "sectionId": "principal",
+      "printedNumber": "004/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-005",
+      "number": "005/086",
+      "name": "Chespin",
+      "sectionId": "principal",
+      "printedNumber": "005/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-006",
+      "number": "006/086",
+      "name": "Quilladin",
+      "sectionId": "principal",
+      "printedNumber": "006/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-007",
+      "number": "007/086",
+      "name": "Chesnaught",
+      "sectionId": "principal",
+      "printedNumber": "007/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-008",
+      "number": "008/086",
+      "name": "Vulpix",
+      "sectionId": "principal",
+      "printedNumber": "008/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-009",
+      "number": "009/086",
+      "name": "Ninetales",
+      "sectionId": "principal",
+      "printedNumber": "009/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-010",
+      "number": "010/086",
+      "name": "Ho-Oh",
+      "sectionId": "principal",
+      "printedNumber": "010/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-011",
+      "number": "011/086",
+      "name": "Fennekin",
+      "sectionId": "principal",
+      "printedNumber": "011/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-012",
+      "number": "012/086",
+      "name": "Braixen",
+      "sectionId": "principal",
+      "printedNumber": "012/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-013",
+      "number": "013/086",
+      "name": "Delphox",
+      "sectionId": "principal",
+      "printedNumber": "013/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-014",
+      "number": "014/086",
+      "name": "Litleo",
+      "sectionId": "principal",
+      "printedNumber": "014/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-015",
+      "number": "015/086",
+      "name": "Mega Pyroar ex",
+      "sectionId": "principal",
+      "printedNumber": "015/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-016",
+      "number": "016/086",
+      "name": "Remoraid",
+      "sectionId": "principal",
+      "printedNumber": "016/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-017",
+      "number": "017/086",
+      "name": "Octillery",
+      "sectionId": "principal",
+      "printedNumber": "017/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-018",
+      "number": "018/086",
+      "name": "Delibird",
+      "sectionId": "principal",
+      "printedNumber": "018/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-019",
+      "number": "019/086",
+      "name": "Keldeo",
+      "sectionId": "principal",
+      "printedNumber": "019/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-020",
+      "number": "020/086",
+      "name": "Froakie",
+      "sectionId": "principal",
+      "printedNumber": "020/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-021",
+      "number": "021/086",
+      "name": "Frogadier",
+      "sectionId": "principal",
+      "printedNumber": "021/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-022",
+      "number": "022/086",
+      "name": "Mega Greninja ex",
+      "sectionId": "principal",
+      "printedNumber": "022/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-023",
+      "number": "023/086",
+      "name": "Bergmite",
+      "sectionId": "principal",
+      "printedNumber": "023/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-024",
+      "number": "024/086",
+      "name": "Avalugg",
+      "sectionId": "principal",
+      "printedNumber": "024/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-025",
+      "number": "025/086",
+      "name": "Wimpod",
+      "sectionId": "principal",
+      "printedNumber": "025/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-026",
+      "number": "026/086",
+      "name": "Golisopod",
+      "sectionId": "principal",
+      "printedNumber": "026/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-027",
+      "number": "027/086",
+      "name": "Mareep",
+      "sectionId": "principal",
+      "printedNumber": "027/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-028",
+      "number": "028/086",
+      "name": "Flaaffy",
+      "sectionId": "principal",
+      "printedNumber": "028/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-029",
+      "number": "029/086",
+      "name": "Ampharos",
+      "sectionId": "principal",
+      "printedNumber": "029/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-030",
+      "number": "030/086",
+      "name": "Emolga",
+      "sectionId": "principal",
+      "printedNumber": "030/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-031",
+      "number": "031/086",
+      "name": "Deoxys",
+      "sectionId": "principal",
+      "printedNumber": "031/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-032",
+      "number": "032/086",
+      "name": "Deoxys",
+      "sectionId": "principal",
+      "printedNumber": "032/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-033",
+      "number": "033/086",
+      "name": "Deoxys",
+      "sectionId": "principal",
+      "printedNumber": "033/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-034",
+      "number": "034/086",
+      "name": "Deoxys",
+      "sectionId": "principal",
+      "printedNumber": "034/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-035",
+      "number": "035/086",
+      "name": "Mega Floette ex",
+      "sectionId": "principal",
+      "printedNumber": "035/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-036",
+      "number": "036/086",
+      "name": "Espurr",
+      "sectionId": "principal",
+      "printedNumber": "036/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-037",
+      "number": "037/086",
+      "name": "Meowstic",
+      "sectionId": "principal",
+      "printedNumber": "037/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-038",
+      "number": "038/086",
+      "name": "Phantump",
+      "sectionId": "principal",
+      "printedNumber": "038/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-039",
+      "number": "039/086",
+      "name": "Trevenant",
+      "sectionId": "principal",
+      "printedNumber": "039/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-040",
+      "number": "040/086",
+      "name": "Pumpkaboo",
+      "sectionId": "principal",
+      "printedNumber": "040/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-041",
+      "number": "041/086",
+      "name": "Gourgeist ex",
+      "sectionId": "principal",
+      "printedNumber": "041/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-042",
+      "number": "042/086",
+      "name": "Xerneas",
+      "sectionId": "principal",
+      "printedNumber": "042/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-043",
+      "number": "043/086",
+      "name": "Sudowoodo",
+      "sectionId": "principal",
+      "printedNumber": "043/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-044",
+      "number": "044/086",
+      "name": "Phanpy",
+      "sectionId": "principal",
+      "printedNumber": "044/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-045",
+      "number": "045/086",
+      "name": "Donphan",
+      "sectionId": "principal",
+      "printedNumber": "045/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-046",
+      "number": "046/086",
+      "name": "Baltoy",
+      "sectionId": "principal",
+      "printedNumber": "046/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-047",
+      "number": "047/086",
+      "name": "Claydol",
+      "sectionId": "principal",
+      "printedNumber": "047/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-048",
+      "number": "048/086",
+      "name": "Mega Gallade ex",
+      "sectionId": "principal",
+      "printedNumber": "048/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-049",
+      "number": "049/086",
+      "name": "Zubat",
+      "sectionId": "principal",
+      "printedNumber": "049/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-050",
+      "number": "050/086",
+      "name": "Golbat",
+      "sectionId": "principal",
+      "printedNumber": "050/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-051",
+      "number": "051/086",
+      "name": "Crobat",
+      "sectionId": "principal",
+      "printedNumber": "051/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-052",
+      "number": "052/086",
+      "name": "Qwilfish",
+      "sectionId": "principal",
+      "printedNumber": "052/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-053",
+      "number": "053/086",
+      "name": "Stunky",
+      "sectionId": "principal",
+      "printedNumber": "053/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-054",
+      "number": "054/086",
+      "name": "Skuntank",
+      "sectionId": "principal",
+      "printedNumber": "054/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-055",
+      "number": "055/086",
+      "name": "Krookodile ex",
+      "sectionId": "principal",
+      "printedNumber": "055/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-056",
+      "number": "056/086",
+      "name": "Trubbish",
+      "sectionId": "principal",
+      "printedNumber": "056/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-057",
+      "number": "057/086",
+      "name": "Garbodor",
+      "sectionId": "principal",
+      "printedNumber": "057/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-058",
+      "number": "058/086",
+      "name": "Skrelp",
+      "sectionId": "principal",
+      "printedNumber": "058/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-059",
+      "number": "059/086",
+      "name": "Beldum",
+      "sectionId": "principal",
+      "printedNumber": "059/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-060",
+      "number": "060/086",
+      "name": "Metang",
+      "sectionId": "principal",
+      "printedNumber": "060/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-061",
+      "number": "061/086",
+      "name": "Metagross",
+      "sectionId": "principal",
+      "printedNumber": "061/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-062",
+      "number": "062/086",
+      "name": "Ferroseed",
+      "sectionId": "principal",
+      "printedNumber": "062/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-063",
+      "number": "063/086",
+      "name": "Ferrothorn",
+      "sectionId": "principal",
+      "printedNumber": "063/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-064",
+      "number": "064/086",
+      "name": "Cobalion ex",
+      "sectionId": "principal",
+      "printedNumber": "064/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-065",
+      "number": "065/086",
+      "name": "Mega Dragalge ex",
+      "sectionId": "principal",
+      "printedNumber": "065/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-066",
+      "number": "066/086",
+      "name": "Goomy",
+      "sectionId": "principal",
+      "printedNumber": "066/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-067",
+      "number": "067/086",
+      "name": "Sliggoo",
+      "sectionId": "principal",
+      "printedNumber": "067/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-068",
+      "number": "068/086",
+      "name": "Goodra",
+      "sectionId": "principal",
+      "printedNumber": "068/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-069",
+      "number": "069/086",
+      "name": "Tauros",
+      "sectionId": "principal",
+      "printedNumber": "069/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-070",
+      "number": "070/086",
+      "name": "Patrat",
+      "sectionId": "principal",
+      "printedNumber": "070/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-071",
+      "number": "071/086",
+      "name": "Watchog",
+      "sectionId": "principal",
+      "printedNumber": "071/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-072",
+      "number": "072/086",
+      "name": "Minccino",
+      "sectionId": "principal",
+      "printedNumber": "072/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-073",
+      "number": "073/086",
+      "name": "Cinccino ex",
+      "sectionId": "principal",
+      "printedNumber": "073/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-074",
+      "number": "074/086",
+      "name": "Apólice de Adversidade",
+      "sectionId": "principal",
+      "printedNumber": "074/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-075",
+      "number": "075/086",
+      "name": "Floette Ange",
+      "sectionId": "principal",
+      "printedNumber": "075/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-076",
+      "number": "076/086",
+      "name": "Tranquilidade do AZ",
+      "sectionId": "principal",
+      "printedNumber": "076/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-077",
+      "number": "077/086",
+      "name": "Emma",
+      "sectionId": "principal",
+      "printedNumber": "077/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-078",
+      "number": "078/086",
+      "name": "Rede Grande de Arrasto",
+      "sectionId": "principal",
+      "printedNumber": "078/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-079",
+      "number": "079/086",
+      "name": "Philippe",
+      "sectionId": "principal",
+      "printedNumber": "079/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-080",
+      "number": "080/086",
+      "name": "Torre Prisma",
+      "sectionId": "principal",
+      "printedNumber": "080/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-081",
+      "number": "081/086",
+      "name": "Show da Roxie",
+      "sectionId": "principal",
+      "printedNumber": "081/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-082",
+      "number": "082/086",
+      "name": "Cartão Vermelho Especial",
+      "sectionId": "principal",
+      "printedNumber": "082/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-083",
+      "number": "083/086",
+      "name": "Tomo da Transformação",
+      "sectionId": "principal",
+      "printedNumber": "083/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-084",
+      "number": "084/086",
+      "name": "Energia Borbulhante",
+      "sectionId": "principal",
+      "printedNumber": "084/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-085",
+      "number": "085/086",
+      "name": "Energia Magnética",
+      "sectionId": "principal",
+      "printedNumber": "085/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-086",
+      "number": "086/086",
+      "name": "Energia Nitro",
+      "sectionId": "principal",
+      "printedNumber": "086/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-087",
+      "number": "087/086",
+      "name": "Chespin",
+      "sectionId": "secretas",
+      "printedNumber": "087/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-088",
+      "number": "088/086",
+      "name": "Froakie",
+      "sectionId": "secretas",
+      "printedNumber": "088/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-089",
+      "number": "089/086",
+      "name": "Frogadier",
+      "sectionId": "secretas",
+      "printedNumber": "089/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-090",
+      "number": "090/086",
+      "name": "Ampharos",
+      "sectionId": "secretas",
+      "printedNumber": "090/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-091",
+      "number": "091/086",
+      "name": "Xerneas",
+      "sectionId": "secretas",
+      "printedNumber": "091/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-092",
+      "number": "092/086",
+      "name": "Claydol",
+      "sectionId": "secretas",
+      "printedNumber": "092/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-093",
+      "number": "093/086",
+      "name": "Crobat",
+      "sectionId": "secretas",
+      "printedNumber": "093/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-094",
+      "number": "094/086",
+      "name": "Metang",
+      "sectionId": "secretas",
+      "printedNumber": "094/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-095",
+      "number": "095/086",
+      "name": "Sliggoo",
+      "sectionId": "secretas",
+      "printedNumber": "095/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-096",
+      "number": "096/086",
+      "name": "Tauros",
+      "sectionId": "secretas",
+      "printedNumber": "096/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-097",
+      "number": "097/086",
+      "name": "Watchog",
+      "sectionId": "secretas",
+      "printedNumber": "097/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-098",
+      "number": "098/086",
+      "name": "Beedrill ex",
+      "sectionId": "secretas",
+      "printedNumber": "098/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-099",
+      "number": "099/086",
+      "name": "Mega Pyroar ex",
+      "sectionId": "secretas",
+      "printedNumber": "099/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-100",
+      "number": "100/086",
+      "name": "Mega Greninja ex",
+      "sectionId": "secretas",
+      "printedNumber": "100/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-101",
+      "number": "101/086",
+      "name": "Mega Floette ex",
+      "sectionId": "secretas",
+      "printedNumber": "101/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-102",
+      "number": "102/086",
+      "name": "Gourgeist ex",
+      "sectionId": "secretas",
+      "printedNumber": "102/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-103",
+      "number": "103/086",
+      "name": "Cobalion ex",
+      "sectionId": "secretas",
+      "printedNumber": "103/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-104",
+      "number": "104/086",
+      "name": "Mega Dragalge ex",
+      "sectionId": "secretas",
+      "printedNumber": "104/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-105",
+      "number": "105/086",
+      "name": "Cinccino ex",
+      "sectionId": "secretas",
+      "printedNumber": "105/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-106",
+      "number": "106/086",
+      "name": "Tranquilidade do AZ",
+      "sectionId": "secretas",
+      "printedNumber": "106/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-107",
+      "number": "107/086",
+      "name": "Emma",
+      "sectionId": "secretas",
+      "printedNumber": "107/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-108",
+      "number": "108/086",
+      "name": "Recuperação de Energia",
+      "sectionId": "secretas",
+      "printedNumber": "108/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-109",
+      "number": "109/086",
+      "name": "Sorvetão Jumbo",
+      "sectionId": "secretas",
+      "printedNumber": "109/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-110",
+      "number": "110/086",
+      "name": "Philippe",
+      "sectionId": "secretas",
+      "printedNumber": "110/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-111",
+      "number": "111/086",
+      "name": "Torre Prisma",
+      "sectionId": "secretas",
+      "printedNumber": "111/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-112",
+      "number": "112/086",
+      "name": "Show da Roxie",
+      "sectionId": "secretas",
+      "printedNumber": "112/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-113",
+      "number": "113/086",
+      "name": "Cartão Vermelho Especial",
+      "sectionId": "secretas",
+      "printedNumber": "113/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-114",
+      "number": "114/086",
+      "name": "Praia de Surfista",
+      "sectionId": "secretas",
+      "printedNumber": "114/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-115",
+      "number": "115/086",
+      "name": "Sucateador de Ferramentas",
+      "sectionId": "secretas",
+      "printedNumber": "115/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-116",
+      "number": "116/086",
+      "name": "Mega Greninja ex",
+      "sectionId": "secretas",
+      "printedNumber": "116/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-117",
+      "number": "117/086",
+      "name": "Mega Floette ex",
+      "sectionId": "secretas",
+      "printedNumber": "117/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-118",
+      "number": "118/086",
+      "name": "Mega Dragalge ex",
+      "sectionId": "secretas",
+      "printedNumber": "118/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-119",
+      "number": "119/086",
+      "name": "Cinccino ex",
+      "sectionId": "secretas",
+      "printedNumber": "119/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-120",
+      "number": "120/086",
+      "name": "Tranquilidade do AZ",
+      "sectionId": "secretas",
+      "printedNumber": "120/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-121",
+      "number": "121/086",
+      "name": "Show da Roxie",
+      "sectionId": "secretas",
+      "printedNumber": "121/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-secretas-122",
+      "number": "122/086",
+      "name": "Mega Greninja ex",
+      "sectionId": "secretas",
+      "printedNumber": "122/086",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "cri-principal-001-reverse",
+      "number": "001/086-R",
+      "name": "Weedle — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "001/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-002-reverse",
+      "number": "002/086-R",
+      "name": "Kakuna — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "002/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-004-reverse",
+      "number": "004/086-R",
+      "name": "Carnivine — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "004/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-005-reverse",
+      "number": "005/086-R",
+      "name": "Chespin — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "005/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-006-reverse",
+      "number": "006/086-R",
+      "name": "Quilladin — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "006/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-007-reverse",
+      "number": "007/086-R",
+      "name": "Chesnaught — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "007/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-008-reverse",
+      "number": "008/086-R",
+      "name": "Vulpix — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "008/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-009-reverse",
+      "number": "009/086-R",
+      "name": "Ninetales — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "009/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-010-reverse",
+      "number": "010/086-R",
+      "name": "Ho-Oh — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "010/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-011-reverse",
+      "number": "011/086-R",
+      "name": "Fennekin — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "011/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-012-reverse",
+      "number": "012/086-R",
+      "name": "Braixen — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "012/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-013-reverse",
+      "number": "013/086-R",
+      "name": "Delphox — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "013/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-014-reverse",
+      "number": "014/086-R",
+      "name": "Litleo — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "014/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-016-reverse",
+      "number": "016/086-R",
+      "name": "Remoraid — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "016/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-017-reverse",
+      "number": "017/086-R",
+      "name": "Octillery — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "017/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-018-reverse",
+      "number": "018/086-R",
+      "name": "Delibird — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "018/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-019-reverse",
+      "number": "019/086-R",
+      "name": "Keldeo — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "019/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-020-reverse",
+      "number": "020/086-R",
+      "name": "Froakie — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "020/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-021-reverse",
+      "number": "021/086-R",
+      "name": "Frogadier — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "021/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-023-reverse",
+      "number": "023/086-R",
+      "name": "Bergmite — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "023/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-024-reverse",
+      "number": "024/086-R",
+      "name": "Avalugg — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "024/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-025-reverse",
+      "number": "025/086-R",
+      "name": "Wimpod — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "025/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-026-reverse",
+      "number": "026/086-R",
+      "name": "Golisopod — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "026/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-027-reverse",
+      "number": "027/086-R",
+      "name": "Mareep — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "027/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-028-reverse",
+      "number": "028/086-R",
+      "name": "Flaaffy — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "028/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-029-reverse",
+      "number": "029/086-R",
+      "name": "Ampharos — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "029/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-030-reverse",
+      "number": "030/086-R",
+      "name": "Emolga — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "030/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-031-reverse",
+      "number": "031/086-R",
+      "name": "Deoxys — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "031/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-032-reverse",
+      "number": "032/086-R",
+      "name": "Deoxys — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "032/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-033-reverse",
+      "number": "033/086-R",
+      "name": "Deoxys — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "033/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-034-reverse",
+      "number": "034/086-R",
+      "name": "Deoxys — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "034/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-036-reverse",
+      "number": "036/086-R",
+      "name": "Espurr — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "036/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-037-reverse",
+      "number": "037/086-R",
+      "name": "Meowstic — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "037/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-038-reverse",
+      "number": "038/086-R",
+      "name": "Phantump — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "038/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-039-reverse",
+      "number": "039/086-R",
+      "name": "Trevenant — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "039/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-040-reverse",
+      "number": "040/086-R",
+      "name": "Pumpkaboo — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "040/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-042-reverse",
+      "number": "042/086-R",
+      "name": "Xerneas — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "042/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-043-reverse",
+      "number": "043/086-R",
+      "name": "Sudowoodo — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "043/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-044-reverse",
+      "number": "044/086-R",
+      "name": "Phanpy — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "044/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-045-reverse",
+      "number": "045/086-R",
+      "name": "Donphan — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "045/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-046-reverse",
+      "number": "046/086-R",
+      "name": "Baltoy — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "046/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-047-reverse",
+      "number": "047/086-R",
+      "name": "Claydol — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "047/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-049-reverse",
+      "number": "049/086-R",
+      "name": "Zubat — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "049/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-050-reverse",
+      "number": "050/086-R",
+      "name": "Golbat — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "050/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-051-reverse",
+      "number": "051/086-R",
+      "name": "Crobat — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "051/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-052-reverse",
+      "number": "052/086-R",
+      "name": "Qwilfish — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "052/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-053-reverse",
+      "number": "053/086-R",
+      "name": "Stunky — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "053/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-054-reverse",
+      "number": "054/086-R",
+      "name": "Skuntank — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "054/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-056-reverse",
+      "number": "056/086-R",
+      "name": "Trubbish — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "056/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-057-reverse",
+      "number": "057/086-R",
+      "name": "Garbodor — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "057/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-058-reverse",
+      "number": "058/086-R",
+      "name": "Skrelp — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "058/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-059-reverse",
+      "number": "059/086-R",
+      "name": "Beldum — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "059/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-060-reverse",
+      "number": "060/086-R",
+      "name": "Metang — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "060/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-061-reverse",
+      "number": "061/086-R",
+      "name": "Metagross — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "061/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-062-reverse",
+      "number": "062/086-R",
+      "name": "Ferroseed — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "062/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-063-reverse",
+      "number": "063/086-R",
+      "name": "Ferrothorn — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "063/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-066-reverse",
+      "number": "066/086-R",
+      "name": "Goomy — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "066/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-067-reverse",
+      "number": "067/086-R",
+      "name": "Sliggoo — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "067/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-068-reverse",
+      "number": "068/086-R",
+      "name": "Goodra — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "068/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-069-reverse",
+      "number": "069/086-R",
+      "name": "Tauros — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "069/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-070-reverse",
+      "number": "070/086-R",
+      "name": "Patrat — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "070/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-071-reverse",
+      "number": "071/086-R",
+      "name": "Watchog — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "071/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-072-reverse",
+      "number": "072/086-R",
+      "name": "Minccino — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "072/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-074-reverse",
+      "number": "074/086-R",
+      "name": "Apólice de Adversidade — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "074/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-075-reverse",
+      "number": "075/086-R",
+      "name": "Floette Ange — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "075/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-076-reverse",
+      "number": "076/086-R",
+      "name": "Tranquilidade do AZ — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "076/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-077-reverse",
+      "number": "077/086-R",
+      "name": "Emma — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "077/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-078-reverse",
+      "number": "078/086-R",
+      "name": "Rede Grande de Arrasto — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "078/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-079-reverse",
+      "number": "079/086-R",
+      "name": "Philippe — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "079/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-080-reverse",
+      "number": "080/086-R",
+      "name": "Torre Prisma — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "080/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-081-reverse",
+      "number": "081/086-R",
+      "name": "Show da Roxie — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "081/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-082-reverse",
+      "number": "082/086-R",
+      "name": "Cartão Vermelho Especial — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "082/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-083-reverse",
+      "number": "083/086-R",
+      "name": "Tomo da Transformação — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "083/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-084-reverse",
+      "number": "084/086-R",
+      "name": "Energia Borbulhante — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "084/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-085-reverse",
+      "number": "085/086-R",
+      "name": "Energia Magnética — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "085/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "cri-principal-086-reverse",
+      "number": "086/086-R",
+      "name": "Energia Nitro — Reversa",
+      "sectionId": "reversas",
+      "printedNumber": "086/086",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    }
+  ]
+}

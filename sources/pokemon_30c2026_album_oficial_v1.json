@@ -1,0 +1,1606 @@
+{
+  "officialId": "pokemon.30c2026.standard",
+  "version": 1,
+  "name": "Celebração de 30 Anos",
+  "collection": "Celebração de 30 Anos",
+  "year": "2026",
+  "publisher": "The Pokémon Company / Copag",
+  "collectionType": "cards",
+  "availability": "online",
+  "description": "196 cards: 158 da coleção principal, 30 da Coleção Clássica e oito Energias Básicas. Não inclui Mew RGB ou promocionais. CL identifica a posição na Coleção Clássica, seguida do número original; MEE identifica as energias.",
+  "plannedTotal": 196,
+  "variantCount": 0,
+  "coverAsset": "assets/album_library/imagens/pokemon_celebracao30_2026/capa.webp",
+  "libraryCategory": {
+    "id": "pokemon",
+    "name": "Pokémon",
+    "order": 80
+  },
+  "sections": [
+    {
+      "id": "principal",
+      "name": "Coleção principal",
+      "imageAsset": "assets/album_library/imagens/pokemon_celebracao30_2026/capa.webp"
+    },
+    {
+      "id": "classicas",
+      "name": "Coleção Clássica",
+      "imageAsset": "assets/album_library/imagens/pokemon_celebracao30_2026/capa.webp"
+    },
+    {
+      "id": "energias",
+      "name": "Energias Básicas",
+      "imageAsset": "assets/album_library/imagens/pokemon_celebracao30_2026/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "30c-principal-001",
+      "number": "001/128",
+      "name": "Exeggcute",
+      "sectionId": "principal",
+      "printedNumber": "001/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-002",
+      "number": "002/128",
+      "name": "Exeggutor de Alola",
+      "sectionId": "principal",
+      "printedNumber": "002/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-003",
+      "number": "003/128",
+      "name": "Volbeat",
+      "sectionId": "principal",
+      "printedNumber": "003/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-004",
+      "number": "004/128",
+      "name": "Illumise",
+      "sectionId": "principal",
+      "printedNumber": "004/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-005",
+      "number": "005/128",
+      "name": "Tropius",
+      "sectionId": "principal",
+      "printedNumber": "005/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-006",
+      "number": "006/128",
+      "name": "Cherubi",
+      "sectionId": "principal",
+      "printedNumber": "006/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-007",
+      "number": "007/128",
+      "name": "Cherrim",
+      "sectionId": "principal",
+      "printedNumber": "007/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-008",
+      "number": "008/128",
+      "name": "Vivillon",
+      "sectionId": "principal",
+      "printedNumber": "008/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-009",
+      "number": "009/128",
+      "name": "Vulpix",
+      "sectionId": "principal",
+      "printedNumber": "009/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-010",
+      "number": "010/128",
+      "name": "Ninetales",
+      "sectionId": "principal",
+      "printedNumber": "010/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-011",
+      "number": "011/128",
+      "name": "Moltres",
+      "sectionId": "principal",
+      "printedNumber": "011/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-012",
+      "number": "012/128",
+      "name": "Ho-Oh",
+      "sectionId": "principal",
+      "printedNumber": "012/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-013",
+      "number": "013/128",
+      "name": "Victini",
+      "sectionId": "principal",
+      "printedNumber": "013/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-014",
+      "number": "014/128",
+      "name": "Reshiram",
+      "sectionId": "principal",
+      "printedNumber": "014/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-015",
+      "number": "015/128",
+      "name": "Fuecoco ex",
+      "sectionId": "principal",
+      "printedNumber": "015/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-016",
+      "number": "016/128",
+      "name": "Slowpoke",
+      "sectionId": "principal",
+      "printedNumber": "016/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-017",
+      "number": "017/128",
+      "name": "Lapras",
+      "sectionId": "principal",
+      "printedNumber": "017/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-018",
+      "number": "018/128",
+      "name": "Articuno",
+      "sectionId": "principal",
+      "printedNumber": "018/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-019",
+      "number": "019/128",
+      "name": "Kyogre",
+      "sectionId": "principal",
+      "printedNumber": "019/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-020",
+      "number": "020/128",
+      "name": "Palkia",
+      "sectionId": "principal",
+      "printedNumber": "020/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-021",
+      "number": "021/128",
+      "name": "Greninja ex",
+      "sectionId": "principal",
+      "printedNumber": "021/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-022",
+      "number": "022/128",
+      "name": "Wishiwashi",
+      "sectionId": "principal",
+      "printedNumber": "022/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-023",
+      "number": "023/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "023/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-024",
+      "number": "024/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "024/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-025",
+      "number": "025/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "025/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-026",
+      "number": "026/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "026/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-027",
+      "number": "027/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "027/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-028",
+      "number": "028/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "028/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-029",
+      "number": "029/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "029/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-030",
+      "number": "030/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "030/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-031",
+      "number": "031/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "031/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-032",
+      "number": "032/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "032/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-033",
+      "number": "033/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "033/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-034",
+      "number": "034/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "034/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-035",
+      "number": "035/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "035/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-036",
+      "number": "036/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "036/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-037",
+      "number": "037/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "037/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-038",
+      "number": "038/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "038/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-039",
+      "number": "039/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "039/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-040",
+      "number": "040/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "040/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-041",
+      "number": "041/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "041/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-042",
+      "number": "042/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "042/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-043",
+      "number": "043/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "043/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-044",
+      "number": "044/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "044/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-045",
+      "number": "045/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "045/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-046",
+      "number": "046/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "046/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-047",
+      "number": "047/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "047/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-048",
+      "number": "048/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "048/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-049",
+      "number": "049/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "049/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-050",
+      "number": "050/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "050/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-051",
+      "number": "051/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "051/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-052",
+      "number": "052/128",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "052/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-053",
+      "number": "053/128",
+      "name": "Pikachu ex",
+      "sectionId": "principal",
+      "printedNumber": "053/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-054",
+      "number": "054/128",
+      "name": "Pikachu ex",
+      "sectionId": "principal",
+      "printedNumber": "054/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-055",
+      "number": "055/128",
+      "name": "Zapdos",
+      "sectionId": "principal",
+      "printedNumber": "055/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-056",
+      "number": "056/128",
+      "name": "Zekrom",
+      "sectionId": "principal",
+      "printedNumber": "056/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-057",
+      "number": "057/128",
+      "name": "Zeraora",
+      "sectionId": "principal",
+      "printedNumber": "057/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-058",
+      "number": "058/128",
+      "name": "Toxel",
+      "sectionId": "principal",
+      "printedNumber": "058/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-059",
+      "number": "059/128",
+      "name": "Toxtricity",
+      "sectionId": "principal",
+      "printedNumber": "059/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-060",
+      "number": "060/128",
+      "name": "Toxtricity",
+      "sectionId": "principal",
+      "printedNumber": "060/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-061",
+      "number": "061/128",
+      "name": "Morpeko",
+      "sectionId": "principal",
+      "printedNumber": "061/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-062",
+      "number": "062/128",
+      "name": "Miraidon",
+      "sectionId": "principal",
+      "printedNumber": "062/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-063",
+      "number": "063/128",
+      "name": "Mewtwo",
+      "sectionId": "principal",
+      "printedNumber": "063/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-064",
+      "number": "064/128",
+      "name": "Mewtwo ex",
+      "sectionId": "principal",
+      "printedNumber": "064/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-065",
+      "number": "065/128",
+      "name": "Mew",
+      "sectionId": "principal",
+      "printedNumber": "065/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-066",
+      "number": "066/128",
+      "name": "Mew ex",
+      "sectionId": "principal",
+      "printedNumber": "066/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-067",
+      "number": "067/128",
+      "name": "Marill",
+      "sectionId": "principal",
+      "printedNumber": "067/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-068",
+      "number": "068/128",
+      "name": "Azumarill",
+      "sectionId": "principal",
+      "printedNumber": "068/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-069",
+      "number": "069/128",
+      "name": "Espeon",
+      "sectionId": "principal",
+      "printedNumber": "069/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-070",
+      "number": "070/128",
+      "name": "Espeon ex",
+      "sectionId": "principal",
+      "printedNumber": "070/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-071",
+      "number": "071/128",
+      "name": "Sylveon ex",
+      "sectionId": "principal",
+      "printedNumber": "071/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-072",
+      "number": "072/128",
+      "name": "Unown",
+      "sectionId": "principal",
+      "printedNumber": "072/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-073",
+      "number": "073/128",
+      "name": "Drifloon",
+      "sectionId": "principal",
+      "printedNumber": "073/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-074",
+      "number": "074/128",
+      "name": "Cresselia",
+      "sectionId": "principal",
+      "printedNumber": "074/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-075",
+      "number": "075/128",
+      "name": "Chandelure",
+      "sectionId": "principal",
+      "printedNumber": "075/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-076",
+      "number": "076/128",
+      "name": "Xerneas",
+      "sectionId": "principal",
+      "printedNumber": "076/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-077",
+      "number": "077/128",
+      "name": "Comfey",
+      "sectionId": "principal",
+      "printedNumber": "077/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-078",
+      "number": "078/128",
+      "name": "Cosmog",
+      "sectionId": "principal",
+      "printedNumber": "078/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-079",
+      "number": "079/128",
+      "name": "Cosmoem",
+      "sectionId": "principal",
+      "printedNumber": "079/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-080",
+      "number": "080/128",
+      "name": "Lunala",
+      "sectionId": "principal",
+      "printedNumber": "080/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-081",
+      "number": "081/128",
+      "name": "Gimmighoul",
+      "sectionId": "principal",
+      "printedNumber": "081/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-082",
+      "number": "082/128",
+      "name": "Groudon",
+      "sectionId": "principal",
+      "printedNumber": "082/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-083",
+      "number": "083/128",
+      "name": "Lucario",
+      "sectionId": "principal",
+      "printedNumber": "083/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-084",
+      "number": "084/128",
+      "name": "Seismitoad",
+      "sectionId": "principal",
+      "printedNumber": "084/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-085",
+      "number": "085/128",
+      "name": "Lycanroc",
+      "sectionId": "principal",
+      "printedNumber": "085/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-086",
+      "number": "086/128",
+      "name": "Koraidon",
+      "sectionId": "principal",
+      "printedNumber": "086/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-087",
+      "number": "087/128",
+      "name": "Nidoran♀",
+      "sectionId": "principal",
+      "printedNumber": "087/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-088",
+      "number": "088/128",
+      "name": "Nidorina",
+      "sectionId": "principal",
+      "printedNumber": "088/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-089",
+      "number": "089/128",
+      "name": "Meowth de Alola",
+      "sectionId": "principal",
+      "printedNumber": "089/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-090",
+      "number": "090/128",
+      "name": "Gengar ex",
+      "sectionId": "principal",
+      "printedNumber": "090/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-091",
+      "number": "091/128",
+      "name": "Umbreon",
+      "sectionId": "principal",
+      "printedNumber": "091/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-092",
+      "number": "092/128",
+      "name": "Umbreon ex",
+      "sectionId": "principal",
+      "printedNumber": "092/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-093",
+      "number": "093/128",
+      "name": "Murkrow",
+      "sectionId": "principal",
+      "printedNumber": "093/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-094",
+      "number": "094/128",
+      "name": "Scraggy",
+      "sectionId": "principal",
+      "printedNumber": "094/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-095",
+      "number": "095/128",
+      "name": "Zorua",
+      "sectionId": "principal",
+      "printedNumber": "095/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-096",
+      "number": "096/128",
+      "name": "Zoroark",
+      "sectionId": "principal",
+      "printedNumber": "096/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-097",
+      "number": "097/128",
+      "name": "Deino",
+      "sectionId": "principal",
+      "printedNumber": "097/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-098",
+      "number": "098/128",
+      "name": "Zweilous",
+      "sectionId": "principal",
+      "printedNumber": "098/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-099",
+      "number": "099/128",
+      "name": "Hydreigon",
+      "sectionId": "principal",
+      "printedNumber": "099/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-100",
+      "number": "100/128",
+      "name": "Yveltal",
+      "sectionId": "principal",
+      "printedNumber": "100/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-101",
+      "number": "101/128",
+      "name": "Meowth de Galar",
+      "sectionId": "principal",
+      "printedNumber": "101/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-102",
+      "number": "102/128",
+      "name": "Jirachi ex",
+      "sectionId": "principal",
+      "printedNumber": "102/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-103",
+      "number": "103/128",
+      "name": "Dialga",
+      "sectionId": "principal",
+      "printedNumber": "103/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-104",
+      "number": "104/128",
+      "name": "Ferrothorn",
+      "sectionId": "principal",
+      "printedNumber": "104/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-105",
+      "number": "105/128",
+      "name": "Solgaleo",
+      "sectionId": "principal",
+      "printedNumber": "105/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-106",
+      "number": "106/128",
+      "name": "Zacian",
+      "sectionId": "principal",
+      "printedNumber": "106/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-107",
+      "number": "107/128",
+      "name": "Zamazenta",
+      "sectionId": "principal",
+      "printedNumber": "107/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-108",
+      "number": "108/128",
+      "name": "Gholdengo",
+      "sectionId": "principal",
+      "printedNumber": "108/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-109",
+      "number": "109/128",
+      "name": "Salamence ex",
+      "sectionId": "principal",
+      "printedNumber": "109/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-110",
+      "number": "110/128",
+      "name": "Jangmo-o",
+      "sectionId": "principal",
+      "printedNumber": "110/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-111",
+      "number": "111/128",
+      "name": "Hakamo-o",
+      "sectionId": "principal",
+      "printedNumber": "111/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-112",
+      "number": "112/128",
+      "name": "Kommo-o",
+      "sectionId": "principal",
+      "printedNumber": "112/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-113",
+      "number": "113/128",
+      "name": "Meowth",
+      "sectionId": "principal",
+      "printedNumber": "113/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-114",
+      "number": "114/128",
+      "name": "Kangaskhan",
+      "sectionId": "principal",
+      "printedNumber": "114/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-115",
+      "number": "115/128",
+      "name": "Ditto",
+      "sectionId": "principal",
+      "printedNumber": "115/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-116",
+      "number": "116/128",
+      "name": "Eevee",
+      "sectionId": "principal",
+      "printedNumber": "116/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-117",
+      "number": "117/128",
+      "name": "Eevee",
+      "sectionId": "principal",
+      "printedNumber": "117/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-118",
+      "number": "118/128",
+      "name": "Eevee",
+      "sectionId": "principal",
+      "printedNumber": "118/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-119",
+      "number": "119/128",
+      "name": "Snorlax",
+      "sectionId": "principal",
+      "printedNumber": "119/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-120",
+      "number": "120/128",
+      "name": "Igglybuff",
+      "sectionId": "principal",
+      "printedNumber": "120/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-121",
+      "number": "121/128",
+      "name": "Lugia",
+      "sectionId": "principal",
+      "printedNumber": "121/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-122",
+      "number": "122/128",
+      "name": "Zorua de Hisui",
+      "sectionId": "principal",
+      "printedNumber": "122/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-123",
+      "number": "123/128",
+      "name": "Zoroark de Hisui",
+      "sectionId": "principal",
+      "printedNumber": "123/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-124",
+      "number": "124/128",
+      "name": "Minior",
+      "sectionId": "principal",
+      "printedNumber": "124/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-125",
+      "number": "125/128",
+      "name": "Maushold",
+      "sectionId": "principal",
+      "printedNumber": "125/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-126",
+      "number": "126/128",
+      "name": "Poké Tablet",
+      "sectionId": "principal",
+      "printedNumber": "126/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-127",
+      "number": "127/128",
+      "name": "Substituição",
+      "sectionId": "principal",
+      "printedNumber": "127/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-128",
+      "number": "128/128",
+      "name": "Ultra Bola",
+      "sectionId": "principal",
+      "printedNumber": "128/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-129",
+      "number": "129/128",
+      "name": "Exeggutor de Alola",
+      "sectionId": "principal",
+      "printedNumber": "129/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-130",
+      "number": "130/128",
+      "name": "Moltres",
+      "sectionId": "principal",
+      "printedNumber": "130/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-131",
+      "number": "131/128",
+      "name": "Lapras",
+      "sectionId": "principal",
+      "printedNumber": "131/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-132",
+      "number": "132/128",
+      "name": "Articuno",
+      "sectionId": "principal",
+      "printedNumber": "132/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-133",
+      "number": "133/128",
+      "name": "Zapdos",
+      "sectionId": "principal",
+      "printedNumber": "133/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-134",
+      "number": "134/128",
+      "name": "Toxtricity",
+      "sectionId": "principal",
+      "printedNumber": "134/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-135",
+      "number": "135/128",
+      "name": "Morpeko",
+      "sectionId": "principal",
+      "printedNumber": "135/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-136",
+      "number": "136/128",
+      "name": "Drifloon",
+      "sectionId": "principal",
+      "printedNumber": "136/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-137",
+      "number": "137/128",
+      "name": "Chandelure",
+      "sectionId": "principal",
+      "printedNumber": "137/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-138",
+      "number": "138/128",
+      "name": "Lycanroc",
+      "sectionId": "principal",
+      "printedNumber": "138/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-139",
+      "number": "139/128",
+      "name": "Meowth de Alola",
+      "sectionId": "principal",
+      "printedNumber": "139/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-140",
+      "number": "140/128",
+      "name": "Scraggy",
+      "sectionId": "principal",
+      "printedNumber": "140/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-141",
+      "number": "141/128",
+      "name": "Meowth de Galar",
+      "sectionId": "principal",
+      "printedNumber": "141/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-142",
+      "number": "142/128",
+      "name": "Gholdengo",
+      "sectionId": "principal",
+      "printedNumber": "142/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-143",
+      "number": "143/128",
+      "name": "Kommo-o",
+      "sectionId": "principal",
+      "printedNumber": "143/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-144",
+      "number": "144/128",
+      "name": "Meowth",
+      "sectionId": "principal",
+      "printedNumber": "144/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-145",
+      "number": "145/128",
+      "name": "Zorua de Hisui",
+      "sectionId": "principal",
+      "printedNumber": "145/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-146",
+      "number": "146/128",
+      "name": "Maushold",
+      "sectionId": "principal",
+      "printedNumber": "146/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-147",
+      "number": "147/128",
+      "name": "Fuecoco ex",
+      "sectionId": "principal",
+      "printedNumber": "147/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-148",
+      "number": "148/128",
+      "name": "Greninja ex",
+      "sectionId": "principal",
+      "printedNumber": "148/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-149",
+      "number": "149/128",
+      "name": "Pikachu ex",
+      "sectionId": "principal",
+      "printedNumber": "149/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-150",
+      "number": "150/128",
+      "name": "Pikachu ex",
+      "sectionId": "principal",
+      "printedNumber": "150/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-151",
+      "number": "151/128",
+      "name": "Mewtwo ex",
+      "sectionId": "principal",
+      "printedNumber": "151/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-152",
+      "number": "152/128",
+      "name": "Mew ex",
+      "sectionId": "principal",
+      "printedNumber": "152/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-153",
+      "number": "153/128",
+      "name": "Sylveon ex",
+      "sectionId": "principal",
+      "printedNumber": "153/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-154",
+      "number": "154/128",
+      "name": "Gengar ex",
+      "sectionId": "principal",
+      "printedNumber": "154/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-155",
+      "number": "155/128",
+      "name": "Jirachi ex",
+      "sectionId": "principal",
+      "printedNumber": "155/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-156",
+      "number": "156/128",
+      "name": "Salamence ex",
+      "sectionId": "principal",
+      "printedNumber": "156/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-157",
+      "number": "157/128",
+      "name": "Mewtwo ex",
+      "sectionId": "principal",
+      "printedNumber": "157/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-principal-158",
+      "number": "158/128",
+      "name": "Mew ex",
+      "sectionId": "principal",
+      "printedNumber": "158/128",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-159",
+      "number": "CL01-058",
+      "name": "Pikachu",
+      "sectionId": "classicas",
+      "printedNumber": "58",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-160",
+      "number": "CL02-004",
+      "name": "Charizard",
+      "sectionId": "classicas",
+      "printedNumber": "4",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-161",
+      "number": "CL03-018",
+      "name": "Misty",
+      "sectionId": "classicas",
+      "printedNumber": "18",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-162",
+      "number": "CL04-069",
+      "name": "Jigglypuff da Érica",
+      "sectionId": "classicas",
+      "printedNumber": "69",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-163",
+      "number": "CL05-025",
+      "name": "Sneasel",
+      "sectionId": "classicas",
+      "printedNumber": "25",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-164",
+      "number": "CL06-106",
+      "name": "Celebi Luminescente",
+      "sectionId": "classicas",
+      "printedNumber": "106",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-165",
+      "number": "CL07-149",
+      "name": "Lugia",
+      "sectionId": "classicas",
+      "printedNumber": "149",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-166",
+      "number": "CL08-005",
+      "name": "Delcatty",
+      "sectionId": "classicas",
+      "printedNumber": "5",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-167",
+      "number": "CL09-019",
+      "name": "Tyranitar Sombrio",
+      "sectionId": "classicas",
+      "printedNumber": "19",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-168",
+      "number": "CL10-108",
+      "name": "Scizor ex",
+      "sectionId": "classicas",
+      "printedNumber": "108",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-169",
+      "number": "CL11-011",
+      "name": "Metagross δ",
+      "sectionId": "classicas",
+      "printedNumber": "11",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-170",
+      "number": "CL12-106",
+      "name": "Palkia LV.X",
+      "sectionId": "classicas",
+      "printedNumber": "106",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-171",
+      "number": "CL13-043",
+      "name": "Uxie",
+      "sectionId": "classicas",
+      "printedNumber": "43",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-172",
+      "number": "CL14-047",
+      "name": "Crobat",
+      "sectionId": "classicas",
+      "printedNumber": "47",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-173",
+      "number": "CL15-094",
+      "name": "Gengar",
+      "sectionId": "classicas",
+      "printedNumber": "94",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-174",
+      "number": "CL16-099",
+      "name": "Darkrai & Cresselia LENDA",
+      "sectionId": "classicas",
+      "printedNumber": "99",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-175",
+      "number": "CL17-100",
+      "name": "Darkrai & Cresselia LENDA",
+      "sectionId": "classicas",
+      "printedNumber": "100",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-176",
+      "number": "CL18-101",
+      "name": "N",
+      "sectionId": "classicas",
+      "printedNumber": "101",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-177",
+      "number": "CL19-085",
+      "name": "Rayquaza-EX",
+      "sectionId": "classicas",
+      "printedNumber": "85",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-178",
+      "number": "CL20-011",
+      "name": "Genesect-EX",
+      "sectionId": "classicas",
+      "printedNumber": "11",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-179",
+      "number": "CL21-106",
+      "name": "M Gardevoir-EX",
+      "sectionId": "classicas",
+      "printedNumber": "106",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-180",
+      "number": "CL22-041",
+      "name": "Greninja TURBO",
+      "sectionId": "classicas",
+      "printedNumber": "41",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-181",
+      "number": "CL23-089",
+      "name": "Solgaleo-GX",
+      "sectionId": "classicas",
+      "printedNumber": "89",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-182",
+      "number": "CL24-057",
+      "name": "Buzzwole-GX",
+      "sectionId": "classicas",
+      "printedNumber": "57",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-183",
+      "number": "CL25-033",
+      "name": "Pikachu e Zekrom-GX",
+      "sectionId": "classicas",
+      "printedNumber": "33",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-184",
+      "number": "CL26-138",
+      "name": "Zacian V",
+      "sectionId": "classicas",
+      "printedNumber": "138",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-185",
+      "number": "CL27-050",
+      "name": "Raikou",
+      "sectionId": "classicas",
+      "printedNumber": "50",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-186",
+      "number": "CL28-114",
+      "name": "Mew VMAX",
+      "sectionId": "classicas",
+      "printedNumber": "114",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-187",
+      "number": "CL29-123",
+      "name": "Arceus V-ASTRO",
+      "sectionId": "classicas",
+      "printedNumber": "123",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-classicas-188",
+      "number": "CL30-203",
+      "name": "Magikarp",
+      "sectionId": "classicas",
+      "printedNumber": "203",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-energias-189",
+      "number": "MEE-009",
+      "name": "Energia Planta Básica",
+      "sectionId": "energias",
+      "printedNumber": "MEE 009",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-energias-190",
+      "number": "MEE-010",
+      "name": "Energia Fogo Básica",
+      "sectionId": "energias",
+      "printedNumber": "MEE 010",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-energias-191",
+      "number": "MEE-011",
+      "name": "Energia Água Básica",
+      "sectionId": "energias",
+      "printedNumber": "MEE 011",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-energias-192",
+      "number": "MEE-012",
+      "name": "Energia Raio Básica",
+      "sectionId": "energias",
+      "printedNumber": "MEE 012",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-energias-193",
+      "number": "MEE-013",
+      "name": "Energia Psíquica Básica",
+      "sectionId": "energias",
+      "printedNumber": "MEE 013",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-energias-194",
+      "number": "MEE-014",
+      "name": "Energia Luta Básica",
+      "sectionId": "energias",
+      "printedNumber": "MEE 014",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-energias-195",
+      "number": "MEE-015",
+      "name": "Energia Escuridão Básica",
+      "sectionId": "energias",
+      "printedNumber": "MEE 015",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "30c-energias-196",
+      "number": "MEE-016",
+      "name": "Energia Metal Básica",
+      "sectionId": "energias",
+      "printedNumber": "MEE 016",
+      "countsTowardCompletion": true
+    }
+  ]
+}

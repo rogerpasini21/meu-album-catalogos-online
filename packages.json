@@ -427,6 +427,20 @@
       "file": "albums/panini-adrenalyn-wc2022-standard-v1.zip",
       "bytes": 2311306,
       "sha256": "c9733d7fa9b082be28a1a434b5b87ae61b7bc3fa854d2087e718eea4a4172b58"
+    },
+    {
+      "officialId": "pokemon.30c2026.standard",
+      "version": 1,
+      "file": "albums/pokemon-30c-2026-standard-v1.zip",
+      "bytes": 235120,
+      "sha256": "9937d97f5477c5cd8f20b549b45d6f05523c8ee2f3b86389bb58bf7ed433007f"
+    },
+    {
+      "officialId": "pokemon.cri2026.standard",
+      "version": 1,
+      "file": "albums/pokemon-cri-2026-standard-v1.zip",
+      "bytes": 148271,
+      "sha256": "fa45efd2af31e46ab15138a99baded1e98e4e0723f75c8100e6c25237addb1fe"
     }
   ]
 }
