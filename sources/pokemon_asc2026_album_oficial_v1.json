@@ -1,0 +1,5295 @@
+{
+  "officialId": "pokemon.asc2026.standard",
+  "version": 1,
+  "name": "Megaevolução — Heróis Excelsos",
+  "collection": "Megaevolução — Heróis Excelsos",
+  "year": "2026",
+  "publisher": "The Pokémon Company / Copag",
+  "collectionType": "cards",
+  "availability": "online",
+  "description": "613 cards: 217 da coleção principal, 78 cartas secretas e 318 acabamentos adicionais. Reversas separadas por padrão convencional, símbolo de Energia, Poké Bola, Dusk Ball, Love Ball, Friend Ball, Quick Ball e Equipe Rocket. Os sufixos identificam o acabamento. Não inclui promocionais, carimbadas ou variantes exclusivas de produtos.",
+  "plannedTotal": 613,
+  "variantCount": 0,
+  "coverAsset": "assets/album_library/imagens/pokemon_herois_excelsos2026/capa.webp",
+  "libraryCategory": {
+    "id": "pokemon",
+    "name": "Pokémon",
+    "order": 80
+  },
+  "sections": [
+    {
+      "id": "principal",
+      "name": "Coleção principal",
+      "imageAsset": "assets/album_library/imagens/pokemon_herois_excelsos2026/capa.webp"
+    },
+    {
+      "id": "secretas",
+      "name": "Cartas secretas",
+      "imageAsset": "assets/album_library/imagens/pokemon_herois_excelsos2026/capa.webp"
+    },
+    {
+      "id": "rh",
+      "name": "Reversas — Reversa",
+      "imageAsset": "assets/album_library/imagens/pokemon_herois_excelsos2026/capa.webp"
+    },
+    {
+      "id": "esp",
+      "name": "Reversas — Símbolo de Energia",
+      "imageAsset": "assets/album_library/imagens/pokemon_herois_excelsos2026/capa.webp"
+    },
+    {
+      "id": "pbp",
+      "name": "Reversas — Poké Bola",
+      "imageAsset": "assets/album_library/imagens/pokemon_herois_excelsos2026/capa.webp"
+    },
+    {
+      "id": "dbp",
+      "name": "Reversas — Dusk Ball",
+      "imageAsset": "assets/album_library/imagens/pokemon_herois_excelsos2026/capa.webp"
+    },
+    {
+      "id": "lbp",
+      "name": "Reversas — Love Ball",
+      "imageAsset": "assets/album_library/imagens/pokemon_herois_excelsos2026/capa.webp"
+    },
+    {
+      "id": "fbp",
+      "name": "Reversas — Friend Ball",
+      "imageAsset": "assets/album_library/imagens/pokemon_herois_excelsos2026/capa.webp"
+    },
+    {
+      "id": "qbp",
+      "name": "Reversas — Quick Ball",
+      "imageAsset": "assets/album_library/imagens/pokemon_herois_excelsos2026/capa.webp"
+    },
+    {
+      "id": "trp",
+      "name": "Reversas — Equipe Rocket",
+      "imageAsset": "assets/album_library/imagens/pokemon_herois_excelsos2026/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "asc-001",
+      "number": "001/217",
+      "name": "Oddish da Érica",
+      "sectionId": "principal",
+      "printedNumber": "001/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-002",
+      "number": "002/217",
+      "name": "Gloom da Érica",
+      "sectionId": "principal",
+      "printedNumber": "002/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-003",
+      "number": "003/217",
+      "name": "Vileplume ex da Érica",
+      "sectionId": "principal",
+      "printedNumber": "003/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-004",
+      "number": "004/217",
+      "name": "Bellsprout da Érica",
+      "sectionId": "principal",
+      "printedNumber": "004/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-005",
+      "number": "005/217",
+      "name": "Weepinbell da Érica",
+      "sectionId": "principal",
+      "printedNumber": "005/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-006",
+      "number": "006/217",
+      "name": "Victreebel da Érica",
+      "sectionId": "principal",
+      "printedNumber": "006/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-007",
+      "number": "007/217",
+      "name": "Tangela da Érica",
+      "sectionId": "principal",
+      "printedNumber": "007/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-008",
+      "number": "008/217",
+      "name": "Chikorita",
+      "sectionId": "principal",
+      "printedNumber": "008/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-009",
+      "number": "009/217",
+      "name": "Bayleef",
+      "sectionId": "principal",
+      "printedNumber": "009/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-010",
+      "number": "010/217",
+      "name": "Mega Meganium ex",
+      "sectionId": "principal",
+      "printedNumber": "010/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-011",
+      "number": "011/217",
+      "name": "Wurmple",
+      "sectionId": "principal",
+      "printedNumber": "011/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-012",
+      "number": "012/217",
+      "name": "Silcoon",
+      "sectionId": "principal",
+      "printedNumber": "012/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-013",
+      "number": "013/217",
+      "name": "Beautifly",
+      "sectionId": "principal",
+      "printedNumber": "013/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-014",
+      "number": "014/217",
+      "name": "Cascoon",
+      "sectionId": "principal",
+      "printedNumber": "014/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-015",
+      "number": "015/217",
+      "name": "Dustox",
+      "sectionId": "principal",
+      "printedNumber": "015/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-016",
+      "number": "016/217",
+      "name": "Budew",
+      "sectionId": "principal",
+      "printedNumber": "016/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-017",
+      "number": "017/217",
+      "name": "Grubbin",
+      "sectionId": "principal",
+      "printedNumber": "017/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-018",
+      "number": "018/217",
+      "name": "Tarountula da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "018/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-019",
+      "number": "019/217",
+      "name": "Spidops da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "019/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-020",
+      "number": "020/217",
+      "name": "Charmander",
+      "sectionId": "principal",
+      "printedNumber": "020/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-021",
+      "number": "021/217",
+      "name": "Charmeleon",
+      "sectionId": "principal",
+      "printedNumber": "021/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-022",
+      "number": "022/217",
+      "name": "Mega Charizard Y ex",
+      "sectionId": "principal",
+      "printedNumber": "022/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-023",
+      "number": "023/217",
+      "name": "Slugma do Ethan",
+      "sectionId": "principal",
+      "printedNumber": "023/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-024",
+      "number": "024/217",
+      "name": "Magcargo do Ethan",
+      "sectionId": "principal",
+      "printedNumber": "024/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-025",
+      "number": "025/217",
+      "name": "Entei",
+      "sectionId": "principal",
+      "printedNumber": "025/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-026",
+      "number": "026/217",
+      "name": "Ho-Oh ex do Ethan",
+      "sectionId": "principal",
+      "printedNumber": "026/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-027",
+      "number": "027/217",
+      "name": "Numel",
+      "sectionId": "principal",
+      "printedNumber": "027/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-028",
+      "number": "028/217",
+      "name": "Camerupt",
+      "sectionId": "principal",
+      "printedNumber": "028/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-029",
+      "number": "029/217",
+      "name": "Tepig",
+      "sectionId": "principal",
+      "printedNumber": "029/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-030",
+      "number": "030/217",
+      "name": "Pignite",
+      "sectionId": "principal",
+      "printedNumber": "030/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-031",
+      "number": "031/217",
+      "name": "Mega Emboar ex",
+      "sectionId": "principal",
+      "printedNumber": "031/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-032",
+      "number": "032/217",
+      "name": "Darumaka do N",
+      "sectionId": "principal",
+      "printedNumber": "032/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-033",
+      "number": "033/217",
+      "name": "Darmanitan do N",
+      "sectionId": "principal",
+      "printedNumber": "033/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-034",
+      "number": "034/217",
+      "name": "Salandit",
+      "sectionId": "principal",
+      "printedNumber": "034/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-035",
+      "number": "035/217",
+      "name": "Salazzle",
+      "sectionId": "principal",
+      "printedNumber": "035/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-036",
+      "number": "036/217",
+      "name": "Scorbunny",
+      "sectionId": "principal",
+      "printedNumber": "036/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-037",
+      "number": "037/217",
+      "name": "Raboot",
+      "sectionId": "principal",
+      "printedNumber": "037/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-038",
+      "number": "038/217",
+      "name": "Cinderace ex",
+      "sectionId": "principal",
+      "printedNumber": "038/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-039",
+      "number": "039/217",
+      "name": "Psyduck",
+      "sectionId": "principal",
+      "printedNumber": "039/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-040",
+      "number": "040/217",
+      "name": "Golduck",
+      "sectionId": "principal",
+      "printedNumber": "040/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-041",
+      "number": "041/217",
+      "name": "Totodile",
+      "sectionId": "principal",
+      "printedNumber": "041/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-042",
+      "number": "042/217",
+      "name": "Croconaw",
+      "sectionId": "principal",
+      "printedNumber": "042/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-043",
+      "number": "043/217",
+      "name": "Mega Feraligatr ex",
+      "sectionId": "principal",
+      "printedNumber": "043/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-044",
+      "number": "044/217",
+      "name": "Sneasel",
+      "sectionId": "principal",
+      "printedNumber": "044/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-045",
+      "number": "045/217",
+      "name": "Weavile",
+      "sectionId": "principal",
+      "printedNumber": "045/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-046",
+      "number": "046/217",
+      "name": "Snorunt",
+      "sectionId": "principal",
+      "printedNumber": "046/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-047",
+      "number": "047/217",
+      "name": "Mega Froslass ex",
+      "sectionId": "principal",
+      "printedNumber": "047/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-048",
+      "number": "048/217",
+      "name": "Regice ex",
+      "sectionId": "principal",
+      "printedNumber": "048/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-049",
+      "number": "049/217",
+      "name": "Vanillite do N",
+      "sectionId": "principal",
+      "printedNumber": "049/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-050",
+      "number": "050/217",
+      "name": "Vanillish do N",
+      "sectionId": "principal",
+      "printedNumber": "050/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-051",
+      "number": "051/217",
+      "name": "Vanilluxe do N",
+      "sectionId": "principal",
+      "printedNumber": "051/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-052",
+      "number": "052/217",
+      "name": "Snom",
+      "sectionId": "principal",
+      "printedNumber": "052/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-053",
+      "number": "053/217",
+      "name": "Frosmoth",
+      "sectionId": "principal",
+      "printedNumber": "053/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-054",
+      "number": "054/217",
+      "name": "Glastrier",
+      "sectionId": "principal",
+      "printedNumber": "054/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-055",
+      "number": "055/217",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "055/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-056",
+      "number": "056/217",
+      "name": "Raichu",
+      "sectionId": "principal",
+      "printedNumber": "056/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-057",
+      "number": "057/217",
+      "name": "Pikachu ex",
+      "sectionId": "principal",
+      "printedNumber": "057/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-058",
+      "number": "058/217",
+      "name": "Voltorb ex",
+      "sectionId": "principal",
+      "printedNumber": "058/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-059",
+      "number": "059/217",
+      "name": "Tynamo",
+      "sectionId": "principal",
+      "printedNumber": "059/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-060",
+      "number": "060/217",
+      "name": "Eelektrik",
+      "sectionId": "principal",
+      "printedNumber": "060/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-061",
+      "number": "061/217",
+      "name": "Mega Eelektross ex",
+      "sectionId": "principal",
+      "printedNumber": "061/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-062",
+      "number": "062/217",
+      "name": "Stunfisk",
+      "sectionId": "principal",
+      "printedNumber": "062/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-063",
+      "number": "063/217",
+      "name": "Helioptile",
+      "sectionId": "principal",
+      "printedNumber": "063/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-064",
+      "number": "064/217",
+      "name": "Heliolisk",
+      "sectionId": "principal",
+      "printedNumber": "064/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-065",
+      "number": "065/217",
+      "name": "Charjabug",
+      "sectionId": "principal",
+      "printedNumber": "065/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-066",
+      "number": "066/217",
+      "name": "Vikavolt",
+      "sectionId": "principal",
+      "printedNumber": "066/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-067",
+      "number": "067/217",
+      "name": "Tapu Koko",
+      "sectionId": "principal",
+      "printedNumber": "067/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-068",
+      "number": "068/217",
+      "name": "Pincurchin ex do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "068/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-069",
+      "number": "069/217",
+      "name": "Tadbulb da Kissera",
+      "sectionId": "principal",
+      "printedNumber": "069/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-070",
+      "number": "070/217",
+      "name": "Bellibolt ex da Kissera",
+      "sectionId": "principal",
+      "printedNumber": "070/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-071",
+      "number": "071/217",
+      "name": "Wattrel da Kissera",
+      "sectionId": "principal",
+      "printedNumber": "071/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-072",
+      "number": "072/217",
+      "name": "Kilowattrel da Kissera",
+      "sectionId": "principal",
+      "printedNumber": "072/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-073",
+      "number": "073/217",
+      "name": "Miraidon ex",
+      "sectionId": "principal",
+      "printedNumber": "073/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-074",
+      "number": "074/217",
+      "name": "Clefairy",
+      "sectionId": "principal",
+      "printedNumber": "074/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-075",
+      "number": "075/217",
+      "name": "Clefable",
+      "sectionId": "principal",
+      "printedNumber": "075/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-076",
+      "number": "076/217",
+      "name": "Clefairy ex da Lílian",
+      "sectionId": "principal",
+      "printedNumber": "076/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-077",
+      "number": "077/217",
+      "name": "Exeggcute da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "077/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-078",
+      "number": "078/217",
+      "name": "Exeggutor da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "078/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-079",
+      "number": "079/217",
+      "name": "Mewtwo ex da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "079/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-080",
+      "number": "080/217",
+      "name": "Togepi",
+      "sectionId": "principal",
+      "printedNumber": "080/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-081",
+      "number": "081/217",
+      "name": "Togetic",
+      "sectionId": "principal",
+      "printedNumber": "081/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-082",
+      "number": "082/217",
+      "name": "Togekiss",
+      "sectionId": "principal",
+      "printedNumber": "082/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-083",
+      "number": "083/217",
+      "name": "Marill",
+      "sectionId": "principal",
+      "printedNumber": "083/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-084",
+      "number": "084/217",
+      "name": "Azumarill ex",
+      "sectionId": "principal",
+      "printedNumber": "084/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-085",
+      "number": "085/217",
+      "name": "Misdreavus",
+      "sectionId": "principal",
+      "printedNumber": "085/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-086",
+      "number": "086/217",
+      "name": "Mismagius",
+      "sectionId": "principal",
+      "printedNumber": "086/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-087",
+      "number": "087/217",
+      "name": "Ralts",
+      "sectionId": "principal",
+      "printedNumber": "087/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-088",
+      "number": "088/217",
+      "name": "Kirlia",
+      "sectionId": "principal",
+      "printedNumber": "088/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-089",
+      "number": "089/217",
+      "name": "Mega Gardevoir ex",
+      "sectionId": "principal",
+      "printedNumber": "089/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-090",
+      "number": "090/217",
+      "name": "Shuppet",
+      "sectionId": "principal",
+      "printedNumber": "090/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-091",
+      "number": "091/217",
+      "name": "Banette",
+      "sectionId": "principal",
+      "printedNumber": "091/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-092",
+      "number": "092/217",
+      "name": "Rotom",
+      "sectionId": "principal",
+      "printedNumber": "092/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-093",
+      "number": "093/217",
+      "name": "Swirlix",
+      "sectionId": "principal",
+      "printedNumber": "093/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-094",
+      "number": "094/217",
+      "name": "Slurpuff",
+      "sectionId": "principal",
+      "printedNumber": "094/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-095",
+      "number": "095/217",
+      "name": "Phantump do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "095/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-096",
+      "number": "096/217",
+      "name": "Trevenant do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "096/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-097",
+      "number": "097/217",
+      "name": "Mimikyu da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "097/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-098",
+      "number": "098/217",
+      "name": "Spectrier",
+      "sectionId": "principal",
+      "printedNumber": "098/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-099",
+      "number": "099/217",
+      "name": "Munkidori",
+      "sectionId": "principal",
+      "printedNumber": "099/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-100",
+      "number": "100/217",
+      "name": "Diglett da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "100/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-101",
+      "number": "101/217",
+      "name": "Dugtrio da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "101/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-102",
+      "number": "102/217",
+      "name": "Hitmontop",
+      "sectionId": "principal",
+      "printedNumber": "102/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-103",
+      "number": "103/217",
+      "name": "Meditite",
+      "sectionId": "principal",
+      "printedNumber": "103/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-104",
+      "number": "104/217",
+      "name": "Medicham",
+      "sectionId": "principal",
+      "printedNumber": "104/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-105",
+      "number": "105/217",
+      "name": "Lunatone",
+      "sectionId": "principal",
+      "printedNumber": "105/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-106",
+      "number": "106/217",
+      "name": "Solrock",
+      "sectionId": "principal",
+      "printedNumber": "106/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-107",
+      "number": "107/217",
+      "name": "Regirock ex",
+      "sectionId": "principal",
+      "printedNumber": "107/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-108",
+      "number": "108/217",
+      "name": "Groudon",
+      "sectionId": "principal",
+      "printedNumber": "108/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-109",
+      "number": "109/217",
+      "name": "Gible da Cíntia",
+      "sectionId": "principal",
+      "printedNumber": "109/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-110",
+      "number": "110/217",
+      "name": "Gabite da Cíntia",
+      "sectionId": "principal",
+      "printedNumber": "110/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-111",
+      "number": "111/217",
+      "name": "Garchomp ex da Cíntia",
+      "sectionId": "principal",
+      "printedNumber": "111/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-112",
+      "number": "112/217",
+      "name": "Riolu",
+      "sectionId": "principal",
+      "printedNumber": "112/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-113",
+      "number": "113/217",
+      "name": "Mega Lucario ex",
+      "sectionId": "principal",
+      "printedNumber": "113/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-114",
+      "number": "114/217",
+      "name": "Stunfisk ex",
+      "sectionId": "principal",
+      "printedNumber": "114/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-115",
+      "number": "115/217",
+      "name": "Pancham",
+      "sectionId": "principal",
+      "printedNumber": "115/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-116",
+      "number": "116/217",
+      "name": "Mega Hawlucha ex",
+      "sectionId": "principal",
+      "printedNumber": "116/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-117",
+      "number": "117/217",
+      "name": "Carbink",
+      "sectionId": "principal",
+      "printedNumber": "117/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-118",
+      "number": "118/217",
+      "name": "Rolycoly",
+      "sectionId": "principal",
+      "printedNumber": "118/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-119",
+      "number": "119/217",
+      "name": "Carkol",
+      "sectionId": "principal",
+      "printedNumber": "119/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-120",
+      "number": "120/217",
+      "name": "Coalossal",
+      "sectionId": "principal",
+      "printedNumber": "120/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-121",
+      "number": "121/217",
+      "name": "Koraidon ex",
+      "sectionId": "principal",
+      "printedNumber": "121/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-122",
+      "number": "122/217",
+      "name": "Okidogi",
+      "sectionId": "principal",
+      "printedNumber": "122/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-123",
+      "number": "123/217",
+      "name": "Gastly",
+      "sectionId": "principal",
+      "printedNumber": "123/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-124",
+      "number": "124/217",
+      "name": "Haunter",
+      "sectionId": "principal",
+      "printedNumber": "124/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-125",
+      "number": "125/217",
+      "name": "Mega Gengar ex",
+      "sectionId": "principal",
+      "printedNumber": "125/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-126",
+      "number": "126/217",
+      "name": "Murkrow da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "126/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-127",
+      "number": "127/217",
+      "name": "Honchkrow da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "127/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-128",
+      "number": "128/217",
+      "name": "Poochyena",
+      "sectionId": "principal",
+      "printedNumber": "128/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-129",
+      "number": "129/217",
+      "name": "Mightyena",
+      "sectionId": "principal",
+      "printedNumber": "129/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-130",
+      "number": "130/217",
+      "name": "Zigzagoon de Galar",
+      "sectionId": "principal",
+      "printedNumber": "130/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-131",
+      "number": "131/217",
+      "name": "Linoone de Galar",
+      "sectionId": "principal",
+      "printedNumber": "131/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-132",
+      "number": "132/217",
+      "name": "Obstagoon de Galar",
+      "sectionId": "principal",
+      "printedNumber": "132/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-133",
+      "number": "133/217",
+      "name": "Spiritomb da Cíntia",
+      "sectionId": "principal",
+      "printedNumber": "133/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-134",
+      "number": "134/217",
+      "name": "Scraggy",
+      "sectionId": "principal",
+      "printedNumber": "134/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-135",
+      "number": "135/217",
+      "name": "Mega Scrafty ex",
+      "sectionId": "principal",
+      "printedNumber": "135/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-136",
+      "number": "136/217",
+      "name": "Zorua do N",
+      "sectionId": "principal",
+      "printedNumber": "136/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-137",
+      "number": "137/217",
+      "name": "Zoroark ex do N",
+      "sectionId": "principal",
+      "printedNumber": "137/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-138",
+      "number": "138/217",
+      "name": "Vullaby",
+      "sectionId": "principal",
+      "printedNumber": "138/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-139",
+      "number": "139/217",
+      "name": "Mandibuzz ex",
+      "sectionId": "principal",
+      "printedNumber": "139/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-140",
+      "number": "140/217",
+      "name": "Pangoro",
+      "sectionId": "principal",
+      "printedNumber": "140/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-141",
+      "number": "141/217",
+      "name": "Hoopa",
+      "sectionId": "principal",
+      "printedNumber": "141/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-142",
+      "number": "142/217",
+      "name": "Fezandipiti ex",
+      "sectionId": "principal",
+      "printedNumber": "142/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-143",
+      "number": "143/217",
+      "name": "Pecharunt",
+      "sectionId": "principal",
+      "printedNumber": "143/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-144",
+      "number": "144/217",
+      "name": "Mawile",
+      "sectionId": "principal",
+      "printedNumber": "144/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-145",
+      "number": "145/217",
+      "name": "Registeel ex",
+      "sectionId": "principal",
+      "printedNumber": "145/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-146",
+      "number": "146/217",
+      "name": "Pawniard",
+      "sectionId": "principal",
+      "printedNumber": "146/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-147",
+      "number": "147/217",
+      "name": "Bisharp",
+      "sectionId": "principal",
+      "printedNumber": "147/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-148",
+      "number": "148/217",
+      "name": "Kingambit",
+      "sectionId": "principal",
+      "printedNumber": "148/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-149",
+      "number": "149/217",
+      "name": "Togedemaru ex",
+      "sectionId": "principal",
+      "printedNumber": "149/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-150",
+      "number": "150/217",
+      "name": "Dratini",
+      "sectionId": "principal",
+      "printedNumber": "150/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-151",
+      "number": "151/217",
+      "name": "Dragonair",
+      "sectionId": "principal",
+      "printedNumber": "151/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-152",
+      "number": "152/217",
+      "name": "Mega Dragonite ex",
+      "sectionId": "principal",
+      "printedNumber": "152/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-153",
+      "number": "153/217",
+      "name": "Rayquaza",
+      "sectionId": "principal",
+      "printedNumber": "153/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-154",
+      "number": "154/217",
+      "name": "Reshiram do N",
+      "sectionId": "principal",
+      "printedNumber": "154/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-155",
+      "number": "155/217",
+      "name": "Zekrom do N",
+      "sectionId": "principal",
+      "printedNumber": "155/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-156",
+      "number": "156/217",
+      "name": "Noibat",
+      "sectionId": "principal",
+      "printedNumber": "156/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-157",
+      "number": "157/217",
+      "name": "Noivern",
+      "sectionId": "principal",
+      "printedNumber": "157/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-158",
+      "number": "158/217",
+      "name": "Dreepy",
+      "sectionId": "principal",
+      "printedNumber": "158/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-159",
+      "number": "159/217",
+      "name": "Drakloak",
+      "sectionId": "principal",
+      "printedNumber": "159/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-160",
+      "number": "160/217",
+      "name": "Dragapult ex",
+      "sectionId": "principal",
+      "printedNumber": "160/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-161",
+      "number": "161/217",
+      "name": "Meowth da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "161/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-162",
+      "number": "162/217",
+      "name": "Kangaskhan ex da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "162/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-163",
+      "number": "163/217",
+      "name": "Dunsparce do Lauro",
+      "sectionId": "principal",
+      "printedNumber": "163/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-164",
+      "number": "164/217",
+      "name": "Dudunsparce ex do Lauro",
+      "sectionId": "principal",
+      "printedNumber": "164/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-165",
+      "number": "165/217",
+      "name": "Skitty",
+      "sectionId": "principal",
+      "printedNumber": "165/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-166",
+      "number": "166/217",
+      "name": "Delcatty",
+      "sectionId": "principal",
+      "printedNumber": "166/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-167",
+      "number": "167/217",
+      "name": "Zangoose ex",
+      "sectionId": "principal",
+      "printedNumber": "167/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-168",
+      "number": "168/217",
+      "name": "Starly do Lauro",
+      "sectionId": "principal",
+      "printedNumber": "168/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-169",
+      "number": "169/217",
+      "name": "Staravia do Lauro",
+      "sectionId": "principal",
+      "printedNumber": "169/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-170",
+      "number": "170/217",
+      "name": "Staraptor do Lauro",
+      "sectionId": "principal",
+      "printedNumber": "170/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-171",
+      "number": "171/217",
+      "name": "Rotom Ventilador",
+      "sectionId": "principal",
+      "printedNumber": "171/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-172",
+      "number": "172/217",
+      "name": "Mega Audino ex",
+      "sectionId": "principal",
+      "printedNumber": "172/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-173",
+      "number": "173/217",
+      "name": "Rufflet do Lauro",
+      "sectionId": "principal",
+      "printedNumber": "173/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-174",
+      "number": "174/217",
+      "name": "Braviary do Lauro",
+      "sectionId": "principal",
+      "printedNumber": "174/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-175",
+      "number": "175/217",
+      "name": "Komala do Lauro",
+      "sectionId": "principal",
+      "printedNumber": "175/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-176",
+      "number": "176/217",
+      "name": "Drampa",
+      "sectionId": "principal",
+      "printedNumber": "176/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-177",
+      "number": "177/217",
+      "name": "Cramorant do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "177/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-178",
+      "number": "178/217",
+      "name": "Terapagos",
+      "sectionId": "principal",
+      "printedNumber": "178/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-179",
+      "number": "179/217",
+      "name": "Terapagos ex",
+      "sectionId": "principal",
+      "printedNumber": "179/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-180",
+      "number": "180/217",
+      "name": "Traquinagem da Acerola",
+      "sectionId": "principal",
+      "printedNumber": "180/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-181",
+      "number": "181/217",
+      "name": "Balão de Ar",
+      "sectionId": "principal",
+      "printedNumber": "181/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-182",
+      "number": "182/217",
+      "name": "Amor e Paz",
+      "sectionId": "principal",
+      "printedNumber": "182/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-183",
+      "number": "183/217",
+      "name": "Ordem da Chefia (Corbeau)",
+      "sectionId": "principal",
+      "printedNumber": "183/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-184",
+      "number": "184/217",
+      "name": "Poffin de Colega",
+      "sectionId": "principal",
+      "printedNumber": "184/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-185",
+      "number": "185/217",
+      "name": "Canari",
+      "sectionId": "principal",
+      "printedNumber": "185/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-186",
+      "number": "186/217",
+      "name": "Contra-ataque de Alcance",
+      "sectionId": "principal",
+      "printedNumber": "186/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-187",
+      "number": "187/217",
+      "name": "Gongo de Luta",
+      "sectionId": "principal",
+      "printedNumber": "187/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-188",
+      "number": "188/217",
+      "name": "Floresta da Vitalidade",
+      "sectionId": "principal",
+      "printedNumber": "188/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-189",
+      "number": "189/217",
+      "name": "Trompete de Vidro",
+      "sectionId": "principal",
+      "printedNumber": "189/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-190",
+      "number": "190/217",
+      "name": "Espírito de Luta da Iris",
+      "sectionId": "principal",
+      "printedNumber": "190/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-191",
+      "number": "191/217",
+      "name": "Esfera de Luz",
+      "sectionId": "principal",
+      "printedNumber": "191/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-192",
+      "number": "192/217",
+      "name": "Determinação da Lílian",
+      "sectionId": "principal",
+      "printedNumber": "192/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-193",
+      "number": "193/217",
+      "name": "Megassinal",
+      "sectionId": "principal",
+      "printedNumber": "193/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-194",
+      "number": "194/217",
+      "name": "Jardim Misterioso",
+      "sectionId": "principal",
+      "printedNumber": "194/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-195",
+      "number": "195/217",
+      "name": "PP Up do N",
+      "sectionId": "principal",
+      "printedNumber": "195/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-196",
+      "number": "196/217",
+      "name": "Maca Noturna",
+      "sectionId": "principal",
+      "printedNumber": "196/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-197",
+      "number": "197/217",
+      "name": "Mina Noturna",
+      "sectionId": "principal",
+      "printedNumber": "197/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-198",
+      "number": "198/217",
+      "name": "Poké Tablet",
+      "sectionId": "principal",
+      "printedNumber": "198/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-199",
+      "number": "199/217",
+      "name": "Suplemento Premium Pro",
+      "sectionId": "principal",
+      "printedNumber": "199/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-200",
+      "number": "200/217",
+      "name": "Surfista",
+      "sectionId": "principal",
+      "printedNumber": "200/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-201",
+      "number": "201/217",
+      "name": "Apollo da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "201/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-202",
+      "number": "202/217",
+      "name": "Athena da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "202/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-203",
+      "number": "203/217",
+      "name": "Fábrica da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "203/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-204",
+      "number": "204/217",
+      "name": "Giovanni da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "204/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-205",
+      "number": "205/217",
+      "name": "Grande Bola da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "205/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-206",
+      "number": "206/217",
+      "name": "Hipnotizador da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "206/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-207",
+      "number": "207/217",
+      "name": "Petrel da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "207/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-208",
+      "number": "208/217",
+      "name": "Próton da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "208/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-209",
+      "number": "209/217",
+      "name": "Transmissor da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "209/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-210",
+      "number": "210/217",
+      "name": "Torre de Vigia da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "210/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-211",
+      "number": "211/217",
+      "name": "Escama Espessa",
+      "sectionId": "principal",
+      "printedNumber": "211/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-212",
+      "number": "212/217",
+      "name": "Sucateador de Ferramentas",
+      "sectionId": "principal",
+      "printedNumber": "212/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-213",
+      "number": "213/217",
+      "name": "Ultra Bola",
+      "sectionId": "principal",
+      "printedNumber": "213/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-214",
+      "number": "214/217",
+      "name": "Urbano",
+      "sectionId": "principal",
+      "printedNumber": "214/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-215",
+      "number": "215/217",
+      "name": "Garçonete",
+      "sectionId": "principal",
+      "printedNumber": "215/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-216",
+      "number": "216/217",
+      "name": "Energia de Prisma",
+      "sectionId": "principal",
+      "printedNumber": "216/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-217",
+      "number": "217/217",
+      "name": "Energia da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "217/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-218",
+      "number": "218/217",
+      "name": "Tangela da Érica",
+      "sectionId": "secretas",
+      "printedNumber": "218/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-219",
+      "number": "219/217",
+      "name": "Beautifly",
+      "sectionId": "secretas",
+      "printedNumber": "219/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-220",
+      "number": "220/217",
+      "name": "Dustox",
+      "sectionId": "secretas",
+      "printedNumber": "220/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-221",
+      "number": "221/217",
+      "name": "Budew",
+      "sectionId": "secretas",
+      "printedNumber": "221/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-222",
+      "number": "222/217",
+      "name": "Magcargo do Ethan",
+      "sectionId": "secretas",
+      "printedNumber": "222/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-223",
+      "number": "223/217",
+      "name": "Numel",
+      "sectionId": "secretas",
+      "printedNumber": "223/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-224",
+      "number": "224/217",
+      "name": "Salazzle",
+      "sectionId": "secretas",
+      "printedNumber": "224/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-225",
+      "number": "225/217",
+      "name": "Scorbunny",
+      "sectionId": "secretas",
+      "printedNumber": "225/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-226",
+      "number": "226/217",
+      "name": "Psyduck",
+      "sectionId": "secretas",
+      "printedNumber": "226/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-227",
+      "number": "227/217",
+      "name": "Snorunt",
+      "sectionId": "secretas",
+      "printedNumber": "227/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-228",
+      "number": "228/217",
+      "name": "Weavile",
+      "sectionId": "secretas",
+      "printedNumber": "228/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-229",
+      "number": "229/217",
+      "name": "Heliolisk",
+      "sectionId": "secretas",
+      "printedNumber": "229/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-230",
+      "number": "230/217",
+      "name": "Vikavolt",
+      "sectionId": "secretas",
+      "printedNumber": "230/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-231",
+      "number": "231/217",
+      "name": "Wattrel da Kissera",
+      "sectionId": "secretas",
+      "printedNumber": "231/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-232",
+      "number": "232/217",
+      "name": "Marill",
+      "sectionId": "secretas",
+      "printedNumber": "232/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-233",
+      "number": "233/217",
+      "name": "Misdreavus",
+      "sectionId": "secretas",
+      "printedNumber": "233/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-234",
+      "number": "234/217",
+      "name": "Banette",
+      "sectionId": "secretas",
+      "printedNumber": "234/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-235",
+      "number": "235/217",
+      "name": "Togekiss",
+      "sectionId": "secretas",
+      "printedNumber": "235/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-236",
+      "number": "236/217",
+      "name": "Slurpuff",
+      "sectionId": "secretas",
+      "printedNumber": "236/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-237",
+      "number": "237/217",
+      "name": "Trevenant do Lupo",
+      "sectionId": "secretas",
+      "printedNumber": "237/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-238",
+      "number": "238/217",
+      "name": "Mimikyu da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "238/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-239",
+      "number": "239/217",
+      "name": "Dugtrio da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "239/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-240",
+      "number": "240/217",
+      "name": "Hitmontop",
+      "sectionId": "secretas",
+      "printedNumber": "240/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-241",
+      "number": "241/217",
+      "name": "Medicham",
+      "sectionId": "secretas",
+      "printedNumber": "241/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-242",
+      "number": "242/217",
+      "name": "Carbink",
+      "sectionId": "secretas",
+      "printedNumber": "242/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-243",
+      "number": "243/217",
+      "name": "Mightyena",
+      "sectionId": "secretas",
+      "printedNumber": "243/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-244",
+      "number": "244/217",
+      "name": "Spiritomb da Cíntia",
+      "sectionId": "secretas",
+      "printedNumber": "244/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-245",
+      "number": "245/217",
+      "name": "Obstagoon de Galar",
+      "sectionId": "secretas",
+      "printedNumber": "245/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-246",
+      "number": "246/217",
+      "name": "Mawile",
+      "sectionId": "secretas",
+      "printedNumber": "246/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-247",
+      "number": "247/217",
+      "name": "Dreepy",
+      "sectionId": "secretas",
+      "printedNumber": "247/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-248",
+      "number": "248/217",
+      "name": "Drakloak",
+      "sectionId": "secretas",
+      "printedNumber": "248/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-249",
+      "number": "249/217",
+      "name": "Staraptor do Lauro",
+      "sectionId": "secretas",
+      "printedNumber": "249/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-250",
+      "number": "250/217",
+      "name": "Rotom Ventilador",
+      "sectionId": "secretas",
+      "printedNumber": "250/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-251",
+      "number": "251/217",
+      "name": "Sprigatito ex",
+      "sectionId": "secretas",
+      "printedNumber": "251/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-252",
+      "number": "252/217",
+      "name": "Stunfisk ex",
+      "sectionId": "secretas",
+      "printedNumber": "252/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-253",
+      "number": "253/217",
+      "name": "Mega Audino ex",
+      "sectionId": "secretas",
+      "printedNumber": "253/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-254",
+      "number": "254/217",
+      "name": "Amor e Paz",
+      "sectionId": "secretas",
+      "printedNumber": "254/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-255",
+      "number": "255/217",
+      "name": "Treino de Faixa Preta",
+      "sectionId": "secretas",
+      "printedNumber": "255/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-256",
+      "number": "256/217",
+      "name": "Ordem da Chefia (Corbeau)",
+      "sectionId": "secretas",
+      "printedNumber": "256/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-257",
+      "number": "257/217",
+      "name": "Canari",
+      "sectionId": "secretas",
+      "printedNumber": "257/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-258",
+      "number": "258/217",
+      "name": "Cheren",
+      "sectionId": "secretas",
+      "printedNumber": "258/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-259",
+      "number": "259/217",
+      "name": "Contra-ataque de Alcance",
+      "sectionId": "secretas",
+      "printedNumber": "259/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-260",
+      "number": "260/217",
+      "name": "Trompete de Vidro",
+      "sectionId": "secretas",
+      "printedNumber": "260/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-261",
+      "number": "261/217",
+      "name": "Torre de Interferência",
+      "sectionId": "secretas",
+      "printedNumber": "261/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-262",
+      "number": "262/217",
+      "name": "PP Up do N",
+      "sectionId": "secretas",
+      "printedNumber": "262/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-263",
+      "number": "263/217",
+      "name": "Transmissor da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "263/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-264",
+      "number": "264/217",
+      "name": "Ultra Bola",
+      "sectionId": "secretas",
+      "printedNumber": "264/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-265",
+      "number": "265/217",
+      "name": "Mega Froslass ex",
+      "sectionId": "secretas",
+      "printedNumber": "265/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-266",
+      "number": "266/217",
+      "name": "Mega Eelektross ex",
+      "sectionId": "secretas",
+      "printedNumber": "266/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-267",
+      "number": "267/217",
+      "name": "Mega Diancie ex",
+      "sectionId": "secretas",
+      "printedNumber": "267/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-268",
+      "number": "268/217",
+      "name": "Mega Hawlucha ex",
+      "sectionId": "secretas",
+      "printedNumber": "268/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-269",
+      "number": "269/217",
+      "name": "Mega Gengar ex",
+      "sectionId": "secretas",
+      "printedNumber": "269/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-270",
+      "number": "270/217",
+      "name": "Mega Scrafty ex",
+      "sectionId": "secretas",
+      "printedNumber": "270/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-271",
+      "number": "271/217",
+      "name": "Mega Dragonite ex",
+      "sectionId": "secretas",
+      "printedNumber": "271/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-272",
+      "number": "272/217",
+      "name": "Mega Meganium ex",
+      "sectionId": "secretas",
+      "printedNumber": "272/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-273",
+      "number": "273/217",
+      "name": "Mega Emboar ex",
+      "sectionId": "secretas",
+      "printedNumber": "273/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-274",
+      "number": "274/217",
+      "name": "Mega Feraligatr ex",
+      "sectionId": "secretas",
+      "printedNumber": "274/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-275",
+      "number": "275/217",
+      "name": "Mega Froslass ex",
+      "sectionId": "secretas",
+      "printedNumber": "275/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-276",
+      "number": "276/217",
+      "name": "Pikachu ex",
+      "sectionId": "secretas",
+      "printedNumber": "276/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-277",
+      "number": "277/217",
+      "name": "Pikachu ex",
+      "sectionId": "secretas",
+      "printedNumber": "277/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-278",
+      "number": "278/217",
+      "name": "Mega Eelektross ex",
+      "sectionId": "secretas",
+      "printedNumber": "278/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-279",
+      "number": "279/217",
+      "name": "Bellibolt ex da Kissera",
+      "sectionId": "secretas",
+      "printedNumber": "279/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-280",
+      "number": "280/217",
+      "name": "Clefairy ex da Lílian",
+      "sectionId": "secretas",
+      "printedNumber": "280/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-281",
+      "number": "281/217",
+      "name": "Mewtwo ex da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "281/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-282",
+      "number": "282/217",
+      "name": "Mega Diancie ex",
+      "sectionId": "secretas",
+      "printedNumber": "282/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-283",
+      "number": "283/217",
+      "name": "Mega Hawlucha ex",
+      "sectionId": "secretas",
+      "printedNumber": "283/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-284",
+      "number": "284/217",
+      "name": "Mega Gengar ex",
+      "sectionId": "secretas",
+      "printedNumber": "284/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-285",
+      "number": "285/217",
+      "name": "Mega Scrafty ex",
+      "sectionId": "secretas",
+      "printedNumber": "285/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-286",
+      "number": "286/217",
+      "name": "Zoroark ex do N",
+      "sectionId": "secretas",
+      "printedNumber": "286/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-287",
+      "number": "287/217",
+      "name": "Grimmsnarl ex da Marine",
+      "sectionId": "secretas",
+      "printedNumber": "287/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-288",
+      "number": "288/217",
+      "name": "Fezandipiti ex",
+      "sectionId": "secretas",
+      "printedNumber": "288/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-289",
+      "number": "289/217",
+      "name": "Metagross ex do Steven",
+      "sectionId": "secretas",
+      "printedNumber": "289/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-290",
+      "number": "290/217",
+      "name": "Mega Dragonite ex",
+      "sectionId": "secretas",
+      "printedNumber": "290/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-291",
+      "number": "291/217",
+      "name": "Canari",
+      "sectionId": "secretas",
+      "printedNumber": "291/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-292",
+      "number": "292/217",
+      "name": "Espírito de Luta da Iris",
+      "sectionId": "secretas",
+      "printedNumber": "292/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-293",
+      "number": "293/217",
+      "name": "Surfista",
+      "sectionId": "secretas",
+      "printedNumber": "293/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-294",
+      "number": "294/217",
+      "name": "Mega Charizard Y ex",
+      "sectionId": "secretas",
+      "printedNumber": "294/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-295",
+      "number": "295/217",
+      "name": "Mega Dragonite ex",
+      "sectionId": "secretas",
+      "printedNumber": "295/217",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "asc-180-rh",
+      "number": "180/217-RH",
+      "name": "Traquinagem da Acerola — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "180/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-181-rh",
+      "number": "181/217-RH",
+      "name": "Balão de Ar — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "181/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-182-rh",
+      "number": "182/217-RH",
+      "name": "Amor e Paz — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "182/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-183-rh",
+      "number": "183/217-RH",
+      "name": "Ordem da Chefia (Corbeau) — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "183/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-184-rh",
+      "number": "184/217-RH",
+      "name": "Poffin de Colega — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "184/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-185-rh",
+      "number": "185/217-RH",
+      "name": "Canari — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "185/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-186-rh",
+      "number": "186/217-RH",
+      "name": "Contra-ataque de Alcance — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "186/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-187-rh",
+      "number": "187/217-RH",
+      "name": "Gongo de Luta — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "187/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-188-rh",
+      "number": "188/217-RH",
+      "name": "Floresta da Vitalidade — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "188/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-189-rh",
+      "number": "189/217-RH",
+      "name": "Trompete de Vidro — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "189/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-190-rh",
+      "number": "190/217-RH",
+      "name": "Espírito de Luta da Iris — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "190/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-191-rh",
+      "number": "191/217-RH",
+      "name": "Esfera de Luz — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "191/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-192-rh",
+      "number": "192/217-RH",
+      "name": "Determinação da Lílian — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "192/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-193-rh",
+      "number": "193/217-RH",
+      "name": "Megassinal — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "193/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-194-rh",
+      "number": "194/217-RH",
+      "name": "Jardim Misterioso — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "194/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-195-rh",
+      "number": "195/217-RH",
+      "name": "PP Up do N — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "195/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-196-rh",
+      "number": "196/217-RH",
+      "name": "Maca Noturna — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "196/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-197-rh",
+      "number": "197/217-RH",
+      "name": "Mina Noturna — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "197/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-198-rh",
+      "number": "198/217-RH",
+      "name": "Poké Tablet — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "198/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-199-rh",
+      "number": "199/217-RH",
+      "name": "Suplemento Premium Pro — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "199/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-200-rh",
+      "number": "200/217-RH",
+      "name": "Surfista — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "200/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-201-rh",
+      "number": "201/217-RH",
+      "name": "Apollo da Equipe Rocket — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "201/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-202-rh",
+      "number": "202/217-RH",
+      "name": "Athena da Equipe Rocket — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "202/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-203-rh",
+      "number": "203/217-RH",
+      "name": "Fábrica da Equipe Rocket — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "203/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-204-rh",
+      "number": "204/217-RH",
+      "name": "Giovanni da Equipe Rocket — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "204/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-205-rh",
+      "number": "205/217-RH",
+      "name": "Grande Bola da Equipe Rocket — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "205/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-206-rh",
+      "number": "206/217-RH",
+      "name": "Hipnotizador da Equipe Rocket — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "206/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-207-rh",
+      "number": "207/217-RH",
+      "name": "Petrel da Equipe Rocket — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "207/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-208-rh",
+      "number": "208/217-RH",
+      "name": "Próton da Equipe Rocket — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "208/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-209-rh",
+      "number": "209/217-RH",
+      "name": "Transmissor da Equipe Rocket — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "209/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-210-rh",
+      "number": "210/217-RH",
+      "name": "Torre de Vigia da Equipe Rocket — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "210/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-211-rh",
+      "number": "211/217-RH",
+      "name": "Escama Espessa — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "211/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-212-rh",
+      "number": "212/217-RH",
+      "name": "Sucateador de Ferramentas — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "212/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-213-rh",
+      "number": "213/217-RH",
+      "name": "Ultra Bola — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "213/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-214-rh",
+      "number": "214/217-RH",
+      "name": "Urbano — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "214/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-215-rh",
+      "number": "215/217-RH",
+      "name": "Garçonete — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "215/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-216-rh",
+      "number": "216/217-RH",
+      "name": "Energia de Prisma — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "216/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-217-rh",
+      "number": "217/217-RH",
+      "name": "Energia da Equipe Rocket — Reversa",
+      "sectionId": "rh",
+      "printedNumber": "217/217",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "asc-001-esp",
+      "number": "001/217-ESP",
+      "name": "Oddish da Érica — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "001/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-002-esp",
+      "number": "002/217-ESP",
+      "name": "Gloom da Érica — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "002/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-004-esp",
+      "number": "004/217-ESP",
+      "name": "Bellsprout da Érica — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "004/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-005-esp",
+      "number": "005/217-ESP",
+      "name": "Weepinbell da Érica — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "005/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-006-esp",
+      "number": "006/217-ESP",
+      "name": "Victreebel da Érica — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "006/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-007-esp",
+      "number": "007/217-ESP",
+      "name": "Tangela da Érica — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "007/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-008-esp",
+      "number": "008/217-ESP",
+      "name": "Chikorita — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "008/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-009-esp",
+      "number": "009/217-ESP",
+      "name": "Bayleef — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "009/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-011-esp",
+      "number": "011/217-ESP",
+      "name": "Wurmple — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "011/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-012-esp",
+      "number": "012/217-ESP",
+      "name": "Silcoon — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "012/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-013-esp",
+      "number": "013/217-ESP",
+      "name": "Beautifly — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "013/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-014-esp",
+      "number": "014/217-ESP",
+      "name": "Cascoon — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "014/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-015-esp",
+      "number": "015/217-ESP",
+      "name": "Dustox — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "015/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-016-esp",
+      "number": "016/217-ESP",
+      "name": "Budew — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "016/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-017-esp",
+      "number": "017/217-ESP",
+      "name": "Grubbin — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "017/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-018-esp",
+      "number": "018/217-ESP",
+      "name": "Tarountula da Equipe Rocket — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "018/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-019-esp",
+      "number": "019/217-ESP",
+      "name": "Spidops da Equipe Rocket — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "019/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-020-esp",
+      "number": "020/217-ESP",
+      "name": "Charmander — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "020/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-021-esp",
+      "number": "021/217-ESP",
+      "name": "Charmeleon — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "021/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-023-esp",
+      "number": "023/217-ESP",
+      "name": "Slugma do Ethan — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "023/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-024-esp",
+      "number": "024/217-ESP",
+      "name": "Magcargo do Ethan — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "024/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-025-esp",
+      "number": "025/217-ESP",
+      "name": "Entei — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "025/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-027-esp",
+      "number": "027/217-ESP",
+      "name": "Numel — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "027/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-028-esp",
+      "number": "028/217-ESP",
+      "name": "Camerupt — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "028/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-029-esp",
+      "number": "029/217-ESP",
+      "name": "Tepig — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "029/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-030-esp",
+      "number": "030/217-ESP",
+      "name": "Pignite — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "030/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-032-esp",
+      "number": "032/217-ESP",
+      "name": "Darumaka do N — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "032/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-033-esp",
+      "number": "033/217-ESP",
+      "name": "Darmanitan do N — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "033/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-034-esp",
+      "number": "034/217-ESP",
+      "name": "Salandit — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "034/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-035-esp",
+      "number": "035/217-ESP",
+      "name": "Salazzle — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "035/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-036-esp",
+      "number": "036/217-ESP",
+      "name": "Scorbunny — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "036/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-037-esp",
+      "number": "037/217-ESP",
+      "name": "Raboot — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "037/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-039-esp",
+      "number": "039/217-ESP",
+      "name": "Psyduck — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "039/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-040-esp",
+      "number": "040/217-ESP",
+      "name": "Golduck — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "040/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-041-esp",
+      "number": "041/217-ESP",
+      "name": "Totodile — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "041/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-042-esp",
+      "number": "042/217-ESP",
+      "name": "Croconaw — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "042/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-044-esp",
+      "number": "044/217-ESP",
+      "name": "Sneasel — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "044/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-045-esp",
+      "number": "045/217-ESP",
+      "name": "Weavile — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "045/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-046-esp",
+      "number": "046/217-ESP",
+      "name": "Snorunt — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "046/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-049-esp",
+      "number": "049/217-ESP",
+      "name": "Vanillite do N — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "049/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-050-esp",
+      "number": "050/217-ESP",
+      "name": "Vanillish do N — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "050/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-051-esp",
+      "number": "051/217-ESP",
+      "name": "Vanilluxe do N — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "051/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-052-esp",
+      "number": "052/217-ESP",
+      "name": "Snom — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "052/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-053-esp",
+      "number": "053/217-ESP",
+      "name": "Frosmoth — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "053/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-054-esp",
+      "number": "054/217-ESP",
+      "name": "Glastrier — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "054/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-055-esp",
+      "number": "055/217-ESP",
+      "name": "Pikachu — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "055/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-056-esp",
+      "number": "056/217-ESP",
+      "name": "Raichu — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "056/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-059-esp",
+      "number": "059/217-ESP",
+      "name": "Tynamo — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "059/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-060-esp",
+      "number": "060/217-ESP",
+      "name": "Eelektrik — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "060/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-062-esp",
+      "number": "062/217-ESP",
+      "name": "Stunfisk — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "062/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-063-esp",
+      "number": "063/217-ESP",
+      "name": "Helioptile — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "063/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-064-esp",
+      "number": "064/217-ESP",
+      "name": "Heliolisk — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "064/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-065-esp",
+      "number": "065/217-ESP",
+      "name": "Charjabug — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "065/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-066-esp",
+      "number": "066/217-ESP",
+      "name": "Vikavolt — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "066/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-067-esp",
+      "number": "067/217-ESP",
+      "name": "Tapu Koko — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "067/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-069-esp",
+      "number": "069/217-ESP",
+      "name": "Tadbulb da Kissera — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "069/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-071-esp",
+      "number": "071/217-ESP",
+      "name": "Wattrel da Kissera — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "071/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-072-esp",
+      "number": "072/217-ESP",
+      "name": "Kilowattrel da Kissera — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "072/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-074-esp",
+      "number": "074/217-ESP",
+      "name": "Clefairy — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "074/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-075-esp",
+      "number": "075/217-ESP",
+      "name": "Clefable — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "075/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-077-esp",
+      "number": "077/217-ESP",
+      "name": "Exeggcute da Equipe Rocket — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "077/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-078-esp",
+      "number": "078/217-ESP",
+      "name": "Exeggutor da Equipe Rocket — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "078/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-080-esp",
+      "number": "080/217-ESP",
+      "name": "Togepi — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "080/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-081-esp",
+      "number": "081/217-ESP",
+      "name": "Togetic — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "081/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-082-esp",
+      "number": "082/217-ESP",
+      "name": "Togekiss — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "082/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-083-esp",
+      "number": "083/217-ESP",
+      "name": "Marill — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "083/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-085-esp",
+      "number": "085/217-ESP",
+      "name": "Misdreavus — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "085/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-086-esp",
+      "number": "086/217-ESP",
+      "name": "Mismagius — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "086/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-087-esp",
+      "number": "087/217-ESP",
+      "name": "Ralts — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "087/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-088-esp",
+      "number": "088/217-ESP",
+      "name": "Kirlia — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "088/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-090-esp",
+      "number": "090/217-ESP",
+      "name": "Shuppet — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "090/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-091-esp",
+      "number": "091/217-ESP",
+      "name": "Banette — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "091/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-092-esp",
+      "number": "092/217-ESP",
+      "name": "Rotom — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "092/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-093-esp",
+      "number": "093/217-ESP",
+      "name": "Swirlix — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "093/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-094-esp",
+      "number": "094/217-ESP",
+      "name": "Slurpuff — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "094/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-095-esp",
+      "number": "095/217-ESP",
+      "name": "Phantump do Lupo — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "095/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-096-esp",
+      "number": "096/217-ESP",
+      "name": "Trevenant do Lupo — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "096/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-097-esp",
+      "number": "097/217-ESP",
+      "name": "Mimikyu da Equipe Rocket — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "097/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-098-esp",
+      "number": "098/217-ESP",
+      "name": "Spectrier — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "098/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-099-esp",
+      "number": "099/217-ESP",
+      "name": "Munkidori — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "099/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-100-esp",
+      "number": "100/217-ESP",
+      "name": "Diglett da Equipe Rocket — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "100/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-101-esp",
+      "number": "101/217-ESP",
+      "name": "Dugtrio da Equipe Rocket — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "101/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-102-esp",
+      "number": "102/217-ESP",
+      "name": "Hitmontop — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "102/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-103-esp",
+      "number": "103/217-ESP",
+      "name": "Meditite — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "103/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-104-esp",
+      "number": "104/217-ESP",
+      "name": "Medicham — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "104/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-105-esp",
+      "number": "105/217-ESP",
+      "name": "Lunatone — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "105/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-106-esp",
+      "number": "106/217-ESP",
+      "name": "Solrock — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "106/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-108-esp",
+      "number": "108/217-ESP",
+      "name": "Groudon — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "108/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-109-esp",
+      "number": "109/217-ESP",
+      "name": "Gible da Cíntia — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "109/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-110-esp",
+      "number": "110/217-ESP",
+      "name": "Gabite da Cíntia — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "110/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-112-esp",
+      "number": "112/217-ESP",
+      "name": "Riolu — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "112/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-115-esp",
+      "number": "115/217-ESP",
+      "name": "Pancham — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "115/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-117-esp",
+      "number": "117/217-ESP",
+      "name": "Carbink — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "117/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-118-esp",
+      "number": "118/217-ESP",
+      "name": "Rolycoly — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "118/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-119-esp",
+      "number": "119/217-ESP",
+      "name": "Carkol — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "119/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-120-esp",
+      "number": "120/217-ESP",
+      "name": "Coalossal — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "120/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-122-esp",
+      "number": "122/217-ESP",
+      "name": "Okidogi — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "122/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-123-esp",
+      "number": "123/217-ESP",
+      "name": "Gastly — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "123/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-124-esp",
+      "number": "124/217-ESP",
+      "name": "Haunter — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "124/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-126-esp",
+      "number": "126/217-ESP",
+      "name": "Murkrow da Equipe Rocket — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "126/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-127-esp",
+      "number": "127/217-ESP",
+      "name": "Honchkrow da Equipe Rocket — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "127/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-128-esp",
+      "number": "128/217-ESP",
+      "name": "Poochyena — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "128/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-129-esp",
+      "number": "129/217-ESP",
+      "name": "Mightyena — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "129/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-130-esp",
+      "number": "130/217-ESP",
+      "name": "Zigzagoon de Galar — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "130/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-131-esp",
+      "number": "131/217-ESP",
+      "name": "Linoone de Galar — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "131/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-132-esp",
+      "number": "132/217-ESP",
+      "name": "Obstagoon de Galar — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "132/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-133-esp",
+      "number": "133/217-ESP",
+      "name": "Spiritomb da Cíntia — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "133/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-134-esp",
+      "number": "134/217-ESP",
+      "name": "Scraggy — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "134/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-136-esp",
+      "number": "136/217-ESP",
+      "name": "Zorua do N — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "136/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-138-esp",
+      "number": "138/217-ESP",
+      "name": "Vullaby — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "138/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-140-esp",
+      "number": "140/217-ESP",
+      "name": "Pangoro — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "140/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-141-esp",
+      "number": "141/217-ESP",
+      "name": "Hoopa — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "141/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-143-esp",
+      "number": "143/217-ESP",
+      "name": "Pecharunt — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "143/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-144-esp",
+      "number": "144/217-ESP",
+      "name": "Mawile — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "144/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-146-esp",
+      "number": "146/217-ESP",
+      "name": "Pawniard — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "146/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-147-esp",
+      "number": "147/217-ESP",
+      "name": "Bisharp — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "147/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-148-esp",
+      "number": "148/217-ESP",
+      "name": "Kingambit — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "148/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-150-esp",
+      "number": "150/217-ESP",
+      "name": "Dratini — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "150/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-151-esp",
+      "number": "151/217-ESP",
+      "name": "Dragonair — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "151/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-153-esp",
+      "number": "153/217-ESP",
+      "name": "Rayquaza — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "153/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-154-esp",
+      "number": "154/217-ESP",
+      "name": "Reshiram do N — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "154/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-155-esp",
+      "number": "155/217-ESP",
+      "name": "Zekrom do N — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "155/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-156-esp",
+      "number": "156/217-ESP",
+      "name": "Noibat — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "156/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-157-esp",
+      "number": "157/217-ESP",
+      "name": "Noivern — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "157/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-158-esp",
+      "number": "158/217-ESP",
+      "name": "Dreepy — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "158/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-159-esp",
+      "number": "159/217-ESP",
+      "name": "Drakloak — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "159/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-161-esp",
+      "number": "161/217-ESP",
+      "name": "Meowth da Equipe Rocket — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "161/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-163-esp",
+      "number": "163/217-ESP",
+      "name": "Dunsparce do Lauro — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "163/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-165-esp",
+      "number": "165/217-ESP",
+      "name": "Skitty — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "165/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-166-esp",
+      "number": "166/217-ESP",
+      "name": "Delcatty — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "166/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-168-esp",
+      "number": "168/217-ESP",
+      "name": "Starly do Lauro — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "168/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-169-esp",
+      "number": "169/217-ESP",
+      "name": "Staravia do Lauro — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "169/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-170-esp",
+      "number": "170/217-ESP",
+      "name": "Staraptor do Lauro — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "170/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-171-esp",
+      "number": "171/217-ESP",
+      "name": "Rotom Ventilador — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "171/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-173-esp",
+      "number": "173/217-ESP",
+      "name": "Rufflet do Lauro — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "173/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-174-esp",
+      "number": "174/217-ESP",
+      "name": "Braviary do Lauro — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "174/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-175-esp",
+      "number": "175/217-ESP",
+      "name": "Komala do Lauro — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "175/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-176-esp",
+      "number": "176/217-ESP",
+      "name": "Drampa — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "176/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-177-esp",
+      "number": "177/217-ESP",
+      "name": "Cramorant do Lupo — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "177/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-178-esp",
+      "number": "178/217-ESP",
+      "name": "Terapagos — Símbolo de Energia",
+      "sectionId": "esp",
+      "printedNumber": "178/217",
+      "countsTowardCompletion": true,
+      "finish": "ESP"
+    },
+    {
+      "id": "asc-001-pbp",
+      "number": "001/217-PBP",
+      "name": "Oddish da Érica — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "001/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-002-pbp",
+      "number": "002/217-PBP",
+      "name": "Gloom da Érica — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "002/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-004-pbp",
+      "number": "004/217-PBP",
+      "name": "Bellsprout da Érica — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "004/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-005-pbp",
+      "number": "005/217-PBP",
+      "name": "Weepinbell da Érica — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "005/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-006-pbp",
+      "number": "006/217-PBP",
+      "name": "Victreebel da Érica — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "006/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-007-pbp",
+      "number": "007/217-PBP",
+      "name": "Tangela da Érica — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "007/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-023-pbp",
+      "number": "023/217-PBP",
+      "name": "Slugma do Ethan — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "023/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-024-pbp",
+      "number": "024/217-PBP",
+      "name": "Magcargo do Ethan — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "024/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-032-pbp",
+      "number": "032/217-PBP",
+      "name": "Darumaka do N — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "032/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-033-pbp",
+      "number": "033/217-PBP",
+      "name": "Darmanitan do N — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "033/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-049-pbp",
+      "number": "049/217-PBP",
+      "name": "Vanillite do N — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "049/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-050-pbp",
+      "number": "050/217-PBP",
+      "name": "Vanillish do N — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "050/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-051-pbp",
+      "number": "051/217-PBP",
+      "name": "Vanilluxe do N — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "051/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-069-pbp",
+      "number": "069/217-PBP",
+      "name": "Tadbulb da Kissera — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "069/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-071-pbp",
+      "number": "071/217-PBP",
+      "name": "Wattrel da Kissera — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "071/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-072-pbp",
+      "number": "072/217-PBP",
+      "name": "Kilowattrel da Kissera — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "072/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-095-pbp",
+      "number": "095/217-PBP",
+      "name": "Phantump do Lupo — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "095/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-096-pbp",
+      "number": "096/217-PBP",
+      "name": "Trevenant do Lupo — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "096/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-109-pbp",
+      "number": "109/217-PBP",
+      "name": "Gible da Cíntia — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "109/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-110-pbp",
+      "number": "110/217-PBP",
+      "name": "Gabite da Cíntia — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "110/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-133-pbp",
+      "number": "133/217-PBP",
+      "name": "Spiritomb da Cíntia — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "133/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-136-pbp",
+      "number": "136/217-PBP",
+      "name": "Zorua do N — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "136/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-141-pbp",
+      "number": "141/217-PBP",
+      "name": "Hoopa — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "141/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-143-pbp",
+      "number": "143/217-PBP",
+      "name": "Pecharunt — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "143/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-154-pbp",
+      "number": "154/217-PBP",
+      "name": "Reshiram do N — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "154/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-155-pbp",
+      "number": "155/217-PBP",
+      "name": "Zekrom do N — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "155/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-163-pbp",
+      "number": "163/217-PBP",
+      "name": "Dunsparce do Lauro — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "163/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-168-pbp",
+      "number": "168/217-PBP",
+      "name": "Starly do Lauro — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "168/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-169-pbp",
+      "number": "169/217-PBP",
+      "name": "Staravia do Lauro — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "169/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-170-pbp",
+      "number": "170/217-PBP",
+      "name": "Staraptor do Lauro — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "170/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-173-pbp",
+      "number": "173/217-PBP",
+      "name": "Rufflet do Lauro — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "173/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-174-pbp",
+      "number": "174/217-PBP",
+      "name": "Braviary do Lauro — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "174/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-175-pbp",
+      "number": "175/217-PBP",
+      "name": "Komala do Lauro — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "175/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-177-pbp",
+      "number": "177/217-PBP",
+      "name": "Cramorant do Lupo — Poké Bola",
+      "sectionId": "pbp",
+      "printedNumber": "177/217",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "asc-044-dbp",
+      "number": "044/217-DBP",
+      "name": "Sneasel — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "044/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-045-dbp",
+      "number": "045/217-DBP",
+      "name": "Weavile — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "045/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-085-dbp",
+      "number": "085/217-DBP",
+      "name": "Misdreavus — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "085/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-086-dbp",
+      "number": "086/217-DBP",
+      "name": "Mismagius — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "086/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-090-dbp",
+      "number": "090/217-DBP",
+      "name": "Shuppet — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "090/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-091-dbp",
+      "number": "091/217-DBP",
+      "name": "Banette — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "091/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-092-dbp",
+      "number": "092/217-DBP",
+      "name": "Rotom — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "092/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-098-dbp",
+      "number": "098/217-DBP",
+      "name": "Spectrier — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "098/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-099-dbp",
+      "number": "099/217-DBP",
+      "name": "Munkidori — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "099/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-102-dbp",
+      "number": "102/217-DBP",
+      "name": "Hitmontop — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "102/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-105-dbp",
+      "number": "105/217-DBP",
+      "name": "Lunatone — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "105/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-106-dbp",
+      "number": "106/217-DBP",
+      "name": "Solrock — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "106/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-108-dbp",
+      "number": "108/217-DBP",
+      "name": "Groudon — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "108/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-118-dbp",
+      "number": "118/217-DBP",
+      "name": "Rolycoly — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "118/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-119-dbp",
+      "number": "119/217-DBP",
+      "name": "Carkol — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "119/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-120-dbp",
+      "number": "120/217-DBP",
+      "name": "Coalossal — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "120/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-123-dbp",
+      "number": "123/217-DBP",
+      "name": "Gastly — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "123/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-124-dbp",
+      "number": "124/217-DBP",
+      "name": "Haunter — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "124/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-128-dbp",
+      "number": "128/217-DBP",
+      "name": "Poochyena — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "128/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-129-dbp",
+      "number": "129/217-DBP",
+      "name": "Mightyena — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "129/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-130-dbp",
+      "number": "130/217-DBP",
+      "name": "Zigzagoon de Galar — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "130/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-131-dbp",
+      "number": "131/217-DBP",
+      "name": "Linoone de Galar — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "131/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-132-dbp",
+      "number": "132/217-DBP",
+      "name": "Obstagoon de Galar — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "132/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-138-dbp",
+      "number": "138/217-DBP",
+      "name": "Vullaby — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "138/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-144-dbp",
+      "number": "144/217-DBP",
+      "name": "Mawile — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "144/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-171-dbp",
+      "number": "171/217-DBP",
+      "name": "Rotom Ventilador — Dusk Ball",
+      "sectionId": "dbp",
+      "printedNumber": "171/217",
+      "countsTowardCompletion": true,
+      "finish": "DBP"
+    },
+    {
+      "id": "asc-011-lbp",
+      "number": "011/217-LBP",
+      "name": "Wurmple — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "011/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-012-lbp",
+      "number": "012/217-LBP",
+      "name": "Silcoon — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "012/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-013-lbp",
+      "number": "013/217-LBP",
+      "name": "Beautifly — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "013/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-014-lbp",
+      "number": "014/217-LBP",
+      "name": "Cascoon — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "014/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-015-lbp",
+      "number": "015/217-LBP",
+      "name": "Dustox — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "015/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-039-lbp",
+      "number": "039/217-LBP",
+      "name": "Psyduck — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "039/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-040-lbp",
+      "number": "040/217-LBP",
+      "name": "Golduck — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "040/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-046-lbp",
+      "number": "046/217-LBP",
+      "name": "Snorunt — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "046/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-074-lbp",
+      "number": "074/217-LBP",
+      "name": "Clefairy — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "074/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-075-lbp",
+      "number": "075/217-LBP",
+      "name": "Clefable — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "075/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-080-lbp",
+      "number": "080/217-LBP",
+      "name": "Togepi — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "080/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-081-lbp",
+      "number": "081/217-LBP",
+      "name": "Togetic — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "081/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-082-lbp",
+      "number": "082/217-LBP",
+      "name": "Togekiss — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "082/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-087-lbp",
+      "number": "087/217-LBP",
+      "name": "Ralts — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "087/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-088-lbp",
+      "number": "088/217-LBP",
+      "name": "Kirlia — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "088/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-093-lbp",
+      "number": "093/217-LBP",
+      "name": "Swirlix — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "093/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-094-lbp",
+      "number": "094/217-LBP",
+      "name": "Slurpuff — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "094/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-115-lbp",
+      "number": "115/217-LBP",
+      "name": "Pancham — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "115/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-117-lbp",
+      "number": "117/217-LBP",
+      "name": "Carbink — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "117/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-140-lbp",
+      "number": "140/217-LBP",
+      "name": "Pangoro — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "140/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-150-lbp",
+      "number": "150/217-LBP",
+      "name": "Dratini — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "150/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-151-lbp",
+      "number": "151/217-LBP",
+      "name": "Dragonair — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "151/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-165-lbp",
+      "number": "165/217-LBP",
+      "name": "Skitty — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "165/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-166-lbp",
+      "number": "166/217-LBP",
+      "name": "Delcatty — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "166/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-178-lbp",
+      "number": "178/217-LBP",
+      "name": "Terapagos — Love Ball",
+      "sectionId": "lbp",
+      "printedNumber": "178/217",
+      "countsTowardCompletion": true,
+      "finish": "LBP"
+    },
+    {
+      "id": "asc-008-fbp",
+      "number": "008/217-FBP",
+      "name": "Chikorita — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "008/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-009-fbp",
+      "number": "009/217-FBP",
+      "name": "Bayleef — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "009/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-016-fbp",
+      "number": "016/217-FBP",
+      "name": "Budew — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "016/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-020-fbp",
+      "number": "020/217-FBP",
+      "name": "Charmander — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "020/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-021-fbp",
+      "number": "021/217-FBP",
+      "name": "Charmeleon — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "021/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-029-fbp",
+      "number": "029/217-FBP",
+      "name": "Tepig — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "029/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-030-fbp",
+      "number": "030/217-FBP",
+      "name": "Pignite — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "030/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-036-fbp",
+      "number": "036/217-FBP",
+      "name": "Scorbunny — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "036/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-037-fbp",
+      "number": "037/217-FBP",
+      "name": "Raboot — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "037/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-041-fbp",
+      "number": "041/217-FBP",
+      "name": "Totodile — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "041/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-042-fbp",
+      "number": "042/217-FBP",
+      "name": "Croconaw — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "042/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-052-fbp",
+      "number": "052/217-FBP",
+      "name": "Snom — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "052/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-053-fbp",
+      "number": "053/217-FBP",
+      "name": "Frosmoth — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "053/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-054-fbp",
+      "number": "054/217-FBP",
+      "name": "Glastrier — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "054/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-055-fbp",
+      "number": "055/217-FBP",
+      "name": "Pikachu — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "055/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-056-fbp",
+      "number": "056/217-FBP",
+      "name": "Raichu — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "056/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-083-fbp",
+      "number": "083/217-FBP",
+      "name": "Marill — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "083/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-112-fbp",
+      "number": "112/217-FBP",
+      "name": "Riolu — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "112/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-122-fbp",
+      "number": "122/217-FBP",
+      "name": "Okidogi — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "122/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-153-fbp",
+      "number": "153/217-FBP",
+      "name": "Rayquaza — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "153/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-156-fbp",
+      "number": "156/217-FBP",
+      "name": "Noibat — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "156/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-157-fbp",
+      "number": "157/217-FBP",
+      "name": "Noivern — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "157/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-176-fbp",
+      "number": "176/217-FBP",
+      "name": "Drampa — Friend Ball",
+      "sectionId": "fbp",
+      "printedNumber": "176/217",
+      "countsTowardCompletion": true,
+      "finish": "FBP"
+    },
+    {
+      "id": "asc-017-qbp",
+      "number": "017/217-QBP",
+      "name": "Grubbin — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "017/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-025-qbp",
+      "number": "025/217-QBP",
+      "name": "Entei — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "025/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-027-qbp",
+      "number": "027/217-QBP",
+      "name": "Numel — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "027/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-028-qbp",
+      "number": "028/217-QBP",
+      "name": "Camerupt — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "028/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-034-qbp",
+      "number": "034/217-QBP",
+      "name": "Salandit — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "034/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-035-qbp",
+      "number": "035/217-QBP",
+      "name": "Salazzle — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "035/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-059-qbp",
+      "number": "059/217-QBP",
+      "name": "Tynamo — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "059/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-060-qbp",
+      "number": "060/217-QBP",
+      "name": "Eelektrik — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "060/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-062-qbp",
+      "number": "062/217-QBP",
+      "name": "Stunfisk — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "062/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-063-qbp",
+      "number": "063/217-QBP",
+      "name": "Helioptile — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "063/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-064-qbp",
+      "number": "064/217-QBP",
+      "name": "Heliolisk — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "064/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-065-qbp",
+      "number": "065/217-QBP",
+      "name": "Charjabug — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "065/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-066-qbp",
+      "number": "066/217-QBP",
+      "name": "Vikavolt — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "066/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-067-qbp",
+      "number": "067/217-QBP",
+      "name": "Tapu Koko — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "067/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-103-qbp",
+      "number": "103/217-QBP",
+      "name": "Meditite — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "103/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-104-qbp",
+      "number": "104/217-QBP",
+      "name": "Medicham — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "104/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-134-qbp",
+      "number": "134/217-QBP",
+      "name": "Scraggy — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "134/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-146-qbp",
+      "number": "146/217-QBP",
+      "name": "Pawniard — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "146/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-147-qbp",
+      "number": "147/217-QBP",
+      "name": "Bisharp — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "147/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-148-qbp",
+      "number": "148/217-QBP",
+      "name": "Kingambit — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "148/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-158-qbp",
+      "number": "158/217-QBP",
+      "name": "Dreepy — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "158/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-159-qbp",
+      "number": "159/217-QBP",
+      "name": "Drakloak — Quick Ball",
+      "sectionId": "qbp",
+      "printedNumber": "159/217",
+      "countsTowardCompletion": true,
+      "finish": "QBP"
+    },
+    {
+      "id": "asc-018-trp",
+      "number": "018/217-TRP",
+      "name": "Tarountula da Equipe Rocket — Equipe Rocket",
+      "sectionId": "trp",
+      "printedNumber": "018/217",
+      "countsTowardCompletion": true,
+      "finish": "TRP"
+    },
+    {
+      "id": "asc-019-trp",
+      "number": "019/217-TRP",
+      "name": "Spidops da Equipe Rocket — Equipe Rocket",
+      "sectionId": "trp",
+      "printedNumber": "019/217",
+      "countsTowardCompletion": true,
+      "finish": "TRP"
+    },
+    {
+      "id": "asc-077-trp",
+      "number": "077/217-TRP",
+      "name": "Exeggcute da Equipe Rocket — Equipe Rocket",
+      "sectionId": "trp",
+      "printedNumber": "077/217",
+      "countsTowardCompletion": true,
+      "finish": "TRP"
+    },
+    {
+      "id": "asc-078-trp",
+      "number": "078/217-TRP",
+      "name": "Exeggutor da Equipe Rocket — Equipe Rocket",
+      "sectionId": "trp",
+      "printedNumber": "078/217",
+      "countsTowardCompletion": true,
+      "finish": "TRP"
+    },
+    {
+      "id": "asc-097-trp",
+      "number": "097/217-TRP",
+      "name": "Mimikyu da Equipe Rocket — Equipe Rocket",
+      "sectionId": "trp",
+      "printedNumber": "097/217",
+      "countsTowardCompletion": true,
+      "finish": "TRP"
+    },
+    {
+      "id": "asc-100-trp",
+      "number": "100/217-TRP",
+      "name": "Diglett da Equipe Rocket — Equipe Rocket",
+      "sectionId": "trp",
+      "printedNumber": "100/217",
+      "countsTowardCompletion": true,
+      "finish": "TRP"
+    },
+    {
+      "id": "asc-101-trp",
+      "number": "101/217-TRP",
+      "name": "Dugtrio da Equipe Rocket — Equipe Rocket",
+      "sectionId": "trp",
+      "printedNumber": "101/217",
+      "countsTowardCompletion": true,
+      "finish": "TRP"
+    },
+    {
+      "id": "asc-126-trp",
+      "number": "126/217-TRP",
+      "name": "Murkrow da Equipe Rocket — Equipe Rocket",
+      "sectionId": "trp",
+      "printedNumber": "126/217",
+      "countsTowardCompletion": true,
+      "finish": "TRP"
+    },
+    {
+      "id": "asc-127-trp",
+      "number": "127/217-TRP",
+      "name": "Honchkrow da Equipe Rocket — Equipe Rocket",
+      "sectionId": "trp",
+      "printedNumber": "127/217",
+      "countsTowardCompletion": true,
+      "finish": "TRP"
+    },
+    {
+      "id": "asc-161-trp",
+      "number": "161/217-TRP",
+      "name": "Meowth da Equipe Rocket — Equipe Rocket",
+      "sectionId": "trp",
+      "printedNumber": "161/217",
+      "countsTowardCompletion": true,
+      "finish": "TRP"
+    }
+  ]
+}

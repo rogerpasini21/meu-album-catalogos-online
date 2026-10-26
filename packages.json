@@ -448,6 +448,13 @@
       "file": "albums/pokemon-pbl-2026-standard-v1.zip",
       "bytes": 114712,
       "sha256": "fb57d065731701576b756b26c6ddadbfc576c6d1dc3cbf939beb16e9e35b8f1f"
+    },
+    {
+      "officialId": "pokemon.asc2026.standard",
+      "version": 1,
+      "file": "albums/pokemon-asc-2026-standard-v1.zip",
+      "bytes": 160118,
+      "sha256": "92e5692a9796d61cc71706f059e845f75407ed776778ce92204d111223948f07"
     }
   ]
 }
