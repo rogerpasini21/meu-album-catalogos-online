@@ -1,0 +1,3539 @@
+{
+  "officialId": "pokemon.ssp2024.standard",
+  "version": 1,
+  "name": "Escarlate e Violeta — Fagulhas Impetuosas",
+  "collection": "Escarlate e Violeta — Fagulhas Impetuosas",
+  "year": "2024",
+  "publisher": "The Pokémon Company / Copag",
+  "collectionType": "cards",
+  "availability": "online",
+  "description": "417 cards: 191 principais, 61 secretas e 165 versões reversas. O sufixo -R identifica o acabamento reverso. Não inclui promocionais, carimbadas ou variantes exclusivas de produtos.",
+  "plannedTotal": 417,
+  "variantCount": 0,
+  "coverAsset": "assets/album_library/imagens/pokemon_fagulhas_impetuosas2024/capa.webp",
+  "libraryCategory": {
+    "id": "pokemon",
+    "name": "Pokémon",
+    "order": 80
+  },
+  "sections": [
+    {
+      "id": "principal",
+      "name": "Coleção principal",
+      "imageAsset": "assets/album_library/imagens/pokemon_fagulhas_impetuosas2024/capa.webp"
+    },
+    {
+      "id": "secretas",
+      "name": "Cartas secretas",
+      "imageAsset": "assets/album_library/imagens/pokemon_fagulhas_impetuosas2024/capa.webp"
+    },
+    {
+      "id": "reversas",
+      "name": "Reversas",
+      "imageAsset": "assets/album_library/imagens/pokemon_fagulhas_impetuosas2024/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "ssp-001",
+      "number": "001/191",
+      "name": "Exeggcute",
+      "sectionId": "principal",
+      "printedNumber": "001/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-002",
+      "number": "002/191",
+      "name": "Exeggcute",
+      "sectionId": "principal",
+      "printedNumber": "002/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-003",
+      "number": "003/191",
+      "name": "Exeggutor",
+      "sectionId": "principal",
+      "printedNumber": "003/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-004",
+      "number": "004/191",
+      "name": "Durant ex",
+      "sectionId": "principal",
+      "printedNumber": "004/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-005",
+      "number": "005/191",
+      "name": "Scatterbug",
+      "sectionId": "principal",
+      "printedNumber": "005/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-006",
+      "number": "006/191",
+      "name": "Spewpa",
+      "sectionId": "principal",
+      "printedNumber": "006/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-007",
+      "number": "007/191",
+      "name": "Vivillon",
+      "sectionId": "principal",
+      "printedNumber": "007/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-008",
+      "number": "008/191",
+      "name": "Morelull",
+      "sectionId": "principal",
+      "printedNumber": "008/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-009",
+      "number": "009/191",
+      "name": "Shiinotic",
+      "sectionId": "principal",
+      "printedNumber": "009/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-010",
+      "number": "010/191",
+      "name": "Dhelmise",
+      "sectionId": "principal",
+      "printedNumber": "010/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-011",
+      "number": "011/191",
+      "name": "Zarude",
+      "sectionId": "principal",
+      "printedNumber": "011/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-012",
+      "number": "012/191",
+      "name": "Capsakid",
+      "sectionId": "principal",
+      "printedNumber": "012/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-013",
+      "number": "013/191",
+      "name": "Rellor",
+      "sectionId": "principal",
+      "printedNumber": "013/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-014",
+      "number": "014/191",
+      "name": "Rabsca",
+      "sectionId": "principal",
+      "printedNumber": "014/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-015",
+      "number": "015/191",
+      "name": "Wo-Chien",
+      "sectionId": "principal",
+      "printedNumber": "015/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-016",
+      "number": "016/191",
+      "name": "Vulpix",
+      "sectionId": "principal",
+      "printedNumber": "016/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-017",
+      "number": "017/191",
+      "name": "Ninetales",
+      "sectionId": "principal",
+      "printedNumber": "017/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-018",
+      "number": "018/191",
+      "name": "Tauros de Paldea",
+      "sectionId": "principal",
+      "printedNumber": "018/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-019",
+      "number": "019/191",
+      "name": "Ho-Oh",
+      "sectionId": "principal",
+      "printedNumber": "019/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-020",
+      "number": "020/191",
+      "name": "Castform Forma Ensolarada",
+      "sectionId": "principal",
+      "printedNumber": "020/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-021",
+      "number": "021/191",
+      "name": "Victini",
+      "sectionId": "principal",
+      "printedNumber": "021/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-022",
+      "number": "022/191",
+      "name": "Pansear",
+      "sectionId": "principal",
+      "printedNumber": "022/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-023",
+      "number": "023/191",
+      "name": "Simisear",
+      "sectionId": "principal",
+      "printedNumber": "023/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-024",
+      "number": "024/191",
+      "name": "Larvesta",
+      "sectionId": "principal",
+      "printedNumber": "024/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-025",
+      "number": "025/191",
+      "name": "Volcarona",
+      "sectionId": "principal",
+      "printedNumber": "025/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-026",
+      "number": "026/191",
+      "name": "Oricorio",
+      "sectionId": "principal",
+      "printedNumber": "026/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-027",
+      "number": "027/191",
+      "name": "Sizzlipede",
+      "sectionId": "principal",
+      "printedNumber": "027/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-028",
+      "number": "028/191",
+      "name": "Centiskorch",
+      "sectionId": "principal",
+      "printedNumber": "028/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-029",
+      "number": "029/191",
+      "name": "Fuecoco",
+      "sectionId": "principal",
+      "printedNumber": "029/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-030",
+      "number": "030/191",
+      "name": "Crocalor",
+      "sectionId": "principal",
+      "printedNumber": "030/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-031",
+      "number": "031/191",
+      "name": "Skeledirge",
+      "sectionId": "principal",
+      "printedNumber": "031/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-032",
+      "number": "032/191",
+      "name": "Charcadet",
+      "sectionId": "principal",
+      "printedNumber": "032/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-033",
+      "number": "033/191",
+      "name": "Charcadet",
+      "sectionId": "principal",
+      "printedNumber": "033/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-034",
+      "number": "034/191",
+      "name": "Armarouge",
+      "sectionId": "principal",
+      "printedNumber": "034/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-035",
+      "number": "035/191",
+      "name": "Ceruledge",
+      "sectionId": "principal",
+      "printedNumber": "035/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-036",
+      "number": "036/191",
+      "name": "Ceruledge ex",
+      "sectionId": "principal",
+      "printedNumber": "036/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-037",
+      "number": "037/191",
+      "name": "Scovillain ex",
+      "sectionId": "principal",
+      "printedNumber": "037/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-038",
+      "number": "038/191",
+      "name": "Fogo Corrosão",
+      "sectionId": "principal",
+      "printedNumber": "038/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-039",
+      "number": "039/191",
+      "name": "Tauros de Paldea",
+      "sectionId": "principal",
+      "printedNumber": "039/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-040",
+      "number": "040/191",
+      "name": "Mantine",
+      "sectionId": "principal",
+      "printedNumber": "040/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-041",
+      "number": "041/191",
+      "name": "Feebas",
+      "sectionId": "principal",
+      "printedNumber": "041/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-042",
+      "number": "042/191",
+      "name": "Milotic ex",
+      "sectionId": "principal",
+      "printedNumber": "042/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-043",
+      "number": "043/191",
+      "name": "Spheal",
+      "sectionId": "principal",
+      "printedNumber": "043/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-044",
+      "number": "044/191",
+      "name": "Sealeo",
+      "sectionId": "principal",
+      "printedNumber": "044/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-045",
+      "number": "045/191",
+      "name": "Walrein",
+      "sectionId": "principal",
+      "printedNumber": "045/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-046",
+      "number": "046/191",
+      "name": "Shellos",
+      "sectionId": "principal",
+      "printedNumber": "046/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-047",
+      "number": "047/191",
+      "name": "Cryogonal",
+      "sectionId": "principal",
+      "printedNumber": "047/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-048",
+      "number": "048/191",
+      "name": "Kyurem Preto ex",
+      "sectionId": "principal",
+      "printedNumber": "048/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-049",
+      "number": "049/191",
+      "name": "Bruxish",
+      "sectionId": "principal",
+      "printedNumber": "049/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-050",
+      "number": "050/191",
+      "name": "Quaxly",
+      "sectionId": "principal",
+      "printedNumber": "050/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-051",
+      "number": "051/191",
+      "name": "Quaxwell",
+      "sectionId": "principal",
+      "printedNumber": "051/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-052",
+      "number": "052/191",
+      "name": "Quaquaval",
+      "sectionId": "principal",
+      "printedNumber": "052/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-053",
+      "number": "053/191",
+      "name": "Cetoddle",
+      "sectionId": "principal",
+      "printedNumber": "053/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-054",
+      "number": "054/191",
+      "name": "Cetitan",
+      "sectionId": "principal",
+      "printedNumber": "054/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-055",
+      "number": "055/191",
+      "name": "Pacote Férreo",
+      "sectionId": "principal",
+      "printedNumber": "055/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-056",
+      "number": "056/191",
+      "name": "Chien-Pao",
+      "sectionId": "principal",
+      "printedNumber": "056/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-057",
+      "number": "057/191",
+      "name": "Pikachu ex",
+      "sectionId": "principal",
+      "printedNumber": "057/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-058",
+      "number": "058/191",
+      "name": "Magnemite",
+      "sectionId": "principal",
+      "printedNumber": "058/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-059",
+      "number": "059/191",
+      "name": "Magneton",
+      "sectionId": "principal",
+      "printedNumber": "059/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-060",
+      "number": "060/191",
+      "name": "Magnezone",
+      "sectionId": "principal",
+      "printedNumber": "060/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-061",
+      "number": "061/191",
+      "name": "Rotom",
+      "sectionId": "principal",
+      "printedNumber": "061/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-062",
+      "number": "062/191",
+      "name": "Blitzle",
+      "sectionId": "principal",
+      "printedNumber": "062/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-063",
+      "number": "063/191",
+      "name": "Zebstrika",
+      "sectionId": "principal",
+      "printedNumber": "063/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-064",
+      "number": "064/191",
+      "name": "Stunfisk",
+      "sectionId": "principal",
+      "printedNumber": "064/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-065",
+      "number": "065/191",
+      "name": "Tapu Koko",
+      "sectionId": "principal",
+      "printedNumber": "065/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-066",
+      "number": "066/191",
+      "name": "Wattrel",
+      "sectionId": "principal",
+      "printedNumber": "066/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-067",
+      "number": "067/191",
+      "name": "Kilowattrel",
+      "sectionId": "principal",
+      "printedNumber": "067/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-068",
+      "number": "068/191",
+      "name": "Kilowattrel ex",
+      "sectionId": "principal",
+      "printedNumber": "068/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-069",
+      "number": "069/191",
+      "name": "Miraidon",
+      "sectionId": "principal",
+      "printedNumber": "069/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-070",
+      "number": "070/191",
+      "name": "Togepi",
+      "sectionId": "principal",
+      "printedNumber": "070/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-071",
+      "number": "071/191",
+      "name": "Togetic",
+      "sectionId": "principal",
+      "printedNumber": "071/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-072",
+      "number": "072/191",
+      "name": "Togekiss",
+      "sectionId": "principal",
+      "printedNumber": "072/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-073",
+      "number": "073/191",
+      "name": "Marill",
+      "sectionId": "principal",
+      "printedNumber": "073/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-074",
+      "number": "074/191",
+      "name": "Azumarill",
+      "sectionId": "principal",
+      "printedNumber": "074/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-075",
+      "number": "075/191",
+      "name": "Smoochum",
+      "sectionId": "principal",
+      "printedNumber": "075/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-076",
+      "number": "076/191",
+      "name": "Latias ex",
+      "sectionId": "principal",
+      "printedNumber": "076/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-077",
+      "number": "077/191",
+      "name": "Latios",
+      "sectionId": "principal",
+      "printedNumber": "077/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-078",
+      "number": "078/191",
+      "name": "Uxie",
+      "sectionId": "principal",
+      "printedNumber": "078/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-079",
+      "number": "079/191",
+      "name": "Mesprit",
+      "sectionId": "principal",
+      "printedNumber": "079/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-080",
+      "number": "080/191",
+      "name": "Azelf",
+      "sectionId": "principal",
+      "printedNumber": "080/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-081",
+      "number": "081/191",
+      "name": "Sigilyph",
+      "sectionId": "principal",
+      "printedNumber": "081/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-082",
+      "number": "082/191",
+      "name": "Yamask",
+      "sectionId": "principal",
+      "printedNumber": "082/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-083",
+      "number": "083/191",
+      "name": "Cofagrigus",
+      "sectionId": "principal",
+      "printedNumber": "083/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-084",
+      "number": "084/191",
+      "name": "Espurr",
+      "sectionId": "principal",
+      "printedNumber": "084/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-085",
+      "number": "085/191",
+      "name": "Meowstic",
+      "sectionId": "principal",
+      "printedNumber": "085/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-086",
+      "number": "086/191",
+      "name": "Sylveon ex",
+      "sectionId": "principal",
+      "printedNumber": "086/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-087",
+      "number": "087/191",
+      "name": "Dedenne",
+      "sectionId": "principal",
+      "printedNumber": "087/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-088",
+      "number": "088/191",
+      "name": "Xerneas",
+      "sectionId": "principal",
+      "printedNumber": "088/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-089",
+      "number": "089/191",
+      "name": "Oricorio",
+      "sectionId": "principal",
+      "printedNumber": "089/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-090",
+      "number": "090/191",
+      "name": "Sandygast",
+      "sectionId": "principal",
+      "printedNumber": "090/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-091",
+      "number": "091/191",
+      "name": "Palossand ex",
+      "sectionId": "principal",
+      "printedNumber": "091/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-092",
+      "number": "092/191",
+      "name": "Tapu Lele",
+      "sectionId": "principal",
+      "printedNumber": "092/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-093",
+      "number": "093/191",
+      "name": "Indeedee",
+      "sectionId": "principal",
+      "printedNumber": "093/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-094",
+      "number": "094/191",
+      "name": "Flittle",
+      "sectionId": "principal",
+      "printedNumber": "094/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-095",
+      "number": "095/191",
+      "name": "Espathra",
+      "sectionId": "principal",
+      "printedNumber": "095/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-096",
+      "number": "096/191",
+      "name": "Juba Sopro",
+      "sectionId": "principal",
+      "printedNumber": "096/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-097",
+      "number": "097/191",
+      "name": "Gimmighoul",
+      "sectionId": "principal",
+      "printedNumber": "097/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-098",
+      "number": "098/191",
+      "name": "Mankey",
+      "sectionId": "principal",
+      "printedNumber": "098/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-099",
+      "number": "099/191",
+      "name": "Primeape",
+      "sectionId": "principal",
+      "printedNumber": "099/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-100",
+      "number": "100/191",
+      "name": "Annihilape",
+      "sectionId": "principal",
+      "printedNumber": "100/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-101",
+      "number": "101/191",
+      "name": "Tauros de Paldea",
+      "sectionId": "principal",
+      "printedNumber": "101/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-102",
+      "number": "102/191",
+      "name": "Phanpy",
+      "sectionId": "principal",
+      "printedNumber": "102/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-103",
+      "number": "103/191",
+      "name": "Donphan",
+      "sectionId": "principal",
+      "printedNumber": "103/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-104",
+      "number": "104/191",
+      "name": "Trapinch",
+      "sectionId": "principal",
+      "printedNumber": "104/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-105",
+      "number": "105/191",
+      "name": "Vibrava",
+      "sectionId": "principal",
+      "printedNumber": "105/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-106",
+      "number": "106/191",
+      "name": "Flygon ex",
+      "sectionId": "principal",
+      "printedNumber": "106/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-107",
+      "number": "107/191",
+      "name": "Gastrodon",
+      "sectionId": "principal",
+      "printedNumber": "107/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-108",
+      "number": "108/191",
+      "name": "Drilbur",
+      "sectionId": "principal",
+      "printedNumber": "108/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-109",
+      "number": "109/191",
+      "name": "Excadrill",
+      "sectionId": "principal",
+      "printedNumber": "109/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-110",
+      "number": "110/191",
+      "name": "Landorus",
+      "sectionId": "principal",
+      "printedNumber": "110/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-111",
+      "number": "111/191",
+      "name": "Passimian",
+      "sectionId": "principal",
+      "printedNumber": "111/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-112",
+      "number": "112/191",
+      "name": "Clobbopus",
+      "sectionId": "principal",
+      "printedNumber": "112/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-113",
+      "number": "113/191",
+      "name": "Grapploct",
+      "sectionId": "principal",
+      "printedNumber": "113/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-114",
+      "number": "114/191",
+      "name": "Glimmet",
+      "sectionId": "principal",
+      "printedNumber": "114/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-115",
+      "number": "115/191",
+      "name": "Glimmora",
+      "sectionId": "principal",
+      "printedNumber": "115/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-116",
+      "number": "116/191",
+      "name": "Koraidon",
+      "sectionId": "principal",
+      "printedNumber": "116/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-117",
+      "number": "117/191",
+      "name": "Deino",
+      "sectionId": "principal",
+      "printedNumber": "117/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-118",
+      "number": "118/191",
+      "name": "Zweilous",
+      "sectionId": "principal",
+      "printedNumber": "118/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-119",
+      "number": "119/191",
+      "name": "Hydreigon ex",
+      "sectionId": "principal",
+      "printedNumber": "119/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-120",
+      "number": "120/191",
+      "name": "Shroodle",
+      "sectionId": "principal",
+      "printedNumber": "120/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-121",
+      "number": "121/191",
+      "name": "Grafaiai",
+      "sectionId": "principal",
+      "printedNumber": "121/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-122",
+      "number": "122/191",
+      "name": "Diglett de Alola",
+      "sectionId": "principal",
+      "printedNumber": "122/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-123",
+      "number": "123/191",
+      "name": "Dugtrio de Alola",
+      "sectionId": "principal",
+      "printedNumber": "123/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-124",
+      "number": "124/191",
+      "name": "Skarmory",
+      "sectionId": "principal",
+      "printedNumber": "124/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-125",
+      "number": "125/191",
+      "name": "Registeel",
+      "sectionId": "principal",
+      "printedNumber": "125/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-126",
+      "number": "126/191",
+      "name": "Bronzor",
+      "sectionId": "principal",
+      "printedNumber": "126/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-127",
+      "number": "127/191",
+      "name": "Bronzong",
+      "sectionId": "principal",
+      "printedNumber": "127/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-128",
+      "number": "128/191",
+      "name": "Klefki",
+      "sectionId": "principal",
+      "printedNumber": "128/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-129",
+      "number": "129/191",
+      "name": "Duraludon",
+      "sectionId": "principal",
+      "printedNumber": "129/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-130",
+      "number": "130/191",
+      "name": "Archaludon ex",
+      "sectionId": "principal",
+      "printedNumber": "130/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-131",
+      "number": "131/191",
+      "name": "Gholdengo",
+      "sectionId": "principal",
+      "printedNumber": "131/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-132",
+      "number": "132/191",
+      "name": "Chifres Férreos",
+      "sectionId": "principal",
+      "printedNumber": "132/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-133",
+      "number": "133/191",
+      "name": "Exeggutor de Alola ex",
+      "sectionId": "principal",
+      "printedNumber": "133/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-134",
+      "number": "134/191",
+      "name": "Altaria",
+      "sectionId": "principal",
+      "printedNumber": "134/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-135",
+      "number": "135/191",
+      "name": "Dialga",
+      "sectionId": "principal",
+      "printedNumber": "135/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-136",
+      "number": "136/191",
+      "name": "Palkia",
+      "sectionId": "principal",
+      "printedNumber": "136/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-137",
+      "number": "137/191",
+      "name": "Turtonator",
+      "sectionId": "principal",
+      "printedNumber": "137/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-138",
+      "number": "138/191",
+      "name": "Applin",
+      "sectionId": "principal",
+      "printedNumber": "138/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-139",
+      "number": "139/191",
+      "name": "Flapple",
+      "sectionId": "principal",
+      "printedNumber": "139/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-140",
+      "number": "140/191",
+      "name": "Appletun",
+      "sectionId": "principal",
+      "printedNumber": "140/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-141",
+      "number": "141/191",
+      "name": "Eternatus",
+      "sectionId": "principal",
+      "printedNumber": "141/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-142",
+      "number": "142/191",
+      "name": "Tatsugiri ex",
+      "sectionId": "principal",
+      "printedNumber": "142/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-143",
+      "number": "143/191",
+      "name": "Eevee",
+      "sectionId": "principal",
+      "printedNumber": "143/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-144",
+      "number": "144/191",
+      "name": "Snorlax",
+      "sectionId": "principal",
+      "printedNumber": "144/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-145",
+      "number": "145/191",
+      "name": "Slakoth",
+      "sectionId": "principal",
+      "printedNumber": "145/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-146",
+      "number": "146/191",
+      "name": "Vigoroth",
+      "sectionId": "principal",
+      "printedNumber": "146/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-147",
+      "number": "147/191",
+      "name": "Slaking ex",
+      "sectionId": "principal",
+      "printedNumber": "147/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-148",
+      "number": "148/191",
+      "name": "Swablu",
+      "sectionId": "principal",
+      "printedNumber": "148/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-149",
+      "number": "149/191",
+      "name": "Zangoose",
+      "sectionId": "principal",
+      "printedNumber": "149/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-150",
+      "number": "150/191",
+      "name": "Kecleon",
+      "sectionId": "principal",
+      "printedNumber": "150/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-151",
+      "number": "151/191",
+      "name": "Bouffalant",
+      "sectionId": "principal",
+      "printedNumber": "151/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-152",
+      "number": "152/191",
+      "name": "Rufflet",
+      "sectionId": "principal",
+      "printedNumber": "152/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-153",
+      "number": "153/191",
+      "name": "Braviary",
+      "sectionId": "principal",
+      "printedNumber": "153/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-154",
+      "number": "154/191",
+      "name": "Helioptile",
+      "sectionId": "principal",
+      "printedNumber": "154/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-155",
+      "number": "155/191",
+      "name": "Heliolisk",
+      "sectionId": "principal",
+      "printedNumber": "155/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-156",
+      "number": "156/191",
+      "name": "Oranguru",
+      "sectionId": "principal",
+      "printedNumber": "156/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-157",
+      "number": "157/191",
+      "name": "Tandemaus",
+      "sectionId": "principal",
+      "printedNumber": "157/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-158",
+      "number": "158/191",
+      "name": "Maushold",
+      "sectionId": "principal",
+      "printedNumber": "158/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-159",
+      "number": "159/191",
+      "name": "Cyclizar ex",
+      "sectionId": "principal",
+      "printedNumber": "159/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-160",
+      "number": "160/191",
+      "name": "Flamigo ex",
+      "sectionId": "principal",
+      "printedNumber": "160/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-161",
+      "number": "161/191",
+      "name": "Terapagos",
+      "sectionId": "principal",
+      "printedNumber": "161/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-162",
+      "number": "162/191",
+      "name": "Amuleto da Esperança",
+      "sectionId": "principal",
+      "printedNumber": "162/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-163",
+      "number": "163/191",
+      "name": "Fruta Babiri",
+      "sectionId": "principal",
+      "printedNumber": "163/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-164",
+      "number": "164/191",
+      "name": "Liquidificador Perfeito",
+      "sectionId": "principal",
+      "printedNumber": "164/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-165",
+      "number": "165/191",
+      "name": "Sininho de Mesa",
+      "sectionId": "principal",
+      "printedNumber": "165/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-166",
+      "number": "166/191",
+      "name": "Varinha Relaxante",
+      "sectionId": "principal",
+      "printedNumber": "166/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-167",
+      "number": "167/191",
+      "name": "Sagacidade do Clemont",
+      "sectionId": "principal",
+      "printedNumber": "167/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-168",
+      "number": "168/191",
+      "name": "Fruta Capicho",
+      "sectionId": "principal",
+      "printedNumber": "168/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-169",
+      "number": "169/191",
+      "name": "Contra-ataque de Alcance",
+      "sectionId": "principal",
+      "printedNumber": "169/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-170",
+      "number": "170/191",
+      "name": "Cyrano",
+      "sectionId": "principal",
+      "printedNumber": "170/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-171",
+      "number": "171/191",
+      "name": "Kit de Investigação",
+      "sectionId": "principal",
+      "printedNumber": "171/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-172",
+      "number": "172/191",
+      "name": "Elixir do Dragão",
+      "sectionId": "principal",
+      "printedNumber": "172/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-173",
+      "number": "173/191",
+      "name": "Drasna",
+      "sectionId": "principal",
+      "printedNumber": "173/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-174",
+      "number": "174/191",
+      "name": "Drayton",
+      "sectionId": "principal",
+      "printedNumber": "174/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-175",
+      "number": "175/191",
+      "name": "Bola de Penumbra",
+      "sectionId": "principal",
+      "printedNumber": "175/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-176",
+      "number": "176/191",
+      "name": "Busca de Energia Profissional",
+      "sectionId": "principal",
+      "printedNumber": "176/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-177",
+      "number": "177/191",
+      "name": "Montanha da Gravidade",
+      "sectionId": "principal",
+      "printedNumber": "177/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-178",
+      "number": "178/191",
+      "name": "Olhar da Jasmine",
+      "sectionId": "principal",
+      "printedNumber": "178/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-179",
+      "number": "179/191",
+      "name": "Apelo da Elisia",
+      "sectionId": "principal",
+      "printedNumber": "179/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-180",
+      "number": "180/191",
+      "name": "Estádio Animado",
+      "sectionId": "principal",
+      "printedNumber": "180/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-181",
+      "number": "181/191",
+      "name": "Memorando Intrometido",
+      "sectionId": "principal",
+      "printedNumber": "181/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-182",
+      "number": "182/191",
+      "name": "Ventilador Megaton",
+      "sectionId": "principal",
+      "printedNumber": "182/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-183",
+      "number": "183/191",
+      "name": "Fone de Ouvido Milagroso",
+      "sectionId": "principal",
+      "printedNumber": "183/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-184",
+      "number": "184/191",
+      "name": "Fruta Passho",
+      "sectionId": "principal",
+      "printedNumber": "184/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-185",
+      "number": "185/191",
+      "name": "Carrinho Precioso",
+      "sectionId": "principal",
+      "printedNumber": "185/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-186",
+      "number": "186/191",
+      "name": "Chave de Embaralhamento",
+      "sectionId": "principal",
+      "printedNumber": "186/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-187",
+      "number": "187/191",
+      "name": "Surfista",
+      "sectionId": "principal",
+      "printedNumber": "187/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-188",
+      "number": "188/191",
+      "name": "Máquina Técnica: Fluorita",
+      "sectionId": "principal",
+      "printedNumber": "188/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-189",
+      "number": "189/191",
+      "name": "Orbe Tera",
+      "sectionId": "principal",
+      "printedNumber": "189/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-190",
+      "number": "190/191",
+      "name": "Tomila",
+      "sectionId": "principal",
+      "printedNumber": "190/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-191",
+      "number": "191/191",
+      "name": "Energia Enriquecedora",
+      "sectionId": "principal",
+      "printedNumber": "191/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-192",
+      "number": "192/191",
+      "name": "Exeggcute",
+      "sectionId": "secretas",
+      "printedNumber": "192/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-193",
+      "number": "193/191",
+      "name": "Vivillon",
+      "sectionId": "secretas",
+      "printedNumber": "193/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-194",
+      "number": "194/191",
+      "name": "Shiinotic",
+      "sectionId": "secretas",
+      "printedNumber": "194/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-195",
+      "number": "195/191",
+      "name": "Castform Forma Ensolarada",
+      "sectionId": "secretas",
+      "printedNumber": "195/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-196",
+      "number": "196/191",
+      "name": "Larvesta",
+      "sectionId": "secretas",
+      "printedNumber": "196/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-197",
+      "number": "197/191",
+      "name": "Ceruledge",
+      "sectionId": "secretas",
+      "printedNumber": "197/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-198",
+      "number": "198/191",
+      "name": "Feebas",
+      "sectionId": "secretas",
+      "printedNumber": "198/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-199",
+      "number": "199/191",
+      "name": "Spheal",
+      "sectionId": "secretas",
+      "printedNumber": "199/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-200",
+      "number": "200/191",
+      "name": "Bruxish",
+      "sectionId": "secretas",
+      "printedNumber": "200/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-201",
+      "number": "201/191",
+      "name": "Cetitan",
+      "sectionId": "secretas",
+      "printedNumber": "201/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-202",
+      "number": "202/191",
+      "name": "Stunfisk",
+      "sectionId": "secretas",
+      "printedNumber": "202/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-203",
+      "number": "203/191",
+      "name": "Latios",
+      "sectionId": "secretas",
+      "printedNumber": "203/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-204",
+      "number": "204/191",
+      "name": "Mesprit",
+      "sectionId": "secretas",
+      "printedNumber": "204/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-205",
+      "number": "205/191",
+      "name": "Phanpy",
+      "sectionId": "secretas",
+      "printedNumber": "205/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-206",
+      "number": "206/191",
+      "name": "Vibrava",
+      "sectionId": "secretas",
+      "printedNumber": "206/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-207",
+      "number": "207/191",
+      "name": "Clobbopus",
+      "sectionId": "secretas",
+      "printedNumber": "207/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-208",
+      "number": "208/191",
+      "name": "Dugtrio de Alola",
+      "sectionId": "secretas",
+      "printedNumber": "208/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-209",
+      "number": "209/191",
+      "name": "Skarmory",
+      "sectionId": "secretas",
+      "printedNumber": "209/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-210",
+      "number": "210/191",
+      "name": "Flapple",
+      "sectionId": "secretas",
+      "printedNumber": "210/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-211",
+      "number": "211/191",
+      "name": "Appletun",
+      "sectionId": "secretas",
+      "printedNumber": "211/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-212",
+      "number": "212/191",
+      "name": "Slakoth",
+      "sectionId": "secretas",
+      "printedNumber": "212/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-213",
+      "number": "213/191",
+      "name": "Kecleon",
+      "sectionId": "secretas",
+      "printedNumber": "213/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-214",
+      "number": "214/191",
+      "name": "Braviary",
+      "sectionId": "secretas",
+      "printedNumber": "214/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-215",
+      "number": "215/191",
+      "name": "Durant ex",
+      "sectionId": "secretas",
+      "printedNumber": "215/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-216",
+      "number": "216/191",
+      "name": "Scovillain ex",
+      "sectionId": "secretas",
+      "printedNumber": "216/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-217",
+      "number": "217/191",
+      "name": "Milotic ex",
+      "sectionId": "secretas",
+      "printedNumber": "217/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-218",
+      "number": "218/191",
+      "name": "Kyurem Preto ex",
+      "sectionId": "secretas",
+      "printedNumber": "218/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-219",
+      "number": "219/191",
+      "name": "Pikachu ex",
+      "sectionId": "secretas",
+      "printedNumber": "219/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-220",
+      "number": "220/191",
+      "name": "Latias ex",
+      "sectionId": "secretas",
+      "printedNumber": "220/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-221",
+      "number": "221/191",
+      "name": "Palossand ex",
+      "sectionId": "secretas",
+      "printedNumber": "221/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-222",
+      "number": "222/191",
+      "name": "Flygon ex",
+      "sectionId": "secretas",
+      "printedNumber": "222/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-223",
+      "number": "223/191",
+      "name": "Hydreigon ex",
+      "sectionId": "secretas",
+      "printedNumber": "223/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-224",
+      "number": "224/191",
+      "name": "Archaludon ex",
+      "sectionId": "secretas",
+      "printedNumber": "224/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-225",
+      "number": "225/191",
+      "name": "Exeggutor de Alola ex",
+      "sectionId": "secretas",
+      "printedNumber": "225/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-226",
+      "number": "226/191",
+      "name": "Tatsugiri ex",
+      "sectionId": "secretas",
+      "printedNumber": "226/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-227",
+      "number": "227/191",
+      "name": "Slaking ex",
+      "sectionId": "secretas",
+      "printedNumber": "227/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-228",
+      "number": "228/191",
+      "name": "Cyclizar ex",
+      "sectionId": "secretas",
+      "printedNumber": "228/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-229",
+      "number": "229/191",
+      "name": "Sagacidade do Clemont",
+      "sectionId": "secretas",
+      "printedNumber": "229/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-230",
+      "number": "230/191",
+      "name": "Cyrano",
+      "sectionId": "secretas",
+      "printedNumber": "230/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-231",
+      "number": "231/191",
+      "name": "Drasna",
+      "sectionId": "secretas",
+      "printedNumber": "231/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-232",
+      "number": "232/191",
+      "name": "Drayton",
+      "sectionId": "secretas",
+      "printedNumber": "232/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-233",
+      "number": "233/191",
+      "name": "Olhar da Jasmine",
+      "sectionId": "secretas",
+      "printedNumber": "233/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-234",
+      "number": "234/191",
+      "name": "Apelo da Elisia",
+      "sectionId": "secretas",
+      "printedNumber": "234/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-235",
+      "number": "235/191",
+      "name": "Surfista",
+      "sectionId": "secretas",
+      "printedNumber": "235/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-236",
+      "number": "236/191",
+      "name": "Durant ex",
+      "sectionId": "secretas",
+      "printedNumber": "236/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-237",
+      "number": "237/191",
+      "name": "Milotic ex",
+      "sectionId": "secretas",
+      "printedNumber": "237/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-238",
+      "number": "238/191",
+      "name": "Pikachu ex",
+      "sectionId": "secretas",
+      "printedNumber": "238/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-239",
+      "number": "239/191",
+      "name": "Latias ex",
+      "sectionId": "secretas",
+      "printedNumber": "239/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-240",
+      "number": "240/191",
+      "name": "Hydreigon ex",
+      "sectionId": "secretas",
+      "printedNumber": "240/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-241",
+      "number": "241/191",
+      "name": "Archaludon ex",
+      "sectionId": "secretas",
+      "printedNumber": "241/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-242",
+      "number": "242/191",
+      "name": "Exeggutor de Alola ex",
+      "sectionId": "secretas",
+      "printedNumber": "242/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-243",
+      "number": "243/191",
+      "name": "Sagacidade do Clemont",
+      "sectionId": "secretas",
+      "printedNumber": "243/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-244",
+      "number": "244/191",
+      "name": "Drayton",
+      "sectionId": "secretas",
+      "printedNumber": "244/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-245",
+      "number": "245/191",
+      "name": "Olhar da Jasmine",
+      "sectionId": "secretas",
+      "printedNumber": "245/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-246",
+      "number": "246/191",
+      "name": "Apelo da Elisia",
+      "sectionId": "secretas",
+      "printedNumber": "246/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-247",
+      "number": "247/191",
+      "name": "Pikachu ex",
+      "sectionId": "secretas",
+      "printedNumber": "247/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-248",
+      "number": "248/191",
+      "name": "Exeggutor de Alola ex",
+      "sectionId": "secretas",
+      "printedNumber": "248/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-249",
+      "number": "249/191",
+      "name": "Contra-ataque de Alcance",
+      "sectionId": "secretas",
+      "printedNumber": "249/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-250",
+      "number": "250/191",
+      "name": "Montanha da Gravidade",
+      "sectionId": "secretas",
+      "printedNumber": "250/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-251",
+      "number": "251/191",
+      "name": "Maca Noturna",
+      "sectionId": "secretas",
+      "printedNumber": "251/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-252",
+      "number": "252/191",
+      "name": "Energia a Jato",
+      "sectionId": "secretas",
+      "printedNumber": "252/191",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "ssp-001-r",
+      "number": "001/191-R",
+      "name": "Exeggcute (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "001/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-002-r",
+      "number": "002/191-R",
+      "name": "Exeggcute (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "002/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-003-r",
+      "number": "003/191-R",
+      "name": "Exeggutor (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "003/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-005-r",
+      "number": "005/191-R",
+      "name": "Scatterbug (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "005/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-006-r",
+      "number": "006/191-R",
+      "name": "Spewpa (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "006/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-007-r",
+      "number": "007/191-R",
+      "name": "Vivillon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "007/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-008-r",
+      "number": "008/191-R",
+      "name": "Morelull (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "008/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-009-r",
+      "number": "009/191-R",
+      "name": "Shiinotic (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "009/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-010-r",
+      "number": "010/191-R",
+      "name": "Dhelmise (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "010/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-011-r",
+      "number": "011/191-R",
+      "name": "Zarude (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "011/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-012-r",
+      "number": "012/191-R",
+      "name": "Capsakid (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "012/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-013-r",
+      "number": "013/191-R",
+      "name": "Rellor (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "013/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-014-r",
+      "number": "014/191-R",
+      "name": "Rabsca (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "014/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-015-r",
+      "number": "015/191-R",
+      "name": "Wo-Chien (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "015/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-016-r",
+      "number": "016/191-R",
+      "name": "Vulpix (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "016/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-017-r",
+      "number": "017/191-R",
+      "name": "Ninetales (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "017/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-018-r",
+      "number": "018/191-R",
+      "name": "Tauros de Paldea (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "018/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-019-r",
+      "number": "019/191-R",
+      "name": "Ho-Oh (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "019/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-020-r",
+      "number": "020/191-R",
+      "name": "Castform Forma Ensolarada (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "020/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-021-r",
+      "number": "021/191-R",
+      "name": "Victini (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "021/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-022-r",
+      "number": "022/191-R",
+      "name": "Pansear (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "022/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-023-r",
+      "number": "023/191-R",
+      "name": "Simisear (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "023/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-024-r",
+      "number": "024/191-R",
+      "name": "Larvesta (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "024/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-025-r",
+      "number": "025/191-R",
+      "name": "Volcarona (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "025/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-026-r",
+      "number": "026/191-R",
+      "name": "Oricorio (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "026/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-027-r",
+      "number": "027/191-R",
+      "name": "Sizzlipede (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "027/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-028-r",
+      "number": "028/191-R",
+      "name": "Centiskorch (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "028/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-029-r",
+      "number": "029/191-R",
+      "name": "Fuecoco (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "029/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-030-r",
+      "number": "030/191-R",
+      "name": "Crocalor (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "030/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-031-r",
+      "number": "031/191-R",
+      "name": "Skeledirge (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "031/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-032-r",
+      "number": "032/191-R",
+      "name": "Charcadet (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "032/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-033-r",
+      "number": "033/191-R",
+      "name": "Charcadet (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "033/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-034-r",
+      "number": "034/191-R",
+      "name": "Armarouge (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "034/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-035-r",
+      "number": "035/191-R",
+      "name": "Ceruledge (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "035/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-038-r",
+      "number": "038/191-R",
+      "name": "Fogo Corrosão (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "038/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-039-r",
+      "number": "039/191-R",
+      "name": "Tauros de Paldea (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "039/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-040-r",
+      "number": "040/191-R",
+      "name": "Mantine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "040/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-041-r",
+      "number": "041/191-R",
+      "name": "Feebas (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "041/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-043-r",
+      "number": "043/191-R",
+      "name": "Spheal (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "043/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-044-r",
+      "number": "044/191-R",
+      "name": "Sealeo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "044/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-045-r",
+      "number": "045/191-R",
+      "name": "Walrein (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "045/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-046-r",
+      "number": "046/191-R",
+      "name": "Shellos (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "046/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-047-r",
+      "number": "047/191-R",
+      "name": "Cryogonal (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "047/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-049-r",
+      "number": "049/191-R",
+      "name": "Bruxish (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "049/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-050-r",
+      "number": "050/191-R",
+      "name": "Quaxly (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "050/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-051-r",
+      "number": "051/191-R",
+      "name": "Quaxwell (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "051/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-052-r",
+      "number": "052/191-R",
+      "name": "Quaquaval (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "052/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-053-r",
+      "number": "053/191-R",
+      "name": "Cetoddle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "053/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-054-r",
+      "number": "054/191-R",
+      "name": "Cetitan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "054/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-055-r",
+      "number": "055/191-R",
+      "name": "Pacote Férreo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "055/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-056-r",
+      "number": "056/191-R",
+      "name": "Chien-Pao (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "056/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-058-r",
+      "number": "058/191-R",
+      "name": "Magnemite (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "058/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-059-r",
+      "number": "059/191-R",
+      "name": "Magneton (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "059/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-060-r",
+      "number": "060/191-R",
+      "name": "Magnezone (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "060/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-061-r",
+      "number": "061/191-R",
+      "name": "Rotom (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "061/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-062-r",
+      "number": "062/191-R",
+      "name": "Blitzle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "062/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-063-r",
+      "number": "063/191-R",
+      "name": "Zebstrika (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "063/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-064-r",
+      "number": "064/191-R",
+      "name": "Stunfisk (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "064/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-065-r",
+      "number": "065/191-R",
+      "name": "Tapu Koko (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "065/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-066-r",
+      "number": "066/191-R",
+      "name": "Wattrel (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "066/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-067-r",
+      "number": "067/191-R",
+      "name": "Kilowattrel (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "067/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-069-r",
+      "number": "069/191-R",
+      "name": "Miraidon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "069/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-070-r",
+      "number": "070/191-R",
+      "name": "Togepi (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "070/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-071-r",
+      "number": "071/191-R",
+      "name": "Togetic (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "071/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-072-r",
+      "number": "072/191-R",
+      "name": "Togekiss (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "072/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-073-r",
+      "number": "073/191-R",
+      "name": "Marill (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "073/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-074-r",
+      "number": "074/191-R",
+      "name": "Azumarill (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "074/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-075-r",
+      "number": "075/191-R",
+      "name": "Smoochum (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "075/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-077-r",
+      "number": "077/191-R",
+      "name": "Latios (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "077/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-078-r",
+      "number": "078/191-R",
+      "name": "Uxie (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "078/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-079-r",
+      "number": "079/191-R",
+      "name": "Mesprit (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "079/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-080-r",
+      "number": "080/191-R",
+      "name": "Azelf (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "080/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-081-r",
+      "number": "081/191-R",
+      "name": "Sigilyph (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "081/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-082-r",
+      "number": "082/191-R",
+      "name": "Yamask (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "082/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-083-r",
+      "number": "083/191-R",
+      "name": "Cofagrigus (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "083/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-084-r",
+      "number": "084/191-R",
+      "name": "Espurr (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "084/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-085-r",
+      "number": "085/191-R",
+      "name": "Meowstic (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "085/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-087-r",
+      "number": "087/191-R",
+      "name": "Dedenne (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "087/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-088-r",
+      "number": "088/191-R",
+      "name": "Xerneas (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "088/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-089-r",
+      "number": "089/191-R",
+      "name": "Oricorio (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "089/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-090-r",
+      "number": "090/191-R",
+      "name": "Sandygast (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "090/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-092-r",
+      "number": "092/191-R",
+      "name": "Tapu Lele (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "092/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-093-r",
+      "number": "093/191-R",
+      "name": "Indeedee (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "093/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-094-r",
+      "number": "094/191-R",
+      "name": "Flittle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "094/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-095-r",
+      "number": "095/191-R",
+      "name": "Espathra (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "095/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-096-r",
+      "number": "096/191-R",
+      "name": "Juba Sopro (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "096/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-097-r",
+      "number": "097/191-R",
+      "name": "Gimmighoul (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "097/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-098-r",
+      "number": "098/191-R",
+      "name": "Mankey (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "098/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-099-r",
+      "number": "099/191-R",
+      "name": "Primeape (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "099/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-100-r",
+      "number": "100/191-R",
+      "name": "Annihilape (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "100/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-101-r",
+      "number": "101/191-R",
+      "name": "Tauros de Paldea (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "101/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-102-r",
+      "number": "102/191-R",
+      "name": "Phanpy (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "102/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-103-r",
+      "number": "103/191-R",
+      "name": "Donphan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "103/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-104-r",
+      "number": "104/191-R",
+      "name": "Trapinch (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "104/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-105-r",
+      "number": "105/191-R",
+      "name": "Vibrava (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "105/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-107-r",
+      "number": "107/191-R",
+      "name": "Gastrodon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "107/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-108-r",
+      "number": "108/191-R",
+      "name": "Drilbur (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "108/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-109-r",
+      "number": "109/191-R",
+      "name": "Excadrill (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "109/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-110-r",
+      "number": "110/191-R",
+      "name": "Landorus (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "110/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-111-r",
+      "number": "111/191-R",
+      "name": "Passimian (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "111/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-112-r",
+      "number": "112/191-R",
+      "name": "Clobbopus (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "112/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-113-r",
+      "number": "113/191-R",
+      "name": "Grapploct (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "113/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-114-r",
+      "number": "114/191-R",
+      "name": "Glimmet (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "114/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-115-r",
+      "number": "115/191-R",
+      "name": "Glimmora (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "115/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-116-r",
+      "number": "116/191-R",
+      "name": "Koraidon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "116/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-117-r",
+      "number": "117/191-R",
+      "name": "Deino (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "117/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-118-r",
+      "number": "118/191-R",
+      "name": "Zweilous (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "118/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-120-r",
+      "number": "120/191-R",
+      "name": "Shroodle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "120/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-121-r",
+      "number": "121/191-R",
+      "name": "Grafaiai (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "121/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-122-r",
+      "number": "122/191-R",
+      "name": "Diglett de Alola (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "122/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-123-r",
+      "number": "123/191-R",
+      "name": "Dugtrio de Alola (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "123/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-124-r",
+      "number": "124/191-R",
+      "name": "Skarmory (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "124/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-125-r",
+      "number": "125/191-R",
+      "name": "Registeel (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "125/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-126-r",
+      "number": "126/191-R",
+      "name": "Bronzor (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "126/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-127-r",
+      "number": "127/191-R",
+      "name": "Bronzong (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "127/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-128-r",
+      "number": "128/191-R",
+      "name": "Klefki (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "128/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-129-r",
+      "number": "129/191-R",
+      "name": "Duraludon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "129/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-131-r",
+      "number": "131/191-R",
+      "name": "Gholdengo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "131/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-132-r",
+      "number": "132/191-R",
+      "name": "Chifres Férreos (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "132/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-134-r",
+      "number": "134/191-R",
+      "name": "Altaria (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "134/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-135-r",
+      "number": "135/191-R",
+      "name": "Dialga (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "135/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-136-r",
+      "number": "136/191-R",
+      "name": "Palkia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "136/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-137-r",
+      "number": "137/191-R",
+      "name": "Turtonator (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "137/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-138-r",
+      "number": "138/191-R",
+      "name": "Applin (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "138/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-139-r",
+      "number": "139/191-R",
+      "name": "Flapple (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "139/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-140-r",
+      "number": "140/191-R",
+      "name": "Appletun (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "140/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-141-r",
+      "number": "141/191-R",
+      "name": "Eternatus (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "141/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-143-r",
+      "number": "143/191-R",
+      "name": "Eevee (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "143/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-144-r",
+      "number": "144/191-R",
+      "name": "Snorlax (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "144/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-145-r",
+      "number": "145/191-R",
+      "name": "Slakoth (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "145/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-146-r",
+      "number": "146/191-R",
+      "name": "Vigoroth (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "146/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-148-r",
+      "number": "148/191-R",
+      "name": "Swablu (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "148/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-149-r",
+      "number": "149/191-R",
+      "name": "Zangoose (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "149/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-150-r",
+      "number": "150/191-R",
+      "name": "Kecleon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "150/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-151-r",
+      "number": "151/191-R",
+      "name": "Bouffalant (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "151/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-152-r",
+      "number": "152/191-R",
+      "name": "Rufflet (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "152/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-153-r",
+      "number": "153/191-R",
+      "name": "Braviary (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "153/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-154-r",
+      "number": "154/191-R",
+      "name": "Helioptile (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "154/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-155-r",
+      "number": "155/191-R",
+      "name": "Heliolisk (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "155/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-156-r",
+      "number": "156/191-R",
+      "name": "Oranguru (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "156/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-157-r",
+      "number": "157/191-R",
+      "name": "Tandemaus (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "157/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-158-r",
+      "number": "158/191-R",
+      "name": "Maushold (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "158/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-161-r",
+      "number": "161/191-R",
+      "name": "Terapagos (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "161/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-163-r",
+      "number": "163/191-R",
+      "name": "Fruta Babiri (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "163/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-165-r",
+      "number": "165/191-R",
+      "name": "Sininho de Mesa (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "165/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-166-r",
+      "number": "166/191-R",
+      "name": "Varinha Relaxante (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "166/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-167-r",
+      "number": "167/191-R",
+      "name": "Sagacidade do Clemont (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "167/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-168-r",
+      "number": "168/191-R",
+      "name": "Fruta Capicho (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "168/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-169-r",
+      "number": "169/191-R",
+      "name": "Contra-ataque de Alcance (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "169/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-170-r",
+      "number": "170/191-R",
+      "name": "Cyrano (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "170/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-171-r",
+      "number": "171/191-R",
+      "name": "Kit de Investigação (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "171/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-172-r",
+      "number": "172/191-R",
+      "name": "Elixir do Dragão (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "172/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-173-r",
+      "number": "173/191-R",
+      "name": "Drasna (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "173/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-174-r",
+      "number": "174/191-R",
+      "name": "Drayton (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "174/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-175-r",
+      "number": "175/191-R",
+      "name": "Bola de Penumbra (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "175/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-177-r",
+      "number": "177/191-R",
+      "name": "Montanha da Gravidade (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "177/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-178-r",
+      "number": "178/191-R",
+      "name": "Olhar da Jasmine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "178/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-179-r",
+      "number": "179/191-R",
+      "name": "Apelo da Elisia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "179/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-180-r",
+      "number": "180/191-R",
+      "name": "Estádio Animado (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "180/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-181-r",
+      "number": "181/191-R",
+      "name": "Memorando Intrometido (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "181/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-184-r",
+      "number": "184/191-R",
+      "name": "Fruta Passho (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "184/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-187-r",
+      "number": "187/191-R",
+      "name": "Surfista (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "187/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-188-r",
+      "number": "188/191-R",
+      "name": "Máquina Técnica: Fluorita (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "188/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-189-r",
+      "number": "189/191-R",
+      "name": "Orbe Tera (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "189/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "ssp-190-r",
+      "number": "190/191-R",
+      "name": "Tomila (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "190/191",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    }
+  ]
+}
