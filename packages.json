@@ -504,6 +504,13 @@
       "file": "albums/pokemon-jtg-2025-standard-v1.zip",
       "bytes": 143034,
       "sha256": "37fae47c36bfdc32888d10cf1464b888c0d02f152f70dc7b7da40f7bd15e0518"
+    },
+    {
+      "officialId": "pokemon.pre2025.standard",
+      "version": 1,
+      "file": "albums/pokemon-pre-2025-standard-v1.zip",
+      "bytes": 42310,
+      "sha256": "dfba85ef5caf49386f96bb211a312f95a9047fb3165f886581192e28a00a80d7"
     }
   ]
 }
