@@ -490,6 +490,13 @@
       "file": "albums/pokemon-wht-2025-standard-v1.zip",
       "bytes": 99142,
       "sha256": "b9a4db12bf3ee84a2f122d5417a89592903050df7ac4c7de45d50800515bdeab"
+    },
+    {
+      "officialId": "pokemon.dri2025.standard",
+      "version": 1,
+      "file": "albums/pokemon-dri-2025-standard-v1.zip",
+      "bytes": 87490,
+      "sha256": "e9c2f4eaf3a7e90b6b3599c30e31e8cb5398536cf60f3829f1371d84a6d816f7"
     }
   ]
 }

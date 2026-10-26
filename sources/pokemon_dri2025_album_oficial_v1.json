@@ -1,0 +1,3475 @@
+{
+  "officialId": "pokemon.dri2025.standard",
+  "version": 1,
+  "name": "Escarlate e Violeta — Rivais Predestinados",
+  "collection": "Escarlate e Violeta — Rivais Predestinados",
+  "year": "2025",
+  "publisher": "The Pokémon Company / Copag",
+  "collectionType": "cards",
+  "availability": "online",
+  "description": "409 cards: 182 principais, 62 cartas secretas e 165 versões reversas. O sufixo -R identifica o acabamento reverso. Não inclui promocionais, carimbadas ou variantes exclusivas de produtos.",
+  "plannedTotal": 409,
+  "variantCount": 0,
+  "coverAsset": "assets/album_library/imagens/pokemon_rivais_predestinados2025/capa.webp",
+  "libraryCategory": {
+    "id": "pokemon",
+    "name": "Pokémon",
+    "order": 80
+  },
+  "sections": [
+    {
+      "id": "principal",
+      "name": "Coleção principal",
+      "imageAsset": "assets/album_library/imagens/pokemon_rivais_predestinados2025/capa.webp"
+    },
+    {
+      "id": "secretas",
+      "name": "Cartas secretas",
+      "imageAsset": "assets/album_library/imagens/pokemon_rivais_predestinados2025/capa.webp"
+    },
+    {
+      "id": "reversas",
+      "name": "Reversas",
+      "imageAsset": "assets/album_library/imagens/pokemon_rivais_predestinados2025/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "dri-001",
+      "number": "001/182",
+      "name": "Pinsir do Ethan",
+      "sectionId": "principal",
+      "printedNumber": "001/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-002",
+      "number": "002/182",
+      "name": "Yanma",
+      "sectionId": "principal",
+      "printedNumber": "002/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-003",
+      "number": "003/182",
+      "name": "Yanmega ex",
+      "sectionId": "principal",
+      "printedNumber": "003/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-004",
+      "number": "004/182",
+      "name": "Pineco",
+      "sectionId": "principal",
+      "printedNumber": "004/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-005",
+      "number": "005/182",
+      "name": "Shroomish",
+      "sectionId": "principal",
+      "printedNumber": "005/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-006",
+      "number": "006/182",
+      "name": "Breloom",
+      "sectionId": "principal",
+      "printedNumber": "006/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-007",
+      "number": "007/182",
+      "name": "Roselia da Cíntia",
+      "sectionId": "principal",
+      "printedNumber": "007/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-008",
+      "number": "008/182",
+      "name": "Roserade da Cíntia",
+      "sectionId": "principal",
+      "printedNumber": "008/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-009",
+      "number": "009/182",
+      "name": "Rotom Corte",
+      "sectionId": "principal",
+      "printedNumber": "009/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-010",
+      "number": "010/182",
+      "name": "Shaymin",
+      "sectionId": "principal",
+      "printedNumber": "010/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-011",
+      "number": "011/182",
+      "name": "Dwebble",
+      "sectionId": "principal",
+      "printedNumber": "011/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-012",
+      "number": "012/182",
+      "name": "Crustle",
+      "sectionId": "principal",
+      "printedNumber": "012/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-013",
+      "number": "013/182",
+      "name": "Fomantis",
+      "sectionId": "principal",
+      "printedNumber": "013/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-014",
+      "number": "014/182",
+      "name": "Lurantis",
+      "sectionId": "principal",
+      "printedNumber": "014/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-015",
+      "number": "015/182",
+      "name": "Blipbug da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "015/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-016",
+      "number": "016/182",
+      "name": "Applin",
+      "sectionId": "principal",
+      "printedNumber": "016/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-017",
+      "number": "017/182",
+      "name": "Dipplin",
+      "sectionId": "principal",
+      "printedNumber": "017/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-018",
+      "number": "018/182",
+      "name": "Hydrapple",
+      "sectionId": "principal",
+      "printedNumber": "018/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-019",
+      "number": "019/182",
+      "name": "Tarountula da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "019/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-020",
+      "number": "020/182",
+      "name": "Spidops da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "020/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-021",
+      "number": "021/182",
+      "name": "Smoliv",
+      "sectionId": "principal",
+      "printedNumber": "021/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-022",
+      "number": "022/182",
+      "name": "Dolliv",
+      "sectionId": "principal",
+      "printedNumber": "022/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-023",
+      "number": "023/182",
+      "name": "Arboliva ex",
+      "sectionId": "principal",
+      "printedNumber": "023/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-024",
+      "number": "024/182",
+      "name": "Rellor",
+      "sectionId": "principal",
+      "printedNumber": "024/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-025",
+      "number": "025/182",
+      "name": "Rabsca ex",
+      "sectionId": "principal",
+      "printedNumber": "025/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-026",
+      "number": "026/182",
+      "name": "Ogerpon Máscara Turquesa",
+      "sectionId": "principal",
+      "printedNumber": "026/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-027",
+      "number": "027/182",
+      "name": "Growlithe",
+      "sectionId": "principal",
+      "printedNumber": "027/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-028",
+      "number": "028/182",
+      "name": "Arcanine",
+      "sectionId": "principal",
+      "printedNumber": "028/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-029",
+      "number": "029/182",
+      "name": "Ponyta",
+      "sectionId": "principal",
+      "printedNumber": "029/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-030",
+      "number": "030/182",
+      "name": "Rapidash",
+      "sectionId": "principal",
+      "printedNumber": "030/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-031",
+      "number": "031/182",
+      "name": "Moltres ex da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "031/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-032",
+      "number": "032/182",
+      "name": "Cyndaquil do Ethan",
+      "sectionId": "principal",
+      "printedNumber": "032/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-033",
+      "number": "033/182",
+      "name": "Quilava do Ethan",
+      "sectionId": "principal",
+      "printedNumber": "033/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-034",
+      "number": "034/182",
+      "name": "Typhlosion do Ethan",
+      "sectionId": "principal",
+      "printedNumber": "034/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-035",
+      "number": "035/182",
+      "name": "Slugma do Ethan",
+      "sectionId": "principal",
+      "printedNumber": "035/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-036",
+      "number": "036/182",
+      "name": "Magcargo do Ethan",
+      "sectionId": "principal",
+      "printedNumber": "036/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-037",
+      "number": "037/182",
+      "name": "Houndour da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "037/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-038",
+      "number": "038/182",
+      "name": "Houndoom da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "038/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-039",
+      "number": "039/182",
+      "name": "Ho-Oh ex do Ethan",
+      "sectionId": "principal",
+      "printedNumber": "039/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-040",
+      "number": "040/182",
+      "name": "Torchic",
+      "sectionId": "principal",
+      "printedNumber": "040/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-041",
+      "number": "041/182",
+      "name": "Combusken",
+      "sectionId": "principal",
+      "printedNumber": "041/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-042",
+      "number": "042/182",
+      "name": "Blaziken",
+      "sectionId": "principal",
+      "printedNumber": "042/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-043",
+      "number": "043/182",
+      "name": "Heat Rotom",
+      "sectionId": "principal",
+      "printedNumber": "043/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-044",
+      "number": "044/182",
+      "name": "Ogerpon Máscara Fornalha",
+      "sectionId": "principal",
+      "printedNumber": "044/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-045",
+      "number": "045/182",
+      "name": "Psyduck da Misty",
+      "sectionId": "principal",
+      "printedNumber": "045/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-046",
+      "number": "046/182",
+      "name": "Staryu da Misty",
+      "sectionId": "principal",
+      "printedNumber": "046/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-047",
+      "number": "047/182",
+      "name": "Starmie da Misty",
+      "sectionId": "principal",
+      "printedNumber": "047/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-048",
+      "number": "048/182",
+      "name": "Magikarp da Misty",
+      "sectionId": "principal",
+      "printedNumber": "048/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-049",
+      "number": "049/182",
+      "name": "Gyarados da Misty",
+      "sectionId": "principal",
+      "printedNumber": "049/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-050",
+      "number": "050/182",
+      "name": "Lapras da Misty",
+      "sectionId": "principal",
+      "printedNumber": "050/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-051",
+      "number": "051/182",
+      "name": "Articuno da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "051/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-052",
+      "number": "052/182",
+      "name": "Feebas da Cíntia",
+      "sectionId": "principal",
+      "printedNumber": "052/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-053",
+      "number": "053/182",
+      "name": "Milotic da Cíntia",
+      "sectionId": "principal",
+      "printedNumber": "053/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-054",
+      "number": "054/182",
+      "name": "Clamperl",
+      "sectionId": "principal",
+      "printedNumber": "054/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-055",
+      "number": "055/182",
+      "name": "Huntail",
+      "sectionId": "principal",
+      "printedNumber": "055/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-056",
+      "number": "056/182",
+      "name": "Gorebyss",
+      "sectionId": "principal",
+      "printedNumber": "056/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-057",
+      "number": "057/182",
+      "name": "Buizel",
+      "sectionId": "principal",
+      "printedNumber": "057/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-058",
+      "number": "058/182",
+      "name": "Floatzel",
+      "sectionId": "principal",
+      "printedNumber": "058/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-059",
+      "number": "059/182",
+      "name": "Snover",
+      "sectionId": "principal",
+      "printedNumber": "059/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-060",
+      "number": "060/182",
+      "name": "Abomasnow",
+      "sectionId": "principal",
+      "printedNumber": "060/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-061",
+      "number": "061/182",
+      "name": "Wash Rotom",
+      "sectionId": "principal",
+      "printedNumber": "061/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-062",
+      "number": "062/182",
+      "name": "Arrokuda",
+      "sectionId": "principal",
+      "printedNumber": "062/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-063",
+      "number": "063/182",
+      "name": "Barraskewda",
+      "sectionId": "principal",
+      "printedNumber": "063/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-064",
+      "number": "064/182",
+      "name": "Cetoddle",
+      "sectionId": "principal",
+      "printedNumber": "064/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-065",
+      "number": "065/182",
+      "name": "Cetitan ex",
+      "sectionId": "principal",
+      "printedNumber": "065/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-066",
+      "number": "066/182",
+      "name": "Dondozo ex",
+      "sectionId": "principal",
+      "printedNumber": "066/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-067",
+      "number": "067/182",
+      "name": "Ogerpon Máscara Nascente",
+      "sectionId": "principal",
+      "printedNumber": "067/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-068",
+      "number": "068/182",
+      "name": "Electabuzz",
+      "sectionId": "principal",
+      "printedNumber": "068/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-069",
+      "number": "069/182",
+      "name": "Electivire ex",
+      "sectionId": "principal",
+      "printedNumber": "069/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-070",
+      "number": "070/182",
+      "name": "Zapdos da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "070/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-071",
+      "number": "071/182",
+      "name": "Pichu do Ethan",
+      "sectionId": "principal",
+      "printedNumber": "071/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-072",
+      "number": "072/182",
+      "name": "Mareep da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "072/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-073",
+      "number": "073/182",
+      "name": "Flaaffy da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "073/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-074",
+      "number": "074/182",
+      "name": "Ampharos da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "074/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-075",
+      "number": "075/182",
+      "name": "Electrike",
+      "sectionId": "principal",
+      "printedNumber": "075/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-076",
+      "number": "076/182",
+      "name": "Manectric",
+      "sectionId": "principal",
+      "printedNumber": "076/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-077",
+      "number": "077/182",
+      "name": "Rotom",
+      "sectionId": "principal",
+      "printedNumber": "077/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-078",
+      "number": "078/182",
+      "name": "Zeraora",
+      "sectionId": "principal",
+      "printedNumber": "078/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-079",
+      "number": "079/182",
+      "name": "Drowzee da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "079/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-080",
+      "number": "080/182",
+      "name": "Hypno da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "080/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-081",
+      "number": "081/182",
+      "name": "Mewtwo ex da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "081/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-082",
+      "number": "082/182",
+      "name": "Wobbuffet da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "082/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-083",
+      "number": "083/182",
+      "name": "Baltoy do Steven",
+      "sectionId": "principal",
+      "printedNumber": "083/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-084",
+      "number": "084/182",
+      "name": "Claydol do Steven",
+      "sectionId": "principal",
+      "printedNumber": "084/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-085",
+      "number": "085/182",
+      "name": "Chingling da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "085/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-086",
+      "number": "086/182",
+      "name": "Carbink do Steven",
+      "sectionId": "principal",
+      "printedNumber": "086/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-087",
+      "number": "087/182",
+      "name": "Mimikyu da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "087/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-088",
+      "number": "088/182",
+      "name": "Dottler da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "088/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-089",
+      "number": "089/182",
+      "name": "Orbeetle da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "089/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-090",
+      "number": "090/182",
+      "name": "Mankey",
+      "sectionId": "principal",
+      "printedNumber": "090/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-091",
+      "number": "091/182",
+      "name": "Primeape",
+      "sectionId": "principal",
+      "printedNumber": "091/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-092",
+      "number": "092/182",
+      "name": "Annihilape",
+      "sectionId": "principal",
+      "printedNumber": "092/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-093",
+      "number": "093/182",
+      "name": "Sudowoodo do Ethan",
+      "sectionId": "principal",
+      "printedNumber": "093/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-094",
+      "number": "094/182",
+      "name": "Larvitar da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "094/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-095",
+      "number": "095/182",
+      "name": "Pupitar da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "095/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-096",
+      "number": "096/182",
+      "name": "Tyranitar da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "096/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-097",
+      "number": "097/182",
+      "name": "Nosepass",
+      "sectionId": "principal",
+      "printedNumber": "097/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-098",
+      "number": "098/182",
+      "name": "Probopass",
+      "sectionId": "principal",
+      "printedNumber": "098/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-099",
+      "number": "099/182",
+      "name": "Meditite",
+      "sectionId": "principal",
+      "printedNumber": "099/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-100",
+      "number": "100/182",
+      "name": "Medicham",
+      "sectionId": "principal",
+      "printedNumber": "100/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-101",
+      "number": "101/182",
+      "name": "Regirock ex",
+      "sectionId": "principal",
+      "printedNumber": "101/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-102",
+      "number": "102/182",
+      "name": "Gible da Cíntia",
+      "sectionId": "principal",
+      "printedNumber": "102/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-103",
+      "number": "103/182",
+      "name": "Gabite da Cíntia",
+      "sectionId": "principal",
+      "printedNumber": "103/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-104",
+      "number": "104/182",
+      "name": "Garchomp ex da Cíntia",
+      "sectionId": "principal",
+      "printedNumber": "104/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-105",
+      "number": "105/182",
+      "name": "Hippopotas",
+      "sectionId": "principal",
+      "printedNumber": "105/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-106",
+      "number": "106/182",
+      "name": "Hippowdon",
+      "sectionId": "principal",
+      "printedNumber": "106/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-107",
+      "number": "107/182",
+      "name": "Mudbray",
+      "sectionId": "principal",
+      "printedNumber": "107/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-108",
+      "number": "108/182",
+      "name": "Mudsdale",
+      "sectionId": "principal",
+      "printedNumber": "108/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-109",
+      "number": "109/182",
+      "name": "Toedscool do Arven",
+      "sectionId": "principal",
+      "printedNumber": "109/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-110",
+      "number": "110/182",
+      "name": "Toedscruel do Arven",
+      "sectionId": "principal",
+      "printedNumber": "110/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-111",
+      "number": "111/182",
+      "name": "Ogerpon Máscara Alicerce",
+      "sectionId": "principal",
+      "printedNumber": "111/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-112",
+      "number": "112/182",
+      "name": "Ekans da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "112/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-113",
+      "number": "113/182",
+      "name": "Arbok da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "113/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-114",
+      "number": "114/182",
+      "name": "Nidoran♀ da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "114/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-115",
+      "number": "115/182",
+      "name": "Nidorina da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "115/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-116",
+      "number": "116/182",
+      "name": "Nidoqueen da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "116/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-117",
+      "number": "117/182",
+      "name": "Nidoran♂ da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "117/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-118",
+      "number": "118/182",
+      "name": "Nidorino da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "118/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-119",
+      "number": "119/182",
+      "name": "Nidoking ex da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "119/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-120",
+      "number": "120/182",
+      "name": "Zubat da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "120/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-121",
+      "number": "121/182",
+      "name": "Golbat da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "121/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-122",
+      "number": "122/182",
+      "name": "Crobat ex da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "122/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-123",
+      "number": "123/182",
+      "name": "Grimer da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "123/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-124",
+      "number": "124/182",
+      "name": "Muk da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "124/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-125",
+      "number": "125/182",
+      "name": "Koffing da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "125/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-126",
+      "number": "126/182",
+      "name": "Weezing da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "126/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-127",
+      "number": "127/182",
+      "name": "Murkrow da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "127/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-128",
+      "number": "128/182",
+      "name": "Sneasel da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "128/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-129",
+      "number": "129/182",
+      "name": "Spiritomb da Cíntia",
+      "sectionId": "principal",
+      "printedNumber": "129/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-130",
+      "number": "130/182",
+      "name": "Purrloin da Marine",
+      "sectionId": "principal",
+      "printedNumber": "130/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-131",
+      "number": "131/182",
+      "name": "Liepard da Marine",
+      "sectionId": "principal",
+      "printedNumber": "131/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-132",
+      "number": "132/182",
+      "name": "Scraggy da Marine",
+      "sectionId": "principal",
+      "printedNumber": "132/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-133",
+      "number": "133/182",
+      "name": "Scrafty da Marine",
+      "sectionId": "principal",
+      "printedNumber": "133/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-134",
+      "number": "134/182",
+      "name": "Impidimp da Marine",
+      "sectionId": "principal",
+      "printedNumber": "134/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-135",
+      "number": "135/182",
+      "name": "Morgrem da Marine",
+      "sectionId": "principal",
+      "printedNumber": "135/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-136",
+      "number": "136/182",
+      "name": "Grimmsnarl ex da Marine",
+      "sectionId": "principal",
+      "printedNumber": "136/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-137",
+      "number": "137/182",
+      "name": "Morpeko da Marine",
+      "sectionId": "principal",
+      "printedNumber": "137/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-138",
+      "number": "138/182",
+      "name": "Maschiff do Arven",
+      "sectionId": "principal",
+      "printedNumber": "138/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-139",
+      "number": "139/182",
+      "name": "Mabosstiff ex do Arven",
+      "sectionId": "principal",
+      "printedNumber": "139/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-140",
+      "number": "140/182",
+      "name": "Forretress",
+      "sectionId": "principal",
+      "printedNumber": "140/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-141",
+      "number": "141/182",
+      "name": "Skarmory",
+      "sectionId": "principal",
+      "printedNumber": "141/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-142",
+      "number": "142/182",
+      "name": "Skarmory do Steven",
+      "sectionId": "principal",
+      "printedNumber": "142/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-143",
+      "number": "143/182",
+      "name": "Beldum do Steven",
+      "sectionId": "principal",
+      "printedNumber": "143/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-144",
+      "number": "144/182",
+      "name": "Metang do Steven",
+      "sectionId": "principal",
+      "printedNumber": "144/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-145",
+      "number": "145/182",
+      "name": "Metagross ex do Steven",
+      "sectionId": "principal",
+      "printedNumber": "145/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-146",
+      "number": "146/182",
+      "name": "Zamazenta",
+      "sectionId": "principal",
+      "printedNumber": "146/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-147",
+      "number": "147/182",
+      "name": "Rattata da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "147/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-148",
+      "number": "148/182",
+      "name": "Raticate da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "148/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-149",
+      "number": "149/182",
+      "name": "Meowth da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "149/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-150",
+      "number": "150/182",
+      "name": "Persian ex da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "150/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-151",
+      "number": "151/182",
+      "name": "Kangaskhan",
+      "sectionId": "principal",
+      "printedNumber": "151/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-152",
+      "number": "152/182",
+      "name": "Tauros",
+      "sectionId": "principal",
+      "printedNumber": "152/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-153",
+      "number": "153/182",
+      "name": "Porygon da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "153/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-154",
+      "number": "154/182",
+      "name": "Porygon2 da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "154/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-155",
+      "number": "155/182",
+      "name": "Porygon-Z da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "155/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-156",
+      "number": "156/182",
+      "name": "Taillow",
+      "sectionId": "principal",
+      "printedNumber": "156/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-157",
+      "number": "157/182",
+      "name": "Swellow",
+      "sectionId": "principal",
+      "printedNumber": "157/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-158",
+      "number": "158/182",
+      "name": "Skwovet do Arven",
+      "sectionId": "principal",
+      "printedNumber": "158/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-159",
+      "number": "159/182",
+      "name": "Greedent do Arven",
+      "sectionId": "principal",
+      "printedNumber": "159/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-160",
+      "number": "160/182",
+      "name": "Squawkabilly",
+      "sectionId": "principal",
+      "printedNumber": "160/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-161",
+      "number": "161/182",
+      "name": "Sanduíche do Arven",
+      "sectionId": "principal",
+      "printedNumber": "161/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-162",
+      "number": "162/182",
+      "name": "Peso de Poder da Cíntia",
+      "sectionId": "principal",
+      "printedNumber": "162/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-163",
+      "number": "163/182",
+      "name": "Hype da Emcee",
+      "sectionId": "principal",
+      "printedNumber": "163/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-164",
+      "number": "164/182",
+      "name": "Reciclador de Energia",
+      "sectionId": "principal",
+      "printedNumber": "164/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-165",
+      "number": "165/182",
+      "name": "Aventura do Ethan",
+      "sectionId": "principal",
+      "printedNumber": "165/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-166",
+      "number": "166/182",
+      "name": "Caverna de Granito",
+      "sectionId": "principal",
+      "printedNumber": "166/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-167",
+      "number": "167/182",
+      "name": "Juiz",
+      "sectionId": "principal",
+      "printedNumber": "167/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-168",
+      "number": "168/182",
+      "name": "Cinza Sagrada",
+      "sectionId": "principal",
+      "printedNumber": "168/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-169",
+      "number": "169/182",
+      "name": "Ginásio de Spikemuth",
+      "sectionId": "principal",
+      "printedNumber": "169/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-170",
+      "number": "170/182",
+      "name": "Apollo da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "170/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-171",
+      "number": "171/182",
+      "name": "Athena da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "171/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-172",
+      "number": "172/182",
+      "name": "Azucrinabot da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "172/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-173",
+      "number": "173/182",
+      "name": "Fábrica da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "173/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-174",
+      "number": "174/182",
+      "name": "Giovanni da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "174/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-175",
+      "number": "175/182",
+      "name": "Grande Bola da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "175/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-176",
+      "number": "176/182",
+      "name": "Petrel da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "176/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-177",
+      "number": "177/182",
+      "name": "Próton da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "177/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-178",
+      "number": "178/182",
+      "name": "Transmissor da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "178/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-179",
+      "number": "179/182",
+      "name": "Bomba de Risco da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "179/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-180",
+      "number": "180/182",
+      "name": "Torre de Vigia da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "180/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-181",
+      "number": "181/182",
+      "name": "Máquina de MT",
+      "sectionId": "principal",
+      "printedNumber": "181/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-182",
+      "number": "182/182",
+      "name": "Energia da Equipe Rocket",
+      "sectionId": "principal",
+      "printedNumber": "182/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-183",
+      "number": "183/182",
+      "name": "Yanma",
+      "sectionId": "secretas",
+      "printedNumber": "183/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-184",
+      "number": "184/182",
+      "name": "Roserade da Cíntia",
+      "sectionId": "secretas",
+      "printedNumber": "184/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-185",
+      "number": "185/182",
+      "name": "Shaymin",
+      "sectionId": "secretas",
+      "printedNumber": "185/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-186",
+      "number": "186/182",
+      "name": "Crustle",
+      "sectionId": "secretas",
+      "printedNumber": "186/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-187",
+      "number": "187/182",
+      "name": "Spidops da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "187/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-188",
+      "number": "188/182",
+      "name": "Hydrapple",
+      "sectionId": "secretas",
+      "printedNumber": "188/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-189",
+      "number": "189/182",
+      "name": "Rapidash",
+      "sectionId": "secretas",
+      "printedNumber": "189/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-190",
+      "number": "190/182",
+      "name": "Typhlosion do Ethan",
+      "sectionId": "secretas",
+      "printedNumber": "190/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-191",
+      "number": "191/182",
+      "name": "Houndoom da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "191/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-192",
+      "number": "192/182",
+      "name": "Blaziken",
+      "sectionId": "secretas",
+      "printedNumber": "192/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-193",
+      "number": "193/182",
+      "name": "Psyduck da Misty",
+      "sectionId": "secretas",
+      "printedNumber": "193/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-194",
+      "number": "194/182",
+      "name": "Lapras da Misty",
+      "sectionId": "secretas",
+      "printedNumber": "194/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-195",
+      "number": "195/182",
+      "name": "Clamperl",
+      "sectionId": "secretas",
+      "printedNumber": "195/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-196",
+      "number": "196/182",
+      "name": "Electrike",
+      "sectionId": "secretas",
+      "printedNumber": "196/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-197",
+      "number": "197/182",
+      "name": "Rotom",
+      "sectionId": "secretas",
+      "printedNumber": "197/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-198",
+      "number": "198/182",
+      "name": "Orbeetle da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "198/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-199",
+      "number": "199/182",
+      "name": "Weezing da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "199/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-200",
+      "number": "200/182",
+      "name": "Murkrow da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "200/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-201",
+      "number": "201/182",
+      "name": "Zamazenta",
+      "sectionId": "secretas",
+      "printedNumber": "201/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-202",
+      "number": "202/182",
+      "name": "Raticate da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "202/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-203",
+      "number": "203/182",
+      "name": "Meowth da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "203/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-204",
+      "number": "204/182",
+      "name": "Kangaskhan",
+      "sectionId": "secretas",
+      "printedNumber": "204/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-205",
+      "number": "205/182",
+      "name": "Greedent do Arven",
+      "sectionId": "secretas",
+      "printedNumber": "205/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-206",
+      "number": "206/182",
+      "name": "Yanmega ex",
+      "sectionId": "secretas",
+      "printedNumber": "206/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-207",
+      "number": "207/182",
+      "name": "Arboliva ex",
+      "sectionId": "secretas",
+      "printedNumber": "207/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-208",
+      "number": "208/182",
+      "name": "Moltres ex da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "208/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-209",
+      "number": "209/182",
+      "name": "Ho-Oh ex do Ethan",
+      "sectionId": "secretas",
+      "printedNumber": "209/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-210",
+      "number": "210/182",
+      "name": "Cetitan ex",
+      "sectionId": "secretas",
+      "printedNumber": "210/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-211",
+      "number": "211/182",
+      "name": "Dondozo ex",
+      "sectionId": "secretas",
+      "printedNumber": "211/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-212",
+      "number": "212/182",
+      "name": "Electivire ex",
+      "sectionId": "secretas",
+      "printedNumber": "212/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-213",
+      "number": "213/182",
+      "name": "Mewtwo ex da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "213/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-214",
+      "number": "214/182",
+      "name": "Regirock ex",
+      "sectionId": "secretas",
+      "printedNumber": "214/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-215",
+      "number": "215/182",
+      "name": "Garchomp ex da Cíntia",
+      "sectionId": "secretas",
+      "printedNumber": "215/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-216",
+      "number": "216/182",
+      "name": "Nidoking ex da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "216/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-217",
+      "number": "217/182",
+      "name": "Crobat ex da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "217/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-218",
+      "number": "218/182",
+      "name": "Mabosstiff ex do Arven",
+      "sectionId": "secretas",
+      "printedNumber": "218/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-219",
+      "number": "219/182",
+      "name": "Persian ex da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "219/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-220",
+      "number": "220/182",
+      "name": "Hype da Emcee",
+      "sectionId": "secretas",
+      "printedNumber": "220/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-221",
+      "number": "221/182",
+      "name": "Aventura do Ethan",
+      "sectionId": "secretas",
+      "printedNumber": "221/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-222",
+      "number": "222/182",
+      "name": "Juiz",
+      "sectionId": "secretas",
+      "printedNumber": "222/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-223",
+      "number": "223/182",
+      "name": "Apollo da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "223/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-224",
+      "number": "224/182",
+      "name": "Athena da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "224/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-225",
+      "number": "225/182",
+      "name": "Giovanni da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "225/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-226",
+      "number": "226/182",
+      "name": "Petrel da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "226/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-227",
+      "number": "227/182",
+      "name": "Próton da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "227/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-228",
+      "number": "228/182",
+      "name": "Yanmega ex",
+      "sectionId": "secretas",
+      "printedNumber": "228/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-229",
+      "number": "229/182",
+      "name": "Moltres ex da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "229/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-230",
+      "number": "230/182",
+      "name": "Ho-Oh ex do Ethan",
+      "sectionId": "secretas",
+      "printedNumber": "230/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-231",
+      "number": "231/182",
+      "name": "Mewtwo ex da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "231/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-232",
+      "number": "232/182",
+      "name": "Garchomp ex da Cíntia",
+      "sectionId": "secretas",
+      "printedNumber": "232/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-233",
+      "number": "233/182",
+      "name": "Nidoking ex da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "233/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-234",
+      "number": "234/182",
+      "name": "Crobat ex da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "234/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-235",
+      "number": "235/182",
+      "name": "Mabosstiff ex do Arven",
+      "sectionId": "secretas",
+      "printedNumber": "235/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-236",
+      "number": "236/182",
+      "name": "Aventura do Ethan",
+      "sectionId": "secretas",
+      "printedNumber": "236/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-237",
+      "number": "237/182",
+      "name": "Athena da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "237/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-238",
+      "number": "238/182",
+      "name": "Giovanni da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "238/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-239",
+      "number": "239/182",
+      "name": "Ho-Oh ex do Ethan",
+      "sectionId": "secretas",
+      "printedNumber": "239/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-240",
+      "number": "240/182",
+      "name": "Mewtwo ex da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "240/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-241",
+      "number": "241/182",
+      "name": "Garchomp ex da Cíntia",
+      "sectionId": "secretas",
+      "printedNumber": "241/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-242",
+      "number": "242/182",
+      "name": "Crobat ex da Equipe Rocket",
+      "sectionId": "secretas",
+      "printedNumber": "242/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-243",
+      "number": "243/182",
+      "name": "Torre de Interferência",
+      "sectionId": "secretas",
+      "printedNumber": "243/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-244",
+      "number": "244/182",
+      "name": "Levincia",
+      "sectionId": "secretas",
+      "printedNumber": "244/182",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "dri-001-r",
+      "number": "001/182-R",
+      "name": "Pinsir do Ethan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "001/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-002-r",
+      "number": "002/182-R",
+      "name": "Yanma (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "002/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-004-r",
+      "number": "004/182-R",
+      "name": "Pineco (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "004/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-005-r",
+      "number": "005/182-R",
+      "name": "Shroomish (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "005/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-006-r",
+      "number": "006/182-R",
+      "name": "Breloom (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "006/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-007-r",
+      "number": "007/182-R",
+      "name": "Roselia da Cíntia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "007/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-008-r",
+      "number": "008/182-R",
+      "name": "Roserade da Cíntia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "008/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-009-r",
+      "number": "009/182-R",
+      "name": "Rotom Corte (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "009/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-010-r",
+      "number": "010/182-R",
+      "name": "Shaymin (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "010/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-011-r",
+      "number": "011/182-R",
+      "name": "Dwebble (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "011/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-012-r",
+      "number": "012/182-R",
+      "name": "Crustle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "012/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-013-r",
+      "number": "013/182-R",
+      "name": "Fomantis (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "013/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-014-r",
+      "number": "014/182-R",
+      "name": "Lurantis (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "014/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-015-r",
+      "number": "015/182-R",
+      "name": "Blipbug da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "015/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-016-r",
+      "number": "016/182-R",
+      "name": "Applin (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "016/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-017-r",
+      "number": "017/182-R",
+      "name": "Dipplin (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "017/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-018-r",
+      "number": "018/182-R",
+      "name": "Hydrapple (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "018/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-019-r",
+      "number": "019/182-R",
+      "name": "Tarountula da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "019/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-020-r",
+      "number": "020/182-R",
+      "name": "Spidops da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "020/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-021-r",
+      "number": "021/182-R",
+      "name": "Smoliv (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "021/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-022-r",
+      "number": "022/182-R",
+      "name": "Dolliv (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "022/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-024-r",
+      "number": "024/182-R",
+      "name": "Rellor (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "024/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-026-r",
+      "number": "026/182-R",
+      "name": "Ogerpon Máscara Turquesa (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "026/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-027-r",
+      "number": "027/182-R",
+      "name": "Growlithe (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "027/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-028-r",
+      "number": "028/182-R",
+      "name": "Arcanine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "028/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-029-r",
+      "number": "029/182-R",
+      "name": "Ponyta (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "029/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-030-r",
+      "number": "030/182-R",
+      "name": "Rapidash (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "030/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-032-r",
+      "number": "032/182-R",
+      "name": "Cyndaquil do Ethan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "032/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-033-r",
+      "number": "033/182-R",
+      "name": "Quilava do Ethan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "033/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-034-r",
+      "number": "034/182-R",
+      "name": "Typhlosion do Ethan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "034/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-035-r",
+      "number": "035/182-R",
+      "name": "Slugma do Ethan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "035/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-036-r",
+      "number": "036/182-R",
+      "name": "Magcargo do Ethan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "036/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-037-r",
+      "number": "037/182-R",
+      "name": "Houndour da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "037/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-038-r",
+      "number": "038/182-R",
+      "name": "Houndoom da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "038/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-040-r",
+      "number": "040/182-R",
+      "name": "Torchic (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "040/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-041-r",
+      "number": "041/182-R",
+      "name": "Combusken (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "041/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-042-r",
+      "number": "042/182-R",
+      "name": "Blaziken (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "042/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-043-r",
+      "number": "043/182-R",
+      "name": "Heat Rotom (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "043/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-044-r",
+      "number": "044/182-R",
+      "name": "Ogerpon Máscara Fornalha (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "044/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-045-r",
+      "number": "045/182-R",
+      "name": "Psyduck da Misty (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "045/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-046-r",
+      "number": "046/182-R",
+      "name": "Staryu da Misty (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "046/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-047-r",
+      "number": "047/182-R",
+      "name": "Starmie da Misty (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "047/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-048-r",
+      "number": "048/182-R",
+      "name": "Magikarp da Misty (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "048/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-049-r",
+      "number": "049/182-R",
+      "name": "Gyarados da Misty (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "049/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-050-r",
+      "number": "050/182-R",
+      "name": "Lapras da Misty (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "050/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-051-r",
+      "number": "051/182-R",
+      "name": "Articuno da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "051/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-052-r",
+      "number": "052/182-R",
+      "name": "Feebas da Cíntia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "052/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-053-r",
+      "number": "053/182-R",
+      "name": "Milotic da Cíntia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "053/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-054-r",
+      "number": "054/182-R",
+      "name": "Clamperl (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "054/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-055-r",
+      "number": "055/182-R",
+      "name": "Huntail (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "055/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-056-r",
+      "number": "056/182-R",
+      "name": "Gorebyss (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "056/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-057-r",
+      "number": "057/182-R",
+      "name": "Buizel (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "057/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-058-r",
+      "number": "058/182-R",
+      "name": "Floatzel (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "058/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-059-r",
+      "number": "059/182-R",
+      "name": "Snover (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "059/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-060-r",
+      "number": "060/182-R",
+      "name": "Abomasnow (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "060/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-061-r",
+      "number": "061/182-R",
+      "name": "Wash Rotom (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "061/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-062-r",
+      "number": "062/182-R",
+      "name": "Arrokuda (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "062/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-063-r",
+      "number": "063/182-R",
+      "name": "Barraskewda (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "063/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-064-r",
+      "number": "064/182-R",
+      "name": "Cetoddle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "064/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-067-r",
+      "number": "067/182-R",
+      "name": "Ogerpon Máscara Nascente (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "067/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-068-r",
+      "number": "068/182-R",
+      "name": "Electabuzz (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "068/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-070-r",
+      "number": "070/182-R",
+      "name": "Zapdos da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "070/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-071-r",
+      "number": "071/182-R",
+      "name": "Pichu do Ethan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "071/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-072-r",
+      "number": "072/182-R",
+      "name": "Mareep da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "072/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-073-r",
+      "number": "073/182-R",
+      "name": "Flaaffy da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "073/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-074-r",
+      "number": "074/182-R",
+      "name": "Ampharos da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "074/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-075-r",
+      "number": "075/182-R",
+      "name": "Electrike (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "075/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-076-r",
+      "number": "076/182-R",
+      "name": "Manectric (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "076/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-077-r",
+      "number": "077/182-R",
+      "name": "Rotom (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "077/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-078-r",
+      "number": "078/182-R",
+      "name": "Zeraora (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "078/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-079-r",
+      "number": "079/182-R",
+      "name": "Drowzee da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "079/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-080-r",
+      "number": "080/182-R",
+      "name": "Hypno da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "080/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-082-r",
+      "number": "082/182-R",
+      "name": "Wobbuffet da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "082/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-083-r",
+      "number": "083/182-R",
+      "name": "Baltoy do Steven (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "083/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-084-r",
+      "number": "084/182-R",
+      "name": "Claydol do Steven (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "084/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-085-r",
+      "number": "085/182-R",
+      "name": "Chingling da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "085/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-086-r",
+      "number": "086/182-R",
+      "name": "Carbink do Steven (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "086/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-087-r",
+      "number": "087/182-R",
+      "name": "Mimikyu da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "087/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-088-r",
+      "number": "088/182-R",
+      "name": "Dottler da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "088/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-089-r",
+      "number": "089/182-R",
+      "name": "Orbeetle da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "089/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-090-r",
+      "number": "090/182-R",
+      "name": "Mankey (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "090/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-091-r",
+      "number": "091/182-R",
+      "name": "Primeape (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "091/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-092-r",
+      "number": "092/182-R",
+      "name": "Annihilape (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "092/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-093-r",
+      "number": "093/182-R",
+      "name": "Sudowoodo do Ethan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "093/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-094-r",
+      "number": "094/182-R",
+      "name": "Larvitar da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "094/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-095-r",
+      "number": "095/182-R",
+      "name": "Pupitar da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "095/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-096-r",
+      "number": "096/182-R",
+      "name": "Tyranitar da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "096/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-097-r",
+      "number": "097/182-R",
+      "name": "Nosepass (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "097/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-098-r",
+      "number": "098/182-R",
+      "name": "Probopass (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "098/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-099-r",
+      "number": "099/182-R",
+      "name": "Meditite (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "099/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-100-r",
+      "number": "100/182-R",
+      "name": "Medicham (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "100/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-102-r",
+      "number": "102/182-R",
+      "name": "Gible da Cíntia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "102/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-103-r",
+      "number": "103/182-R",
+      "name": "Gabite da Cíntia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "103/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-105-r",
+      "number": "105/182-R",
+      "name": "Hippopotas (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "105/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-106-r",
+      "number": "106/182-R",
+      "name": "Hippowdon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "106/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-107-r",
+      "number": "107/182-R",
+      "name": "Mudbray (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "107/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-108-r",
+      "number": "108/182-R",
+      "name": "Mudsdale (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "108/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-109-r",
+      "number": "109/182-R",
+      "name": "Toedscool do Arven (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "109/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-110-r",
+      "number": "110/182-R",
+      "name": "Toedscruel do Arven (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "110/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-111-r",
+      "number": "111/182-R",
+      "name": "Ogerpon Máscara Alicerce (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "111/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-112-r",
+      "number": "112/182-R",
+      "name": "Ekans da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "112/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-113-r",
+      "number": "113/182-R",
+      "name": "Arbok da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "113/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-114-r",
+      "number": "114/182-R",
+      "name": "Nidoran♀ da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "114/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-115-r",
+      "number": "115/182-R",
+      "name": "Nidorina da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "115/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-116-r",
+      "number": "116/182-R",
+      "name": "Nidoqueen da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "116/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-117-r",
+      "number": "117/182-R",
+      "name": "Nidoran♂ da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "117/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-118-r",
+      "number": "118/182-R",
+      "name": "Nidorino da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "118/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-120-r",
+      "number": "120/182-R",
+      "name": "Zubat da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "120/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-121-r",
+      "number": "121/182-R",
+      "name": "Golbat da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "121/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-123-r",
+      "number": "123/182-R",
+      "name": "Grimer da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "123/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-124-r",
+      "number": "124/182-R",
+      "name": "Muk da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "124/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-125-r",
+      "number": "125/182-R",
+      "name": "Koffing da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "125/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-126-r",
+      "number": "126/182-R",
+      "name": "Weezing da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "126/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-127-r",
+      "number": "127/182-R",
+      "name": "Murkrow da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "127/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-128-r",
+      "number": "128/182-R",
+      "name": "Sneasel da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "128/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-129-r",
+      "number": "129/182-R",
+      "name": "Spiritomb da Cíntia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "129/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-130-r",
+      "number": "130/182-R",
+      "name": "Purrloin da Marine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "130/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-131-r",
+      "number": "131/182-R",
+      "name": "Liepard da Marine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "131/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-132-r",
+      "number": "132/182-R",
+      "name": "Scraggy da Marine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "132/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-133-r",
+      "number": "133/182-R",
+      "name": "Scrafty da Marine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "133/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-134-r",
+      "number": "134/182-R",
+      "name": "Impidimp da Marine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "134/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-135-r",
+      "number": "135/182-R",
+      "name": "Morgrem da Marine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "135/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-137-r",
+      "number": "137/182-R",
+      "name": "Morpeko da Marine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "137/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-138-r",
+      "number": "138/182-R",
+      "name": "Maschiff do Arven (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "138/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-140-r",
+      "number": "140/182-R",
+      "name": "Forretress (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "140/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-141-r",
+      "number": "141/182-R",
+      "name": "Skarmory (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "141/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-142-r",
+      "number": "142/182-R",
+      "name": "Skarmory do Steven (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "142/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-143-r",
+      "number": "143/182-R",
+      "name": "Beldum do Steven (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "143/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-144-r",
+      "number": "144/182-R",
+      "name": "Metang do Steven (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "144/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-146-r",
+      "number": "146/182-R",
+      "name": "Zamazenta (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "146/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-147-r",
+      "number": "147/182-R",
+      "name": "Rattata da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "147/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-148-r",
+      "number": "148/182-R",
+      "name": "Raticate da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "148/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-149-r",
+      "number": "149/182-R",
+      "name": "Meowth da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "149/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-151-r",
+      "number": "151/182-R",
+      "name": "Kangaskhan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "151/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-152-r",
+      "number": "152/182-R",
+      "name": "Tauros (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "152/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-153-r",
+      "number": "153/182-R",
+      "name": "Porygon da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "153/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-154-r",
+      "number": "154/182-R",
+      "name": "Porygon2 da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "154/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-155-r",
+      "number": "155/182-R",
+      "name": "Porygon-Z da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "155/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-156-r",
+      "number": "156/182-R",
+      "name": "Taillow (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "156/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-157-r",
+      "number": "157/182-R",
+      "name": "Swellow (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "157/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-158-r",
+      "number": "158/182-R",
+      "name": "Skwovet do Arven (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "158/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-159-r",
+      "number": "159/182-R",
+      "name": "Greedent do Arven (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "159/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-160-r",
+      "number": "160/182-R",
+      "name": "Squawkabilly (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "160/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-161-r",
+      "number": "161/182-R",
+      "name": "Sanduíche do Arven (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "161/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-162-r",
+      "number": "162/182-R",
+      "name": "Peso de Poder da Cíntia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "162/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-163-r",
+      "number": "163/182-R",
+      "name": "Hype da Emcee (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "163/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-164-r",
+      "number": "164/182-R",
+      "name": "Reciclador de Energia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "164/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-165-r",
+      "number": "165/182-R",
+      "name": "Aventura do Ethan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "165/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-166-r",
+      "number": "166/182-R",
+      "name": "Caverna de Granito (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "166/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-167-r",
+      "number": "167/182-R",
+      "name": "Juiz (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "167/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-168-r",
+      "number": "168/182-R",
+      "name": "Cinza Sagrada (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "168/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-169-r",
+      "number": "169/182-R",
+      "name": "Ginásio de Spikemuth (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "169/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-170-r",
+      "number": "170/182-R",
+      "name": "Apollo da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "170/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-171-r",
+      "number": "171/182-R",
+      "name": "Athena da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "171/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-172-r",
+      "number": "172/182-R",
+      "name": "Azucrinabot da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "172/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-173-r",
+      "number": "173/182-R",
+      "name": "Fábrica da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "173/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-174-r",
+      "number": "174/182-R",
+      "name": "Giovanni da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "174/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-175-r",
+      "number": "175/182-R",
+      "name": "Grande Bola da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "175/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-176-r",
+      "number": "176/182-R",
+      "name": "Petrel da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "176/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-177-r",
+      "number": "177/182-R",
+      "name": "Próton da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "177/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-178-r",
+      "number": "178/182-R",
+      "name": "Transmissor da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "178/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-179-r",
+      "number": "179/182-R",
+      "name": "Bomba de Risco da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "179/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-180-r",
+      "number": "180/182-R",
+      "name": "Torre de Vigia da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "180/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-181-r",
+      "number": "181/182-R",
+      "name": "Máquina de MT (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "181/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "dri-182-r",
+      "number": "182/182-R",
+      "name": "Energia da Equipe Rocket (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "182/182",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    }
+  ]
+}
