@@ -441,6 +441,13 @@
       "file": "albums/pokemon-cri-2026-standard-v1.zip",
       "bytes": 148271,
       "sha256": "fa45efd2af31e46ab15138a99baded1e98e4e0723f75c8100e6c25237addb1fe"
+    },
+    {
+      "officialId": "pokemon.pbl2026.standard",
+      "version": 1,
+      "file": "albums/pokemon-pbl-2026-standard-v1.zip",
+      "bytes": 114712,
+      "sha256": "fb57d065731701576b756b26c6ddadbfc576c6d1dc3cbf939beb16e9e35b8f1f"
     }
   ]
 }
