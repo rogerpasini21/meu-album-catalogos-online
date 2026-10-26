@@ -1,0 +1,2640 @@
+{
+  "officialId": "pokemon.meg2025.standard",
+  "version": 1,
+  "name": "Megaevolução",
+  "collection": "Megaevolução",
+  "year": "2025",
+  "publisher": "The Pokémon Company / Copag",
+  "collectionType": "cards",
+  "availability": "online",
+  "description": "310 cards: 132 da coleção principal, 56 cartas secretas e 122 versões reversas. O sufixo -R identifica o acabamento reverso. Não inclui promocionais, carimbadas ou variantes exclusivas de produtos.",
+  "plannedTotal": 310,
+  "variantCount": 0,
+  "coverAsset": "assets/album_library/imagens/pokemon_megaevolucao2025/capa.webp",
+  "libraryCategory": {
+    "id": "pokemon",
+    "name": "Pokémon",
+    "order": 80
+  },
+  "sections": [
+    {
+      "id": "principal",
+      "name": "Coleção principal",
+      "imageAsset": "assets/album_library/imagens/pokemon_megaevolucao2025/capa.webp"
+    },
+    {
+      "id": "secretas",
+      "name": "Cartas secretas",
+      "imageAsset": "assets/album_library/imagens/pokemon_megaevolucao2025/capa.webp"
+    },
+    {
+      "id": "reversas",
+      "name": "Reversas",
+      "imageAsset": "assets/album_library/imagens/pokemon_megaevolucao2025/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "meg-001",
+      "number": "001/132",
+      "name": "Bulbasaur",
+      "sectionId": "principal",
+      "printedNumber": "001/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-002",
+      "number": "002/132",
+      "name": "Ivysaur",
+      "sectionId": "principal",
+      "printedNumber": "002/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-003",
+      "number": "003/132",
+      "name": "Mega Venusaur ex",
+      "sectionId": "principal",
+      "printedNumber": "003/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-004",
+      "number": "004/132",
+      "name": "Exeggcute",
+      "sectionId": "principal",
+      "printedNumber": "004/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-005",
+      "number": "005/132",
+      "name": "Exeggutor",
+      "sectionId": "principal",
+      "printedNumber": "005/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-006",
+      "number": "006/132",
+      "name": "Tangela",
+      "sectionId": "principal",
+      "printedNumber": "006/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-007",
+      "number": "007/132",
+      "name": "Tangrowth",
+      "sectionId": "principal",
+      "printedNumber": "007/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-008",
+      "number": "008/132",
+      "name": "Chikorita",
+      "sectionId": "principal",
+      "printedNumber": "008/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-009",
+      "number": "009/132",
+      "name": "Bayleef",
+      "sectionId": "principal",
+      "printedNumber": "009/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-010",
+      "number": "010/132",
+      "name": "Meganium",
+      "sectionId": "principal",
+      "printedNumber": "010/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-011",
+      "number": "011/132",
+      "name": "Shuckle",
+      "sectionId": "principal",
+      "printedNumber": "011/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-012",
+      "number": "012/132",
+      "name": "Celebi",
+      "sectionId": "principal",
+      "printedNumber": "012/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-013",
+      "number": "013/132",
+      "name": "Seedot",
+      "sectionId": "principal",
+      "printedNumber": "013/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-014",
+      "number": "014/132",
+      "name": "Nuzleaf",
+      "sectionId": "principal",
+      "printedNumber": "014/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-015",
+      "number": "015/132",
+      "name": "Shiftry",
+      "sectionId": "principal",
+      "printedNumber": "015/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-016",
+      "number": "016/132",
+      "name": "Nincada",
+      "sectionId": "principal",
+      "printedNumber": "016/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-017",
+      "number": "017/132",
+      "name": "Ninjask",
+      "sectionId": "principal",
+      "printedNumber": "017/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-018",
+      "number": "018/132",
+      "name": "Dhelmise",
+      "sectionId": "principal",
+      "printedNumber": "018/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-019",
+      "number": "019/132",
+      "name": "Vulpix",
+      "sectionId": "principal",
+      "printedNumber": "019/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-020",
+      "number": "020/132",
+      "name": "Ninetales",
+      "sectionId": "principal",
+      "printedNumber": "020/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-021",
+      "number": "021/132",
+      "name": "Numel",
+      "sectionId": "principal",
+      "printedNumber": "021/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-022",
+      "number": "022/132",
+      "name": "Mega Camerupt ex",
+      "sectionId": "principal",
+      "printedNumber": "022/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-023",
+      "number": "023/132",
+      "name": "Litleo",
+      "sectionId": "principal",
+      "printedNumber": "023/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-024",
+      "number": "024/132",
+      "name": "Pyroar",
+      "sectionId": "principal",
+      "printedNumber": "024/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-025",
+      "number": "025/132",
+      "name": "Volcanion",
+      "sectionId": "principal",
+      "printedNumber": "025/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-026",
+      "number": "026/132",
+      "name": "Scorbunny",
+      "sectionId": "principal",
+      "printedNumber": "026/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-027",
+      "number": "027/132",
+      "name": "Raboot",
+      "sectionId": "principal",
+      "printedNumber": "027/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-028",
+      "number": "028/132",
+      "name": "Cinderace",
+      "sectionId": "principal",
+      "printedNumber": "028/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-029",
+      "number": "029/132",
+      "name": "Sizzlipede",
+      "sectionId": "principal",
+      "printedNumber": "029/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-030",
+      "number": "030/132",
+      "name": "Centiskorch",
+      "sectionId": "principal",
+      "printedNumber": "030/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-031",
+      "number": "031/132",
+      "name": "Chi-Yu",
+      "sectionId": "principal",
+      "printedNumber": "031/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-032",
+      "number": "032/132",
+      "name": "Mantine",
+      "sectionId": "principal",
+      "printedNumber": "032/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-033",
+      "number": "033/132",
+      "name": "Corphish",
+      "sectionId": "principal",
+      "printedNumber": "033/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-034",
+      "number": "034/132",
+      "name": "Kyogre",
+      "sectionId": "principal",
+      "printedNumber": "034/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-035",
+      "number": "035/132",
+      "name": "Snover",
+      "sectionId": "principal",
+      "printedNumber": "035/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-036",
+      "number": "036/132",
+      "name": "Mega Abomasnow ex",
+      "sectionId": "principal",
+      "printedNumber": "036/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-037",
+      "number": "037/132",
+      "name": "Clauncher",
+      "sectionId": "principal",
+      "printedNumber": "037/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-038",
+      "number": "038/132",
+      "name": "Clawitzer",
+      "sectionId": "principal",
+      "printedNumber": "038/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-039",
+      "number": "039/132",
+      "name": "Sobble",
+      "sectionId": "principal",
+      "printedNumber": "039/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-040",
+      "number": "040/132",
+      "name": "Drizzile",
+      "sectionId": "principal",
+      "printedNumber": "040/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-041",
+      "number": "041/132",
+      "name": "Inteleon",
+      "sectionId": "principal",
+      "printedNumber": "041/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-042",
+      "number": "042/132",
+      "name": "Snom",
+      "sectionId": "principal",
+      "printedNumber": "042/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-043",
+      "number": "043/132",
+      "name": "Frosmoth",
+      "sectionId": "principal",
+      "printedNumber": "043/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-044",
+      "number": "044/132",
+      "name": "Eiscue",
+      "sectionId": "principal",
+      "printedNumber": "044/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-045",
+      "number": "045/132",
+      "name": "Magnemite",
+      "sectionId": "principal",
+      "printedNumber": "045/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-046",
+      "number": "046/132",
+      "name": "Magneton",
+      "sectionId": "principal",
+      "printedNumber": "046/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-047",
+      "number": "047/132",
+      "name": "Magnezone",
+      "sectionId": "principal",
+      "printedNumber": "047/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-048",
+      "number": "048/132",
+      "name": "Raikou",
+      "sectionId": "principal",
+      "printedNumber": "048/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-049",
+      "number": "049/132",
+      "name": "Electrike",
+      "sectionId": "principal",
+      "printedNumber": "049/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-050",
+      "number": "050/132",
+      "name": "Mega Manectric ex",
+      "sectionId": "principal",
+      "printedNumber": "050/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-051",
+      "number": "051/132",
+      "name": "Pachirisu",
+      "sectionId": "principal",
+      "printedNumber": "051/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-052",
+      "number": "052/132",
+      "name": "Helioptile",
+      "sectionId": "principal",
+      "printedNumber": "052/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-053",
+      "number": "053/132",
+      "name": "Heliolisk",
+      "sectionId": "principal",
+      "printedNumber": "053/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-054",
+      "number": "054/132",
+      "name": "Abra",
+      "sectionId": "principal",
+      "printedNumber": "054/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-055",
+      "number": "055/132",
+      "name": "Kadabra",
+      "sectionId": "principal",
+      "printedNumber": "055/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-056",
+      "number": "056/132",
+      "name": "Alakazam",
+      "sectionId": "principal",
+      "printedNumber": "056/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-057",
+      "number": "057/132",
+      "name": "Jynx",
+      "sectionId": "principal",
+      "printedNumber": "057/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-058",
+      "number": "058/132",
+      "name": "Ralts",
+      "sectionId": "principal",
+      "printedNumber": "058/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-059",
+      "number": "059/132",
+      "name": "Kirlia",
+      "sectionId": "principal",
+      "printedNumber": "059/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-060",
+      "number": "060/132",
+      "name": "Mega Gardevoir ex",
+      "sectionId": "principal",
+      "printedNumber": "060/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-061",
+      "number": "061/132",
+      "name": "Shedinja",
+      "sectionId": "principal",
+      "printedNumber": "061/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-062",
+      "number": "062/132",
+      "name": "Spoink",
+      "sectionId": "principal",
+      "printedNumber": "062/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-063",
+      "number": "063/132",
+      "name": "Grumpig",
+      "sectionId": "principal",
+      "printedNumber": "063/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-064",
+      "number": "064/132",
+      "name": "Xerneas",
+      "sectionId": "principal",
+      "printedNumber": "064/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-065",
+      "number": "065/132",
+      "name": "Greavard",
+      "sectionId": "principal",
+      "printedNumber": "065/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-066",
+      "number": "066/132",
+      "name": "Houndstone",
+      "sectionId": "principal",
+      "printedNumber": "066/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-067",
+      "number": "067/132",
+      "name": "Gimmighoul",
+      "sectionId": "principal",
+      "printedNumber": "067/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-068",
+      "number": "068/132",
+      "name": "Sandshrew",
+      "sectionId": "principal",
+      "printedNumber": "068/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-069",
+      "number": "069/132",
+      "name": "Sandslash",
+      "sectionId": "principal",
+      "printedNumber": "069/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-070",
+      "number": "070/132",
+      "name": "Onix",
+      "sectionId": "principal",
+      "printedNumber": "070/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-071",
+      "number": "071/132",
+      "name": "Tyrogue",
+      "sectionId": "principal",
+      "printedNumber": "071/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-072",
+      "number": "072/132",
+      "name": "Makuhita",
+      "sectionId": "principal",
+      "printedNumber": "072/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-073",
+      "number": "073/132",
+      "name": "Hariyama",
+      "sectionId": "principal",
+      "printedNumber": "073/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-074",
+      "number": "074/132",
+      "name": "Lunatone",
+      "sectionId": "principal",
+      "printedNumber": "074/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-075",
+      "number": "075/132",
+      "name": "Solrock",
+      "sectionId": "principal",
+      "printedNumber": "075/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-076",
+      "number": "076/132",
+      "name": "Riolu",
+      "sectionId": "principal",
+      "printedNumber": "076/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-077",
+      "number": "077/132",
+      "name": "Mega Lucario ex",
+      "sectionId": "principal",
+      "printedNumber": "077/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-078",
+      "number": "078/132",
+      "name": "Croagunk",
+      "sectionId": "principal",
+      "printedNumber": "078/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-079",
+      "number": "079/132",
+      "name": "Toxicroak",
+      "sectionId": "principal",
+      "printedNumber": "079/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-080",
+      "number": "080/132",
+      "name": "Marshadow",
+      "sectionId": "principal",
+      "printedNumber": "080/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-081",
+      "number": "081/132",
+      "name": "Stonjourner",
+      "sectionId": "principal",
+      "printedNumber": "081/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-082",
+      "number": "082/132",
+      "name": "Nacli",
+      "sectionId": "principal",
+      "printedNumber": "082/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-083",
+      "number": "083/132",
+      "name": "Naclstack",
+      "sectionId": "principal",
+      "printedNumber": "083/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-084",
+      "number": "084/132",
+      "name": "Garganacl",
+      "sectionId": "principal",
+      "printedNumber": "084/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-085",
+      "number": "085/132",
+      "name": "Crawdaunt",
+      "sectionId": "principal",
+      "printedNumber": "085/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-086",
+      "number": "086/132",
+      "name": "Mega Absol ex",
+      "sectionId": "principal",
+      "printedNumber": "086/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-087",
+      "number": "087/132",
+      "name": "Spiritomb",
+      "sectionId": "principal",
+      "printedNumber": "087/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-088",
+      "number": "088/132",
+      "name": "Yveltal",
+      "sectionId": "principal",
+      "printedNumber": "088/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-089",
+      "number": "089/132",
+      "name": "Nickit",
+      "sectionId": "principal",
+      "printedNumber": "089/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-090",
+      "number": "090/132",
+      "name": "Thievul",
+      "sectionId": "principal",
+      "printedNumber": "090/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-091",
+      "number": "091/132",
+      "name": "Shroodle",
+      "sectionId": "principal",
+      "printedNumber": "091/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-092",
+      "number": "092/132",
+      "name": "Grafaiai",
+      "sectionId": "principal",
+      "printedNumber": "092/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-093",
+      "number": "093/132",
+      "name": "Steelix",
+      "sectionId": "principal",
+      "printedNumber": "093/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-094",
+      "number": "094/132",
+      "name": "Mega Mawile ex",
+      "sectionId": "principal",
+      "printedNumber": "094/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-095",
+      "number": "095/132",
+      "name": "Dialga",
+      "sectionId": "principal",
+      "printedNumber": "095/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-096",
+      "number": "096/132",
+      "name": "Tinkatink",
+      "sectionId": "principal",
+      "printedNumber": "096/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-097",
+      "number": "097/132",
+      "name": "Tinkatuff",
+      "sectionId": "principal",
+      "printedNumber": "097/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-098",
+      "number": "098/132",
+      "name": "Tinkaton",
+      "sectionId": "principal",
+      "printedNumber": "098/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-099",
+      "number": "099/132",
+      "name": "Gholdengo",
+      "sectionId": "principal",
+      "printedNumber": "099/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-100",
+      "number": "100/132",
+      "name": "Mega Latias ex",
+      "sectionId": "principal",
+      "printedNumber": "100/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-101",
+      "number": "101/132",
+      "name": "Latios",
+      "sectionId": "principal",
+      "printedNumber": "101/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-102",
+      "number": "102/132",
+      "name": "Spearow",
+      "sectionId": "principal",
+      "printedNumber": "102/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-103",
+      "number": "103/132",
+      "name": "Fearow",
+      "sectionId": "principal",
+      "printedNumber": "103/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-104",
+      "number": "104/132",
+      "name": "Mega Kangaskhan ex",
+      "sectionId": "principal",
+      "printedNumber": "104/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-105",
+      "number": "105/132",
+      "name": "Delibird",
+      "sectionId": "principal",
+      "printedNumber": "105/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-106",
+      "number": "106/132",
+      "name": "Miltank",
+      "sectionId": "principal",
+      "printedNumber": "106/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-107",
+      "number": "107/132",
+      "name": "Buneary",
+      "sectionId": "principal",
+      "printedNumber": "107/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-108",
+      "number": "108/132",
+      "name": "Lopunny",
+      "sectionId": "principal",
+      "printedNumber": "108/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-109",
+      "number": "109/132",
+      "name": "Yungoos",
+      "sectionId": "principal",
+      "printedNumber": "109/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-110",
+      "number": "110/132",
+      "name": "Gumshoos",
+      "sectionId": "principal",
+      "printedNumber": "110/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-111",
+      "number": "111/132",
+      "name": "Stufful",
+      "sectionId": "principal",
+      "printedNumber": "111/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-112",
+      "number": "112/132",
+      "name": "Bewear",
+      "sectionId": "principal",
+      "printedNumber": "112/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-113",
+      "number": "113/132",
+      "name": "Traquinagem da Acerola",
+      "sectionId": "principal",
+      "printedNumber": "113/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-114",
+      "number": "114/132",
+      "name": "Ordem da Chefia (Ghetsis)",
+      "sectionId": "principal",
+      "printedNumber": "114/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-115",
+      "number": "115/132",
+      "name": "Substituição de Energia",
+      "sectionId": "principal",
+      "printedNumber": "115/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-116",
+      "number": "116/132",
+      "name": "Gongo de Luta",
+      "sectionId": "principal",
+      "printedNumber": "116/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-117",
+      "number": "117/132",
+      "name": "Floresta da Vitalidade",
+      "sectionId": "principal",
+      "printedNumber": "117/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-118",
+      "number": "118/132",
+      "name": "Defensor Férreo",
+      "sectionId": "principal",
+      "printedNumber": "118/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-119",
+      "number": "119/132",
+      "name": "Determinação da Lílian",
+      "sectionId": "principal",
+      "printedNumber": "119/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-120",
+      "number": "120/132",
+      "name": "Barganha do Ten. Surge",
+      "sectionId": "principal",
+      "printedNumber": "120/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-121",
+      "number": "121/132",
+      "name": "Megassinal",
+      "sectionId": "principal",
+      "printedNumber": "121/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-122",
+      "number": "122/132",
+      "name": "Jardim Misterioso",
+      "sectionId": "principal",
+      "printedNumber": "122/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-123",
+      "number": "123/132",
+      "name": "Dama do Centro Pokémon",
+      "sectionId": "principal",
+      "printedNumber": "123/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-124",
+      "number": "124/132",
+      "name": "Suplemento Premium Pro",
+      "sectionId": "principal",
+      "printedNumber": "124/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-125",
+      "number": "125/132",
+      "name": "Doce Raro",
+      "sectionId": "principal",
+      "printedNumber": "125/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-126",
+      "number": "126/132",
+      "name": "Repelente",
+      "sectionId": "principal",
+      "printedNumber": "126/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-127",
+      "number": "127/132",
+      "name": "Ruínas Arriscadas",
+      "sectionId": "principal",
+      "printedNumber": "127/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-128",
+      "number": "128/132",
+      "name": "Relógio Insólito",
+      "sectionId": "principal",
+      "printedNumber": "128/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-129",
+      "number": "129/132",
+      "name": "Praia de Surfista",
+      "sectionId": "principal",
+      "printedNumber": "129/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-130",
+      "number": "130/132",
+      "name": "Substituição",
+      "sectionId": "principal",
+      "printedNumber": "130/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-131",
+      "number": "131/132",
+      "name": "Ultra Bola",
+      "sectionId": "principal",
+      "printedNumber": "131/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-132",
+      "number": "132/132",
+      "name": "Compaixão do Wally",
+      "sectionId": "principal",
+      "printedNumber": "132/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-133",
+      "number": "133/132",
+      "name": "Bulbasaur",
+      "sectionId": "secretas",
+      "printedNumber": "133/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-134",
+      "number": "134/132",
+      "name": "Ivysaur",
+      "sectionId": "secretas",
+      "printedNumber": "134/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-135",
+      "number": "135/132",
+      "name": "Exeggutor",
+      "sectionId": "secretas",
+      "printedNumber": "135/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-136",
+      "number": "136/132",
+      "name": "Shuckle",
+      "sectionId": "secretas",
+      "printedNumber": "136/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-137",
+      "number": "137/132",
+      "name": "Ninjask",
+      "sectionId": "secretas",
+      "printedNumber": "137/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-138",
+      "number": "138/132",
+      "name": "Vulpix",
+      "sectionId": "secretas",
+      "printedNumber": "138/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-139",
+      "number": "139/132",
+      "name": "Litleo",
+      "sectionId": "secretas",
+      "printedNumber": "139/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-140",
+      "number": "140/132",
+      "name": "Snover",
+      "sectionId": "secretas",
+      "printedNumber": "140/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-141",
+      "number": "141/132",
+      "name": "Clawitzer",
+      "sectionId": "secretas",
+      "printedNumber": "141/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-142",
+      "number": "142/132",
+      "name": "Inteleon",
+      "sectionId": "secretas",
+      "printedNumber": "142/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-143",
+      "number": "143/132",
+      "name": "Helioptile",
+      "sectionId": "secretas",
+      "printedNumber": "143/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-144",
+      "number": "144/132",
+      "name": "Shedinja",
+      "sectionId": "secretas",
+      "printedNumber": "144/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-145",
+      "number": "145/132",
+      "name": "Houndstone",
+      "sectionId": "secretas",
+      "printedNumber": "145/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-146",
+      "number": "146/132",
+      "name": "Marshadow",
+      "sectionId": "secretas",
+      "printedNumber": "146/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-147",
+      "number": "147/132",
+      "name": "Garganacl",
+      "sectionId": "secretas",
+      "printedNumber": "147/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-148",
+      "number": "148/132",
+      "name": "Spiritomb",
+      "sectionId": "secretas",
+      "printedNumber": "148/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-149",
+      "number": "149/132",
+      "name": "Shroodle",
+      "sectionId": "secretas",
+      "printedNumber": "149/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-150",
+      "number": "150/132",
+      "name": "Steelix",
+      "sectionId": "secretas",
+      "printedNumber": "150/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-151",
+      "number": "151/132",
+      "name": "Spearow",
+      "sectionId": "secretas",
+      "printedNumber": "151/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-152",
+      "number": "152/132",
+      "name": "Delibird",
+      "sectionId": "secretas",
+      "printedNumber": "152/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-153",
+      "number": "153/132",
+      "name": "Gumshoos",
+      "sectionId": "secretas",
+      "printedNumber": "153/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-154",
+      "number": "154/132",
+      "name": "Stufful",
+      "sectionId": "secretas",
+      "printedNumber": "154/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-155",
+      "number": "155/132",
+      "name": "Mega Venusaur ex",
+      "sectionId": "secretas",
+      "printedNumber": "155/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-156",
+      "number": "156/132",
+      "name": "Mega Camerupt ex",
+      "sectionId": "secretas",
+      "printedNumber": "156/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-157",
+      "number": "157/132",
+      "name": "Mega Abomasnow ex",
+      "sectionId": "secretas",
+      "printedNumber": "157/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-158",
+      "number": "158/132",
+      "name": "Mega Manectric ex",
+      "sectionId": "secretas",
+      "printedNumber": "158/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-159",
+      "number": "159/132",
+      "name": "Mega Gardevoir ex",
+      "sectionId": "secretas",
+      "printedNumber": "159/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-160",
+      "number": "160/132",
+      "name": "Mega Lucario ex",
+      "sectionId": "secretas",
+      "printedNumber": "160/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-161",
+      "number": "161/132",
+      "name": "Mega Absol ex",
+      "sectionId": "secretas",
+      "printedNumber": "161/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-162",
+      "number": "162/132",
+      "name": "Mega Mawile ex",
+      "sectionId": "secretas",
+      "printedNumber": "162/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-163",
+      "number": "163/132",
+      "name": "Mega Latias ex",
+      "sectionId": "secretas",
+      "printedNumber": "163/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-164",
+      "number": "164/132",
+      "name": "Mega Kangaskhan ex",
+      "sectionId": "secretas",
+      "printedNumber": "164/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-165",
+      "number": "165/132",
+      "name": "Traquinagem da Acerola",
+      "sectionId": "secretas",
+      "printedNumber": "165/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-166",
+      "number": "166/132",
+      "name": "Balão de Ar",
+      "sectionId": "secretas",
+      "printedNumber": "166/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-167",
+      "number": "167/132",
+      "name": "Poffin de Colega",
+      "sectionId": "secretas",
+      "printedNumber": "167/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-168",
+      "number": "168/132",
+      "name": "Gongo de Luta",
+      "sectionId": "secretas",
+      "printedNumber": "168/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-169",
+      "number": "169/132",
+      "name": "Determinação da Lílian",
+      "sectionId": "secretas",
+      "printedNumber": "169/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-170",
+      "number": "170/132",
+      "name": "Barganha do Ten. Surge",
+      "sectionId": "secretas",
+      "printedNumber": "170/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-171",
+      "number": "171/132",
+      "name": "Megassinal",
+      "sectionId": "secretas",
+      "printedNumber": "171/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-172",
+      "number": "172/132",
+      "name": "Jardim Misterioso",
+      "sectionId": "secretas",
+      "printedNumber": "172/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-173",
+      "number": "173/132",
+      "name": "Maca Noturna",
+      "sectionId": "secretas",
+      "printedNumber": "173/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-174",
+      "number": "174/132",
+      "name": "Suplemento Premium Pro",
+      "sectionId": "secretas",
+      "printedNumber": "174/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-175",
+      "number": "175/132",
+      "name": "Doce Raro",
+      "sectionId": "secretas",
+      "printedNumber": "175/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-176",
+      "number": "176/132",
+      "name": "Compaixão do Wally",
+      "sectionId": "secretas",
+      "printedNumber": "176/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-177",
+      "number": "177/132",
+      "name": "Mega Venusaur ex",
+      "sectionId": "secretas",
+      "printedNumber": "177/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-178",
+      "number": "178/132",
+      "name": "Mega Gardevoir ex",
+      "sectionId": "secretas",
+      "printedNumber": "178/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-179",
+      "number": "179/132",
+      "name": "Mega Lucario ex",
+      "sectionId": "secretas",
+      "printedNumber": "179/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-180",
+      "number": "180/132",
+      "name": "Mega Absol ex",
+      "sectionId": "secretas",
+      "printedNumber": "180/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-181",
+      "number": "181/132",
+      "name": "Mega Latias ex",
+      "sectionId": "secretas",
+      "printedNumber": "181/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-182",
+      "number": "182/132",
+      "name": "Mega Kangaskhan ex",
+      "sectionId": "secretas",
+      "printedNumber": "182/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-183",
+      "number": "183/132",
+      "name": "Traquinagem da Acerola",
+      "sectionId": "secretas",
+      "printedNumber": "183/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-184",
+      "number": "184/132",
+      "name": "Determinação da Lílian",
+      "sectionId": "secretas",
+      "printedNumber": "184/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-185",
+      "number": "185/132",
+      "name": "Barganha do Ten. Surge",
+      "sectionId": "secretas",
+      "printedNumber": "185/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-186",
+      "number": "186/132",
+      "name": "Compaixão do Wally",
+      "sectionId": "secretas",
+      "printedNumber": "186/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-187",
+      "number": "187/132",
+      "name": "Mega Gardevoir ex",
+      "sectionId": "secretas",
+      "printedNumber": "187/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-188",
+      "number": "188/132",
+      "name": "Mega Lucario ex",
+      "sectionId": "secretas",
+      "printedNumber": "188/132",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "meg-001-r",
+      "number": "001/132-R",
+      "name": "Bulbasaur (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "001/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-002-r",
+      "number": "002/132-R",
+      "name": "Ivysaur (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "002/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-004-r",
+      "number": "004/132-R",
+      "name": "Exeggcute (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "004/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-005-r",
+      "number": "005/132-R",
+      "name": "Exeggutor (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "005/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-006-r",
+      "number": "006/132-R",
+      "name": "Tangela (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "006/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-007-r",
+      "number": "007/132-R",
+      "name": "Tangrowth (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "007/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-008-r",
+      "number": "008/132-R",
+      "name": "Chikorita (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "008/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-009-r",
+      "number": "009/132-R",
+      "name": "Bayleef (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "009/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-010-r",
+      "number": "010/132-R",
+      "name": "Meganium (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "010/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-011-r",
+      "number": "011/132-R",
+      "name": "Shuckle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "011/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-012-r",
+      "number": "012/132-R",
+      "name": "Celebi (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "012/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-013-r",
+      "number": "013/132-R",
+      "name": "Seedot (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "013/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-014-r",
+      "number": "014/132-R",
+      "name": "Nuzleaf (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "014/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-015-r",
+      "number": "015/132-R",
+      "name": "Shiftry (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "015/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-016-r",
+      "number": "016/132-R",
+      "name": "Nincada (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "016/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-017-r",
+      "number": "017/132-R",
+      "name": "Ninjask (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "017/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-018-r",
+      "number": "018/132-R",
+      "name": "Dhelmise (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "018/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-019-r",
+      "number": "019/132-R",
+      "name": "Vulpix (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "019/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-020-r",
+      "number": "020/132-R",
+      "name": "Ninetales (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "020/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-021-r",
+      "number": "021/132-R",
+      "name": "Numel (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "021/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-023-r",
+      "number": "023/132-R",
+      "name": "Litleo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "023/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-024-r",
+      "number": "024/132-R",
+      "name": "Pyroar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "024/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-025-r",
+      "number": "025/132-R",
+      "name": "Volcanion (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "025/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-026-r",
+      "number": "026/132-R",
+      "name": "Scorbunny (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "026/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-027-r",
+      "number": "027/132-R",
+      "name": "Raboot (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "027/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-028-r",
+      "number": "028/132-R",
+      "name": "Cinderace (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "028/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-029-r",
+      "number": "029/132-R",
+      "name": "Sizzlipede (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "029/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-030-r",
+      "number": "030/132-R",
+      "name": "Centiskorch (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "030/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-031-r",
+      "number": "031/132-R",
+      "name": "Chi-Yu (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "031/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-032-r",
+      "number": "032/132-R",
+      "name": "Mantine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "032/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-033-r",
+      "number": "033/132-R",
+      "name": "Corphish (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "033/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-034-r",
+      "number": "034/132-R",
+      "name": "Kyogre (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "034/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-035-r",
+      "number": "035/132-R",
+      "name": "Snover (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "035/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-037-r",
+      "number": "037/132-R",
+      "name": "Clauncher (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "037/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-038-r",
+      "number": "038/132-R",
+      "name": "Clawitzer (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "038/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-039-r",
+      "number": "039/132-R",
+      "name": "Sobble (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "039/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-040-r",
+      "number": "040/132-R",
+      "name": "Drizzile (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "040/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-041-r",
+      "number": "041/132-R",
+      "name": "Inteleon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "041/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-042-r",
+      "number": "042/132-R",
+      "name": "Snom (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "042/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-043-r",
+      "number": "043/132-R",
+      "name": "Frosmoth (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "043/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-044-r",
+      "number": "044/132-R",
+      "name": "Eiscue (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "044/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-045-r",
+      "number": "045/132-R",
+      "name": "Magnemite (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "045/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-046-r",
+      "number": "046/132-R",
+      "name": "Magneton (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "046/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-047-r",
+      "number": "047/132-R",
+      "name": "Magnezone (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "047/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-048-r",
+      "number": "048/132-R",
+      "name": "Raikou (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "048/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-049-r",
+      "number": "049/132-R",
+      "name": "Electrike (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "049/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-051-r",
+      "number": "051/132-R",
+      "name": "Pachirisu (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "051/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-052-r",
+      "number": "052/132-R",
+      "name": "Helioptile (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "052/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-053-r",
+      "number": "053/132-R",
+      "name": "Heliolisk (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "053/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-054-r",
+      "number": "054/132-R",
+      "name": "Abra (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "054/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-055-r",
+      "number": "055/132-R",
+      "name": "Kadabra (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "055/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-056-r",
+      "number": "056/132-R",
+      "name": "Alakazam (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "056/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-057-r",
+      "number": "057/132-R",
+      "name": "Jynx (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "057/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-058-r",
+      "number": "058/132-R",
+      "name": "Ralts (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "058/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-059-r",
+      "number": "059/132-R",
+      "name": "Kirlia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "059/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-061-r",
+      "number": "061/132-R",
+      "name": "Shedinja (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "061/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-062-r",
+      "number": "062/132-R",
+      "name": "Spoink (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "062/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-063-r",
+      "number": "063/132-R",
+      "name": "Grumpig (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "063/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-064-r",
+      "number": "064/132-R",
+      "name": "Xerneas (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "064/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-065-r",
+      "number": "065/132-R",
+      "name": "Greavard (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "065/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-066-r",
+      "number": "066/132-R",
+      "name": "Houndstone (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "066/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-067-r",
+      "number": "067/132-R",
+      "name": "Gimmighoul (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "067/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-068-r",
+      "number": "068/132-R",
+      "name": "Sandshrew (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "068/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-069-r",
+      "number": "069/132-R",
+      "name": "Sandslash (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "069/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-070-r",
+      "number": "070/132-R",
+      "name": "Onix (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "070/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-071-r",
+      "number": "071/132-R",
+      "name": "Tyrogue (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "071/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-072-r",
+      "number": "072/132-R",
+      "name": "Makuhita (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "072/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-073-r",
+      "number": "073/132-R",
+      "name": "Hariyama (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "073/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-074-r",
+      "number": "074/132-R",
+      "name": "Lunatone (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "074/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-075-r",
+      "number": "075/132-R",
+      "name": "Solrock (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "075/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-076-r",
+      "number": "076/132-R",
+      "name": "Riolu (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "076/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-078-r",
+      "number": "078/132-R",
+      "name": "Croagunk (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "078/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-079-r",
+      "number": "079/132-R",
+      "name": "Toxicroak (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "079/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-080-r",
+      "number": "080/132-R",
+      "name": "Marshadow (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "080/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-081-r",
+      "number": "081/132-R",
+      "name": "Stonjourner (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "081/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-082-r",
+      "number": "082/132-R",
+      "name": "Nacli (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "082/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-083-r",
+      "number": "083/132-R",
+      "name": "Naclstack (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "083/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-084-r",
+      "number": "084/132-R",
+      "name": "Garganacl (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "084/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-085-r",
+      "number": "085/132-R",
+      "name": "Crawdaunt (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "085/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-087-r",
+      "number": "087/132-R",
+      "name": "Spiritomb (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "087/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-088-r",
+      "number": "088/132-R",
+      "name": "Yveltal (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "088/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-089-r",
+      "number": "089/132-R",
+      "name": "Nickit (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "089/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-090-r",
+      "number": "090/132-R",
+      "name": "Thievul (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "090/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-091-r",
+      "number": "091/132-R",
+      "name": "Shroodle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "091/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-092-r",
+      "number": "092/132-R",
+      "name": "Grafaiai (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "092/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-093-r",
+      "number": "093/132-R",
+      "name": "Steelix (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "093/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-095-r",
+      "number": "095/132-R",
+      "name": "Dialga (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "095/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-096-r",
+      "number": "096/132-R",
+      "name": "Tinkatink (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "096/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-097-r",
+      "number": "097/132-R",
+      "name": "Tinkatuff (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "097/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-098-r",
+      "number": "098/132-R",
+      "name": "Tinkaton (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "098/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-099-r",
+      "number": "099/132-R",
+      "name": "Gholdengo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "099/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-101-r",
+      "number": "101/132-R",
+      "name": "Latios (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "101/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-102-r",
+      "number": "102/132-R",
+      "name": "Spearow (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "102/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-103-r",
+      "number": "103/132-R",
+      "name": "Fearow (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "103/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-105-r",
+      "number": "105/132-R",
+      "name": "Delibird (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "105/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-106-r",
+      "number": "106/132-R",
+      "name": "Miltank (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "106/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-107-r",
+      "number": "107/132-R",
+      "name": "Buneary (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "107/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-108-r",
+      "number": "108/132-R",
+      "name": "Lopunny (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "108/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-109-r",
+      "number": "109/132-R",
+      "name": "Yungoos (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "109/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-110-r",
+      "number": "110/132-R",
+      "name": "Gumshoos (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "110/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-111-r",
+      "number": "111/132-R",
+      "name": "Stufful (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "111/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-112-r",
+      "number": "112/132-R",
+      "name": "Bewear (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "112/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-113-r",
+      "number": "113/132-R",
+      "name": "Traquinagem da Acerola (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "113/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-114-r",
+      "number": "114/132-R",
+      "name": "Ordem da Chefia (Ghetsis) (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "114/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-115-r",
+      "number": "115/132-R",
+      "name": "Substituição de Energia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "115/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-116-r",
+      "number": "116/132-R",
+      "name": "Gongo de Luta (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "116/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-117-r",
+      "number": "117/132-R",
+      "name": "Floresta da Vitalidade (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "117/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-118-r",
+      "number": "118/132-R",
+      "name": "Defensor Férreo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "118/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-119-r",
+      "number": "119/132-R",
+      "name": "Determinação da Lílian (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "119/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-120-r",
+      "number": "120/132-R",
+      "name": "Barganha do Ten. Surge (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "120/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-121-r",
+      "number": "121/132-R",
+      "name": "Megassinal (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "121/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-122-r",
+      "number": "122/132-R",
+      "name": "Jardim Misterioso (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "122/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-123-r",
+      "number": "123/132-R",
+      "name": "Dama do Centro Pokémon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "123/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-124-r",
+      "number": "124/132-R",
+      "name": "Suplemento Premium Pro (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "124/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-125-r",
+      "number": "125/132-R",
+      "name": "Doce Raro (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "125/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-126-r",
+      "number": "126/132-R",
+      "name": "Repelente (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "126/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-127-r",
+      "number": "127/132-R",
+      "name": "Ruínas Arriscadas (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "127/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-128-r",
+      "number": "128/132-R",
+      "name": "Relógio Insólito (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "128/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-129-r",
+      "number": "129/132-R",
+      "name": "Praia de Surfista (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "129/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-130-r",
+      "number": "130/132-R",
+      "name": "Substituição (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "130/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-131-r",
+      "number": "131/132-R",
+      "name": "Ultra Bola (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "131/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "meg-132-r",
+      "number": "132/132-R",
+      "name": "Compaixão do Wally (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "132/132",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    }
+  ]
+}

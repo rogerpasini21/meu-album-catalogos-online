@@ -469,6 +469,13 @@
       "file": "albums/pokemon-pfl-2025-standard-v1.zip",
       "bytes": 104717,
       "sha256": "95d40898ee1c7d7a807b127165145886b0c9d93dc92e41d668f0dee6edf32ea8"
+    },
+    {
+      "officialId": "pokemon.meg2025.standard",
+      "version": 1,
+      "file": "albums/pokemon-meg-2025-standard-v1.zip",
+      "bytes": 135634,
+      "sha256": "4d359c6510f9d64c4013e48003027edd463b8fea541c26fdffd0732f06c1da80"
     }
   ]
 }
