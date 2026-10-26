@@ -476,6 +476,13 @@
       "file": "albums/pokemon-meg-2025-standard-v1.zip",
       "bytes": 135634,
       "sha256": "4d359c6510f9d64c4013e48003027edd463b8fea541c26fdffd0732f06c1da80"
+    },
+    {
+      "officialId": "pokemon.blk2025.standard",
+      "version": 1,
+      "file": "albums/pokemon-blk-2025-standard-v1.zip",
+      "bytes": 103490,
+      "sha256": "dd0f5755e41962ed751d18b3132499f315a4ceaa75355c98cb86e3b141eeea98"
     }
   ]
 }
