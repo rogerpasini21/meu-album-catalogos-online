@@ -518,6 +518,13 @@
       "file": "albums/pokemon-ssp-2024-standard-v1.zip",
       "bytes": 203002,
       "sha256": "9d0e885942165a8fcaaf998ee8eeb029e10c3419e808af60d918e8426420ca19"
+    },
+    {
+      "officialId": "pokemon.mew2023.standard",
+      "version": 1,
+      "file": "albums/pokemon-mew-2023-standard-v1.zip",
+      "bytes": 115339,
+      "sha256": "ce64515c60bde5ed14a2183a822ce9ada014394e088c917c408339f8ddcf7ac4"
     }
   ]
 }

@@ -1,0 +1,3148 @@
+{
+  "officialId": "pokemon.mew2023.standard",
+  "version": 1,
+  "name": "Escarlate e Violeta — 151",
+  "collection": "Escarlate e Violeta — 151",
+  "year": "2023",
+  "publisher": "The Pokémon Company / Copag",
+  "collectionType": "cards",
+  "availability": "online",
+  "description": "368 cards: 165 principais, 42 secretas, 153 reversas e 8 energias holográficas. O sufixo -R identifica o acabamento reverso. Os códigos SVE-001-HOLO a SVE-008-HOLO identificam internamente as energias, sem denominador /165. Não inclui promocionais, carimbadas ou variantes exclusivas de produtos; uma posição por tipo de energia holográfica, sem subdivisão por redemoinhos ou impressão Cosmos/HD.",
+  "plannedTotal": 368,
+  "variantCount": 0,
+  "coverAsset": "assets/album_library/imagens/pokemon_151_2023/capa.webp",
+  "libraryCategory": {
+    "id": "pokemon",
+    "name": "Pokémon",
+    "order": 80
+  },
+  "sections": [
+    {
+      "id": "principal",
+      "name": "Coleção principal",
+      "imageAsset": "assets/album_library/imagens/pokemon_151_2023/capa.webp"
+    },
+    {
+      "id": "secretas",
+      "name": "Cartas secretas",
+      "imageAsset": "assets/album_library/imagens/pokemon_151_2023/capa.webp"
+    },
+    {
+      "id": "reversas",
+      "name": "Reversas",
+      "imageAsset": "assets/album_library/imagens/pokemon_151_2023/capa.webp"
+    },
+    {
+      "id": "energias",
+      "name": "Energias holográficas",
+      "imageAsset": "assets/album_library/imagens/pokemon_151_2023/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "mew-001",
+      "number": "001/165",
+      "name": "Bulbasaur",
+      "sectionId": "principal",
+      "printedNumber": "001/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-002",
+      "number": "002/165",
+      "name": "Ivysaur",
+      "sectionId": "principal",
+      "printedNumber": "002/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-003",
+      "number": "003/165",
+      "name": "Venusaur ex",
+      "sectionId": "principal",
+      "printedNumber": "003/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-004",
+      "number": "004/165",
+      "name": "Charmander",
+      "sectionId": "principal",
+      "printedNumber": "004/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-005",
+      "number": "005/165",
+      "name": "Charmeleon",
+      "sectionId": "principal",
+      "printedNumber": "005/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-006",
+      "number": "006/165",
+      "name": "Charizard ex",
+      "sectionId": "principal",
+      "printedNumber": "006/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-007",
+      "number": "007/165",
+      "name": "Squirtle",
+      "sectionId": "principal",
+      "printedNumber": "007/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-008",
+      "number": "008/165",
+      "name": "Wartortle",
+      "sectionId": "principal",
+      "printedNumber": "008/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-009",
+      "number": "009/165",
+      "name": "Blastoise ex",
+      "sectionId": "principal",
+      "printedNumber": "009/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-010",
+      "number": "010/165",
+      "name": "Caterpie",
+      "sectionId": "principal",
+      "printedNumber": "010/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-011",
+      "number": "011/165",
+      "name": "Metapod",
+      "sectionId": "principal",
+      "printedNumber": "011/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-012",
+      "number": "012/165",
+      "name": "Butterfree",
+      "sectionId": "principal",
+      "printedNumber": "012/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-013",
+      "number": "013/165",
+      "name": "Weedle",
+      "sectionId": "principal",
+      "printedNumber": "013/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-014",
+      "number": "014/165",
+      "name": "Kakuna",
+      "sectionId": "principal",
+      "printedNumber": "014/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-015",
+      "number": "015/165",
+      "name": "Beedrill",
+      "sectionId": "principal",
+      "printedNumber": "015/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-016",
+      "number": "016/165",
+      "name": "Pidgey",
+      "sectionId": "principal",
+      "printedNumber": "016/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-017",
+      "number": "017/165",
+      "name": "Pidgeotto",
+      "sectionId": "principal",
+      "printedNumber": "017/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-018",
+      "number": "018/165",
+      "name": "Pidgeot",
+      "sectionId": "principal",
+      "printedNumber": "018/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-019",
+      "number": "019/165",
+      "name": "Rattata",
+      "sectionId": "principal",
+      "printedNumber": "019/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-020",
+      "number": "020/165",
+      "name": "Raticate",
+      "sectionId": "principal",
+      "printedNumber": "020/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-021",
+      "number": "021/165",
+      "name": "Spearow",
+      "sectionId": "principal",
+      "printedNumber": "021/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-022",
+      "number": "022/165",
+      "name": "Fearow",
+      "sectionId": "principal",
+      "printedNumber": "022/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-023",
+      "number": "023/165",
+      "name": "Ekans",
+      "sectionId": "principal",
+      "printedNumber": "023/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-024",
+      "number": "024/165",
+      "name": "Arbok ex",
+      "sectionId": "principal",
+      "printedNumber": "024/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-025",
+      "number": "025/165",
+      "name": "Pikachu",
+      "sectionId": "principal",
+      "printedNumber": "025/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-026",
+      "number": "026/165",
+      "name": "Raichu",
+      "sectionId": "principal",
+      "printedNumber": "026/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-027",
+      "number": "027/165",
+      "name": "Sandshrew",
+      "sectionId": "principal",
+      "printedNumber": "027/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-028",
+      "number": "028/165",
+      "name": "Sandslash",
+      "sectionId": "principal",
+      "printedNumber": "028/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-029",
+      "number": "029/165",
+      "name": "Nidoran Fêmea",
+      "sectionId": "principal",
+      "printedNumber": "029/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-030",
+      "number": "030/165",
+      "name": "Nidorina",
+      "sectionId": "principal",
+      "printedNumber": "030/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-031",
+      "number": "031/165",
+      "name": "Nidoqueen",
+      "sectionId": "principal",
+      "printedNumber": "031/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-032",
+      "number": "032/165",
+      "name": "Nidoran Macho",
+      "sectionId": "principal",
+      "printedNumber": "032/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-033",
+      "number": "033/165",
+      "name": "Nidorino",
+      "sectionId": "principal",
+      "printedNumber": "033/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-034",
+      "number": "034/165",
+      "name": "Nidoking",
+      "sectionId": "principal",
+      "printedNumber": "034/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-035",
+      "number": "035/165",
+      "name": "Clefairy",
+      "sectionId": "principal",
+      "printedNumber": "035/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-036",
+      "number": "036/165",
+      "name": "Clefable",
+      "sectionId": "principal",
+      "printedNumber": "036/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-037",
+      "number": "037/165",
+      "name": "Vulpix",
+      "sectionId": "principal",
+      "printedNumber": "037/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-038",
+      "number": "038/165",
+      "name": "Ninetales ex",
+      "sectionId": "principal",
+      "printedNumber": "038/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-039",
+      "number": "039/165",
+      "name": "Jigglypuff",
+      "sectionId": "principal",
+      "printedNumber": "039/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-040",
+      "number": "040/165",
+      "name": "Wigglytuff ex",
+      "sectionId": "principal",
+      "printedNumber": "040/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-041",
+      "number": "041/165",
+      "name": "Zubat",
+      "sectionId": "principal",
+      "printedNumber": "041/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-042",
+      "number": "042/165",
+      "name": "Golbat",
+      "sectionId": "principal",
+      "printedNumber": "042/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-043",
+      "number": "043/165",
+      "name": "Oddish",
+      "sectionId": "principal",
+      "printedNumber": "043/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-044",
+      "number": "044/165",
+      "name": "Gloom",
+      "sectionId": "principal",
+      "printedNumber": "044/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-045",
+      "number": "045/165",
+      "name": "Vileplume",
+      "sectionId": "principal",
+      "printedNumber": "045/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-046",
+      "number": "046/165",
+      "name": "Paras",
+      "sectionId": "principal",
+      "printedNumber": "046/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-047",
+      "number": "047/165",
+      "name": "Parasect",
+      "sectionId": "principal",
+      "printedNumber": "047/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-048",
+      "number": "048/165",
+      "name": "Venonat",
+      "sectionId": "principal",
+      "printedNumber": "048/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-049",
+      "number": "049/165",
+      "name": "Venomoth",
+      "sectionId": "principal",
+      "printedNumber": "049/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-050",
+      "number": "050/165",
+      "name": "Diglett",
+      "sectionId": "principal",
+      "printedNumber": "050/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-051",
+      "number": "051/165",
+      "name": "Dugtrio",
+      "sectionId": "principal",
+      "printedNumber": "051/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-052",
+      "number": "052/165",
+      "name": "Meowth",
+      "sectionId": "principal",
+      "printedNumber": "052/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-053",
+      "number": "053/165",
+      "name": "Persian",
+      "sectionId": "principal",
+      "printedNumber": "053/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-054",
+      "number": "054/165",
+      "name": "Psyduck",
+      "sectionId": "principal",
+      "printedNumber": "054/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-055",
+      "number": "055/165",
+      "name": "Golduck",
+      "sectionId": "principal",
+      "printedNumber": "055/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-056",
+      "number": "056/165",
+      "name": "Mankey",
+      "sectionId": "principal",
+      "printedNumber": "056/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-057",
+      "number": "057/165",
+      "name": "Primeape",
+      "sectionId": "principal",
+      "printedNumber": "057/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-058",
+      "number": "058/165",
+      "name": "Growlithe",
+      "sectionId": "principal",
+      "printedNumber": "058/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-059",
+      "number": "059/165",
+      "name": "Arcanine",
+      "sectionId": "principal",
+      "printedNumber": "059/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-060",
+      "number": "060/165",
+      "name": "Poliwag",
+      "sectionId": "principal",
+      "printedNumber": "060/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-061",
+      "number": "061/165",
+      "name": "Poliwhirl",
+      "sectionId": "principal",
+      "printedNumber": "061/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-062",
+      "number": "062/165",
+      "name": "Poliwrath",
+      "sectionId": "principal",
+      "printedNumber": "062/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-063",
+      "number": "063/165",
+      "name": "Abra",
+      "sectionId": "principal",
+      "printedNumber": "063/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-064",
+      "number": "064/165",
+      "name": "Kadabra",
+      "sectionId": "principal",
+      "printedNumber": "064/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-065",
+      "number": "065/165",
+      "name": "Alakazam ex",
+      "sectionId": "principal",
+      "printedNumber": "065/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-066",
+      "number": "066/165",
+      "name": "Machop",
+      "sectionId": "principal",
+      "printedNumber": "066/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-067",
+      "number": "067/165",
+      "name": "Machoke",
+      "sectionId": "principal",
+      "printedNumber": "067/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-068",
+      "number": "068/165",
+      "name": "Machamp",
+      "sectionId": "principal",
+      "printedNumber": "068/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-069",
+      "number": "069/165",
+      "name": "Bellsprout",
+      "sectionId": "principal",
+      "printedNumber": "069/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-070",
+      "number": "070/165",
+      "name": "Weepinbell",
+      "sectionId": "principal",
+      "printedNumber": "070/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-071",
+      "number": "071/165",
+      "name": "Victreebel",
+      "sectionId": "principal",
+      "printedNumber": "071/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-072",
+      "number": "072/165",
+      "name": "Tentacool",
+      "sectionId": "principal",
+      "printedNumber": "072/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-073",
+      "number": "073/165",
+      "name": "Tentacruel",
+      "sectionId": "principal",
+      "printedNumber": "073/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-074",
+      "number": "074/165",
+      "name": "Geodude",
+      "sectionId": "principal",
+      "printedNumber": "074/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-075",
+      "number": "075/165",
+      "name": "Graveler",
+      "sectionId": "principal",
+      "printedNumber": "075/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-076",
+      "number": "076/165",
+      "name": "Golem ex",
+      "sectionId": "principal",
+      "printedNumber": "076/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-077",
+      "number": "077/165",
+      "name": "Ponyta",
+      "sectionId": "principal",
+      "printedNumber": "077/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-078",
+      "number": "078/165",
+      "name": "Rapidash",
+      "sectionId": "principal",
+      "printedNumber": "078/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-079",
+      "number": "079/165",
+      "name": "Slowpoke",
+      "sectionId": "principal",
+      "printedNumber": "079/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-080",
+      "number": "080/165",
+      "name": "Slowbro",
+      "sectionId": "principal",
+      "printedNumber": "080/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-081",
+      "number": "081/165",
+      "name": "Magnemite",
+      "sectionId": "principal",
+      "printedNumber": "081/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-082",
+      "number": "082/165",
+      "name": "Magneton",
+      "sectionId": "principal",
+      "printedNumber": "082/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-083",
+      "number": "083/165",
+      "name": "Farfetch'd",
+      "sectionId": "principal",
+      "printedNumber": "083/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-084",
+      "number": "084/165",
+      "name": "Doduo",
+      "sectionId": "principal",
+      "printedNumber": "084/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-085",
+      "number": "085/165",
+      "name": "Dodrio",
+      "sectionId": "principal",
+      "printedNumber": "085/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-086",
+      "number": "086/165",
+      "name": "Seel",
+      "sectionId": "principal",
+      "printedNumber": "086/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-087",
+      "number": "087/165",
+      "name": "Dewgong",
+      "sectionId": "principal",
+      "printedNumber": "087/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-088",
+      "number": "088/165",
+      "name": "Grimer",
+      "sectionId": "principal",
+      "printedNumber": "088/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-089",
+      "number": "089/165",
+      "name": "Muk",
+      "sectionId": "principal",
+      "printedNumber": "089/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-090",
+      "number": "090/165",
+      "name": "Shellder",
+      "sectionId": "principal",
+      "printedNumber": "090/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-091",
+      "number": "091/165",
+      "name": "Cloyster",
+      "sectionId": "principal",
+      "printedNumber": "091/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-092",
+      "number": "092/165",
+      "name": "Gastly",
+      "sectionId": "principal",
+      "printedNumber": "092/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-093",
+      "number": "093/165",
+      "name": "Haunter",
+      "sectionId": "principal",
+      "printedNumber": "093/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-094",
+      "number": "094/165",
+      "name": "Gengar",
+      "sectionId": "principal",
+      "printedNumber": "094/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-095",
+      "number": "095/165",
+      "name": "Onix",
+      "sectionId": "principal",
+      "printedNumber": "095/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-096",
+      "number": "096/165",
+      "name": "Drowzee",
+      "sectionId": "principal",
+      "printedNumber": "096/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-097",
+      "number": "097/165",
+      "name": "Hypno",
+      "sectionId": "principal",
+      "printedNumber": "097/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-098",
+      "number": "098/165",
+      "name": "Krabby",
+      "sectionId": "principal",
+      "printedNumber": "098/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-099",
+      "number": "099/165",
+      "name": "Kingler",
+      "sectionId": "principal",
+      "printedNumber": "099/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-100",
+      "number": "100/165",
+      "name": "Voltorb",
+      "sectionId": "principal",
+      "printedNumber": "100/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-101",
+      "number": "101/165",
+      "name": "Electrode",
+      "sectionId": "principal",
+      "printedNumber": "101/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-102",
+      "number": "102/165",
+      "name": "Exeggcute",
+      "sectionId": "principal",
+      "printedNumber": "102/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-103",
+      "number": "103/165",
+      "name": "Exeggutor",
+      "sectionId": "principal",
+      "printedNumber": "103/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-104",
+      "number": "104/165",
+      "name": "Cubone",
+      "sectionId": "principal",
+      "printedNumber": "104/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-105",
+      "number": "105/165",
+      "name": "Marowak",
+      "sectionId": "principal",
+      "printedNumber": "105/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-106",
+      "number": "106/165",
+      "name": "Hitmonlee",
+      "sectionId": "principal",
+      "printedNumber": "106/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-107",
+      "number": "107/165",
+      "name": "Hitmonchan",
+      "sectionId": "principal",
+      "printedNumber": "107/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-108",
+      "number": "108/165",
+      "name": "Lickitung",
+      "sectionId": "principal",
+      "printedNumber": "108/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-109",
+      "number": "109/165",
+      "name": "Koffing",
+      "sectionId": "principal",
+      "printedNumber": "109/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-110",
+      "number": "110/165",
+      "name": "Weezing",
+      "sectionId": "principal",
+      "printedNumber": "110/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-111",
+      "number": "111/165",
+      "name": "Rhyhorn",
+      "sectionId": "principal",
+      "printedNumber": "111/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-112",
+      "number": "112/165",
+      "name": "Rhydon",
+      "sectionId": "principal",
+      "printedNumber": "112/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-113",
+      "number": "113/165",
+      "name": "Chansey",
+      "sectionId": "principal",
+      "printedNumber": "113/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-114",
+      "number": "114/165",
+      "name": "Tangela",
+      "sectionId": "principal",
+      "printedNumber": "114/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-115",
+      "number": "115/165",
+      "name": "Kangaskhan ex",
+      "sectionId": "principal",
+      "printedNumber": "115/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-116",
+      "number": "116/165",
+      "name": "Horsea",
+      "sectionId": "principal",
+      "printedNumber": "116/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-117",
+      "number": "117/165",
+      "name": "Seadra",
+      "sectionId": "principal",
+      "printedNumber": "117/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-118",
+      "number": "118/165",
+      "name": "Goldeen",
+      "sectionId": "principal",
+      "printedNumber": "118/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-119",
+      "number": "119/165",
+      "name": "Seaking",
+      "sectionId": "principal",
+      "printedNumber": "119/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-120",
+      "number": "120/165",
+      "name": "Staryu",
+      "sectionId": "principal",
+      "printedNumber": "120/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-121",
+      "number": "121/165",
+      "name": "Starmie",
+      "sectionId": "principal",
+      "printedNumber": "121/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-122",
+      "number": "122/165",
+      "name": "Mr. Mime",
+      "sectionId": "principal",
+      "printedNumber": "122/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-123",
+      "number": "123/165",
+      "name": "Scyther",
+      "sectionId": "principal",
+      "printedNumber": "123/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-124",
+      "number": "124/165",
+      "name": "Jynx ex",
+      "sectionId": "principal",
+      "printedNumber": "124/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-125",
+      "number": "125/165",
+      "name": "Electabuzz",
+      "sectionId": "principal",
+      "printedNumber": "125/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-126",
+      "number": "126/165",
+      "name": "Magmar",
+      "sectionId": "principal",
+      "printedNumber": "126/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-127",
+      "number": "127/165",
+      "name": "Pinsir",
+      "sectionId": "principal",
+      "printedNumber": "127/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-128",
+      "number": "128/165",
+      "name": "Tauros",
+      "sectionId": "principal",
+      "printedNumber": "128/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-129",
+      "number": "129/165",
+      "name": "Magikarp",
+      "sectionId": "principal",
+      "printedNumber": "129/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-130",
+      "number": "130/165",
+      "name": "Gyarados",
+      "sectionId": "principal",
+      "printedNumber": "130/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-131",
+      "number": "131/165",
+      "name": "Lapras",
+      "sectionId": "principal",
+      "printedNumber": "131/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-132",
+      "number": "132/165",
+      "name": "Ditto",
+      "sectionId": "principal",
+      "printedNumber": "132/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-133",
+      "number": "133/165",
+      "name": "Eevee",
+      "sectionId": "principal",
+      "printedNumber": "133/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-134",
+      "number": "134/165",
+      "name": "Vaporeon",
+      "sectionId": "principal",
+      "printedNumber": "134/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-135",
+      "number": "135/165",
+      "name": "Jolteon",
+      "sectionId": "principal",
+      "printedNumber": "135/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-136",
+      "number": "136/165",
+      "name": "Flareon",
+      "sectionId": "principal",
+      "printedNumber": "136/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-137",
+      "number": "137/165",
+      "name": "Porygon",
+      "sectionId": "principal",
+      "printedNumber": "137/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-138",
+      "number": "138/165",
+      "name": "Omanyte",
+      "sectionId": "principal",
+      "printedNumber": "138/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-139",
+      "number": "139/165",
+      "name": "Omastar",
+      "sectionId": "principal",
+      "printedNumber": "139/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-140",
+      "number": "140/165",
+      "name": "Kabuto",
+      "sectionId": "principal",
+      "printedNumber": "140/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-141",
+      "number": "141/165",
+      "name": "Kabutops",
+      "sectionId": "principal",
+      "printedNumber": "141/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-142",
+      "number": "142/165",
+      "name": "Aerodactyl",
+      "sectionId": "principal",
+      "printedNumber": "142/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-143",
+      "number": "143/165",
+      "name": "Snorlax",
+      "sectionId": "principal",
+      "printedNumber": "143/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-144",
+      "number": "144/165",
+      "name": "Articuno",
+      "sectionId": "principal",
+      "printedNumber": "144/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-145",
+      "number": "145/165",
+      "name": "Zapdos ex",
+      "sectionId": "principal",
+      "printedNumber": "145/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-146",
+      "number": "146/165",
+      "name": "Moltres",
+      "sectionId": "principal",
+      "printedNumber": "146/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-147",
+      "number": "147/165",
+      "name": "Dratini",
+      "sectionId": "principal",
+      "printedNumber": "147/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-148",
+      "number": "148/165",
+      "name": "Dragonair",
+      "sectionId": "principal",
+      "printedNumber": "148/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-149",
+      "number": "149/165",
+      "name": "Dragonite",
+      "sectionId": "principal",
+      "printedNumber": "149/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-150",
+      "number": "150/165",
+      "name": "Mewtwo",
+      "sectionId": "principal",
+      "printedNumber": "150/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-151",
+      "number": "151/165",
+      "name": "Mew ex",
+      "sectionId": "principal",
+      "printedNumber": "151/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-152",
+      "number": "152/165",
+      "name": "Fóssil Cúpula Arcaico",
+      "sectionId": "principal",
+      "printedNumber": "152/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-153",
+      "number": "153/165",
+      "name": "Fóssil Espiral Arcaico",
+      "sectionId": "principal",
+      "printedNumber": "153/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-154",
+      "number": "154/165",
+      "name": "Âmbar Velho Arcaico",
+      "sectionId": "principal",
+      "printedNumber": "154/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-155",
+      "number": "155/165",
+      "name": "Grande Balão de Ar",
+      "sectionId": "principal",
+      "printedNumber": "155/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-156",
+      "number": "156/165",
+      "name": "Transferência do Bill",
+      "sectionId": "principal",
+      "printedNumber": "156/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-157",
+      "number": "157/165",
+      "name": "Ciclovia",
+      "sectionId": "principal",
+      "printedNumber": "157/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-158",
+      "number": "158/165",
+      "name": "Ajuda da Daisy",
+      "sectionId": "principal",
+      "printedNumber": "158/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-159",
+      "number": "159/165",
+      "name": "Adesivo de Energia",
+      "sectionId": "principal",
+      "printedNumber": "159/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-160",
+      "number": "160/165",
+      "name": "Convite da Érica",
+      "sectionId": "principal",
+      "printedNumber": "160/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-161",
+      "number": "161/165",
+      "name": "Carisma do Giovanni",
+      "sectionId": "principal",
+      "printedNumber": "161/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-162",
+      "number": "162/165",
+      "name": "Apanhador",
+      "sectionId": "principal",
+      "printedNumber": "162/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-163",
+      "number": "163/165",
+      "name": "Sobras",
+      "sectionId": "principal",
+      "printedNumber": "163/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-164",
+      "number": "164/165",
+      "name": "Óculos Protetores",
+      "sectionId": "principal",
+      "printedNumber": "164/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-165",
+      "number": "165/165",
+      "name": "Faixa da Rigidez",
+      "sectionId": "principal",
+      "printedNumber": "165/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-166",
+      "number": "166/165",
+      "name": "Bulbasaur",
+      "sectionId": "secretas",
+      "printedNumber": "166/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-167",
+      "number": "167/165",
+      "name": "Ivysaur",
+      "sectionId": "secretas",
+      "printedNumber": "167/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-168",
+      "number": "168/165",
+      "name": "Charmander",
+      "sectionId": "secretas",
+      "printedNumber": "168/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-169",
+      "number": "169/165",
+      "name": "Charmeleon",
+      "sectionId": "secretas",
+      "printedNumber": "169/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-170",
+      "number": "170/165",
+      "name": "Squirtle",
+      "sectionId": "secretas",
+      "printedNumber": "170/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-171",
+      "number": "171/165",
+      "name": "Wartortle",
+      "sectionId": "secretas",
+      "printedNumber": "171/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-172",
+      "number": "172/165",
+      "name": "Caterpie",
+      "sectionId": "secretas",
+      "printedNumber": "172/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-173",
+      "number": "173/165",
+      "name": "Pikachu",
+      "sectionId": "secretas",
+      "printedNumber": "173/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-174",
+      "number": "174/165",
+      "name": "Nidoking",
+      "sectionId": "secretas",
+      "printedNumber": "174/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-175",
+      "number": "175/165",
+      "name": "Psyduck",
+      "sectionId": "secretas",
+      "printedNumber": "175/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-176",
+      "number": "176/165",
+      "name": "Poliwhirl",
+      "sectionId": "secretas",
+      "printedNumber": "176/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-177",
+      "number": "177/165",
+      "name": "Machoke",
+      "sectionId": "secretas",
+      "printedNumber": "177/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-178",
+      "number": "178/165",
+      "name": "Tangela",
+      "sectionId": "secretas",
+      "printedNumber": "178/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-179",
+      "number": "179/165",
+      "name": "Mr. Mime",
+      "sectionId": "secretas",
+      "printedNumber": "179/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-180",
+      "number": "180/165",
+      "name": "Omanyte",
+      "sectionId": "secretas",
+      "printedNumber": "180/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-181",
+      "number": "181/165",
+      "name": "Dragonair",
+      "sectionId": "secretas",
+      "printedNumber": "181/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-182",
+      "number": "182/165",
+      "name": "Venusaur ex",
+      "sectionId": "secretas",
+      "printedNumber": "182/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-183",
+      "number": "183/165",
+      "name": "Charizard ex",
+      "sectionId": "secretas",
+      "printedNumber": "183/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-184",
+      "number": "184/165",
+      "name": "Blastoise ex",
+      "sectionId": "secretas",
+      "printedNumber": "184/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-185",
+      "number": "185/165",
+      "name": "Arbok ex",
+      "sectionId": "secretas",
+      "printedNumber": "185/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-186",
+      "number": "186/165",
+      "name": "Ninetales ex",
+      "sectionId": "secretas",
+      "printedNumber": "186/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-187",
+      "number": "187/165",
+      "name": "Wigglytuff ex",
+      "sectionId": "secretas",
+      "printedNumber": "187/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-188",
+      "number": "188/165",
+      "name": "Alakazam ex",
+      "sectionId": "secretas",
+      "printedNumber": "188/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-189",
+      "number": "189/165",
+      "name": "Golem ex",
+      "sectionId": "secretas",
+      "printedNumber": "189/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-190",
+      "number": "190/165",
+      "name": "Kangaskhan ex",
+      "sectionId": "secretas",
+      "printedNumber": "190/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-191",
+      "number": "191/165",
+      "name": "Jynx ex",
+      "sectionId": "secretas",
+      "printedNumber": "191/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-192",
+      "number": "192/165",
+      "name": "Zapdos ex",
+      "sectionId": "secretas",
+      "printedNumber": "192/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-193",
+      "number": "193/165",
+      "name": "Mew ex",
+      "sectionId": "secretas",
+      "printedNumber": "193/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-194",
+      "number": "194/165",
+      "name": "Transferência do Bill",
+      "sectionId": "secretas",
+      "printedNumber": "194/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-195",
+      "number": "195/165",
+      "name": "Ajuda da Daisy",
+      "sectionId": "secretas",
+      "printedNumber": "195/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-196",
+      "number": "196/165",
+      "name": "Convite da Érica",
+      "sectionId": "secretas",
+      "printedNumber": "196/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-197",
+      "number": "197/165",
+      "name": "Carisma do Giovanni",
+      "sectionId": "secretas",
+      "printedNumber": "197/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-198",
+      "number": "198/165",
+      "name": "Venusaur ex",
+      "sectionId": "secretas",
+      "printedNumber": "198/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-199",
+      "number": "199/165",
+      "name": "Charizard ex",
+      "sectionId": "secretas",
+      "printedNumber": "199/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-200",
+      "number": "200/165",
+      "name": "Blastoise ex",
+      "sectionId": "secretas",
+      "printedNumber": "200/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-201",
+      "number": "201/165",
+      "name": "Alakazam ex",
+      "sectionId": "secretas",
+      "printedNumber": "201/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-202",
+      "number": "202/165",
+      "name": "Zapdos ex",
+      "sectionId": "secretas",
+      "printedNumber": "202/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-203",
+      "number": "203/165",
+      "name": "Convite da Érica",
+      "sectionId": "secretas",
+      "printedNumber": "203/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-204",
+      "number": "204/165",
+      "name": "Carisma do Giovanni",
+      "sectionId": "secretas",
+      "printedNumber": "204/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-205",
+      "number": "205/165",
+      "name": "Mew ex",
+      "sectionId": "secretas",
+      "printedNumber": "205/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-206",
+      "number": "206/165",
+      "name": "Substituição",
+      "sectionId": "secretas",
+      "printedNumber": "206/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-207",
+      "number": "207/165",
+      "name": "Energia Psíquica",
+      "sectionId": "secretas",
+      "printedNumber": "207/165",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "mew-001-r",
+      "number": "001/165-R",
+      "name": "Bulbasaur (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "001/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-002-r",
+      "number": "002/165-R",
+      "name": "Ivysaur (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "002/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-004-r",
+      "number": "004/165-R",
+      "name": "Charmander (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "004/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-005-r",
+      "number": "005/165-R",
+      "name": "Charmeleon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "005/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-007-r",
+      "number": "007/165-R",
+      "name": "Squirtle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "007/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-008-r",
+      "number": "008/165-R",
+      "name": "Wartortle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "008/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-010-r",
+      "number": "010/165-R",
+      "name": "Caterpie (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "010/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-011-r",
+      "number": "011/165-R",
+      "name": "Metapod (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "011/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-012-r",
+      "number": "012/165-R",
+      "name": "Butterfree (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "012/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-013-r",
+      "number": "013/165-R",
+      "name": "Weedle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "013/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-014-r",
+      "number": "014/165-R",
+      "name": "Kakuna (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "014/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-015-r",
+      "number": "015/165-R",
+      "name": "Beedrill (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "015/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-016-r",
+      "number": "016/165-R",
+      "name": "Pidgey (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "016/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-017-r",
+      "number": "017/165-R",
+      "name": "Pidgeotto (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "017/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-018-r",
+      "number": "018/165-R",
+      "name": "Pidgeot (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "018/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-019-r",
+      "number": "019/165-R",
+      "name": "Rattata (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "019/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-020-r",
+      "number": "020/165-R",
+      "name": "Raticate (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "020/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-021-r",
+      "number": "021/165-R",
+      "name": "Spearow (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "021/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-022-r",
+      "number": "022/165-R",
+      "name": "Fearow (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "022/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-023-r",
+      "number": "023/165-R",
+      "name": "Ekans (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "023/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-025-r",
+      "number": "025/165-R",
+      "name": "Pikachu (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "025/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-026-r",
+      "number": "026/165-R",
+      "name": "Raichu (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "026/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-027-r",
+      "number": "027/165-R",
+      "name": "Sandshrew (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "027/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-028-r",
+      "number": "028/165-R",
+      "name": "Sandslash (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "028/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-029-r",
+      "number": "029/165-R",
+      "name": "Nidoran Fêmea (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "029/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-030-r",
+      "number": "030/165-R",
+      "name": "Nidorina (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "030/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-031-r",
+      "number": "031/165-R",
+      "name": "Nidoqueen (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "031/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-032-r",
+      "number": "032/165-R",
+      "name": "Nidoran Macho (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "032/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-033-r",
+      "number": "033/165-R",
+      "name": "Nidorino (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "033/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-034-r",
+      "number": "034/165-R",
+      "name": "Nidoking (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "034/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-035-r",
+      "number": "035/165-R",
+      "name": "Clefairy (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "035/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-036-r",
+      "number": "036/165-R",
+      "name": "Clefable (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "036/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-037-r",
+      "number": "037/165-R",
+      "name": "Vulpix (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "037/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-039-r",
+      "number": "039/165-R",
+      "name": "Jigglypuff (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "039/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-041-r",
+      "number": "041/165-R",
+      "name": "Zubat (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "041/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-042-r",
+      "number": "042/165-R",
+      "name": "Golbat (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "042/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-043-r",
+      "number": "043/165-R",
+      "name": "Oddish (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "043/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-044-r",
+      "number": "044/165-R",
+      "name": "Gloom (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "044/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-045-r",
+      "number": "045/165-R",
+      "name": "Vileplume (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "045/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-046-r",
+      "number": "046/165-R",
+      "name": "Paras (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "046/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-047-r",
+      "number": "047/165-R",
+      "name": "Parasect (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "047/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-048-r",
+      "number": "048/165-R",
+      "name": "Venonat (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "048/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-049-r",
+      "number": "049/165-R",
+      "name": "Venomoth (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "049/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-050-r",
+      "number": "050/165-R",
+      "name": "Diglett (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "050/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-051-r",
+      "number": "051/165-R",
+      "name": "Dugtrio (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "051/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-052-r",
+      "number": "052/165-R",
+      "name": "Meowth (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "052/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-053-r",
+      "number": "053/165-R",
+      "name": "Persian (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "053/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-054-r",
+      "number": "054/165-R",
+      "name": "Psyduck (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "054/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-055-r",
+      "number": "055/165-R",
+      "name": "Golduck (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "055/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-056-r",
+      "number": "056/165-R",
+      "name": "Mankey (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "056/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-057-r",
+      "number": "057/165-R",
+      "name": "Primeape (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "057/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-058-r",
+      "number": "058/165-R",
+      "name": "Growlithe (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "058/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-059-r",
+      "number": "059/165-R",
+      "name": "Arcanine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "059/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-060-r",
+      "number": "060/165-R",
+      "name": "Poliwag (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "060/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-061-r",
+      "number": "061/165-R",
+      "name": "Poliwhirl (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "061/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-062-r",
+      "number": "062/165-R",
+      "name": "Poliwrath (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "062/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-063-r",
+      "number": "063/165-R",
+      "name": "Abra (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "063/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-064-r",
+      "number": "064/165-R",
+      "name": "Kadabra (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "064/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-066-r",
+      "number": "066/165-R",
+      "name": "Machop (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "066/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-067-r",
+      "number": "067/165-R",
+      "name": "Machoke (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "067/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-068-r",
+      "number": "068/165-R",
+      "name": "Machamp (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "068/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-069-r",
+      "number": "069/165-R",
+      "name": "Bellsprout (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "069/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-070-r",
+      "number": "070/165-R",
+      "name": "Weepinbell (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "070/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-071-r",
+      "number": "071/165-R",
+      "name": "Victreebel (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "071/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-072-r",
+      "number": "072/165-R",
+      "name": "Tentacool (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "072/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-073-r",
+      "number": "073/165-R",
+      "name": "Tentacruel (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "073/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-074-r",
+      "number": "074/165-R",
+      "name": "Geodude (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "074/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-075-r",
+      "number": "075/165-R",
+      "name": "Graveler (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "075/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-077-r",
+      "number": "077/165-R",
+      "name": "Ponyta (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "077/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-078-r",
+      "number": "078/165-R",
+      "name": "Rapidash (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "078/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-079-r",
+      "number": "079/165-R",
+      "name": "Slowpoke (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "079/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-080-r",
+      "number": "080/165-R",
+      "name": "Slowbro (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "080/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-081-r",
+      "number": "081/165-R",
+      "name": "Magnemite (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "081/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-082-r",
+      "number": "082/165-R",
+      "name": "Magneton (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "082/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-083-r",
+      "number": "083/165-R",
+      "name": "Farfetch'd (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "083/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-084-r",
+      "number": "084/165-R",
+      "name": "Doduo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "084/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-085-r",
+      "number": "085/165-R",
+      "name": "Dodrio (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "085/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-086-r",
+      "number": "086/165-R",
+      "name": "Seel (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "086/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-087-r",
+      "number": "087/165-R",
+      "name": "Dewgong (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "087/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-088-r",
+      "number": "088/165-R",
+      "name": "Grimer (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "088/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-089-r",
+      "number": "089/165-R",
+      "name": "Muk (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "089/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-090-r",
+      "number": "090/165-R",
+      "name": "Shellder (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "090/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-091-r",
+      "number": "091/165-R",
+      "name": "Cloyster (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "091/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-092-r",
+      "number": "092/165-R",
+      "name": "Gastly (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "092/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-093-r",
+      "number": "093/165-R",
+      "name": "Haunter (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "093/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-094-r",
+      "number": "094/165-R",
+      "name": "Gengar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "094/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-095-r",
+      "number": "095/165-R",
+      "name": "Onix (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "095/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-096-r",
+      "number": "096/165-R",
+      "name": "Drowzee (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "096/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-097-r",
+      "number": "097/165-R",
+      "name": "Hypno (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "097/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-098-r",
+      "number": "098/165-R",
+      "name": "Krabby (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "098/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-099-r",
+      "number": "099/165-R",
+      "name": "Kingler (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "099/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-100-r",
+      "number": "100/165-R",
+      "name": "Voltorb (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "100/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-101-r",
+      "number": "101/165-R",
+      "name": "Electrode (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "101/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-102-r",
+      "number": "102/165-R",
+      "name": "Exeggcute (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "102/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-103-r",
+      "number": "103/165-R",
+      "name": "Exeggutor (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "103/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-104-r",
+      "number": "104/165-R",
+      "name": "Cubone (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "104/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-105-r",
+      "number": "105/165-R",
+      "name": "Marowak (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "105/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-106-r",
+      "number": "106/165-R",
+      "name": "Hitmonlee (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "106/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-107-r",
+      "number": "107/165-R",
+      "name": "Hitmonchan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "107/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-108-r",
+      "number": "108/165-R",
+      "name": "Lickitung (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "108/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-109-r",
+      "number": "109/165-R",
+      "name": "Koffing (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "109/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-110-r",
+      "number": "110/165-R",
+      "name": "Weezing (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "110/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-111-r",
+      "number": "111/165-R",
+      "name": "Rhyhorn (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "111/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-112-r",
+      "number": "112/165-R",
+      "name": "Rhydon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "112/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-113-r",
+      "number": "113/165-R",
+      "name": "Chansey (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "113/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-114-r",
+      "number": "114/165-R",
+      "name": "Tangela (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "114/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-116-r",
+      "number": "116/165-R",
+      "name": "Horsea (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "116/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-117-r",
+      "number": "117/165-R",
+      "name": "Seadra (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "117/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-118-r",
+      "number": "118/165-R",
+      "name": "Goldeen (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "118/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-119-r",
+      "number": "119/165-R",
+      "name": "Seaking (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "119/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-120-r",
+      "number": "120/165-R",
+      "name": "Staryu (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "120/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-121-r",
+      "number": "121/165-R",
+      "name": "Starmie (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "121/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-122-r",
+      "number": "122/165-R",
+      "name": "Mr. Mime (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "122/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-123-r",
+      "number": "123/165-R",
+      "name": "Scyther (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "123/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-125-r",
+      "number": "125/165-R",
+      "name": "Electabuzz (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "125/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-126-r",
+      "number": "126/165-R",
+      "name": "Magmar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "126/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-127-r",
+      "number": "127/165-R",
+      "name": "Pinsir (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "127/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-128-r",
+      "number": "128/165-R",
+      "name": "Tauros (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "128/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-129-r",
+      "number": "129/165-R",
+      "name": "Magikarp (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "129/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-130-r",
+      "number": "130/165-R",
+      "name": "Gyarados (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "130/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-131-r",
+      "number": "131/165-R",
+      "name": "Lapras (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "131/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-132-r",
+      "number": "132/165-R",
+      "name": "Ditto (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "132/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-133-r",
+      "number": "133/165-R",
+      "name": "Eevee (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "133/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-134-r",
+      "number": "134/165-R",
+      "name": "Vaporeon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "134/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-135-r",
+      "number": "135/165-R",
+      "name": "Jolteon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "135/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-136-r",
+      "number": "136/165-R",
+      "name": "Flareon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "136/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-137-r",
+      "number": "137/165-R",
+      "name": "Porygon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "137/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-138-r",
+      "number": "138/165-R",
+      "name": "Omanyte (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "138/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-139-r",
+      "number": "139/165-R",
+      "name": "Omastar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "139/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-140-r",
+      "number": "140/165-R",
+      "name": "Kabuto (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "140/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-141-r",
+      "number": "141/165-R",
+      "name": "Kabutops (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "141/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-142-r",
+      "number": "142/165-R",
+      "name": "Aerodactyl (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "142/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-143-r",
+      "number": "143/165-R",
+      "name": "Snorlax (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "143/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-144-r",
+      "number": "144/165-R",
+      "name": "Articuno (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "144/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-146-r",
+      "number": "146/165-R",
+      "name": "Moltres (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "146/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-147-r",
+      "number": "147/165-R",
+      "name": "Dratini (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "147/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-148-r",
+      "number": "148/165-R",
+      "name": "Dragonair (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "148/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-149-r",
+      "number": "149/165-R",
+      "name": "Dragonite (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "149/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-150-r",
+      "number": "150/165-R",
+      "name": "Mewtwo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "150/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-152-r",
+      "number": "152/165-R",
+      "name": "Fóssil Cúpula Arcaico (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "152/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-153-r",
+      "number": "153/165-R",
+      "name": "Fóssil Espiral Arcaico (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "153/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-154-r",
+      "number": "154/165-R",
+      "name": "Âmbar Velho Arcaico (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "154/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-155-r",
+      "number": "155/165-R",
+      "name": "Grande Balão de Ar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "155/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-156-r",
+      "number": "156/165-R",
+      "name": "Transferência do Bill (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "156/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-157-r",
+      "number": "157/165-R",
+      "name": "Ciclovia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "157/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-158-r",
+      "number": "158/165-R",
+      "name": "Ajuda da Daisy (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "158/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-159-r",
+      "number": "159/165-R",
+      "name": "Adesivo de Energia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "159/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-160-r",
+      "number": "160/165-R",
+      "name": "Convite da Érica (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "160/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-161-r",
+      "number": "161/165-R",
+      "name": "Carisma do Giovanni (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "161/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-162-r",
+      "number": "162/165-R",
+      "name": "Apanhador (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "162/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-163-r",
+      "number": "163/165-R",
+      "name": "Sobras (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "163/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-164-r",
+      "number": "164/165-R",
+      "name": "Óculos Protetores (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "164/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-165-r",
+      "number": "165/165-R",
+      "name": "Faixa da Rigidez (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "165/165",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "mew-sve-001-holo",
+      "number": "SVE-001-HOLO",
+      "name": "Energia de Grama (Holográfica)",
+      "sectionId": "energias",
+      "printedNumber": "001",
+      "countsTowardCompletion": true,
+      "finish": "cosmos-holo"
+    },
+    {
+      "id": "mew-sve-002-holo",
+      "number": "SVE-002-HOLO",
+      "name": "Energia de Fogo (Holográfica)",
+      "sectionId": "energias",
+      "printedNumber": "002",
+      "countsTowardCompletion": true,
+      "finish": "cosmos-holo"
+    },
+    {
+      "id": "mew-sve-003-holo",
+      "number": "SVE-003-HOLO",
+      "name": "Energia de Água (Holográfica)",
+      "sectionId": "energias",
+      "printedNumber": "003",
+      "countsTowardCompletion": true,
+      "finish": "cosmos-holo"
+    },
+    {
+      "id": "mew-sve-004-holo",
+      "number": "SVE-004-HOLO",
+      "name": "Energia de Raio (Holográfica)",
+      "sectionId": "energias",
+      "printedNumber": "004",
+      "countsTowardCompletion": true,
+      "finish": "cosmos-holo"
+    },
+    {
+      "id": "mew-sve-005-holo",
+      "number": "SVE-005-HOLO",
+      "name": "Energia Psíquica (Holográfica)",
+      "sectionId": "energias",
+      "printedNumber": "005",
+      "countsTowardCompletion": true,
+      "finish": "cosmos-holo"
+    },
+    {
+      "id": "mew-sve-006-holo",
+      "number": "SVE-006-HOLO",
+      "name": "Energia de Luta (Holográfica)",
+      "sectionId": "energias",
+      "printedNumber": "006",
+      "countsTowardCompletion": true,
+      "finish": "cosmos-holo"
+    },
+    {
+      "id": "mew-sve-007-holo",
+      "number": "SVE-007-HOLO",
+      "name": "Energia de Escuridão (Holográfica)",
+      "sectionId": "energias",
+      "printedNumber": "007",
+      "countsTowardCompletion": true,
+      "finish": "cosmos-holo"
+    },
+    {
+      "id": "mew-sve-008-holo",
+      "number": "SVE-008-HOLO",
+      "name": "Energia de Metal (Holográfica)",
+      "sectionId": "energias",
+      "printedNumber": "008",
+      "countsTowardCompletion": true,
+      "finish": "cosmos-holo"
+    }
+  ]
+}
