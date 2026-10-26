@@ -497,6 +497,13 @@
       "file": "albums/pokemon-dri-2025-standard-v1.zip",
       "bytes": 87490,
       "sha256": "e9c2f4eaf3a7e90b6b3599c30e31e8cb5398536cf60f3829f1371d84a6d816f7"
+    },
+    {
+      "officialId": "pokemon.jtg2025.standard",
+      "version": 1,
+      "file": "albums/pokemon-jtg-2025-standard-v1.zip",
+      "bytes": 143034,
+      "sha256": "37fae47c36bfdc32888d10cf1464b888c0d02f152f70dc7b7da40f7bd15e0518"
     }
   ]
 }
