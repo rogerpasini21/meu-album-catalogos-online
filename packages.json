@@ -455,6 +455,13 @@
       "file": "albums/pokemon-asc-2026-standard-v1.zip",
       "bytes": 160118,
       "sha256": "92e5692a9796d61cc71706f059e845f75407ed776778ce92204d111223948f07"
+    },
+    {
+      "officialId": "pokemon.por2026.standard",
+      "version": 1,
+      "file": "albums/pokemon-por-2026-standard-v1.zip",
+      "bytes": 113788,
+      "sha256": "1d01c6cdd9789ca3e2c6401b55b83151ec3735d8c9fa13e1d1d223a575202940"
     }
   ]
 }
