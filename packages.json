@@ -462,6 +462,13 @@
       "file": "albums/pokemon-por-2026-standard-v1.zip",
       "bytes": 113788,
       "sha256": "1d01c6cdd9789ca3e2c6401b55b83151ec3735d8c9fa13e1d1d223a575202940"
+    },
+    {
+      "officialId": "pokemon.pfl2025.standard",
+      "version": 1,
+      "file": "albums/pokemon-pfl-2025-standard-v1.zip",
+      "bytes": 104717,
+      "sha256": "95d40898ee1c7d7a807b127165145886b0c9d93dc92e41d668f0dee6edf32ea8"
     }
   ]
 }

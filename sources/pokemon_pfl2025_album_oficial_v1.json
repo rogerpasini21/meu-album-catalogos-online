@@ -1,0 +1,1834 @@
+{
+  "officialId": "pokemon.pfl2025.standard",
+  "version": 1,
+  "name": "Megaevolução — Fogo Fantasmagórico",
+  "collection": "Megaevolução — Fogo Fantasmagórico",
+  "year": "2025",
+  "publisher": "The Pokémon Company / Copag",
+  "collectionType": "cards",
+  "availability": "online",
+  "description": "214 cards: 94 da coleção principal, 36 cartas secretas e 84 versões reversas. O sufixo -R identifica o acabamento reverso. Não inclui promocionais, carimbadas ou variantes exclusivas de produtos.",
+  "plannedTotal": 214,
+  "variantCount": 0,
+  "coverAsset": "assets/album_library/imagens/pokemon_fogo_fantasmagorico2025/capa.webp",
+  "libraryCategory": {
+    "id": "pokemon",
+    "name": "Pokémon",
+    "order": 80
+  },
+  "sections": [
+    {
+      "id": "principal",
+      "name": "Coleção principal",
+      "imageAsset": "assets/album_library/imagens/pokemon_fogo_fantasmagorico2025/capa.webp"
+    },
+    {
+      "id": "secretas",
+      "name": "Cartas secretas",
+      "imageAsset": "assets/album_library/imagens/pokemon_fogo_fantasmagorico2025/capa.webp"
+    },
+    {
+      "id": "reversas",
+      "name": "Reversas",
+      "imageAsset": "assets/album_library/imagens/pokemon_fogo_fantasmagorico2025/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "pfl-001",
+      "number": "001/094",
+      "name": "Oddish",
+      "sectionId": "principal",
+      "printedNumber": "001/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-002",
+      "number": "002/094",
+      "name": "Gloom",
+      "sectionId": "principal",
+      "printedNumber": "002/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-003",
+      "number": "003/094",
+      "name": "Vileplume",
+      "sectionId": "principal",
+      "printedNumber": "003/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-004",
+      "number": "004/094",
+      "name": "Mega Heracross ex",
+      "sectionId": "principal",
+      "printedNumber": "004/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-005",
+      "number": "005/094",
+      "name": "Lotad",
+      "sectionId": "principal",
+      "printedNumber": "005/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-006",
+      "number": "006/094",
+      "name": "Lombre",
+      "sectionId": "principal",
+      "printedNumber": "006/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-007",
+      "number": "007/094",
+      "name": "Ludicolo",
+      "sectionId": "principal",
+      "printedNumber": "007/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-008",
+      "number": "008/094",
+      "name": "Genesect",
+      "sectionId": "principal",
+      "printedNumber": "008/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-009",
+      "number": "009/094",
+      "name": "Nymble",
+      "sectionId": "principal",
+      "printedNumber": "009/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-010",
+      "number": "010/094",
+      "name": "Lokix",
+      "sectionId": "principal",
+      "printedNumber": "010/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-011",
+      "number": "011/094",
+      "name": "Charmander",
+      "sectionId": "principal",
+      "printedNumber": "011/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-012",
+      "number": "012/094",
+      "name": "Charmeleon",
+      "sectionId": "principal",
+      "printedNumber": "012/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-013",
+      "number": "013/094",
+      "name": "Mega Charizard X ex",
+      "sectionId": "principal",
+      "printedNumber": "013/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-014",
+      "number": "014/094",
+      "name": "Moltres",
+      "sectionId": "principal",
+      "printedNumber": "014/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-015",
+      "number": "015/094",
+      "name": "Darumaka",
+      "sectionId": "principal",
+      "printedNumber": "015/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-016",
+      "number": "016/094",
+      "name": "Darmanitan",
+      "sectionId": "principal",
+      "printedNumber": "016/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-017",
+      "number": "017/094",
+      "name": "Reshiram",
+      "sectionId": "principal",
+      "printedNumber": "017/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-018",
+      "number": "018/094",
+      "name": "Oricorio ex",
+      "sectionId": "principal",
+      "printedNumber": "018/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-019",
+      "number": "019/094",
+      "name": "Charcadet",
+      "sectionId": "principal",
+      "printedNumber": "019/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-020",
+      "number": "020/094",
+      "name": "Ceruledge",
+      "sectionId": "principal",
+      "printedNumber": "020/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-021",
+      "number": "021/094",
+      "name": "Seel",
+      "sectionId": "principal",
+      "printedNumber": "021/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-022",
+      "number": "022/094",
+      "name": "Dewgong",
+      "sectionId": "principal",
+      "printedNumber": "022/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-023",
+      "number": "023/094",
+      "name": "Swinub",
+      "sectionId": "principal",
+      "printedNumber": "023/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-024",
+      "number": "024/094",
+      "name": "Piloswine",
+      "sectionId": "principal",
+      "printedNumber": "024/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-025",
+      "number": "025/094",
+      "name": "Mamoswine",
+      "sectionId": "principal",
+      "printedNumber": "025/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-026",
+      "number": "026/094",
+      "name": "Suicune",
+      "sectionId": "principal",
+      "printedNumber": "026/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-027",
+      "number": "027/094",
+      "name": "Piplup",
+      "sectionId": "principal",
+      "printedNumber": "027/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-028",
+      "number": "028/094",
+      "name": "Prinplup",
+      "sectionId": "principal",
+      "printedNumber": "028/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-029",
+      "number": "029/094",
+      "name": "Rotom ex",
+      "sectionId": "principal",
+      "printedNumber": "029/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-030",
+      "number": "030/094",
+      "name": "Yamper",
+      "sectionId": "principal",
+      "printedNumber": "030/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-031",
+      "number": "031/094",
+      "name": "Boltund",
+      "sectionId": "principal",
+      "printedNumber": "031/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-032",
+      "number": "032/094",
+      "name": "Pawmi",
+      "sectionId": "principal",
+      "printedNumber": "032/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-033",
+      "number": "033/094",
+      "name": "Pawmo",
+      "sectionId": "principal",
+      "printedNumber": "033/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-034",
+      "number": "034/094",
+      "name": "Pawmot",
+      "sectionId": "principal",
+      "printedNumber": "034/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-035",
+      "number": "035/094",
+      "name": "Misdreavus",
+      "sectionId": "principal",
+      "printedNumber": "035/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-036",
+      "number": "036/094",
+      "name": "Mismagius ex",
+      "sectionId": "principal",
+      "printedNumber": "036/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-037",
+      "number": "037/094",
+      "name": "Snubbull",
+      "sectionId": "principal",
+      "printedNumber": "037/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-038",
+      "number": "038/094",
+      "name": "Granbull",
+      "sectionId": "principal",
+      "printedNumber": "038/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-039",
+      "number": "039/094",
+      "name": "Cresselia",
+      "sectionId": "principal",
+      "printedNumber": "039/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-040",
+      "number": "040/094",
+      "name": "Meloetta",
+      "sectionId": "principal",
+      "printedNumber": "040/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-041",
+      "number": "041/094",
+      "name": "Mega Diancie ex",
+      "sectionId": "principal",
+      "printedNumber": "041/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-042",
+      "number": "042/094",
+      "name": "Mimikyu",
+      "sectionId": "principal",
+      "printedNumber": "042/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-043",
+      "number": "043/094",
+      "name": "Milcery",
+      "sectionId": "principal",
+      "printedNumber": "043/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-044",
+      "number": "044/094",
+      "name": "Alcremie",
+      "sectionId": "principal",
+      "printedNumber": "044/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-045",
+      "number": "045/094",
+      "name": "Zacian",
+      "sectionId": "principal",
+      "printedNumber": "045/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-046",
+      "number": "046/094",
+      "name": "Bramblin",
+      "sectionId": "principal",
+      "printedNumber": "046/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-047",
+      "number": "047/094",
+      "name": "Brambleghast",
+      "sectionId": "principal",
+      "printedNumber": "047/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-048",
+      "number": "048/094",
+      "name": "Tauros de Paldea",
+      "sectionId": "principal",
+      "printedNumber": "048/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-049",
+      "number": "049/094",
+      "name": "Gligar",
+      "sectionId": "principal",
+      "printedNumber": "049/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-050",
+      "number": "050/094",
+      "name": "Gliscor",
+      "sectionId": "principal",
+      "printedNumber": "050/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-051",
+      "number": "051/094",
+      "name": "Trapinch",
+      "sectionId": "principal",
+      "printedNumber": "051/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-052",
+      "number": "052/094",
+      "name": "Vibrava",
+      "sectionId": "principal",
+      "printedNumber": "052/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-053",
+      "number": "053/094",
+      "name": "Flygon",
+      "sectionId": "principal",
+      "printedNumber": "053/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-054",
+      "number": "054/094",
+      "name": "Gastly",
+      "sectionId": "principal",
+      "printedNumber": "054/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-055",
+      "number": "055/094",
+      "name": "Haunter",
+      "sectionId": "principal",
+      "printedNumber": "055/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-056",
+      "number": "056/094",
+      "name": "Mega Gengar ex",
+      "sectionId": "principal",
+      "printedNumber": "056/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-057",
+      "number": "057/094",
+      "name": "Murkrow",
+      "sectionId": "principal",
+      "printedNumber": "057/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-058",
+      "number": "058/094",
+      "name": "Honchkrow",
+      "sectionId": "principal",
+      "printedNumber": "058/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-059",
+      "number": "059/094",
+      "name": "Sableye",
+      "sectionId": "principal",
+      "printedNumber": "059/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-060",
+      "number": "060/094",
+      "name": "Carvanha",
+      "sectionId": "principal",
+      "printedNumber": "060/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-061",
+      "number": "061/094",
+      "name": "Mega Sharpedo ex",
+      "sectionId": "principal",
+      "printedNumber": "061/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-062",
+      "number": "062/094",
+      "name": "Seviper",
+      "sectionId": "principal",
+      "printedNumber": "062/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-063",
+      "number": "063/094",
+      "name": "Absol",
+      "sectionId": "principal",
+      "printedNumber": "063/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-064",
+      "number": "064/094",
+      "name": "Sandile",
+      "sectionId": "principal",
+      "printedNumber": "064/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-065",
+      "number": "065/094",
+      "name": "Krokorok",
+      "sectionId": "principal",
+      "printedNumber": "065/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-066",
+      "number": "066/094",
+      "name": "Krookodile",
+      "sectionId": "principal",
+      "printedNumber": "066/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-067",
+      "number": "067/094",
+      "name": "Toxel",
+      "sectionId": "principal",
+      "printedNumber": "067/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-068",
+      "number": "068/094",
+      "name": "Toxtricity",
+      "sectionId": "principal",
+      "printedNumber": "068/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-069",
+      "number": "069/094",
+      "name": "Eternatus",
+      "sectionId": "principal",
+      "printedNumber": "069/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-070",
+      "number": "070/094",
+      "name": "Empoleon ex",
+      "sectionId": "principal",
+      "printedNumber": "070/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-071",
+      "number": "071/094",
+      "name": "Bronzor",
+      "sectionId": "principal",
+      "printedNumber": "071/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-072",
+      "number": "072/094",
+      "name": "Bronzong",
+      "sectionId": "principal",
+      "printedNumber": "072/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-073",
+      "number": "073/094",
+      "name": "Togedemaru",
+      "sectionId": "principal",
+      "printedNumber": "073/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-074",
+      "number": "074/094",
+      "name": "Duraludon",
+      "sectionId": "principal",
+      "printedNumber": "074/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-075",
+      "number": "075/094",
+      "name": "Archaludon",
+      "sectionId": "principal",
+      "printedNumber": "075/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-076",
+      "number": "076/094",
+      "name": "Jigglypuff",
+      "sectionId": "principal",
+      "printedNumber": "076/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-077",
+      "number": "077/094",
+      "name": "Wigglytuff",
+      "sectionId": "principal",
+      "printedNumber": "077/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-078",
+      "number": "078/094",
+      "name": "Aipom",
+      "sectionId": "principal",
+      "printedNumber": "078/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-079",
+      "number": "079/094",
+      "name": "Ambipom",
+      "sectionId": "principal",
+      "printedNumber": "079/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-080",
+      "number": "080/094",
+      "name": "Smeargle",
+      "sectionId": "principal",
+      "printedNumber": "080/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-081",
+      "number": "081/094",
+      "name": "Zigzagoon",
+      "sectionId": "principal",
+      "printedNumber": "081/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-082",
+      "number": "082/094",
+      "name": "Linoone",
+      "sectionId": "principal",
+      "printedNumber": "082/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-083",
+      "number": "083/094",
+      "name": "Buneary",
+      "sectionId": "principal",
+      "printedNumber": "083/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-084",
+      "number": "084/094",
+      "name": "Mega Lopunny ex",
+      "sectionId": "principal",
+      "printedNumber": "084/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-085",
+      "number": "085/094",
+      "name": "Jaula de Batalha",
+      "sectionId": "principal",
+      "printedNumber": "085/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-086",
+      "number": "086/094",
+      "name": "Maçarico",
+      "sectionId": "principal",
+      "printedNumber": "086/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-087",
+      "number": "087/094",
+      "name": "Dawn",
+      "sectionId": "principal",
+      "printedNumber": "087/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-088",
+      "number": "088/094",
+      "name": "Vale Vertiginoso",
+      "sectionId": "principal",
+      "printedNumber": "088/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-089",
+      "number": "089/094",
+      "name": "Cuspidor de Fogo",
+      "sectionId": "principal",
+      "printedNumber": "089/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-090",
+      "number": "090/094",
+      "name": "Artimanha do Funesto",
+      "sectionId": "principal",
+      "printedNumber": "090/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-091",
+      "number": "091/094",
+      "name": "Sorvetão Jumbo",
+      "sectionId": "principal",
+      "printedNumber": "091/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-092",
+      "number": "092/094",
+      "name": "Capacete Punk",
+      "sectionId": "principal",
+      "printedNumber": "092/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-093",
+      "number": "093/094",
+      "name": "Pingente Sagrado",
+      "sectionId": "principal",
+      "printedNumber": "093/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-094",
+      "number": "094/094",
+      "name": "Fragmento Encantado",
+      "sectionId": "principal",
+      "printedNumber": "094/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-095",
+      "number": "095/094",
+      "name": "Ludicolo",
+      "sectionId": "secretas",
+      "printedNumber": "095/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-096",
+      "number": "096/094",
+      "name": "Nymble",
+      "sectionId": "secretas",
+      "printedNumber": "096/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-097",
+      "number": "097/094",
+      "name": "Dewgong",
+      "sectionId": "secretas",
+      "printedNumber": "097/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-098",
+      "number": "098/094",
+      "name": "Piplup",
+      "sectionId": "secretas",
+      "printedNumber": "098/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-099",
+      "number": "099/094",
+      "name": "Yamper",
+      "sectionId": "secretas",
+      "printedNumber": "099/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-100",
+      "number": "100/094",
+      "name": "Zacian",
+      "sectionId": "secretas",
+      "printedNumber": "100/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-101",
+      "number": "101/094",
+      "name": "Flygon",
+      "sectionId": "secretas",
+      "printedNumber": "101/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-102",
+      "number": "102/094",
+      "name": "Wooper de Paldea",
+      "sectionId": "secretas",
+      "printedNumber": "102/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-103",
+      "number": "103/094",
+      "name": "Toxtricity",
+      "sectionId": "secretas",
+      "printedNumber": "103/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-104",
+      "number": "104/094",
+      "name": "Togedemaru",
+      "sectionId": "secretas",
+      "printedNumber": "104/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-105",
+      "number": "105/094",
+      "name": "Wigglytuff",
+      "sectionId": "secretas",
+      "printedNumber": "105/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-106",
+      "number": "106/094",
+      "name": "Meowth",
+      "sectionId": "secretas",
+      "printedNumber": "106/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-107",
+      "number": "107/094",
+      "name": "Ambipom",
+      "sectionId": "secretas",
+      "printedNumber": "107/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-108",
+      "number": "108/094",
+      "name": "Mega Heracross ex",
+      "sectionId": "secretas",
+      "printedNumber": "108/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-109",
+      "number": "109/094",
+      "name": "Mega Charizard X ex",
+      "sectionId": "secretas",
+      "printedNumber": "109/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-110",
+      "number": "110/094",
+      "name": "Oricorio ex",
+      "sectionId": "secretas",
+      "printedNumber": "110/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-111",
+      "number": "111/094",
+      "name": "Rotom ex",
+      "sectionId": "secretas",
+      "printedNumber": "111/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-112",
+      "number": "112/094",
+      "name": "Mismagius ex",
+      "sectionId": "secretas",
+      "printedNumber": "112/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-113",
+      "number": "113/094",
+      "name": "Mega Sharpedo ex",
+      "sectionId": "secretas",
+      "printedNumber": "113/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-114",
+      "number": "114/094",
+      "name": "Empoleon ex",
+      "sectionId": "secretas",
+      "printedNumber": "114/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-115",
+      "number": "115/094",
+      "name": "Mega Lopunny ex",
+      "sectionId": "secretas",
+      "printedNumber": "115/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-116",
+      "number": "116/094",
+      "name": "Jaula de Batalha",
+      "sectionId": "secretas",
+      "printedNumber": "116/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-117",
+      "number": "117/094",
+      "name": "Maçarico",
+      "sectionId": "secretas",
+      "printedNumber": "117/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-118",
+      "number": "118/094",
+      "name": "Dawn",
+      "sectionId": "secretas",
+      "printedNumber": "118/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-119",
+      "number": "119/094",
+      "name": "Cuspidor de Fogo",
+      "sectionId": "secretas",
+      "printedNumber": "119/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-120",
+      "number": "120/094",
+      "name": "Artimanha do Funesto",
+      "sectionId": "secretas",
+      "printedNumber": "120/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-121",
+      "number": "121/094",
+      "name": "Capacete Punk",
+      "sectionId": "secretas",
+      "printedNumber": "121/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-122",
+      "number": "122/094",
+      "name": "Pingente Sagrado",
+      "sectionId": "secretas",
+      "printedNumber": "122/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-123",
+      "number": "123/094",
+      "name": "Substituição",
+      "sectionId": "secretas",
+      "printedNumber": "123/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-124",
+      "number": "124/094",
+      "name": "Energia de Ignição",
+      "sectionId": "secretas",
+      "printedNumber": "124/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-125",
+      "number": "125/094",
+      "name": "Mega Charizard X ex",
+      "sectionId": "secretas",
+      "printedNumber": "125/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-126",
+      "number": "126/094",
+      "name": "Rotom ex",
+      "sectionId": "secretas",
+      "printedNumber": "126/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-127",
+      "number": "127/094",
+      "name": "Mega Sharpedo ex",
+      "sectionId": "secretas",
+      "printedNumber": "127/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-128",
+      "number": "128/094",
+      "name": "Mega Lopunny ex",
+      "sectionId": "secretas",
+      "printedNumber": "128/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-129",
+      "number": "129/094",
+      "name": "Dawn",
+      "sectionId": "secretas",
+      "printedNumber": "129/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-130",
+      "number": "130/094",
+      "name": "Mega Charizard X ex",
+      "sectionId": "secretas",
+      "printedNumber": "130/094",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pfl-001-r",
+      "number": "001/094-R",
+      "name": "Oddish (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "001/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-002-r",
+      "number": "002/094-R",
+      "name": "Gloom (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "002/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-003-r",
+      "number": "003/094-R",
+      "name": "Vileplume (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "003/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-005-r",
+      "number": "005/094-R",
+      "name": "Lotad (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "005/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-006-r",
+      "number": "006/094-R",
+      "name": "Lombre (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "006/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-007-r",
+      "number": "007/094-R",
+      "name": "Ludicolo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "007/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-008-r",
+      "number": "008/094-R",
+      "name": "Genesect (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "008/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-009-r",
+      "number": "009/094-R",
+      "name": "Nymble (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "009/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-010-r",
+      "number": "010/094-R",
+      "name": "Lokix (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "010/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-011-r",
+      "number": "011/094-R",
+      "name": "Charmander (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "011/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-012-r",
+      "number": "012/094-R",
+      "name": "Charmeleon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "012/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-014-r",
+      "number": "014/094-R",
+      "name": "Moltres (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "014/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-015-r",
+      "number": "015/094-R",
+      "name": "Darumaka (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "015/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-016-r",
+      "number": "016/094-R",
+      "name": "Darmanitan (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "016/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-017-r",
+      "number": "017/094-R",
+      "name": "Reshiram (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "017/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-019-r",
+      "number": "019/094-R",
+      "name": "Charcadet (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "019/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-020-r",
+      "number": "020/094-R",
+      "name": "Ceruledge (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "020/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-021-r",
+      "number": "021/094-R",
+      "name": "Seel (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "021/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-022-r",
+      "number": "022/094-R",
+      "name": "Dewgong (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "022/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-023-r",
+      "number": "023/094-R",
+      "name": "Swinub (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "023/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-024-r",
+      "number": "024/094-R",
+      "name": "Piloswine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "024/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-025-r",
+      "number": "025/094-R",
+      "name": "Mamoswine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "025/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-026-r",
+      "number": "026/094-R",
+      "name": "Suicune (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "026/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-027-r",
+      "number": "027/094-R",
+      "name": "Piplup (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "027/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-028-r",
+      "number": "028/094-R",
+      "name": "Prinplup (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "028/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-030-r",
+      "number": "030/094-R",
+      "name": "Yamper (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "030/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-031-r",
+      "number": "031/094-R",
+      "name": "Boltund (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "031/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-032-r",
+      "number": "032/094-R",
+      "name": "Pawmi (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "032/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-033-r",
+      "number": "033/094-R",
+      "name": "Pawmo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "033/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-034-r",
+      "number": "034/094-R",
+      "name": "Pawmot (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "034/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-035-r",
+      "number": "035/094-R",
+      "name": "Misdreavus (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "035/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-037-r",
+      "number": "037/094-R",
+      "name": "Snubbull (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "037/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-038-r",
+      "number": "038/094-R",
+      "name": "Granbull (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "038/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-039-r",
+      "number": "039/094-R",
+      "name": "Cresselia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "039/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-040-r",
+      "number": "040/094-R",
+      "name": "Meloetta (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "040/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-042-r",
+      "number": "042/094-R",
+      "name": "Mimikyu (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "042/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-043-r",
+      "number": "043/094-R",
+      "name": "Milcery (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "043/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-044-r",
+      "number": "044/094-R",
+      "name": "Alcremie (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "044/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-045-r",
+      "number": "045/094-R",
+      "name": "Zacian (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "045/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-046-r",
+      "number": "046/094-R",
+      "name": "Bramblin (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "046/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-047-r",
+      "number": "047/094-R",
+      "name": "Brambleghast (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "047/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-048-r",
+      "number": "048/094-R",
+      "name": "Tauros de Paldea (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "048/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-049-r",
+      "number": "049/094-R",
+      "name": "Gligar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "049/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-050-r",
+      "number": "050/094-R",
+      "name": "Gliscor (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "050/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-051-r",
+      "number": "051/094-R",
+      "name": "Trapinch (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "051/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-052-r",
+      "number": "052/094-R",
+      "name": "Vibrava (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "052/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-053-r",
+      "number": "053/094-R",
+      "name": "Flygon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "053/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-054-r",
+      "number": "054/094-R",
+      "name": "Gastly (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "054/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-055-r",
+      "number": "055/094-R",
+      "name": "Haunter (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "055/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-057-r",
+      "number": "057/094-R",
+      "name": "Murkrow (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "057/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-058-r",
+      "number": "058/094-R",
+      "name": "Honchkrow (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "058/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-059-r",
+      "number": "059/094-R",
+      "name": "Sableye (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "059/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-060-r",
+      "number": "060/094-R",
+      "name": "Carvanha (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "060/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-062-r",
+      "number": "062/094-R",
+      "name": "Seviper (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "062/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-063-r",
+      "number": "063/094-R",
+      "name": "Absol (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "063/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-064-r",
+      "number": "064/094-R",
+      "name": "Sandile (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "064/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-065-r",
+      "number": "065/094-R",
+      "name": "Krokorok (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "065/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-066-r",
+      "number": "066/094-R",
+      "name": "Krookodile (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "066/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-067-r",
+      "number": "067/094-R",
+      "name": "Toxel (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "067/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-068-r",
+      "number": "068/094-R",
+      "name": "Toxtricity (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "068/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-069-r",
+      "number": "069/094-R",
+      "name": "Eternatus (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "069/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-071-r",
+      "number": "071/094-R",
+      "name": "Bronzor (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "071/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-072-r",
+      "number": "072/094-R",
+      "name": "Bronzong (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "072/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-073-r",
+      "number": "073/094-R",
+      "name": "Togedemaru (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "073/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-074-r",
+      "number": "074/094-R",
+      "name": "Duraludon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "074/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-075-r",
+      "number": "075/094-R",
+      "name": "Archaludon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "075/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-076-r",
+      "number": "076/094-R",
+      "name": "Jigglypuff (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "076/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-077-r",
+      "number": "077/094-R",
+      "name": "Wigglytuff (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "077/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-078-r",
+      "number": "078/094-R",
+      "name": "Aipom (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "078/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-079-r",
+      "number": "079/094-R",
+      "name": "Ambipom (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "079/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-080-r",
+      "number": "080/094-R",
+      "name": "Smeargle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "080/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-081-r",
+      "number": "081/094-R",
+      "name": "Zigzagoon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "081/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-082-r",
+      "number": "082/094-R",
+      "name": "Linoone (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "082/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-083-r",
+      "number": "083/094-R",
+      "name": "Buneary (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "083/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-085-r",
+      "number": "085/094-R",
+      "name": "Jaula de Batalha (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "085/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-086-r",
+      "number": "086/094-R",
+      "name": "Maçarico (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "086/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-087-r",
+      "number": "087/094-R",
+      "name": "Dawn (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "087/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-088-r",
+      "number": "088/094-R",
+      "name": "Vale Vertiginoso (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "088/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-089-r",
+      "number": "089/094-R",
+      "name": "Cuspidor de Fogo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "089/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-090-r",
+      "number": "090/094-R",
+      "name": "Artimanha do Funesto (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "090/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-091-r",
+      "number": "091/094-R",
+      "name": "Sorvetão Jumbo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "091/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-092-r",
+      "number": "092/094-R",
+      "name": "Capacete Punk (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "092/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-093-r",
+      "number": "093/094-R",
+      "name": "Pingente Sagrado (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "093/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "pfl-094-r",
+      "number": "094/094-R",
+      "name": "Fragmento Encantado (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "094/094",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    }
+  ]
+}
