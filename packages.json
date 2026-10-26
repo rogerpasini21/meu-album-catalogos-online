@@ -483,6 +483,13 @@
       "file": "albums/pokemon-blk-2025-standard-v1.zip",
       "bytes": 103490,
       "sha256": "dd0f5755e41962ed751d18b3132499f315a4ceaa75355c98cb86e3b141eeea98"
+    },
+    {
+      "officialId": "pokemon.wht2025.standard",
+      "version": 1,
+      "file": "albums/pokemon-wht-2025-standard-v1.zip",
+      "bytes": 99142,
+      "sha256": "b9a4db12bf3ee84a2f122d5417a89592903050df7ac4c7de45d50800515bdeab"
     }
   ]
 }
