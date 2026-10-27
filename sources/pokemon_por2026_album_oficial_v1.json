@@ -1,0 +1,1741 @@
+{
+  "officialId": "pokemon.por2026.standard",
+  "version": 1,
+  "name": "Megaevolução — Equilíbrio Perfeito",
+  "collection": "Megaevolução — Equilíbrio Perfeito",
+  "year": "2026",
+  "publisher": "The Pokémon Company / Copag",
+  "collectionType": "cards",
+  "availability": "online",
+  "description": "203 cards: 88 da coleção principal, 36 cartas secretas e 79 versões reversas. O sufixo -R identifica o acabamento reverso. Não inclui promocionais, carimbadas ou variantes exclusivas de produtos.",
+  "plannedTotal": 203,
+  "variantCount": 0,
+  "coverAsset": "assets/album_library/imagens/pokemon_equilibrio_perfeito2026/capa.webp",
+  "libraryCategory": {
+    "id": "pokemon",
+    "name": "Pokémon",
+    "order": 80
+  },
+  "sections": [
+    {
+      "id": "principal",
+      "name": "Coleção principal",
+      "imageAsset": "assets/album_library/imagens/pokemon_equilibrio_perfeito2026/capa.webp"
+    },
+    {
+      "id": "secretas",
+      "name": "Cartas secretas",
+      "imageAsset": "assets/album_library/imagens/pokemon_equilibrio_perfeito2026/capa.webp"
+    },
+    {
+      "id": "reversas",
+      "name": "Reversas",
+      "imageAsset": "assets/album_library/imagens/pokemon_equilibrio_perfeito2026/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "por-001",
+      "number": "001/088",
+      "name": "Spinarak",
+      "sectionId": "principal",
+      "printedNumber": "001/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-002",
+      "number": "002/088",
+      "name": "Ariados",
+      "sectionId": "principal",
+      "printedNumber": "002/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-003",
+      "number": "003/088",
+      "name": "Shaymin",
+      "sectionId": "principal",
+      "printedNumber": "003/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-004",
+      "number": "004/088",
+      "name": "Snivy",
+      "sectionId": "principal",
+      "printedNumber": "004/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-005",
+      "number": "005/088",
+      "name": "Servine",
+      "sectionId": "principal",
+      "printedNumber": "005/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-006",
+      "number": "006/088",
+      "name": "Serperior",
+      "sectionId": "principal",
+      "printedNumber": "006/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-007",
+      "number": "007/088",
+      "name": "Scatterbug",
+      "sectionId": "principal",
+      "printedNumber": "007/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-008",
+      "number": "008/088",
+      "name": "Spewpa",
+      "sectionId": "principal",
+      "printedNumber": "008/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-009",
+      "number": "009/088",
+      "name": "Vivillon",
+      "sectionId": "principal",
+      "printedNumber": "009/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-010",
+      "number": "010/088",
+      "name": "Rowlet",
+      "sectionId": "principal",
+      "printedNumber": "010/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-011",
+      "number": "011/088",
+      "name": "Dartrix",
+      "sectionId": "principal",
+      "printedNumber": "011/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-012",
+      "number": "012/088",
+      "name": "Decidueye ex",
+      "sectionId": "principal",
+      "printedNumber": "012/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-013",
+      "number": "013/088",
+      "name": "Fletchinder",
+      "sectionId": "principal",
+      "printedNumber": "013/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-014",
+      "number": "014/088",
+      "name": "Talonflame",
+      "sectionId": "principal",
+      "printedNumber": "014/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-015",
+      "number": "015/088",
+      "name": "Salandit",
+      "sectionId": "principal",
+      "printedNumber": "015/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-016",
+      "number": "016/088",
+      "name": "Salazzle ex",
+      "sectionId": "principal",
+      "printedNumber": "016/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-017",
+      "number": "017/088",
+      "name": "Turtonator",
+      "sectionId": "principal",
+      "printedNumber": "017/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-018",
+      "number": "018/088",
+      "name": "Seel",
+      "sectionId": "principal",
+      "printedNumber": "018/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-019",
+      "number": "019/088",
+      "name": "Dewgong",
+      "sectionId": "principal",
+      "printedNumber": "019/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-020",
+      "number": "020/088",
+      "name": "Staryu",
+      "sectionId": "principal",
+      "printedNumber": "020/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-021",
+      "number": "021/088",
+      "name": "Mega Starmie ex",
+      "sectionId": "principal",
+      "printedNumber": "021/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-022",
+      "number": "022/088",
+      "name": "Lapras ex",
+      "sectionId": "principal",
+      "printedNumber": "022/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-023",
+      "number": "023/088",
+      "name": "Amaura",
+      "sectionId": "principal",
+      "printedNumber": "023/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-024",
+      "number": "024/088",
+      "name": "Aurorus",
+      "sectionId": "principal",
+      "printedNumber": "024/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-025",
+      "number": "025/088",
+      "name": "Volcanion",
+      "sectionId": "principal",
+      "printedNumber": "025/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-026",
+      "number": "026/088",
+      "name": "Shinx",
+      "sectionId": "principal",
+      "printedNumber": "026/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-027",
+      "number": "027/088",
+      "name": "Luxio",
+      "sectionId": "principal",
+      "printedNumber": "027/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-028",
+      "number": "028/088",
+      "name": "Luxray",
+      "sectionId": "principal",
+      "printedNumber": "028/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-029",
+      "number": "029/088",
+      "name": "Dedenne",
+      "sectionId": "principal",
+      "printedNumber": "029/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-030",
+      "number": "030/088",
+      "name": "Clefairy",
+      "sectionId": "principal",
+      "printedNumber": "030/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-031",
+      "number": "031/088",
+      "name": "Mega Clefable ex",
+      "sectionId": "principal",
+      "printedNumber": "031/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-032",
+      "number": "032/088",
+      "name": "Mawile",
+      "sectionId": "principal",
+      "printedNumber": "032/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-033",
+      "number": "033/088",
+      "name": "Espurr",
+      "sectionId": "principal",
+      "printedNumber": "033/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-034",
+      "number": "034/088",
+      "name": "Meowstic",
+      "sectionId": "principal",
+      "printedNumber": "034/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-035",
+      "number": "035/088",
+      "name": "Spritzee",
+      "sectionId": "principal",
+      "printedNumber": "035/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-036",
+      "number": "036/088",
+      "name": "Aromatisse",
+      "sectionId": "principal",
+      "printedNumber": "036/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-037",
+      "number": "037/088",
+      "name": "Nosepass",
+      "sectionId": "principal",
+      "printedNumber": "037/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-038",
+      "number": "038/088",
+      "name": "Probopass",
+      "sectionId": "principal",
+      "printedNumber": "038/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-039",
+      "number": "039/088",
+      "name": "Hippopotas",
+      "sectionId": "principal",
+      "printedNumber": "039/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-040",
+      "number": "040/088",
+      "name": "Hippowdon",
+      "sectionId": "principal",
+      "printedNumber": "040/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-041",
+      "number": "041/088",
+      "name": "Landorus",
+      "sectionId": "principal",
+      "printedNumber": "041/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-042",
+      "number": "042/088",
+      "name": "Binacle",
+      "sectionId": "principal",
+      "printedNumber": "042/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-043",
+      "number": "043/088",
+      "name": "Barbaracle",
+      "sectionId": "principal",
+      "printedNumber": "043/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-044",
+      "number": "044/088",
+      "name": "Tyrunt",
+      "sectionId": "principal",
+      "printedNumber": "044/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-045",
+      "number": "045/088",
+      "name": "Tyrantrum",
+      "sectionId": "principal",
+      "printedNumber": "045/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-046",
+      "number": "046/088",
+      "name": "Hawlucha",
+      "sectionId": "principal",
+      "printedNumber": "046/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-047",
+      "number": "047/088",
+      "name": "Mega Zygarde ex",
+      "sectionId": "principal",
+      "printedNumber": "047/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-048",
+      "number": "048/088",
+      "name": "Gastly",
+      "sectionId": "principal",
+      "printedNumber": "048/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-049",
+      "number": "049/088",
+      "name": "Haunter",
+      "sectionId": "principal",
+      "printedNumber": "049/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-050",
+      "number": "050/088",
+      "name": "Gengar",
+      "sectionId": "principal",
+      "printedNumber": "050/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-051",
+      "number": "051/088",
+      "name": "Skorupi",
+      "sectionId": "principal",
+      "printedNumber": "051/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-052",
+      "number": "052/088",
+      "name": "Drapion",
+      "sectionId": "principal",
+      "printedNumber": "052/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-053",
+      "number": "053/088",
+      "name": "Yveltal ex",
+      "sectionId": "principal",
+      "printedNumber": "053/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-054",
+      "number": "054/088",
+      "name": "Chien-Pao",
+      "sectionId": "principal",
+      "printedNumber": "054/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-055",
+      "number": "055/088",
+      "name": "Mega Skarmory ex",
+      "sectionId": "principal",
+      "printedNumber": "055/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-056",
+      "number": "056/088",
+      "name": "Honedge",
+      "sectionId": "principal",
+      "printedNumber": "056/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-057",
+      "number": "057/088",
+      "name": "Doublade",
+      "sectionId": "principal",
+      "printedNumber": "057/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-058",
+      "number": "058/088",
+      "name": "Aegislash",
+      "sectionId": "principal",
+      "printedNumber": "058/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-059",
+      "number": "059/088",
+      "name": "Klefki",
+      "sectionId": "principal",
+      "printedNumber": "059/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-060",
+      "number": "060/088",
+      "name": "Rattata",
+      "sectionId": "principal",
+      "printedNumber": "060/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-061",
+      "number": "061/088",
+      "name": "Raticate",
+      "sectionId": "principal",
+      "printedNumber": "061/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-062",
+      "number": "062/088",
+      "name": "Meowth ex",
+      "sectionId": "principal",
+      "printedNumber": "062/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-063",
+      "number": "063/088",
+      "name": "Snorlax",
+      "sectionId": "principal",
+      "printedNumber": "063/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-064",
+      "number": "064/088",
+      "name": "Bunnelby",
+      "sectionId": "principal",
+      "printedNumber": "064/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-065",
+      "number": "065/088",
+      "name": "Diggersby",
+      "sectionId": "principal",
+      "printedNumber": "065/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-066",
+      "number": "066/088",
+      "name": "Fletchling",
+      "sectionId": "principal",
+      "printedNumber": "066/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-067",
+      "number": "067/088",
+      "name": "Furfrou",
+      "sectionId": "principal",
+      "printedNumber": "067/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-068",
+      "number": "068/088",
+      "name": "Fóssil de Mandíbula Arcaico",
+      "sectionId": "principal",
+      "printedNumber": "068/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-069",
+      "number": "069/088",
+      "name": "Fóssil de Vela Arcaico",
+      "sectionId": "principal",
+      "printedNumber": "069/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-070",
+      "number": "070/088",
+      "name": "Núcleo de Memória",
+      "sectionId": "principal",
+      "printedNumber": "070/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-071",
+      "number": "071/088",
+      "name": "Martelo Esmagador",
+      "sectionId": "principal",
+      "printedNumber": "071/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-072",
+      "number": "072/088",
+      "name": "Busca de Energia",
+      "sectionId": "principal",
+      "printedNumber": "072/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-073",
+      "number": "073/088",
+      "name": "Mata-Energia",
+      "sectionId": "principal",
+      "printedNumber": "073/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-074",
+      "number": "074/088",
+      "name": "Pá de Cavar",
+      "sectionId": "principal",
+      "printedNumber": "074/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-075",
+      "number": "075/088",
+      "name": "Jaci",
+      "sectionId": "principal",
+      "printedNumber": "075/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-076",
+      "number": "076/088",
+      "name": "Juiz",
+      "sectionId": "principal",
+      "printedNumber": "076/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-077",
+      "number": "077/088",
+      "name": "Cidade de Lumiose",
+      "sectionId": "principal",
+      "printedNumber": "077/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-078",
+      "number": "078/088",
+      "name": "Crepe de Lumiose",
+      "sectionId": "principal",
+      "printedNumber": "078/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-079",
+      "number": "079/088",
+      "name": "Naveen",
+      "sectionId": "principal",
+      "printedNumber": "079/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-080",
+      "number": "080/088",
+      "name": "Poké Bola",
+      "sectionId": "principal",
+      "printedNumber": "080/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-081",
+      "number": "081/088",
+      "name": "Poké Tablet",
+      "sectionId": "principal",
+      "printedNumber": "081/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-082",
+      "number": "082/088",
+      "name": "Pegador de Pokémon",
+      "sectionId": "principal",
+      "printedNumber": "082/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-083",
+      "number": "083/088",
+      "name": "Poção",
+      "sectionId": "principal",
+      "printedNumber": "083/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-084",
+      "number": "084/088",
+      "name": "Encorajamento da Rose",
+      "sectionId": "principal",
+      "printedNumber": "084/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-085",
+      "number": "085/088",
+      "name": "Tarragon",
+      "sectionId": "principal",
+      "printedNumber": "085/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-086",
+      "number": "086/088",
+      "name": "Energia de Planta Crescente",
+      "sectionId": "principal",
+      "printedNumber": "086/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-087",
+      "number": "087/088",
+      "name": "Energia de Lutador Rochosa",
+      "sectionId": "principal",
+      "printedNumber": "087/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-088",
+      "number": "088/088",
+      "name": "Energia Psíquica Telepática",
+      "sectionId": "principal",
+      "printedNumber": "088/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-089",
+      "number": "089/088",
+      "name": "Spewpa",
+      "sectionId": "secretas",
+      "printedNumber": "089/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-090",
+      "number": "090/088",
+      "name": "Rowlet",
+      "sectionId": "secretas",
+      "printedNumber": "090/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-091",
+      "number": "091/088",
+      "name": "Talonflame",
+      "sectionId": "secretas",
+      "printedNumber": "091/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-092",
+      "number": "092/088",
+      "name": "Aurorus",
+      "sectionId": "secretas",
+      "printedNumber": "092/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-093",
+      "number": "093/088",
+      "name": "Dedenne",
+      "sectionId": "secretas",
+      "printedNumber": "093/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-094",
+      "number": "094/088",
+      "name": "Clefairy",
+      "sectionId": "secretas",
+      "printedNumber": "094/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-095",
+      "number": "095/088",
+      "name": "Espurr",
+      "sectionId": "secretas",
+      "printedNumber": "095/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-096",
+      "number": "096/088",
+      "name": "Probopass",
+      "sectionId": "secretas",
+      "printedNumber": "096/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-097",
+      "number": "097/088",
+      "name": "Drapion",
+      "sectionId": "secretas",
+      "printedNumber": "097/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-098",
+      "number": "098/088",
+      "name": "Doublade",
+      "sectionId": "secretas",
+      "printedNumber": "098/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-099",
+      "number": "099/088",
+      "name": "Raticate",
+      "sectionId": "secretas",
+      "printedNumber": "099/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-100",
+      "number": "100/088",
+      "name": "Decidueye ex",
+      "sectionId": "secretas",
+      "printedNumber": "100/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-101",
+      "number": "101/088",
+      "name": "Salazzle ex",
+      "sectionId": "secretas",
+      "printedNumber": "101/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-102",
+      "number": "102/088",
+      "name": "Mega Starmie ex",
+      "sectionId": "secretas",
+      "printedNumber": "102/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-103",
+      "number": "103/088",
+      "name": "Mega Clefable ex",
+      "sectionId": "secretas",
+      "printedNumber": "103/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-104",
+      "number": "104/088",
+      "name": "Mega Zygarde ex",
+      "sectionId": "secretas",
+      "printedNumber": "104/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-105",
+      "number": "105/088",
+      "name": "Yveltal ex",
+      "sectionId": "secretas",
+      "printedNumber": "105/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-106",
+      "number": "106/088",
+      "name": "Mega Skarmory ex",
+      "sectionId": "secretas",
+      "printedNumber": "106/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-107",
+      "number": "107/088",
+      "name": "Meowth ex",
+      "sectionId": "secretas",
+      "printedNumber": "107/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-108",
+      "number": "108/088",
+      "name": "Reciclador de Energia",
+      "sectionId": "secretas",
+      "printedNumber": "108/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-109",
+      "number": "109/088",
+      "name": "Floresta da Vitalidade",
+      "sectionId": "secretas",
+      "printedNumber": "109/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-110",
+      "number": "110/088",
+      "name": "Jaci",
+      "sectionId": "secretas",
+      "printedNumber": "110/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-111",
+      "number": "111/088",
+      "name": "Cidade de Lumiose",
+      "sectionId": "secretas",
+      "printedNumber": "111/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-112",
+      "number": "112/088",
+      "name": "Naveen",
+      "sectionId": "secretas",
+      "printedNumber": "112/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-113",
+      "number": "113/088",
+      "name": "Poké Tablet",
+      "sectionId": "secretas",
+      "printedNumber": "113/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-114",
+      "number": "114/088",
+      "name": "Encorajamento da Rose",
+      "sectionId": "secretas",
+      "printedNumber": "114/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-115",
+      "number": "115/088",
+      "name": "Cinza Sagrada",
+      "sectionId": "secretas",
+      "printedNumber": "115/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-116",
+      "number": "116/088",
+      "name": "Tarragon",
+      "sectionId": "secretas",
+      "printedNumber": "116/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-117",
+      "number": "117/088",
+      "name": "Fragmento Encantado",
+      "sectionId": "secretas",
+      "printedNumber": "117/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-118",
+      "number": "118/088",
+      "name": "Mega Starmie ex",
+      "sectionId": "secretas",
+      "printedNumber": "118/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-119",
+      "number": "119/088",
+      "name": "Mega Clefable ex",
+      "sectionId": "secretas",
+      "printedNumber": "119/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-120",
+      "number": "120/088",
+      "name": "Mega Zygarde ex",
+      "sectionId": "secretas",
+      "printedNumber": "120/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-121",
+      "number": "121/088",
+      "name": "Meowth ex",
+      "sectionId": "secretas",
+      "printedNumber": "121/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-122",
+      "number": "122/088",
+      "name": "Jaci",
+      "sectionId": "secretas",
+      "printedNumber": "122/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-123",
+      "number": "123/088",
+      "name": "Encorajamento da Rose",
+      "sectionId": "secretas",
+      "printedNumber": "123/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-124",
+      "number": "124/088",
+      "name": "Mega Zygarde ex",
+      "sectionId": "secretas",
+      "printedNumber": "124/088",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "por-001-r",
+      "number": "001/088-R",
+      "name": "Spinarak (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "001/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-002-r",
+      "number": "002/088-R",
+      "name": "Ariados (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "002/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-003-r",
+      "number": "003/088-R",
+      "name": "Shaymin (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "003/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-004-r",
+      "number": "004/088-R",
+      "name": "Snivy (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "004/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-005-r",
+      "number": "005/088-R",
+      "name": "Servine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "005/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-006-r",
+      "number": "006/088-R",
+      "name": "Serperior (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "006/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-007-r",
+      "number": "007/088-R",
+      "name": "Scatterbug (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "007/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-008-r",
+      "number": "008/088-R",
+      "name": "Spewpa (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "008/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-009-r",
+      "number": "009/088-R",
+      "name": "Vivillon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "009/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-010-r",
+      "number": "010/088-R",
+      "name": "Rowlet (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "010/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-011-r",
+      "number": "011/088-R",
+      "name": "Dartrix (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "011/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-013-r",
+      "number": "013/088-R",
+      "name": "Fletchinder (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "013/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-014-r",
+      "number": "014/088-R",
+      "name": "Talonflame (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "014/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-015-r",
+      "number": "015/088-R",
+      "name": "Salandit (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "015/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-017-r",
+      "number": "017/088-R",
+      "name": "Turtonator (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "017/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-018-r",
+      "number": "018/088-R",
+      "name": "Seel (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "018/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-019-r",
+      "number": "019/088-R",
+      "name": "Dewgong (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "019/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-020-r",
+      "number": "020/088-R",
+      "name": "Staryu (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "020/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-023-r",
+      "number": "023/088-R",
+      "name": "Amaura (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "023/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-024-r",
+      "number": "024/088-R",
+      "name": "Aurorus (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "024/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-025-r",
+      "number": "025/088-R",
+      "name": "Volcanion (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "025/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-026-r",
+      "number": "026/088-R",
+      "name": "Shinx (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "026/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-027-r",
+      "number": "027/088-R",
+      "name": "Luxio (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "027/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-028-r",
+      "number": "028/088-R",
+      "name": "Luxray (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "028/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-029-r",
+      "number": "029/088-R",
+      "name": "Dedenne (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "029/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-030-r",
+      "number": "030/088-R",
+      "name": "Clefairy (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "030/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-032-r",
+      "number": "032/088-R",
+      "name": "Mawile (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "032/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-033-r",
+      "number": "033/088-R",
+      "name": "Espurr (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "033/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-034-r",
+      "number": "034/088-R",
+      "name": "Meowstic (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "034/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-035-r",
+      "number": "035/088-R",
+      "name": "Spritzee (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "035/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-036-r",
+      "number": "036/088-R",
+      "name": "Aromatisse (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "036/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-037-r",
+      "number": "037/088-R",
+      "name": "Nosepass (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "037/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-038-r",
+      "number": "038/088-R",
+      "name": "Probopass (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "038/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-039-r",
+      "number": "039/088-R",
+      "name": "Hippopotas (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "039/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-040-r",
+      "number": "040/088-R",
+      "name": "Hippowdon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "040/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-041-r",
+      "number": "041/088-R",
+      "name": "Landorus (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "041/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-042-r",
+      "number": "042/088-R",
+      "name": "Binacle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "042/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-043-r",
+      "number": "043/088-R",
+      "name": "Barbaracle (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "043/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-044-r",
+      "number": "044/088-R",
+      "name": "Tyrunt (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "044/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-045-r",
+      "number": "045/088-R",
+      "name": "Tyrantrum (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "045/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-046-r",
+      "number": "046/088-R",
+      "name": "Hawlucha (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "046/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-048-r",
+      "number": "048/088-R",
+      "name": "Gastly (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "048/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-049-r",
+      "number": "049/088-R",
+      "name": "Haunter (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "049/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-050-r",
+      "number": "050/088-R",
+      "name": "Gengar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "050/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-051-r",
+      "number": "051/088-R",
+      "name": "Skorupi (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "051/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-052-r",
+      "number": "052/088-R",
+      "name": "Drapion (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "052/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-054-r",
+      "number": "054/088-R",
+      "name": "Chien-Pao (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "054/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-056-r",
+      "number": "056/088-R",
+      "name": "Honedge (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "056/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-057-r",
+      "number": "057/088-R",
+      "name": "Doublade (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "057/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-058-r",
+      "number": "058/088-R",
+      "name": "Aegislash (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "058/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-059-r",
+      "number": "059/088-R",
+      "name": "Klefki (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "059/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-060-r",
+      "number": "060/088-R",
+      "name": "Rattata (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "060/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-061-r",
+      "number": "061/088-R",
+      "name": "Raticate (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "061/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-063-r",
+      "number": "063/088-R",
+      "name": "Snorlax (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "063/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-064-r",
+      "number": "064/088-R",
+      "name": "Bunnelby (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "064/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-065-r",
+      "number": "065/088-R",
+      "name": "Diggersby (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "065/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-066-r",
+      "number": "066/088-R",
+      "name": "Fletchling (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "066/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-067-r",
+      "number": "067/088-R",
+      "name": "Furfrou (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "067/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-068-r",
+      "number": "068/088-R",
+      "name": "Fóssil de Mandíbula Arcaico (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "068/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-069-r",
+      "number": "069/088-R",
+      "name": "Fóssil de Vela Arcaico (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "069/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-070-r",
+      "number": "070/088-R",
+      "name": "Núcleo de Memória (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "070/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-071-r",
+      "number": "071/088-R",
+      "name": "Martelo Esmagador (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "071/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-072-r",
+      "number": "072/088-R",
+      "name": "Busca de Energia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "072/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-073-r",
+      "number": "073/088-R",
+      "name": "Mata-Energia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "073/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-074-r",
+      "number": "074/088-R",
+      "name": "Pá de Cavar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "074/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-075-r",
+      "number": "075/088-R",
+      "name": "Jaci (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "075/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-076-r",
+      "number": "076/088-R",
+      "name": "Juiz (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "076/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-077-r",
+      "number": "077/088-R",
+      "name": "Cidade de Lumiose (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "077/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-078-r",
+      "number": "078/088-R",
+      "name": "Crepe de Lumiose (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "078/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-079-r",
+      "number": "079/088-R",
+      "name": "Naveen (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "079/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-080-r",
+      "number": "080/088-R",
+      "name": "Poké Bola (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "080/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-081-r",
+      "number": "081/088-R",
+      "name": "Poké Tablet (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "081/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-082-r",
+      "number": "082/088-R",
+      "name": "Pegador de Pokémon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "082/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-083-r",
+      "number": "083/088-R",
+      "name": "Poção (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "083/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-084-r",
+      "number": "084/088-R",
+      "name": "Encorajamento da Rose (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "084/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-085-r",
+      "number": "085/088-R",
+      "name": "Tarragon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "085/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-086-r",
+      "number": "086/088-R",
+      "name": "Energia de Planta Crescente (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "086/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-087-r",
+      "number": "087/088-R",
+      "name": "Energia de Lutador Rochosa (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "087/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "por-088-r",
+      "number": "088/088-R",
+      "name": "Energia Psíquica Telepática (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "088/088",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    }
+  ]
+}

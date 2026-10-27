@@ -1,0 +1,2845 @@
+{
+  "officialId": "pokemon.jtg2025.standard",
+  "version": 1,
+  "name": "Escarlate e Violeta — Amigos de Jornada",
+  "collection": "Escarlate e Violeta — Amigos de Jornada",
+  "year": "2025",
+  "publisher": "The Pokémon Company / Copag",
+  "collectionType": "cards",
+  "availability": "online",
+  "description": "333 cards: 159 principais, 31 cartas secretas e 143 versões reversas. O sufixo -R identifica o acabamento reverso. Não inclui promocionais, carimbadas ou variantes exclusivas de produtos.",
+  "plannedTotal": 333,
+  "variantCount": 0,
+  "coverAsset": "assets/album_library/imagens/pokemon_amigos_jornada2025/capa.webp",
+  "libraryCategory": {
+    "id": "pokemon",
+    "name": "Pokémon",
+    "order": 80
+  },
+  "sections": [
+    {
+      "id": "principal",
+      "name": "Coleção principal",
+      "imageAsset": "assets/album_library/imagens/pokemon_amigos_jornada2025/capa.webp"
+    },
+    {
+      "id": "secretas",
+      "name": "Cartas secretas",
+      "imageAsset": "assets/album_library/imagens/pokemon_amigos_jornada2025/capa.webp"
+    },
+    {
+      "id": "reversas",
+      "name": "Reversas",
+      "imageAsset": "assets/album_library/imagens/pokemon_amigos_jornada2025/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "jtg-001",
+      "number": "001/159",
+      "name": "Caterpie",
+      "sectionId": "principal",
+      "printedNumber": "001/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-002",
+      "number": "002/159",
+      "name": "Metapod",
+      "sectionId": "principal",
+      "printedNumber": "002/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-003",
+      "number": "003/159",
+      "name": "Butterfree",
+      "sectionId": "principal",
+      "printedNumber": "003/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-004",
+      "number": "004/159",
+      "name": "Paras",
+      "sectionId": "principal",
+      "printedNumber": "004/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-005",
+      "number": "005/159",
+      "name": "Parasect",
+      "sectionId": "principal",
+      "printedNumber": "005/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-006",
+      "number": "006/159",
+      "name": "Petilil",
+      "sectionId": "principal",
+      "printedNumber": "006/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-007",
+      "number": "007/159",
+      "name": "Lilligant",
+      "sectionId": "principal",
+      "printedNumber": "007/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-008",
+      "number": "008/159",
+      "name": "Maractus",
+      "sectionId": "principal",
+      "printedNumber": "008/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-009",
+      "number": "009/159",
+      "name": "Karrablast",
+      "sectionId": "principal",
+      "printedNumber": "009/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-010",
+      "number": "010/159",
+      "name": "Foongus",
+      "sectionId": "principal",
+      "printedNumber": "010/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-011",
+      "number": "011/159",
+      "name": "Amoonguss ex",
+      "sectionId": "principal",
+      "printedNumber": "011/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-012",
+      "number": "012/159",
+      "name": "Shelmet",
+      "sectionId": "principal",
+      "printedNumber": "012/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-013",
+      "number": "013/159",
+      "name": "Accelgor",
+      "sectionId": "principal",
+      "printedNumber": "013/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-014",
+      "number": "014/159",
+      "name": "Durant",
+      "sectionId": "principal",
+      "printedNumber": "014/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-015",
+      "number": "015/159",
+      "name": "Virizion",
+      "sectionId": "principal",
+      "printedNumber": "015/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-016",
+      "number": "016/159",
+      "name": "Sprigatito",
+      "sectionId": "principal",
+      "printedNumber": "016/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-017",
+      "number": "017/159",
+      "name": "Floragato",
+      "sectionId": "principal",
+      "printedNumber": "017/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-018",
+      "number": "018/159",
+      "name": "Meowscarada",
+      "sectionId": "principal",
+      "printedNumber": "018/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-019",
+      "number": "019/159",
+      "name": "Nymble",
+      "sectionId": "principal",
+      "printedNumber": "019/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-020",
+      "number": "020/159",
+      "name": "Magmar",
+      "sectionId": "principal",
+      "printedNumber": "020/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-021",
+      "number": "021/159",
+      "name": "Magmortar",
+      "sectionId": "principal",
+      "printedNumber": "021/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-022",
+      "number": "022/159",
+      "name": "Torchic",
+      "sectionId": "principal",
+      "printedNumber": "022/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-023",
+      "number": "023/159",
+      "name": "Combusken",
+      "sectionId": "principal",
+      "printedNumber": "023/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-024",
+      "number": "024/159",
+      "name": "Blaziken ex",
+      "sectionId": "principal",
+      "printedNumber": "024/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-025",
+      "number": "025/159",
+      "name": "Torkoal",
+      "sectionId": "principal",
+      "printedNumber": "025/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-026",
+      "number": "026/159",
+      "name": "Darumaka do N",
+      "sectionId": "principal",
+      "printedNumber": "026/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-027",
+      "number": "027/159",
+      "name": "Darmanitan do N",
+      "sectionId": "principal",
+      "printedNumber": "027/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-028",
+      "number": "028/159",
+      "name": "Larvesta",
+      "sectionId": "principal",
+      "printedNumber": "028/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-029",
+      "number": "029/159",
+      "name": "Volcarona",
+      "sectionId": "principal",
+      "printedNumber": "029/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-030",
+      "number": "030/159",
+      "name": "Reshiram ex",
+      "sectionId": "principal",
+      "printedNumber": "030/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-031",
+      "number": "031/159",
+      "name": "Volcanion ex",
+      "sectionId": "principal",
+      "printedNumber": "031/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-032",
+      "number": "032/159",
+      "name": "Articuno",
+      "sectionId": "principal",
+      "printedNumber": "032/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-033",
+      "number": "033/159",
+      "name": "Remoraid",
+      "sectionId": "principal",
+      "printedNumber": "033/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-034",
+      "number": "034/159",
+      "name": "Octillery",
+      "sectionId": "principal",
+      "printedNumber": "034/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-035",
+      "number": "035/159",
+      "name": "Lotad",
+      "sectionId": "principal",
+      "printedNumber": "035/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-036",
+      "number": "036/159",
+      "name": "Lombre",
+      "sectionId": "principal",
+      "printedNumber": "036/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-037",
+      "number": "037/159",
+      "name": "Ludicolo",
+      "sectionId": "principal",
+      "printedNumber": "037/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-038",
+      "number": "038/159",
+      "name": "Wingull",
+      "sectionId": "principal",
+      "printedNumber": "038/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-039",
+      "number": "039/159",
+      "name": "Pelipper",
+      "sectionId": "principal",
+      "printedNumber": "039/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-040",
+      "number": "040/159",
+      "name": "Wailmer",
+      "sectionId": "principal",
+      "printedNumber": "040/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-041",
+      "number": "041/159",
+      "name": "Wailord",
+      "sectionId": "principal",
+      "printedNumber": "041/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-042",
+      "number": "042/159",
+      "name": "Regice",
+      "sectionId": "principal",
+      "printedNumber": "042/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-043",
+      "number": "043/159",
+      "name": "Veluza ex",
+      "sectionId": "principal",
+      "printedNumber": "043/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-044",
+      "number": "044/159",
+      "name": "Geodude de Alola",
+      "sectionId": "principal",
+      "printedNumber": "044/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-045",
+      "number": "045/159",
+      "name": "Graveler de Alola",
+      "sectionId": "principal",
+      "printedNumber": "045/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-046",
+      "number": "046/159",
+      "name": "Golem de Alola",
+      "sectionId": "principal",
+      "printedNumber": "046/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-047",
+      "number": "047/159",
+      "name": "Voltorb da Kissera",
+      "sectionId": "principal",
+      "printedNumber": "047/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-048",
+      "number": "048/159",
+      "name": "Electrode da Kissera",
+      "sectionId": "principal",
+      "printedNumber": "048/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-049",
+      "number": "049/159",
+      "name": "Joltik do N",
+      "sectionId": "principal",
+      "printedNumber": "049/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-050",
+      "number": "050/159",
+      "name": "Togedemaru",
+      "sectionId": "principal",
+      "printedNumber": "050/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-051",
+      "number": "051/159",
+      "name": "Tapu Koko ex",
+      "sectionId": "principal",
+      "printedNumber": "051/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-052",
+      "number": "052/159",
+      "name": "Tadbulb da Kissera",
+      "sectionId": "principal",
+      "printedNumber": "052/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-053",
+      "number": "053/159",
+      "name": "Bellibolt ex da Kissera",
+      "sectionId": "principal",
+      "printedNumber": "053/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-054",
+      "number": "054/159",
+      "name": "Wattrel da Kissera",
+      "sectionId": "principal",
+      "printedNumber": "054/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-055",
+      "number": "055/159",
+      "name": "Kilowattrel da Kissera",
+      "sectionId": "principal",
+      "printedNumber": "055/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-056",
+      "number": "056/159",
+      "name": "Clefairy ex da Lílian",
+      "sectionId": "principal",
+      "printedNumber": "056/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-057",
+      "number": "057/159",
+      "name": "Marowak de Alola",
+      "sectionId": "principal",
+      "printedNumber": "057/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-058",
+      "number": "058/159",
+      "name": "Mr. Mime",
+      "sectionId": "principal",
+      "printedNumber": "058/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-059",
+      "number": "059/159",
+      "name": "Shuppet",
+      "sectionId": "principal",
+      "printedNumber": "059/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-060",
+      "number": "060/159",
+      "name": "Banette",
+      "sectionId": "principal",
+      "printedNumber": "060/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-061",
+      "number": "061/159",
+      "name": "Beldum",
+      "sectionId": "principal",
+      "printedNumber": "061/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-062",
+      "number": "062/159",
+      "name": "Metang",
+      "sectionId": "principal",
+      "printedNumber": "062/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-063",
+      "number": "063/159",
+      "name": "Metagross",
+      "sectionId": "principal",
+      "printedNumber": "063/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-064",
+      "number": "064/159",
+      "name": "Sigilyph do N",
+      "sectionId": "principal",
+      "printedNumber": "064/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-065",
+      "number": "065/159",
+      "name": "Oricorio",
+      "sectionId": "principal",
+      "printedNumber": "065/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-066",
+      "number": "066/159",
+      "name": "Cutiefly da Lílian",
+      "sectionId": "principal",
+      "printedNumber": "066/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-067",
+      "number": "067/159",
+      "name": "Ribombee da Lílian",
+      "sectionId": "principal",
+      "printedNumber": "067/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-068",
+      "number": "068/159",
+      "name": "Comfey da Lílian",
+      "sectionId": "principal",
+      "printedNumber": "068/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-069",
+      "number": "069/159",
+      "name": "Mimikyu ex",
+      "sectionId": "principal",
+      "printedNumber": "069/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-070",
+      "number": "070/159",
+      "name": "Dhelmise",
+      "sectionId": "principal",
+      "printedNumber": "070/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-071",
+      "number": "071/159",
+      "name": "Impidimp",
+      "sectionId": "principal",
+      "printedNumber": "071/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-072",
+      "number": "072/159",
+      "name": "Morgrem",
+      "sectionId": "principal",
+      "printedNumber": "072/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-073",
+      "number": "073/159",
+      "name": "Grimmsnarl",
+      "sectionId": "principal",
+      "printedNumber": "073/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-074",
+      "number": "074/159",
+      "name": "Milcery",
+      "sectionId": "principal",
+      "printedNumber": "074/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-075",
+      "number": "075/159",
+      "name": "Alcremie ex",
+      "sectionId": "principal",
+      "printedNumber": "075/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-076",
+      "number": "076/159",
+      "name": "Cubone",
+      "sectionId": "principal",
+      "printedNumber": "076/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-077",
+      "number": "077/159",
+      "name": "Swinub",
+      "sectionId": "principal",
+      "printedNumber": "077/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-078",
+      "number": "078/159",
+      "name": "Piloswine",
+      "sectionId": "principal",
+      "printedNumber": "078/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-079",
+      "number": "079/159",
+      "name": "Mamoswine ex",
+      "sectionId": "principal",
+      "printedNumber": "079/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-080",
+      "number": "080/159",
+      "name": "Larvitar",
+      "sectionId": "principal",
+      "printedNumber": "080/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-081",
+      "number": "081/159",
+      "name": "Pupitar",
+      "sectionId": "principal",
+      "printedNumber": "081/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-082",
+      "number": "082/159",
+      "name": "Regirock",
+      "sectionId": "principal",
+      "printedNumber": "082/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-083",
+      "number": "083/159",
+      "name": "Pancham",
+      "sectionId": "principal",
+      "printedNumber": "083/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-084",
+      "number": "084/159",
+      "name": "Rockruff",
+      "sectionId": "principal",
+      "printedNumber": "084/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-085",
+      "number": "085/159",
+      "name": "Lycanroc",
+      "sectionId": "principal",
+      "printedNumber": "085/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-086",
+      "number": "086/159",
+      "name": "Silicobra do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "086/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-087",
+      "number": "087/159",
+      "name": "Sandaconda do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "087/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-088",
+      "number": "088/159",
+      "name": "Toedscool",
+      "sectionId": "principal",
+      "printedNumber": "088/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-089",
+      "number": "089/159",
+      "name": "Toedscruel",
+      "sectionId": "principal",
+      "printedNumber": "089/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-090",
+      "number": "090/159",
+      "name": "Klawf",
+      "sectionId": "principal",
+      "printedNumber": "090/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-091",
+      "number": "091/159",
+      "name": "Koffing",
+      "sectionId": "principal",
+      "printedNumber": "091/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-092",
+      "number": "092/159",
+      "name": "Weezing",
+      "sectionId": "principal",
+      "printedNumber": "092/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-093",
+      "number": "093/159",
+      "name": "Wooper de Paldea",
+      "sectionId": "principal",
+      "printedNumber": "093/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-094",
+      "number": "094/159",
+      "name": "Clodsire de Paldea ex",
+      "sectionId": "principal",
+      "printedNumber": "094/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-095",
+      "number": "095/159",
+      "name": "Tyranitar",
+      "sectionId": "principal",
+      "printedNumber": "095/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-096",
+      "number": "096/159",
+      "name": "Purrloin do N",
+      "sectionId": "principal",
+      "printedNumber": "096/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-097",
+      "number": "097/159",
+      "name": "Zorua do N",
+      "sectionId": "principal",
+      "printedNumber": "097/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-098",
+      "number": "098/159",
+      "name": "Zoroark ex do N",
+      "sectionId": "principal",
+      "printedNumber": "098/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-099",
+      "number": "099/159",
+      "name": "Pangoro",
+      "sectionId": "principal",
+      "printedNumber": "099/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-100",
+      "number": "100/159",
+      "name": "Lokix",
+      "sectionId": "principal",
+      "printedNumber": "100/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-101",
+      "number": "101/159",
+      "name": "Bombirdier",
+      "sectionId": "principal",
+      "printedNumber": "101/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-102",
+      "number": "102/159",
+      "name": "Escavalier",
+      "sectionId": "principal",
+      "printedNumber": "102/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-103",
+      "number": "103/159",
+      "name": "Klink do N",
+      "sectionId": "principal",
+      "printedNumber": "103/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-104",
+      "number": "104/159",
+      "name": "Klang do N",
+      "sectionId": "principal",
+      "printedNumber": "104/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-105",
+      "number": "105/159",
+      "name": "Klinklang do N",
+      "sectionId": "principal",
+      "printedNumber": "105/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-106",
+      "number": "106/159",
+      "name": "Stunfisk de Galar",
+      "sectionId": "principal",
+      "printedNumber": "106/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-107",
+      "number": "107/159",
+      "name": "Magearna",
+      "sectionId": "principal",
+      "printedNumber": "107/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-108",
+      "number": "108/159",
+      "name": "Corviknight do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "108/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-109",
+      "number": "109/159",
+      "name": "Cufant",
+      "sectionId": "principal",
+      "printedNumber": "109/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-110",
+      "number": "110/159",
+      "name": "Copperajah",
+      "sectionId": "principal",
+      "printedNumber": "110/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-111",
+      "number": "111/159",
+      "name": "Zacian ex do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "111/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-112",
+      "number": "112/159",
+      "name": "Bagon",
+      "sectionId": "principal",
+      "printedNumber": "112/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-113",
+      "number": "113/159",
+      "name": "Shelgon",
+      "sectionId": "principal",
+      "printedNumber": "113/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-114",
+      "number": "114/159",
+      "name": "Salamence ex",
+      "sectionId": "principal",
+      "printedNumber": "114/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-115",
+      "number": "115/159",
+      "name": "Druddigon",
+      "sectionId": "principal",
+      "printedNumber": "115/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-116",
+      "number": "116/159",
+      "name": "Reshiram do N",
+      "sectionId": "principal",
+      "printedNumber": "116/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-117",
+      "number": "117/159",
+      "name": "Snorlax do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "117/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-118",
+      "number": "118/159",
+      "name": "Sentret",
+      "sectionId": "principal",
+      "printedNumber": "118/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-119",
+      "number": "119/159",
+      "name": "Furret",
+      "sectionId": "principal",
+      "printedNumber": "119/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-120",
+      "number": "120/159",
+      "name": "Dunsparce",
+      "sectionId": "principal",
+      "printedNumber": "120/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-121",
+      "number": "121/159",
+      "name": "Dudunsparce ex",
+      "sectionId": "principal",
+      "printedNumber": "121/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-122",
+      "number": "122/159",
+      "name": "Kecleon",
+      "sectionId": "principal",
+      "printedNumber": "122/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-123",
+      "number": "123/159",
+      "name": "Tropius",
+      "sectionId": "principal",
+      "printedNumber": "123/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-124",
+      "number": "124/159",
+      "name": "Audino",
+      "sectionId": "principal",
+      "printedNumber": "124/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-125",
+      "number": "125/159",
+      "name": "Minccino",
+      "sectionId": "principal",
+      "printedNumber": "125/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-126",
+      "number": "126/159",
+      "name": "Cinccino",
+      "sectionId": "principal",
+      "printedNumber": "126/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-127",
+      "number": "127/159",
+      "name": "Noibat",
+      "sectionId": "principal",
+      "printedNumber": "127/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-128",
+      "number": "128/159",
+      "name": "Noivern",
+      "sectionId": "principal",
+      "printedNumber": "128/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-129",
+      "number": "129/159",
+      "name": "Komala",
+      "sectionId": "principal",
+      "printedNumber": "129/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-130",
+      "number": "130/159",
+      "name": "Drampa",
+      "sectionId": "principal",
+      "printedNumber": "130/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-131",
+      "number": "131/159",
+      "name": "Skwovet",
+      "sectionId": "principal",
+      "printedNumber": "131/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-132",
+      "number": "132/159",
+      "name": "Greedent",
+      "sectionId": "principal",
+      "printedNumber": "132/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-133",
+      "number": "133/159",
+      "name": "Rookidee do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "133/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-134",
+      "number": "134/159",
+      "name": "Corvisquire do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "134/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-135",
+      "number": "135/159",
+      "name": "Wooloo do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "135/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-136",
+      "number": "136/159",
+      "name": "Dubwool do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "136/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-137",
+      "number": "137/159",
+      "name": "Cramorant",
+      "sectionId": "principal",
+      "printedNumber": "137/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-138",
+      "number": "138/159",
+      "name": "Cramorant do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "138/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-139",
+      "number": "139/159",
+      "name": "Lechonk",
+      "sectionId": "principal",
+      "printedNumber": "139/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-140",
+      "number": "140/159",
+      "name": "Oinkologne",
+      "sectionId": "principal",
+      "printedNumber": "140/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-141",
+      "number": "141/159",
+      "name": "Squawkabilly",
+      "sectionId": "principal",
+      "printedNumber": "141/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-142",
+      "number": "142/159",
+      "name": "Abílio e Onara",
+      "sectionId": "principal",
+      "printedNumber": "142/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-143",
+      "number": "143/159",
+      "name": "Treino de Faixa Preta",
+      "sectionId": "principal",
+      "printedNumber": "143/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-144",
+      "number": "144/159",
+      "name": "Treino de Faixa Preta",
+      "sectionId": "principal",
+      "printedNumber": "144/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-145",
+      "number": "145/159",
+      "name": "Treino de Faixa Preta",
+      "sectionId": "principal",
+      "printedNumber": "145/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-146",
+      "number": "146/159",
+      "name": "Busca do Brock",
+      "sectionId": "principal",
+      "printedNumber": "146/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-147",
+      "number": "147/159",
+      "name": "Bolsa do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "147/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-148",
+      "number": "148/159",
+      "name": "Faixa da Escolha do Lupo",
+      "sectionId": "principal",
+      "printedNumber": "148/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-149",
+      "number": "149/159",
+      "name": "Espírito de Luta da Iris",
+      "sectionId": "principal",
+      "printedNumber": "149/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-150",
+      "number": "150/159",
+      "name": "Levincia",
+      "sectionId": "principal",
+      "printedNumber": "150/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-151",
+      "number": "151/159",
+      "name": "Pérola da Lílian",
+      "sectionId": "principal",
+      "printedNumber": "151/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-152",
+      "number": "152/159",
+      "name": "Castelo do N",
+      "sectionId": "principal",
+      "printedNumber": "152/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-153",
+      "number": "153/159",
+      "name": "PP Up do N",
+      "sectionId": "principal",
+      "printedNumber": "153/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-154",
+      "number": "154/159",
+      "name": "Postwick",
+      "sectionId": "principal",
+      "printedNumber": "154/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-155",
+      "number": "155/159",
+      "name": "Pesquisa de Professores",
+      "sectionId": "principal",
+      "printedNumber": "155/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-156",
+      "number": "156/159",
+      "name": "Ingresso Resgatável",
+      "sectionId": "principal",
+      "printedNumber": "156/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-157",
+      "number": "157/159",
+      "name": "Baderneiro",
+      "sectionId": "principal",
+      "printedNumber": "157/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-158",
+      "number": "158/159",
+      "name": "Superpoção",
+      "sectionId": "principal",
+      "printedNumber": "158/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-159",
+      "number": "159/159",
+      "name": "Energia Espinhosa",
+      "sectionId": "principal",
+      "printedNumber": "159/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-160",
+      "number": "160/159",
+      "name": "Maractus",
+      "sectionId": "secretas",
+      "printedNumber": "160/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-161",
+      "number": "161/159",
+      "name": "Articuno",
+      "sectionId": "secretas",
+      "printedNumber": "161/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-162",
+      "number": "162/159",
+      "name": "Wailord",
+      "sectionId": "secretas",
+      "printedNumber": "162/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-163",
+      "number": "163/159",
+      "name": "Kilowattrel da Kissera",
+      "sectionId": "secretas",
+      "printedNumber": "163/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-164",
+      "number": "164/159",
+      "name": "Ribombee da Lílian",
+      "sectionId": "secretas",
+      "printedNumber": "164/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-165",
+      "number": "165/159",
+      "name": "Swinub",
+      "sectionId": "secretas",
+      "printedNumber": "165/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-166",
+      "number": "166/159",
+      "name": "Lycanroc",
+      "sectionId": "secretas",
+      "printedNumber": "166/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-167",
+      "number": "167/159",
+      "name": "Reshiram do N",
+      "sectionId": "secretas",
+      "printedNumber": "167/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-168",
+      "number": "168/159",
+      "name": "Furret",
+      "sectionId": "secretas",
+      "printedNumber": "168/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-169",
+      "number": "169/159",
+      "name": "Noibat",
+      "sectionId": "secretas",
+      "printedNumber": "169/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-170",
+      "number": "170/159",
+      "name": "Wooloo do Lupo",
+      "sectionId": "secretas",
+      "printedNumber": "170/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-171",
+      "number": "171/159",
+      "name": "Volcanion ex",
+      "sectionId": "secretas",
+      "printedNumber": "171/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-172",
+      "number": "172/159",
+      "name": "Bellibolt ex da Kissera",
+      "sectionId": "secretas",
+      "printedNumber": "172/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-173",
+      "number": "173/159",
+      "name": "Clefairy ex da Lílian",
+      "sectionId": "secretas",
+      "printedNumber": "173/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-174",
+      "number": "174/159",
+      "name": "Mamoswine ex",
+      "sectionId": "secretas",
+      "printedNumber": "174/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-175",
+      "number": "175/159",
+      "name": "Zoroark ex do N",
+      "sectionId": "secretas",
+      "printedNumber": "175/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-176",
+      "number": "176/159",
+      "name": "Zacian ex do Lupo",
+      "sectionId": "secretas",
+      "printedNumber": "176/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-177",
+      "number": "177/159",
+      "name": "Salamence ex",
+      "sectionId": "secretas",
+      "printedNumber": "177/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-178",
+      "number": "178/159",
+      "name": "Dudunsparce ex",
+      "sectionId": "secretas",
+      "printedNumber": "178/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-179",
+      "number": "179/159",
+      "name": "Busca do Brock",
+      "sectionId": "secretas",
+      "printedNumber": "179/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-180",
+      "number": "180/159",
+      "name": "Espírito de Luta da Iris",
+      "sectionId": "secretas",
+      "printedNumber": "180/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-181",
+      "number": "181/159",
+      "name": "Baderneiro",
+      "sectionId": "secretas",
+      "printedNumber": "181/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-182",
+      "number": "182/159",
+      "name": "Volcanion ex",
+      "sectionId": "secretas",
+      "printedNumber": "182/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-183",
+      "number": "183/159",
+      "name": "Bellibolt ex da Kissera",
+      "sectionId": "secretas",
+      "printedNumber": "183/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-184",
+      "number": "184/159",
+      "name": "Clefairy ex da Lílian",
+      "sectionId": "secretas",
+      "printedNumber": "184/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-185",
+      "number": "185/159",
+      "name": "Zoroark ex do N",
+      "sectionId": "secretas",
+      "printedNumber": "185/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-186",
+      "number": "186/159",
+      "name": "Zacian ex do Lupo",
+      "sectionId": "secretas",
+      "printedNumber": "186/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-187",
+      "number": "187/159",
+      "name": "Salamence ex",
+      "sectionId": "secretas",
+      "printedNumber": "187/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-188",
+      "number": "188/159",
+      "name": "Bellibolt ex da Kissera",
+      "sectionId": "secretas",
+      "printedNumber": "188/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-189",
+      "number": "189/159",
+      "name": "Zoroark ex do N",
+      "sectionId": "secretas",
+      "printedNumber": "189/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-190",
+      "number": "190/159",
+      "name": "Energia Espinhosa",
+      "sectionId": "secretas",
+      "printedNumber": "190/159",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "jtg-001-r",
+      "number": "001/159-R",
+      "name": "Caterpie (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "001/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-002-r",
+      "number": "002/159-R",
+      "name": "Metapod (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "002/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-003-r",
+      "number": "003/159-R",
+      "name": "Butterfree (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "003/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-004-r",
+      "number": "004/159-R",
+      "name": "Paras (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "004/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-005-r",
+      "number": "005/159-R",
+      "name": "Parasect (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "005/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-006-r",
+      "number": "006/159-R",
+      "name": "Petilil (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "006/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-007-r",
+      "number": "007/159-R",
+      "name": "Lilligant (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "007/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-008-r",
+      "number": "008/159-R",
+      "name": "Maractus (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "008/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-009-r",
+      "number": "009/159-R",
+      "name": "Karrablast (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "009/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-010-r",
+      "number": "010/159-R",
+      "name": "Foongus (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "010/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-012-r",
+      "number": "012/159-R",
+      "name": "Shelmet (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "012/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-013-r",
+      "number": "013/159-R",
+      "name": "Accelgor (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "013/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-014-r",
+      "number": "014/159-R",
+      "name": "Durant (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "014/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-015-r",
+      "number": "015/159-R",
+      "name": "Virizion (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "015/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-016-r",
+      "number": "016/159-R",
+      "name": "Sprigatito (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "016/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-017-r",
+      "number": "017/159-R",
+      "name": "Floragato (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "017/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-018-r",
+      "number": "018/159-R",
+      "name": "Meowscarada (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "018/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-019-r",
+      "number": "019/159-R",
+      "name": "Nymble (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "019/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-020-r",
+      "number": "020/159-R",
+      "name": "Magmar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "020/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-021-r",
+      "number": "021/159-R",
+      "name": "Magmortar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "021/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-022-r",
+      "number": "022/159-R",
+      "name": "Torchic (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "022/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-023-r",
+      "number": "023/159-R",
+      "name": "Combusken (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "023/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-025-r",
+      "number": "025/159-R",
+      "name": "Torkoal (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "025/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-026-r",
+      "number": "026/159-R",
+      "name": "Darumaka do N (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "026/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-027-r",
+      "number": "027/159-R",
+      "name": "Darmanitan do N (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "027/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-028-r",
+      "number": "028/159-R",
+      "name": "Larvesta (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "028/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-029-r",
+      "number": "029/159-R",
+      "name": "Volcarona (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "029/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-032-r",
+      "number": "032/159-R",
+      "name": "Articuno (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "032/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-033-r",
+      "number": "033/159-R",
+      "name": "Remoraid (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "033/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-034-r",
+      "number": "034/159-R",
+      "name": "Octillery (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "034/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-035-r",
+      "number": "035/159-R",
+      "name": "Lotad (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "035/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-036-r",
+      "number": "036/159-R",
+      "name": "Lombre (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "036/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-037-r",
+      "number": "037/159-R",
+      "name": "Ludicolo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "037/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-038-r",
+      "number": "038/159-R",
+      "name": "Wingull (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "038/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-039-r",
+      "number": "039/159-R",
+      "name": "Pelipper (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "039/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-040-r",
+      "number": "040/159-R",
+      "name": "Wailmer (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "040/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-041-r",
+      "number": "041/159-R",
+      "name": "Wailord (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "041/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-042-r",
+      "number": "042/159-R",
+      "name": "Regice (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "042/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-044-r",
+      "number": "044/159-R",
+      "name": "Geodude de Alola (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "044/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-045-r",
+      "number": "045/159-R",
+      "name": "Graveler de Alola (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "045/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-046-r",
+      "number": "046/159-R",
+      "name": "Golem de Alola (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "046/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-047-r",
+      "number": "047/159-R",
+      "name": "Voltorb da Kissera (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "047/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-048-r",
+      "number": "048/159-R",
+      "name": "Electrode da Kissera (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "048/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-049-r",
+      "number": "049/159-R",
+      "name": "Joltik do N (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "049/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-050-r",
+      "number": "050/159-R",
+      "name": "Togedemaru (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "050/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-052-r",
+      "number": "052/159-R",
+      "name": "Tadbulb da Kissera (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "052/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-054-r",
+      "number": "054/159-R",
+      "name": "Wattrel da Kissera (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "054/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-055-r",
+      "number": "055/159-R",
+      "name": "Kilowattrel da Kissera (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "055/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-057-r",
+      "number": "057/159-R",
+      "name": "Marowak de Alola (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "057/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-058-r",
+      "number": "058/159-R",
+      "name": "Mr. Mime (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "058/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-059-r",
+      "number": "059/159-R",
+      "name": "Shuppet (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "059/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-060-r",
+      "number": "060/159-R",
+      "name": "Banette (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "060/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-061-r",
+      "number": "061/159-R",
+      "name": "Beldum (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "061/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-062-r",
+      "number": "062/159-R",
+      "name": "Metang (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "062/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-063-r",
+      "number": "063/159-R",
+      "name": "Metagross (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "063/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-064-r",
+      "number": "064/159-R",
+      "name": "Sigilyph do N (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "064/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-065-r",
+      "number": "065/159-R",
+      "name": "Oricorio (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "065/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-066-r",
+      "number": "066/159-R",
+      "name": "Cutiefly da Lílian (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "066/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-067-r",
+      "number": "067/159-R",
+      "name": "Ribombee da Lílian (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "067/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-068-r",
+      "number": "068/159-R",
+      "name": "Comfey da Lílian (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "068/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-070-r",
+      "number": "070/159-R",
+      "name": "Dhelmise (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "070/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-071-r",
+      "number": "071/159-R",
+      "name": "Impidimp (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "071/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-072-r",
+      "number": "072/159-R",
+      "name": "Morgrem (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "072/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-073-r",
+      "number": "073/159-R",
+      "name": "Grimmsnarl (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "073/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-074-r",
+      "number": "074/159-R",
+      "name": "Milcery (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "074/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-076-r",
+      "number": "076/159-R",
+      "name": "Cubone (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "076/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-077-r",
+      "number": "077/159-R",
+      "name": "Swinub (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "077/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-078-r",
+      "number": "078/159-R",
+      "name": "Piloswine (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "078/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-080-r",
+      "number": "080/159-R",
+      "name": "Larvitar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "080/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-081-r",
+      "number": "081/159-R",
+      "name": "Pupitar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "081/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-082-r",
+      "number": "082/159-R",
+      "name": "Regirock (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "082/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-083-r",
+      "number": "083/159-R",
+      "name": "Pancham (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "083/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-084-r",
+      "number": "084/159-R",
+      "name": "Rockruff (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "084/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-085-r",
+      "number": "085/159-R",
+      "name": "Lycanroc (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "085/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-086-r",
+      "number": "086/159-R",
+      "name": "Silicobra do Lupo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "086/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-087-r",
+      "number": "087/159-R",
+      "name": "Sandaconda do Lupo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "087/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-088-r",
+      "number": "088/159-R",
+      "name": "Toedscool (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "088/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-089-r",
+      "number": "089/159-R",
+      "name": "Toedscruel (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "089/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-090-r",
+      "number": "090/159-R",
+      "name": "Klawf (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "090/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-091-r",
+      "number": "091/159-R",
+      "name": "Koffing (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "091/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-092-r",
+      "number": "092/159-R",
+      "name": "Weezing (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "092/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-093-r",
+      "number": "093/159-R",
+      "name": "Wooper de Paldea (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "093/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-095-r",
+      "number": "095/159-R",
+      "name": "Tyranitar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "095/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-096-r",
+      "number": "096/159-R",
+      "name": "Purrloin do N (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "096/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-097-r",
+      "number": "097/159-R",
+      "name": "Zorua do N (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "097/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-099-r",
+      "number": "099/159-R",
+      "name": "Pangoro (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "099/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-100-r",
+      "number": "100/159-R",
+      "name": "Lokix (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "100/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-101-r",
+      "number": "101/159-R",
+      "name": "Bombirdier (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "101/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-102-r",
+      "number": "102/159-R",
+      "name": "Escavalier (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "102/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-103-r",
+      "number": "103/159-R",
+      "name": "Klink do N (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "103/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-104-r",
+      "number": "104/159-R",
+      "name": "Klang do N (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "104/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-105-r",
+      "number": "105/159-R",
+      "name": "Klinklang do N (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "105/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-106-r",
+      "number": "106/159-R",
+      "name": "Stunfisk de Galar (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "106/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-107-r",
+      "number": "107/159-R",
+      "name": "Magearna (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "107/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-108-r",
+      "number": "108/159-R",
+      "name": "Corviknight do Lupo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "108/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-109-r",
+      "number": "109/159-R",
+      "name": "Cufant (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "109/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-110-r",
+      "number": "110/159-R",
+      "name": "Copperajah (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "110/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-112-r",
+      "number": "112/159-R",
+      "name": "Bagon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "112/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-113-r",
+      "number": "113/159-R",
+      "name": "Shelgon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "113/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-115-r",
+      "number": "115/159-R",
+      "name": "Druddigon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "115/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-116-r",
+      "number": "116/159-R",
+      "name": "Reshiram do N (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "116/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-117-r",
+      "number": "117/159-R",
+      "name": "Snorlax do Lupo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "117/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-118-r",
+      "number": "118/159-R",
+      "name": "Sentret (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "118/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-119-r",
+      "number": "119/159-R",
+      "name": "Furret (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "119/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-120-r",
+      "number": "120/159-R",
+      "name": "Dunsparce (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "120/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-122-r",
+      "number": "122/159-R",
+      "name": "Kecleon (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "122/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-123-r",
+      "number": "123/159-R",
+      "name": "Tropius (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "123/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-124-r",
+      "number": "124/159-R",
+      "name": "Audino (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "124/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-125-r",
+      "number": "125/159-R",
+      "name": "Minccino (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "125/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-126-r",
+      "number": "126/159-R",
+      "name": "Cinccino (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "126/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-127-r",
+      "number": "127/159-R",
+      "name": "Noibat (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "127/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-128-r",
+      "number": "128/159-R",
+      "name": "Noivern (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "128/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-129-r",
+      "number": "129/159-R",
+      "name": "Komala (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "129/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-130-r",
+      "number": "130/159-R",
+      "name": "Drampa (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "130/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-131-r",
+      "number": "131/159-R",
+      "name": "Skwovet (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "131/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-132-r",
+      "number": "132/159-R",
+      "name": "Greedent (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "132/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-133-r",
+      "number": "133/159-R",
+      "name": "Rookidee do Lupo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "133/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-134-r",
+      "number": "134/159-R",
+      "name": "Corvisquire do Lupo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "134/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-135-r",
+      "number": "135/159-R",
+      "name": "Wooloo do Lupo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "135/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-136-r",
+      "number": "136/159-R",
+      "name": "Dubwool do Lupo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "136/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-137-r",
+      "number": "137/159-R",
+      "name": "Cramorant (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "137/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-138-r",
+      "number": "138/159-R",
+      "name": "Cramorant do Lupo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "138/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-139-r",
+      "number": "139/159-R",
+      "name": "Lechonk (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "139/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-140-r",
+      "number": "140/159-R",
+      "name": "Oinkologne (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "140/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-141-r",
+      "number": "141/159-R",
+      "name": "Squawkabilly (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "141/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-142-r",
+      "number": "142/159-R",
+      "name": "Abílio e Onara (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "142/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-143-r",
+      "number": "143/159-R",
+      "name": "Treino de Faixa Preta (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "143/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-144-r",
+      "number": "144/159-R",
+      "name": "Treino de Faixa Preta (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "144/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-145-r",
+      "number": "145/159-R",
+      "name": "Treino de Faixa Preta (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "145/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-146-r",
+      "number": "146/159-R",
+      "name": "Busca do Brock (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "146/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-147-r",
+      "number": "147/159-R",
+      "name": "Bolsa do Lupo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "147/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-148-r",
+      "number": "148/159-R",
+      "name": "Faixa da Escolha do Lupo (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "148/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-149-r",
+      "number": "149/159-R",
+      "name": "Espírito de Luta da Iris (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "149/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-150-r",
+      "number": "150/159-R",
+      "name": "Levincia (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "150/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-151-r",
+      "number": "151/159-R",
+      "name": "Pérola da Lílian (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "151/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-152-r",
+      "number": "152/159-R",
+      "name": "Castelo do N (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "152/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-153-r",
+      "number": "153/159-R",
+      "name": "PP Up do N (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "153/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-154-r",
+      "number": "154/159-R",
+      "name": "Postwick (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "154/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-155-r",
+      "number": "155/159-R",
+      "name": "Pesquisa de Professores (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "155/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-156-r",
+      "number": "156/159-R",
+      "name": "Ingresso Resgatável (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "156/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-157-r",
+      "number": "157/159-R",
+      "name": "Baderneiro (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "157/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-158-r",
+      "number": "158/159-R",
+      "name": "Superpoção (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "158/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    },
+    {
+      "id": "jtg-159-r",
+      "number": "159/159-R",
+      "name": "Energia Espinhosa (Reversa)",
+      "sectionId": "reversas",
+      "printedNumber": "159/159",
+      "countsTowardCompletion": true,
+      "finish": "reverse"
+    }
+  ]
+}

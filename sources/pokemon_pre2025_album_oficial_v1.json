@@ -1,0 +1,3891 @@
+{
+  "officialId": "pokemon.pre2025.standard",
+  "version": 1,
+  "name": "Escarlate e Violeta — Evoluções Prismáticas",
+  "collection": "Escarlate e Violeta — Evoluções Prismáticas",
+  "year": "2025",
+  "publisher": "The Pokémon Company / Copag",
+  "collectionType": "cards",
+  "availability": "online",
+  "description": "447 cards: 131 principais, 49 secretas, 100 reversas comuns, 100 Poké Bola e 67 Master Bola. Os sufixos -RH, -PBP e -MBP identificam os acabamentos. Não inclui promocionais, carimbadas ou variantes exclusivas de produtos.",
+  "plannedTotal": 447,
+  "variantCount": 0,
+  "coverAsset": "assets/album_library/imagens/pokemon_evolucoes_prismaticas2025/capa.webp",
+  "libraryCategory": {
+    "id": "pokemon",
+    "name": "Pokémon",
+    "order": 80
+  },
+  "sections": [
+    {
+      "id": "principal",
+      "name": "Coleção principal",
+      "imageAsset": "assets/album_library/imagens/pokemon_evolucoes_prismaticas2025/capa.webp"
+    },
+    {
+      "id": "secretas",
+      "name": "Cartas secretas",
+      "imageAsset": "assets/album_library/imagens/pokemon_evolucoes_prismaticas2025/capa.webp"
+    },
+    {
+      "id": "rh",
+      "name": "Reversas comuns",
+      "imageAsset": "assets/album_library/imagens/pokemon_evolucoes_prismaticas2025/capa.webp"
+    },
+    {
+      "id": "pbp",
+      "name": "Poké Bola",
+      "imageAsset": "assets/album_library/imagens/pokemon_evolucoes_prismaticas2025/capa.webp"
+    },
+    {
+      "id": "mbp",
+      "name": "Master Bola",
+      "imageAsset": "assets/album_library/imagens/pokemon_evolucoes_prismaticas2025/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "pre-001",
+      "number": "001/131",
+      "name": "Exeggcute",
+      "sectionId": "principal",
+      "printedNumber": "001/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-002",
+      "number": "002/131",
+      "name": "Exeggutor",
+      "sectionId": "principal",
+      "printedNumber": "002/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-003",
+      "number": "003/131",
+      "name": "Pinsir",
+      "sectionId": "principal",
+      "printedNumber": "003/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-004",
+      "number": "004/131",
+      "name": "Budew",
+      "sectionId": "principal",
+      "printedNumber": "004/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-005",
+      "number": "005/131",
+      "name": "Leafeon",
+      "sectionId": "principal",
+      "printedNumber": "005/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-006",
+      "number": "006/131",
+      "name": "Leafeon ex",
+      "sectionId": "principal",
+      "printedNumber": "006/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-007",
+      "number": "007/131",
+      "name": "Cottonee",
+      "sectionId": "principal",
+      "printedNumber": "007/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-008",
+      "number": "008/131",
+      "name": "Whimsicott",
+      "sectionId": "principal",
+      "printedNumber": "008/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-009",
+      "number": "009/131",
+      "name": "Applin",
+      "sectionId": "principal",
+      "printedNumber": "009/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-010",
+      "number": "010/131",
+      "name": "Dipplin",
+      "sectionId": "principal",
+      "printedNumber": "010/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-011",
+      "number": "011/131",
+      "name": "Hydrapple ex",
+      "sectionId": "principal",
+      "printedNumber": "011/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-012",
+      "number": "012/131",
+      "name": "Ogerpon Máscara Turquesa ex",
+      "sectionId": "principal",
+      "printedNumber": "012/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-013",
+      "number": "013/131",
+      "name": "Flareon",
+      "sectionId": "principal",
+      "printedNumber": "013/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-014",
+      "number": "014/131",
+      "name": "Flareon ex",
+      "sectionId": "principal",
+      "printedNumber": "014/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-015",
+      "number": "015/131",
+      "name": "Litleo",
+      "sectionId": "principal",
+      "printedNumber": "015/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-016",
+      "number": "016/131",
+      "name": "Pyroar",
+      "sectionId": "principal",
+      "printedNumber": "016/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-017",
+      "number": "017/131",
+      "name": "Ogerpon Máscara Fornalha ex",
+      "sectionId": "principal",
+      "printedNumber": "017/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-018",
+      "number": "018/131",
+      "name": "Slowpoke",
+      "sectionId": "principal",
+      "printedNumber": "018/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-019",
+      "number": "019/131",
+      "name": "Slowking",
+      "sectionId": "principal",
+      "printedNumber": "019/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-020",
+      "number": "020/131",
+      "name": "Goldeen",
+      "sectionId": "principal",
+      "printedNumber": "020/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-021",
+      "number": "021/131",
+      "name": "Seaking",
+      "sectionId": "principal",
+      "printedNumber": "021/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-022",
+      "number": "022/131",
+      "name": "Vaporeon",
+      "sectionId": "principal",
+      "printedNumber": "022/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-023",
+      "number": "023/131",
+      "name": "Vaporeon ex",
+      "sectionId": "principal",
+      "printedNumber": "023/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-024",
+      "number": "024/131",
+      "name": "Suicune",
+      "sectionId": "principal",
+      "printedNumber": "024/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-025",
+      "number": "025/131",
+      "name": "Glaceon",
+      "sectionId": "principal",
+      "printedNumber": "025/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-026",
+      "number": "026/131",
+      "name": "Glaceon ex",
+      "sectionId": "principal",
+      "printedNumber": "026/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-027",
+      "number": "027/131",
+      "name": "Ogerpon Máscara Nascente ex",
+      "sectionId": "principal",
+      "printedNumber": "027/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-028",
+      "number": "028/131",
+      "name": "Pikachu ex",
+      "sectionId": "principal",
+      "printedNumber": "028/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-029",
+      "number": "029/131",
+      "name": "Jolteon",
+      "sectionId": "principal",
+      "printedNumber": "029/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-030",
+      "number": "030/131",
+      "name": "Jolteon ex",
+      "sectionId": "principal",
+      "printedNumber": "030/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-031",
+      "number": "031/131",
+      "name": "Mãos Férreas ex",
+      "sectionId": "principal",
+      "printedNumber": "031/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-032",
+      "number": "032/131",
+      "name": "Espinhos Férreos ex",
+      "sectionId": "principal",
+      "printedNumber": "032/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-033",
+      "number": "033/131",
+      "name": "Espeon",
+      "sectionId": "principal",
+      "printedNumber": "033/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-034",
+      "number": "034/131",
+      "name": "Espeon ex",
+      "sectionId": "principal",
+      "printedNumber": "034/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-035",
+      "number": "035/131",
+      "name": "Duskull",
+      "sectionId": "principal",
+      "printedNumber": "035/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-036",
+      "number": "036/131",
+      "name": "Dusclops",
+      "sectionId": "principal",
+      "printedNumber": "036/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-037",
+      "number": "037/131",
+      "name": "Dusknoir",
+      "sectionId": "principal",
+      "printedNumber": "037/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-038",
+      "number": "038/131",
+      "name": "Spritzee",
+      "sectionId": "principal",
+      "printedNumber": "038/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-039",
+      "number": "039/131",
+      "name": "Aromatisse",
+      "sectionId": "principal",
+      "printedNumber": "039/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-040",
+      "number": "040/131",
+      "name": "Sylveon",
+      "sectionId": "principal",
+      "printedNumber": "040/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-041",
+      "number": "041/131",
+      "name": "Sylveon ex",
+      "sectionId": "principal",
+      "printedNumber": "041/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-042",
+      "number": "042/131",
+      "name": "Cauda Brado",
+      "sectionId": "principal",
+      "printedNumber": "042/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-043",
+      "number": "043/131",
+      "name": "Juba Sopro",
+      "sectionId": "principal",
+      "printedNumber": "043/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-044",
+      "number": "044/131",
+      "name": "Munkidori",
+      "sectionId": "principal",
+      "printedNumber": "044/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-045",
+      "number": "045/131",
+      "name": "Fezandipiti",
+      "sectionId": "principal",
+      "printedNumber": "045/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-046",
+      "number": "046/131",
+      "name": "Rocha Férrea",
+      "sectionId": "principal",
+      "printedNumber": "046/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-047",
+      "number": "047/131",
+      "name": "Larvitar",
+      "sectionId": "principal",
+      "printedNumber": "047/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-048",
+      "number": "048/131",
+      "name": "Pupitar",
+      "sectionId": "principal",
+      "printedNumber": "048/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-049",
+      "number": "049/131",
+      "name": "Groudon",
+      "sectionId": "principal",
+      "printedNumber": "049/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-050",
+      "number": "050/131",
+      "name": "Riolu",
+      "sectionId": "principal",
+      "printedNumber": "050/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-051",
+      "number": "051/131",
+      "name": "Lucario ex",
+      "sectionId": "principal",
+      "printedNumber": "051/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-052",
+      "number": "052/131",
+      "name": "Hippopotas",
+      "sectionId": "principal",
+      "printedNumber": "052/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-053",
+      "number": "053/131",
+      "name": "Hippowdon",
+      "sectionId": "principal",
+      "printedNumber": "053/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-054",
+      "number": "054/131",
+      "name": "Ursaluna Lua Sangrenta",
+      "sectionId": "principal",
+      "printedNumber": "054/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-055",
+      "number": "055/131",
+      "name": "Presa Grande",
+      "sectionId": "principal",
+      "printedNumber": "055/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-056",
+      "number": "056/131",
+      "name": "Choque Areia ex",
+      "sectionId": "principal",
+      "printedNumber": "056/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-057",
+      "number": "057/131",
+      "name": "Okidogi",
+      "sectionId": "principal",
+      "printedNumber": "057/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-058",
+      "number": "058/131",
+      "name": "Ogerpon Máscara Alicerce ex",
+      "sectionId": "principal",
+      "printedNumber": "058/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-059",
+      "number": "059/131",
+      "name": "Umbreon",
+      "sectionId": "principal",
+      "printedNumber": "059/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-060",
+      "number": "060/131",
+      "name": "Umbreon ex",
+      "sectionId": "principal",
+      "printedNumber": "060/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-061",
+      "number": "061/131",
+      "name": "Sneasel",
+      "sectionId": "principal",
+      "printedNumber": "061/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-062",
+      "number": "062/131",
+      "name": "Houndour",
+      "sectionId": "principal",
+      "printedNumber": "062/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-063",
+      "number": "063/131",
+      "name": "Houndoom",
+      "sectionId": "principal",
+      "printedNumber": "063/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-064",
+      "number": "064/131",
+      "name": "Tyranitar ex",
+      "sectionId": "principal",
+      "printedNumber": "064/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-065",
+      "number": "065/131",
+      "name": "Lua Estrondo",
+      "sectionId": "principal",
+      "printedNumber": "065/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-066",
+      "number": "066/131",
+      "name": "Bronzor",
+      "sectionId": "principal",
+      "printedNumber": "066/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-067",
+      "number": "067/131",
+      "name": "Bronzong",
+      "sectionId": "principal",
+      "printedNumber": "067/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-068",
+      "number": "068/131",
+      "name": "Heatran",
+      "sectionId": "principal",
+      "printedNumber": "068/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-069",
+      "number": "069/131",
+      "name": "Duraludon",
+      "sectionId": "principal",
+      "printedNumber": "069/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-070",
+      "number": "070/131",
+      "name": "Archaludon",
+      "sectionId": "principal",
+      "printedNumber": "070/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-071",
+      "number": "071/131",
+      "name": "Dreepy",
+      "sectionId": "principal",
+      "printedNumber": "071/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-072",
+      "number": "072/131",
+      "name": "Drakloak",
+      "sectionId": "principal",
+      "printedNumber": "072/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-073",
+      "number": "073/131",
+      "name": "Dragapult ex",
+      "sectionId": "principal",
+      "printedNumber": "073/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-074",
+      "number": "074/131",
+      "name": "Eevee",
+      "sectionId": "principal",
+      "printedNumber": "074/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-075",
+      "number": "075/131",
+      "name": "Eevee ex",
+      "sectionId": "principal",
+      "printedNumber": "075/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-076",
+      "number": "076/131",
+      "name": "Snorlax ex",
+      "sectionId": "principal",
+      "printedNumber": "076/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-077",
+      "number": "077/131",
+      "name": "Hoothoot",
+      "sectionId": "principal",
+      "printedNumber": "077/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-078",
+      "number": "078/131",
+      "name": "Noctowl",
+      "sectionId": "principal",
+      "printedNumber": "078/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-079",
+      "number": "079/131",
+      "name": "Dunsparce",
+      "sectionId": "principal",
+      "printedNumber": "079/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-080",
+      "number": "080/131",
+      "name": "Dudunsparce",
+      "sectionId": "principal",
+      "printedNumber": "080/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-081",
+      "number": "081/131",
+      "name": "Miltank",
+      "sectionId": "principal",
+      "printedNumber": "081/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-082",
+      "number": "082/131",
+      "name": "Lugia ex",
+      "sectionId": "principal",
+      "printedNumber": "082/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-083",
+      "number": "083/131",
+      "name": "Buneary",
+      "sectionId": "principal",
+      "printedNumber": "083/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-084",
+      "number": "084/131",
+      "name": "Lopunny",
+      "sectionId": "principal",
+      "printedNumber": "084/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-085",
+      "number": "085/131",
+      "name": "Rotom Ventilador",
+      "sectionId": "principal",
+      "printedNumber": "085/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-086",
+      "number": "086/131",
+      "name": "Regigigas",
+      "sectionId": "principal",
+      "printedNumber": "086/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-087",
+      "number": "087/131",
+      "name": "Shaymin",
+      "sectionId": "principal",
+      "printedNumber": "087/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-088",
+      "number": "088/131",
+      "name": "Furfrou",
+      "sectionId": "principal",
+      "printedNumber": "088/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-089",
+      "number": "089/131",
+      "name": "Hawlucha",
+      "sectionId": "principal",
+      "printedNumber": "089/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-090",
+      "number": "090/131",
+      "name": "Noibat",
+      "sectionId": "principal",
+      "printedNumber": "090/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-091",
+      "number": "091/131",
+      "name": "Noivern ex",
+      "sectionId": "principal",
+      "printedNumber": "091/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-092",
+      "number": "092/131",
+      "name": "Terapagos ex",
+      "sectionId": "principal",
+      "printedNumber": "092/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-093",
+      "number": "093/131",
+      "name": "Amarílis",
+      "sectionId": "principal",
+      "printedNumber": "093/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-094",
+      "number": "094/131",
+      "name": "Abismo da Área Zero",
+      "sectionId": "principal",
+      "printedNumber": "094/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-095",
+      "number": "095/131",
+      "name": "Moti Vinculante",
+      "sectionId": "principal",
+      "printedNumber": "095/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-096",
+      "number": "096/131",
+      "name": "Treino de Faixa Preta",
+      "sectionId": "principal",
+      "printedNumber": "096/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-097",
+      "number": "097/131",
+      "name": "Treino de Faixa Preta",
+      "sectionId": "principal",
+      "printedNumber": "097/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-098",
+      "number": "098/131",
+      "name": "Treino de Faixa Preta",
+      "sectionId": "principal",
+      "printedNumber": "098/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-099",
+      "number": "099/131",
+      "name": "Treino de Faixa Preta",
+      "sectionId": "principal",
+      "printedNumber": "099/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-100",
+      "number": "100/131",
+      "name": "Urzy",
+      "sectionId": "principal",
+      "printedNumber": "100/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-101",
+      "number": "101/131",
+      "name": "Poffin de Colega",
+      "sectionId": "principal",
+      "printedNumber": "101/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-102",
+      "number": "102/131",
+      "name": "Kit Caça-inseto",
+      "sectionId": "principal",
+      "printedNumber": "102/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-103",
+      "number": "103/131",
+      "name": "Carmine",
+      "sectionId": "principal",
+      "printedNumber": "103/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-104",
+      "number": "104/131",
+      "name": "Decodificação da Criptomaníaca",
+      "sectionId": "principal",
+      "printedNumber": "104/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-105",
+      "number": "105/131",
+      "name": "Plínio",
+      "sectionId": "principal",
+      "printedNumber": "105/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-106",
+      "number": "106/131",
+      "name": "Recipiente Terrestre",
+      "sectionId": "principal",
+      "printedNumber": "106/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-107",
+      "number": "107/131",
+      "name": "Liderança do Explorador",
+      "sectionId": "principal",
+      "printedNumber": "107/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-108",
+      "number": "108/131",
+      "name": "Praça de Festas",
+      "sectionId": "principal",
+      "printedNumber": "108/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-109",
+      "number": "109/131",
+      "name": "Amigos em Paldea",
+      "sectionId": "principal",
+      "printedNumber": "109/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-110",
+      "number": "110/131",
+      "name": "Trompete de Vidro",
+      "sectionId": "principal",
+      "printedNumber": "110/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-111",
+      "number": "111/131",
+      "name": "Fruta Meraçá",
+      "sectionId": "principal",
+      "printedNumber": "111/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-112",
+      "number": "112/131",
+      "name": "Dom Secreto da Janine",
+      "sectionId": "principal",
+      "printedNumber": "112/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-113",
+      "number": "113/131",
+      "name": "Kiran",
+      "sectionId": "principal",
+      "printedNumber": "113/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-114",
+      "number": "114/131",
+      "name": "Tarsila",
+      "sectionId": "principal",
+      "printedNumber": "114/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-115",
+      "number": "115/131",
+      "name": "Talento do Lauro",
+      "sectionId": "principal",
+      "printedNumber": "115/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-116",
+      "number": "116/131",
+      "name": "Vara de Pescar Max",
+      "sectionId": "principal",
+      "printedNumber": "116/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-117",
+      "number": "117/131",
+      "name": "Cinturão Máximo",
+      "sectionId": "principal",
+      "printedNumber": "117/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-118",
+      "number": "118/131",
+      "name": "Máscara do Ogro",
+      "sectionId": "principal",
+      "printedNumber": "118/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-119",
+      "number": "119/131",
+      "name": "Pegador Superior",
+      "sectionId": "principal",
+      "printedNumber": "119/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-120",
+      "number": "120/131",
+      "name": "Vitalidade da Professora Arka",
+      "sectionId": "principal",
+      "printedNumber": "120/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-121",
+      "number": "121/131",
+      "name": "Hipótese do Professor Turo",
+      "sectionId": "principal",
+      "printedNumber": "121/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-122",
+      "number": "122/131",
+      "name": "Pesquisa de Professores: Prof. Carvalho",
+      "sectionId": "principal",
+      "printedNumber": "122/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-123",
+      "number": "123/131",
+      "name": "Pesquisa de Professores: Prof. Elm",
+      "sectionId": "principal",
+      "printedNumber": "123/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-124",
+      "number": "124/131",
+      "name": "Pesquisa de Professores: Prof. Sorveira",
+      "sectionId": "principal",
+      "printedNumber": "124/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-125",
+      "number": "125/131",
+      "name": "Pesquisa de Professores: Prof. Sycamore",
+      "sectionId": "principal",
+      "printedNumber": "125/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-126",
+      "number": "126/131",
+      "name": "Skate de Resgate",
+      "sectionId": "principal",
+      "printedNumber": "126/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-127",
+      "number": "127/131",
+      "name": "Roto-bastão",
+      "sectionId": "principal",
+      "printedNumber": "127/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-128",
+      "number": "128/131",
+      "name": "Recolhida Ciclone",
+      "sectionId": "principal",
+      "printedNumber": "128/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-129",
+      "number": "129/131",
+      "name": "Cristal Cintilante",
+      "sectionId": "principal",
+      "printedNumber": "129/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-130",
+      "number": "130/131",
+      "name": "Radar Tecnológico",
+      "sectionId": "principal",
+      "printedNumber": "130/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-131",
+      "number": "131/131",
+      "name": "Rastreador de Tesouros",
+      "sectionId": "principal",
+      "printedNumber": "131/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-132",
+      "number": "132/131",
+      "name": "Amarílis",
+      "sectionId": "secretas",
+      "printedNumber": "132/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-133",
+      "number": "133/131",
+      "name": "Érico",
+      "sectionId": "secretas",
+      "printedNumber": "133/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-134",
+      "number": "134/131",
+      "name": "Érico",
+      "sectionId": "secretas",
+      "printedNumber": "134/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-135",
+      "number": "135/131",
+      "name": "Brás",
+      "sectionId": "secretas",
+      "printedNumber": "135/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-136",
+      "number": "136/131",
+      "name": "Êri",
+      "sectionId": "secretas",
+      "printedNumber": "136/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-137",
+      "number": "137/131",
+      "name": "Amigos em Paldea",
+      "sectionId": "secretas",
+      "printedNumber": "137/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-138",
+      "number": "138/131",
+      "name": "Giacomo",
+      "sectionId": "secretas",
+      "printedNumber": "138/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-139",
+      "number": "139/131",
+      "name": "Talento do Lauro",
+      "sectionId": "secretas",
+      "printedNumber": "139/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-140",
+      "number": "140/131",
+      "name": "Mélia",
+      "sectionId": "secretas",
+      "printedNumber": "140/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-141",
+      "number": "141/131",
+      "name": "Ortega",
+      "sectionId": "secretas",
+      "printedNumber": "141/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-142",
+      "number": "142/131",
+      "name": "Moira",
+      "sectionId": "secretas",
+      "printedNumber": "142/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-143",
+      "number": "143/131",
+      "name": "Tomila",
+      "sectionId": "secretas",
+      "printedNumber": "143/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-144",
+      "number": "144/131",
+      "name": "Leafeon ex",
+      "sectionId": "secretas",
+      "printedNumber": "144/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-145",
+      "number": "145/131",
+      "name": "Ogerpon Máscara Turquesa ex",
+      "sectionId": "secretas",
+      "printedNumber": "145/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-146",
+      "number": "146/131",
+      "name": "Flareon ex",
+      "sectionId": "secretas",
+      "printedNumber": "146/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-147",
+      "number": "147/131",
+      "name": "Ceruledge ex",
+      "sectionId": "secretas",
+      "printedNumber": "147/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-148",
+      "number": "148/131",
+      "name": "Ogerpon Máscara Fornalha ex",
+      "sectionId": "secretas",
+      "printedNumber": "148/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-149",
+      "number": "149/131",
+      "name": "Vaporeon ex",
+      "sectionId": "secretas",
+      "printedNumber": "149/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-150",
+      "number": "150/131",
+      "name": "Glaceon ex",
+      "sectionId": "secretas",
+      "printedNumber": "150/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-151",
+      "number": "151/131",
+      "name": "Palafin ex",
+      "sectionId": "secretas",
+      "printedNumber": "151/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-152",
+      "number": "152/131",
+      "name": "Ogerpon Máscara Nascente ex",
+      "sectionId": "secretas",
+      "printedNumber": "152/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-153",
+      "number": "153/131",
+      "name": "Jolteon ex",
+      "sectionId": "secretas",
+      "printedNumber": "153/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-154",
+      "number": "154/131",
+      "name": "Mãos Férreas ex",
+      "sectionId": "secretas",
+      "printedNumber": "154/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-155",
+      "number": "155/131",
+      "name": "Espeon ex",
+      "sectionId": "secretas",
+      "printedNumber": "155/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-156",
+      "number": "156/131",
+      "name": "Sylveon ex",
+      "sectionId": "secretas",
+      "printedNumber": "156/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-157",
+      "number": "157/131",
+      "name": "Valentia Férrea ex",
+      "sectionId": "secretas",
+      "printedNumber": "157/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-158",
+      "number": "158/131",
+      "name": "Chifres Férreos ex",
+      "sectionId": "secretas",
+      "printedNumber": "158/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-159",
+      "number": "159/131",
+      "name": "Choque Areia ex",
+      "sectionId": "secretas",
+      "printedNumber": "159/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-160",
+      "number": "160/131",
+      "name": "Ogerpon Máscara Alicerce ex",
+      "sectionId": "secretas",
+      "printedNumber": "160/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-161",
+      "number": "161/131",
+      "name": "Umbreon ex",
+      "sectionId": "secretas",
+      "printedNumber": "161/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-162",
+      "number": "162/131",
+      "name": "Lua Estrondo ex",
+      "sectionId": "secretas",
+      "printedNumber": "162/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-163",
+      "number": "163/131",
+      "name": "Pecharunt ex",
+      "sectionId": "secretas",
+      "printedNumber": "163/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-164",
+      "number": "164/131",
+      "name": "Gholdengo ex",
+      "sectionId": "secretas",
+      "printedNumber": "164/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-165",
+      "number": "165/131",
+      "name": "Dragapult ex",
+      "sectionId": "secretas",
+      "printedNumber": "165/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-166",
+      "number": "166/131",
+      "name": "Raio Fúria ex",
+      "sectionId": "secretas",
+      "printedNumber": "166/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-167",
+      "number": "167/131",
+      "name": "Eevee ex",
+      "sectionId": "secretas",
+      "printedNumber": "167/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-168",
+      "number": "168/131",
+      "name": "Ursaluna Lua Sangrenta ex",
+      "sectionId": "secretas",
+      "printedNumber": "168/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-169",
+      "number": "169/131",
+      "name": "Terapagos ex",
+      "sectionId": "secretas",
+      "printedNumber": "169/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-170",
+      "number": "170/131",
+      "name": "Amarílis",
+      "sectionId": "secretas",
+      "printedNumber": "170/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-171",
+      "number": "171/131",
+      "name": "Plínio",
+      "sectionId": "secretas",
+      "printedNumber": "171/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-172",
+      "number": "172/131",
+      "name": "Drayton",
+      "sectionId": "secretas",
+      "printedNumber": "172/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-173",
+      "number": "173/131",
+      "name": "Dom Secreto da Janine",
+      "sectionId": "secretas",
+      "printedNumber": "173/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-174",
+      "number": "174/131",
+      "name": "Kiran",
+      "sectionId": "secretas",
+      "printedNumber": "174/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-175",
+      "number": "175/131",
+      "name": "Tarsila",
+      "sectionId": "secretas",
+      "printedNumber": "175/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-176",
+      "number": "176/131",
+      "name": "Folhas Férreas ex",
+      "sectionId": "secretas",
+      "printedNumber": "176/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-177",
+      "number": "177/131",
+      "name": "Ogerpon Máscara Turquesa ex",
+      "sectionId": "secretas",
+      "printedNumber": "177/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-178",
+      "number": "178/131",
+      "name": "Onda Ando ex",
+      "sectionId": "secretas",
+      "printedNumber": "178/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-179",
+      "number": "179/131",
+      "name": "Pikachu ex",
+      "sectionId": "secretas",
+      "printedNumber": "179/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-180",
+      "number": "180/131",
+      "name": "Terapagos ex",
+      "sectionId": "secretas",
+      "printedNumber": "180/131",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "pre-001-rh",
+      "number": "001/131-RH",
+      "name": "Exeggcute (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "001/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-002-rh",
+      "number": "002/131-RH",
+      "name": "Exeggutor (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "002/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-003-rh",
+      "number": "003/131-RH",
+      "name": "Pinsir (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "003/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-004-rh",
+      "number": "004/131-RH",
+      "name": "Budew (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "004/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-005-rh",
+      "number": "005/131-RH",
+      "name": "Leafeon (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "005/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-007-rh",
+      "number": "007/131-RH",
+      "name": "Cottonee (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "007/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-008-rh",
+      "number": "008/131-RH",
+      "name": "Whimsicott (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "008/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-009-rh",
+      "number": "009/131-RH",
+      "name": "Applin (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "009/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-010-rh",
+      "number": "010/131-RH",
+      "name": "Dipplin (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "010/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-013-rh",
+      "number": "013/131-RH",
+      "name": "Flareon (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "013/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-015-rh",
+      "number": "015/131-RH",
+      "name": "Litleo (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "015/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-016-rh",
+      "number": "016/131-RH",
+      "name": "Pyroar (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "016/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-018-rh",
+      "number": "018/131-RH",
+      "name": "Slowpoke (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "018/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-019-rh",
+      "number": "019/131-RH",
+      "name": "Slowking (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "019/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-020-rh",
+      "number": "020/131-RH",
+      "name": "Goldeen (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "020/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-021-rh",
+      "number": "021/131-RH",
+      "name": "Seaking (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "021/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-022-rh",
+      "number": "022/131-RH",
+      "name": "Vaporeon (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "022/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-024-rh",
+      "number": "024/131-RH",
+      "name": "Suicune (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "024/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-025-rh",
+      "number": "025/131-RH",
+      "name": "Glaceon (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "025/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-029-rh",
+      "number": "029/131-RH",
+      "name": "Jolteon (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "029/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-033-rh",
+      "number": "033/131-RH",
+      "name": "Espeon (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "033/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-035-rh",
+      "number": "035/131-RH",
+      "name": "Duskull (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "035/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-036-rh",
+      "number": "036/131-RH",
+      "name": "Dusclops (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "036/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-037-rh",
+      "number": "037/131-RH",
+      "name": "Dusknoir (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "037/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-038-rh",
+      "number": "038/131-RH",
+      "name": "Spritzee (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "038/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-039-rh",
+      "number": "039/131-RH",
+      "name": "Aromatisse (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "039/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-040-rh",
+      "number": "040/131-RH",
+      "name": "Sylveon (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "040/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-042-rh",
+      "number": "042/131-RH",
+      "name": "Cauda Brado (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "042/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-043-rh",
+      "number": "043/131-RH",
+      "name": "Juba Sopro (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "043/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-044-rh",
+      "number": "044/131-RH",
+      "name": "Munkidori (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "044/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-045-rh",
+      "number": "045/131-RH",
+      "name": "Fezandipiti (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "045/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-046-rh",
+      "number": "046/131-RH",
+      "name": "Rocha Férrea (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "046/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-047-rh",
+      "number": "047/131-RH",
+      "name": "Larvitar (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "047/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-048-rh",
+      "number": "048/131-RH",
+      "name": "Pupitar (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "048/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-049-rh",
+      "number": "049/131-RH",
+      "name": "Groudon (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "049/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-050-rh",
+      "number": "050/131-RH",
+      "name": "Riolu (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "050/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-052-rh",
+      "number": "052/131-RH",
+      "name": "Hippopotas (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "052/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-053-rh",
+      "number": "053/131-RH",
+      "name": "Hippowdon (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "053/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-054-rh",
+      "number": "054/131-RH",
+      "name": "Ursaluna Lua Sangrenta (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "054/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-055-rh",
+      "number": "055/131-RH",
+      "name": "Presa Grande (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "055/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-057-rh",
+      "number": "057/131-RH",
+      "name": "Okidogi (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "057/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-059-rh",
+      "number": "059/131-RH",
+      "name": "Umbreon (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "059/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-061-rh",
+      "number": "061/131-RH",
+      "name": "Sneasel (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "061/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-062-rh",
+      "number": "062/131-RH",
+      "name": "Houndour (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "062/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-063-rh",
+      "number": "063/131-RH",
+      "name": "Houndoom (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "063/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-065-rh",
+      "number": "065/131-RH",
+      "name": "Lua Estrondo (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "065/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-066-rh",
+      "number": "066/131-RH",
+      "name": "Bronzor (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "066/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-067-rh",
+      "number": "067/131-RH",
+      "name": "Bronzong (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "067/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-068-rh",
+      "number": "068/131-RH",
+      "name": "Heatran (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "068/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-069-rh",
+      "number": "069/131-RH",
+      "name": "Duraludon (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "069/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-070-rh",
+      "number": "070/131-RH",
+      "name": "Archaludon (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "070/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-071-rh",
+      "number": "071/131-RH",
+      "name": "Dreepy (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "071/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-072-rh",
+      "number": "072/131-RH",
+      "name": "Drakloak (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "072/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-074-rh",
+      "number": "074/131-RH",
+      "name": "Eevee (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "074/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-077-rh",
+      "number": "077/131-RH",
+      "name": "Hoothoot (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "077/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-078-rh",
+      "number": "078/131-RH",
+      "name": "Noctowl (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "078/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-079-rh",
+      "number": "079/131-RH",
+      "name": "Dunsparce (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "079/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-080-rh",
+      "number": "080/131-RH",
+      "name": "Dudunsparce (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "080/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-081-rh",
+      "number": "081/131-RH",
+      "name": "Miltank (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "081/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-083-rh",
+      "number": "083/131-RH",
+      "name": "Buneary (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "083/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-084-rh",
+      "number": "084/131-RH",
+      "name": "Lopunny (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "084/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-085-rh",
+      "number": "085/131-RH",
+      "name": "Rotom Ventilador (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "085/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-086-rh",
+      "number": "086/131-RH",
+      "name": "Regigigas (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "086/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-087-rh",
+      "number": "087/131-RH",
+      "name": "Shaymin (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "087/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-088-rh",
+      "number": "088/131-RH",
+      "name": "Furfrou (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "088/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-089-rh",
+      "number": "089/131-RH",
+      "name": "Hawlucha (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "089/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-090-rh",
+      "number": "090/131-RH",
+      "name": "Noibat (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "090/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-093-rh",
+      "number": "093/131-RH",
+      "name": "Amarílis (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "093/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-094-rh",
+      "number": "094/131-RH",
+      "name": "Abismo da Área Zero (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "094/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-095-rh",
+      "number": "095/131-RH",
+      "name": "Moti Vinculante (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "095/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-096-rh",
+      "number": "096/131-RH",
+      "name": "Treino de Faixa Preta (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "096/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-097-rh",
+      "number": "097/131-RH",
+      "name": "Treino de Faixa Preta (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "097/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-098-rh",
+      "number": "098/131-RH",
+      "name": "Treino de Faixa Preta (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "098/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-099-rh",
+      "number": "099/131-RH",
+      "name": "Treino de Faixa Preta (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "099/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-100-rh",
+      "number": "100/131-RH",
+      "name": "Urzy (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "100/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-101-rh",
+      "number": "101/131-RH",
+      "name": "Poffin de Colega (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "101/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-102-rh",
+      "number": "102/131-RH",
+      "name": "Kit Caça-inseto (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "102/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-103-rh",
+      "number": "103/131-RH",
+      "name": "Carmine (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "103/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-104-rh",
+      "number": "104/131-RH",
+      "name": "Decodificação da Criptomaníaca (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "104/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-105-rh",
+      "number": "105/131-RH",
+      "name": "Plínio (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "105/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-106-rh",
+      "number": "106/131-RH",
+      "name": "Recipiente Terrestre (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "106/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-107-rh",
+      "number": "107/131-RH",
+      "name": "Liderança do Explorador (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "107/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-108-rh",
+      "number": "108/131-RH",
+      "name": "Praça de Festas (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "108/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-109-rh",
+      "number": "109/131-RH",
+      "name": "Amigos em Paldea (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "109/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-110-rh",
+      "number": "110/131-RH",
+      "name": "Trompete de Vidro (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "110/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-111-rh",
+      "number": "111/131-RH",
+      "name": "Fruta Meraçá (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "111/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-112-rh",
+      "number": "112/131-RH",
+      "name": "Dom Secreto da Janine (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "112/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-113-rh",
+      "number": "113/131-RH",
+      "name": "Kiran (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "113/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-114-rh",
+      "number": "114/131-RH",
+      "name": "Tarsila (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "114/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-115-rh",
+      "number": "115/131-RH",
+      "name": "Talento do Lauro (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "115/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-118-rh",
+      "number": "118/131-RH",
+      "name": "Máscara do Ogro (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "118/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-120-rh",
+      "number": "120/131-RH",
+      "name": "Vitalidade da Professora Arka (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "120/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-121-rh",
+      "number": "121/131-RH",
+      "name": "Hipótese do Professor Turo (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "121/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-122-rh",
+      "number": "122/131-RH",
+      "name": "Pesquisa de Professores: Prof. Carvalho (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "122/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-123-rh",
+      "number": "123/131-RH",
+      "name": "Pesquisa de Professores: Prof. Elm (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "123/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-124-rh",
+      "number": "124/131-RH",
+      "name": "Pesquisa de Professores: Prof. Sorveira (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "124/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-125-rh",
+      "number": "125/131-RH",
+      "name": "Pesquisa de Professores: Prof. Sycamore (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "125/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-126-rh",
+      "number": "126/131-RH",
+      "name": "Skate de Resgate (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "126/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-127-rh",
+      "number": "127/131-RH",
+      "name": "Roto-bastão (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "127/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-130-rh",
+      "number": "130/131-RH",
+      "name": "Radar Tecnológico (Reversa)",
+      "sectionId": "rh",
+      "printedNumber": "130/131",
+      "countsTowardCompletion": true,
+      "finish": "RH"
+    },
+    {
+      "id": "pre-001-pbp",
+      "number": "001/131-PBP",
+      "name": "Exeggcute (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "001/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-002-pbp",
+      "number": "002/131-PBP",
+      "name": "Exeggutor (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "002/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-003-pbp",
+      "number": "003/131-PBP",
+      "name": "Pinsir (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "003/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-004-pbp",
+      "number": "004/131-PBP",
+      "name": "Budew (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "004/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-005-pbp",
+      "number": "005/131-PBP",
+      "name": "Leafeon (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "005/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-007-pbp",
+      "number": "007/131-PBP",
+      "name": "Cottonee (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "007/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-008-pbp",
+      "number": "008/131-PBP",
+      "name": "Whimsicott (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "008/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-009-pbp",
+      "number": "009/131-PBP",
+      "name": "Applin (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "009/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-010-pbp",
+      "number": "010/131-PBP",
+      "name": "Dipplin (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "010/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-013-pbp",
+      "number": "013/131-PBP",
+      "name": "Flareon (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "013/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-015-pbp",
+      "number": "015/131-PBP",
+      "name": "Litleo (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "015/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-016-pbp",
+      "number": "016/131-PBP",
+      "name": "Pyroar (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "016/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-018-pbp",
+      "number": "018/131-PBP",
+      "name": "Slowpoke (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "018/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-019-pbp",
+      "number": "019/131-PBP",
+      "name": "Slowking (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "019/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-020-pbp",
+      "number": "020/131-PBP",
+      "name": "Goldeen (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "020/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-021-pbp",
+      "number": "021/131-PBP",
+      "name": "Seaking (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "021/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-022-pbp",
+      "number": "022/131-PBP",
+      "name": "Vaporeon (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "022/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-024-pbp",
+      "number": "024/131-PBP",
+      "name": "Suicune (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "024/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-025-pbp",
+      "number": "025/131-PBP",
+      "name": "Glaceon (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "025/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-029-pbp",
+      "number": "029/131-PBP",
+      "name": "Jolteon (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "029/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-033-pbp",
+      "number": "033/131-PBP",
+      "name": "Espeon (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "033/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-035-pbp",
+      "number": "035/131-PBP",
+      "name": "Duskull (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "035/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-036-pbp",
+      "number": "036/131-PBP",
+      "name": "Dusclops (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "036/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-037-pbp",
+      "number": "037/131-PBP",
+      "name": "Dusknoir (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "037/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-038-pbp",
+      "number": "038/131-PBP",
+      "name": "Spritzee (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "038/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-039-pbp",
+      "number": "039/131-PBP",
+      "name": "Aromatisse (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "039/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-040-pbp",
+      "number": "040/131-PBP",
+      "name": "Sylveon (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "040/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-042-pbp",
+      "number": "042/131-PBP",
+      "name": "Cauda Brado (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "042/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-043-pbp",
+      "number": "043/131-PBP",
+      "name": "Juba Sopro (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "043/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-044-pbp",
+      "number": "044/131-PBP",
+      "name": "Munkidori (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "044/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-045-pbp",
+      "number": "045/131-PBP",
+      "name": "Fezandipiti (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "045/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-046-pbp",
+      "number": "046/131-PBP",
+      "name": "Rocha Férrea (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "046/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-047-pbp",
+      "number": "047/131-PBP",
+      "name": "Larvitar (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "047/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-048-pbp",
+      "number": "048/131-PBP",
+      "name": "Pupitar (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "048/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-049-pbp",
+      "number": "049/131-PBP",
+      "name": "Groudon (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "049/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-050-pbp",
+      "number": "050/131-PBP",
+      "name": "Riolu (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "050/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-052-pbp",
+      "number": "052/131-PBP",
+      "name": "Hippopotas (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "052/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-053-pbp",
+      "number": "053/131-PBP",
+      "name": "Hippowdon (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "053/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-054-pbp",
+      "number": "054/131-PBP",
+      "name": "Ursaluna Lua Sangrenta (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "054/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-055-pbp",
+      "number": "055/131-PBP",
+      "name": "Presa Grande (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "055/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-057-pbp",
+      "number": "057/131-PBP",
+      "name": "Okidogi (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "057/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-059-pbp",
+      "number": "059/131-PBP",
+      "name": "Umbreon (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "059/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-061-pbp",
+      "number": "061/131-PBP",
+      "name": "Sneasel (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "061/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-062-pbp",
+      "number": "062/131-PBP",
+      "name": "Houndour (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "062/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-063-pbp",
+      "number": "063/131-PBP",
+      "name": "Houndoom (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "063/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-065-pbp",
+      "number": "065/131-PBP",
+      "name": "Lua Estrondo (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "065/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-066-pbp",
+      "number": "066/131-PBP",
+      "name": "Bronzor (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "066/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-067-pbp",
+      "number": "067/131-PBP",
+      "name": "Bronzong (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "067/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-068-pbp",
+      "number": "068/131-PBP",
+      "name": "Heatran (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "068/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-069-pbp",
+      "number": "069/131-PBP",
+      "name": "Duraludon (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "069/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-070-pbp",
+      "number": "070/131-PBP",
+      "name": "Archaludon (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "070/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-071-pbp",
+      "number": "071/131-PBP",
+      "name": "Dreepy (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "071/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-072-pbp",
+      "number": "072/131-PBP",
+      "name": "Drakloak (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "072/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-074-pbp",
+      "number": "074/131-PBP",
+      "name": "Eevee (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "074/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-077-pbp",
+      "number": "077/131-PBP",
+      "name": "Hoothoot (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "077/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-078-pbp",
+      "number": "078/131-PBP",
+      "name": "Noctowl (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "078/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-079-pbp",
+      "number": "079/131-PBP",
+      "name": "Dunsparce (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "079/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-080-pbp",
+      "number": "080/131-PBP",
+      "name": "Dudunsparce (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "080/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-081-pbp",
+      "number": "081/131-PBP",
+      "name": "Miltank (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "081/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-083-pbp",
+      "number": "083/131-PBP",
+      "name": "Buneary (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "083/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-084-pbp",
+      "number": "084/131-PBP",
+      "name": "Lopunny (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "084/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-085-pbp",
+      "number": "085/131-PBP",
+      "name": "Rotom Ventilador (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "085/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-086-pbp",
+      "number": "086/131-PBP",
+      "name": "Regigigas (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "086/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-087-pbp",
+      "number": "087/131-PBP",
+      "name": "Shaymin (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "087/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-088-pbp",
+      "number": "088/131-PBP",
+      "name": "Furfrou (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "088/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-089-pbp",
+      "number": "089/131-PBP",
+      "name": "Hawlucha (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "089/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-090-pbp",
+      "number": "090/131-PBP",
+      "name": "Noibat (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "090/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-093-pbp",
+      "number": "093/131-PBP",
+      "name": "Amarílis (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "093/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-094-pbp",
+      "number": "094/131-PBP",
+      "name": "Abismo da Área Zero (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "094/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-095-pbp",
+      "number": "095/131-PBP",
+      "name": "Moti Vinculante (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "095/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-096-pbp",
+      "number": "096/131-PBP",
+      "name": "Treino de Faixa Preta (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "096/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-097-pbp",
+      "number": "097/131-PBP",
+      "name": "Treino de Faixa Preta (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "097/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-098-pbp",
+      "number": "098/131-PBP",
+      "name": "Treino de Faixa Preta (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "098/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-099-pbp",
+      "number": "099/131-PBP",
+      "name": "Treino de Faixa Preta (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "099/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-100-pbp",
+      "number": "100/131-PBP",
+      "name": "Urzy (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "100/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-101-pbp",
+      "number": "101/131-PBP",
+      "name": "Poffin de Colega (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "101/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-102-pbp",
+      "number": "102/131-PBP",
+      "name": "Kit Caça-inseto (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "102/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-103-pbp",
+      "number": "103/131-PBP",
+      "name": "Carmine (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "103/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-104-pbp",
+      "number": "104/131-PBP",
+      "name": "Decodificação da Criptomaníaca (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "104/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-105-pbp",
+      "number": "105/131-PBP",
+      "name": "Plínio (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "105/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-106-pbp",
+      "number": "106/131-PBP",
+      "name": "Recipiente Terrestre (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "106/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-107-pbp",
+      "number": "107/131-PBP",
+      "name": "Liderança do Explorador (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "107/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-108-pbp",
+      "number": "108/131-PBP",
+      "name": "Praça de Festas (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "108/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-109-pbp",
+      "number": "109/131-PBP",
+      "name": "Amigos em Paldea (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "109/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-110-pbp",
+      "number": "110/131-PBP",
+      "name": "Trompete de Vidro (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "110/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-111-pbp",
+      "number": "111/131-PBP",
+      "name": "Fruta Meraçá (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "111/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-112-pbp",
+      "number": "112/131-PBP",
+      "name": "Dom Secreto da Janine (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "112/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-113-pbp",
+      "number": "113/131-PBP",
+      "name": "Kiran (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "113/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-114-pbp",
+      "number": "114/131-PBP",
+      "name": "Tarsila (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "114/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-115-pbp",
+      "number": "115/131-PBP",
+      "name": "Talento do Lauro (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "115/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-118-pbp",
+      "number": "118/131-PBP",
+      "name": "Máscara do Ogro (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "118/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-120-pbp",
+      "number": "120/131-PBP",
+      "name": "Vitalidade da Professora Arka (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "120/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-121-pbp",
+      "number": "121/131-PBP",
+      "name": "Hipótese do Professor Turo (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "121/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-122-pbp",
+      "number": "122/131-PBP",
+      "name": "Pesquisa de Professores: Prof. Carvalho (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "122/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-123-pbp",
+      "number": "123/131-PBP",
+      "name": "Pesquisa de Professores: Prof. Elm (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "123/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-124-pbp",
+      "number": "124/131-PBP",
+      "name": "Pesquisa de Professores: Prof. Sorveira (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "124/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-125-pbp",
+      "number": "125/131-PBP",
+      "name": "Pesquisa de Professores: Prof. Sycamore (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "125/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-126-pbp",
+      "number": "126/131-PBP",
+      "name": "Skate de Resgate (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "126/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-127-pbp",
+      "number": "127/131-PBP",
+      "name": "Roto-bastão (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "127/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-130-pbp",
+      "number": "130/131-PBP",
+      "name": "Radar Tecnológico (Poké Bola)",
+      "sectionId": "pbp",
+      "printedNumber": "130/131",
+      "countsTowardCompletion": true,
+      "finish": "PBP"
+    },
+    {
+      "id": "pre-001-mbp",
+      "number": "001/131-MBP",
+      "name": "Exeggcute (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "001/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-002-mbp",
+      "number": "002/131-MBP",
+      "name": "Exeggutor (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "002/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-003-mbp",
+      "number": "003/131-MBP",
+      "name": "Pinsir (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "003/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-004-mbp",
+      "number": "004/131-MBP",
+      "name": "Budew (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "004/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-005-mbp",
+      "number": "005/131-MBP",
+      "name": "Leafeon (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "005/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-007-mbp",
+      "number": "007/131-MBP",
+      "name": "Cottonee (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "007/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-008-mbp",
+      "number": "008/131-MBP",
+      "name": "Whimsicott (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "008/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-009-mbp",
+      "number": "009/131-MBP",
+      "name": "Applin (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "009/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-010-mbp",
+      "number": "010/131-MBP",
+      "name": "Dipplin (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "010/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-013-mbp",
+      "number": "013/131-MBP",
+      "name": "Flareon (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "013/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-015-mbp",
+      "number": "015/131-MBP",
+      "name": "Litleo (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "015/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-016-mbp",
+      "number": "016/131-MBP",
+      "name": "Pyroar (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "016/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-018-mbp",
+      "number": "018/131-MBP",
+      "name": "Slowpoke (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "018/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-019-mbp",
+      "number": "019/131-MBP",
+      "name": "Slowking (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "019/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-020-mbp",
+      "number": "020/131-MBP",
+      "name": "Goldeen (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "020/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-021-mbp",
+      "number": "021/131-MBP",
+      "name": "Seaking (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "021/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-022-mbp",
+      "number": "022/131-MBP",
+      "name": "Vaporeon (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "022/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-024-mbp",
+      "number": "024/131-MBP",
+      "name": "Suicune (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "024/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-025-mbp",
+      "number": "025/131-MBP",
+      "name": "Glaceon (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "025/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-029-mbp",
+      "number": "029/131-MBP",
+      "name": "Jolteon (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "029/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-033-mbp",
+      "number": "033/131-MBP",
+      "name": "Espeon (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "033/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-035-mbp",
+      "number": "035/131-MBP",
+      "name": "Duskull (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "035/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-036-mbp",
+      "number": "036/131-MBP",
+      "name": "Dusclops (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "036/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-037-mbp",
+      "number": "037/131-MBP",
+      "name": "Dusknoir (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "037/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-038-mbp",
+      "number": "038/131-MBP",
+      "name": "Spritzee (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "038/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-039-mbp",
+      "number": "039/131-MBP",
+      "name": "Aromatisse (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "039/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-040-mbp",
+      "number": "040/131-MBP",
+      "name": "Sylveon (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "040/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-042-mbp",
+      "number": "042/131-MBP",
+      "name": "Cauda Brado (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "042/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-043-mbp",
+      "number": "043/131-MBP",
+      "name": "Juba Sopro (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "043/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-044-mbp",
+      "number": "044/131-MBP",
+      "name": "Munkidori (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "044/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-045-mbp",
+      "number": "045/131-MBP",
+      "name": "Fezandipiti (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "045/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-046-mbp",
+      "number": "046/131-MBP",
+      "name": "Rocha Férrea (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "046/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-047-mbp",
+      "number": "047/131-MBP",
+      "name": "Larvitar (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "047/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-048-mbp",
+      "number": "048/131-MBP",
+      "name": "Pupitar (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "048/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-049-mbp",
+      "number": "049/131-MBP",
+      "name": "Groudon (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "049/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-050-mbp",
+      "number": "050/131-MBP",
+      "name": "Riolu (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "050/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-052-mbp",
+      "number": "052/131-MBP",
+      "name": "Hippopotas (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "052/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-053-mbp",
+      "number": "053/131-MBP",
+      "name": "Hippowdon (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "053/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-054-mbp",
+      "number": "054/131-MBP",
+      "name": "Ursaluna Lua Sangrenta (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "054/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-055-mbp",
+      "number": "055/131-MBP",
+      "name": "Presa Grande (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "055/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-057-mbp",
+      "number": "057/131-MBP",
+      "name": "Okidogi (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "057/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-059-mbp",
+      "number": "059/131-MBP",
+      "name": "Umbreon (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "059/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-061-mbp",
+      "number": "061/131-MBP",
+      "name": "Sneasel (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "061/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-062-mbp",
+      "number": "062/131-MBP",
+      "name": "Houndour (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "062/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-063-mbp",
+      "number": "063/131-MBP",
+      "name": "Houndoom (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "063/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-065-mbp",
+      "number": "065/131-MBP",
+      "name": "Lua Estrondo (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "065/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-066-mbp",
+      "number": "066/131-MBP",
+      "name": "Bronzor (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "066/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-067-mbp",
+      "number": "067/131-MBP",
+      "name": "Bronzong (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "067/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-068-mbp",
+      "number": "068/131-MBP",
+      "name": "Heatran (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "068/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-069-mbp",
+      "number": "069/131-MBP",
+      "name": "Duraludon (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "069/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-070-mbp",
+      "number": "070/131-MBP",
+      "name": "Archaludon (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "070/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-071-mbp",
+      "number": "071/131-MBP",
+      "name": "Dreepy (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "071/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-072-mbp",
+      "number": "072/131-MBP",
+      "name": "Drakloak (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "072/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-074-mbp",
+      "number": "074/131-MBP",
+      "name": "Eevee (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "074/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-077-mbp",
+      "number": "077/131-MBP",
+      "name": "Hoothoot (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "077/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-078-mbp",
+      "number": "078/131-MBP",
+      "name": "Noctowl (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "078/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-079-mbp",
+      "number": "079/131-MBP",
+      "name": "Dunsparce (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "079/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-080-mbp",
+      "number": "080/131-MBP",
+      "name": "Dudunsparce (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "080/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-081-mbp",
+      "number": "081/131-MBP",
+      "name": "Miltank (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "081/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-083-mbp",
+      "number": "083/131-MBP",
+      "name": "Buneary (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "083/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-084-mbp",
+      "number": "084/131-MBP",
+      "name": "Lopunny (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "084/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-085-mbp",
+      "number": "085/131-MBP",
+      "name": "Rotom Ventilador (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "085/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-086-mbp",
+      "number": "086/131-MBP",
+      "name": "Regigigas (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "086/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-087-mbp",
+      "number": "087/131-MBP",
+      "name": "Shaymin (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "087/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-088-mbp",
+      "number": "088/131-MBP",
+      "name": "Furfrou (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "088/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-089-mbp",
+      "number": "089/131-MBP",
+      "name": "Hawlucha (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "089/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    },
+    {
+      "id": "pre-090-mbp",
+      "number": "090/131-MBP",
+      "name": "Noibat (Master Bola)",
+      "sectionId": "mbp",
+      "printedNumber": "090/131",
+      "countsTowardCompletion": true,
+      "finish": "MBP"
+    }
+  ]
+}
