@@ -1,0 +1,5507 @@
+{
+  "officialId": "panini.premierleague2025.standard",
+  "version": 1,
+  "name": "Premier League 2025",
+  "collection": "Premier League 2025",
+  "year": "2025",
+  "publisher": "Panini",
+  "collectionType": "stickers",
+  "availability": "online",
+  "libraryCategory": {
+    "id": "premier-league",
+    "name": "Premier League",
+    "order": 60
+  },
+  "description": "Temporada 2024/25: 636 figurinhas principais e 48 atualizações (U1–U48), totalizando 684 para 100%. As 80 variantes Elite ficam fora do percentual.",
+  "plannedTotal": 684,
+  "variantCount": 80,
+  "variantLabel": "Variantes opcionais",
+  "coverAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp",
+  "sections": [
+    {
+      "id": "intro",
+      "name": "Introdução",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "shirts",
+      "name": "Uniformes",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_afc_bournemouth",
+      "name": "AFC Bournemouth",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_arsenal",
+      "name": "Arsenal",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_aston_villa",
+      "name": "Aston Villa",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_brentford",
+      "name": "Brentford",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_brighton_hove_albion",
+      "name": "Brighton & Hove Albion",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_chelsea",
+      "name": "Chelsea",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_crystal_palace",
+      "name": "Crystal Palace",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_everton",
+      "name": "Everton",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_fulham",
+      "name": "Fulham",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_ipswich_town",
+      "name": "Ipswich Town",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "season",
+      "name": "Momentos da temporada",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "sticker_stars",
+      "name": "Panini Sticker Stars",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "records",
+      "name": "Recordistas",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_leicester_city",
+      "name": "Leicester City",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_liverpool",
+      "name": "Liverpool",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_manchester_city",
+      "name": "Manchester City",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_manchester_united",
+      "name": "Manchester United",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_newcastle_united",
+      "name": "Newcastle United",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_nottingham_forest",
+      "name": "Nottingham Forest",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_southampton",
+      "name": "Southampton",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_tottenham_hotspur",
+      "name": "Tottenham Hotspur",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_west_ham_united",
+      "name": "West Ham United",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "club_wolverhampton_wanderers",
+      "name": "Wolverhampton Wanderers",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "updates",
+      "name": "Atualizações — U1 a U48",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    },
+    {
+      "id": "elite_variants",
+      "name": "Variantes Elite — opcionais",
+      "imageAsset": "assets/album_library/imagens/panini_premier_league_2025/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "panini_premier_league_2025_1",
+      "number": "1",
+      "name": "Trophy",
+      "sectionId": "intro",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_2",
+      "number": "2",
+      "name": "Match Ball",
+      "sectionId": "intro",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_3",
+      "number": "3",
+      "name": "Home Shirt (AFC Bournemouth)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_4",
+      "number": "4",
+      "name": "Home Shirt (Arsenal)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_5",
+      "number": "5",
+      "name": "Home Shirt (Aston Villa)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_6",
+      "number": "6",
+      "name": "Home Shirt (Brentford)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_7",
+      "number": "7",
+      "name": "Home Shirt (Brighton & Hove Albion)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_8",
+      "number": "8",
+      "name": "Home Shirt (Chelsea)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_9",
+      "number": "9",
+      "name": "Home Shirt (Crystal Palace)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_10",
+      "number": "10",
+      "name": "Home Shirt (Everton)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_11",
+      "number": "11",
+      "name": "Home Shirt (Fulham)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_12",
+      "number": "12",
+      "name": "Home Shirt (Ipswich Town)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_13",
+      "number": "13",
+      "name": "Home Shirt (Leicester City)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_14",
+      "number": "14",
+      "name": "Home Shirt (Liverpool)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_15",
+      "number": "15",
+      "name": "Home Shirt (Manchester City)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_16",
+      "number": "16",
+      "name": "Home Shirt (Manchester United)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_17",
+      "number": "17",
+      "name": "Home Shirt (Newcastle United)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_18",
+      "number": "18",
+      "name": "Home Shirt (Nottingham Forest)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_19",
+      "number": "19",
+      "name": "Home Shirt (Southampton)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_20",
+      "number": "20",
+      "name": "Home Shirt (Tottenham Hotspur)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_21",
+      "number": "21",
+      "name": "Home Shirt (West Ham United)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_22",
+      "number": "22",
+      "name": "Home Shirt (Wolverhampton Wanderers)",
+      "sectionId": "shirts",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_23",
+      "number": "23",
+      "name": "Crest (AFC Bournemouth) - Foil",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_24",
+      "number": "24",
+      "name": "Kepa Arrizabalaga (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_25",
+      "number": "25",
+      "name": "Mark Travers (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_26",
+      "number": "26",
+      "name": "Julián Araujo (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_27",
+      "number": "27",
+      "name": "Ilya Zabarnyi (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_28",
+      "number": "28",
+      "name": "Flag (AFC Bournemouth) - Fabric",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_29",
+      "number": "29",
+      "name": "Dean Huijsen (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_30",
+      "number": "30",
+      "name": "Milos Kerkez (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_31",
+      "number": "31",
+      "name": "Marcos Senesi (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_32",
+      "number": "32",
+      "name": "Adam Smith (AFC Bournemouth) - Captain - Foil",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_33",
+      "number": "33",
+      "name": "Max Aarons (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_34",
+      "number": "34",
+      "name": "Lewis Cook (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_35",
+      "number": "35",
+      "name": "David Brooks (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_36",
+      "number": "36",
+      "name": "Alex Scott (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_37",
+      "number": "37",
+      "name": "Ryan Christie (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_38",
+      "number": "38",
+      "name": "Tyler Adams (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_39",
+      "number": "39",
+      "name": "Marcus Tavernier (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_40",
+      "number": "40",
+      "name": "Philip Billing (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_41",
+      "number": "41",
+      "name": "Dango Ouattara (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_42",
+      "number": "42",
+      "name": "Luis Sinisterra (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_43",
+      "number": "43",
+      "name": "Justin Kluivert (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_44",
+      "number": "44",
+      "name": "Antoine Semenyo (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_45",
+      "number": "45",
+      "name": "Alex Scott (AFC Bournemouth) - Rising Star",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_46",
+      "number": "46",
+      "name": "Antoine Semenyo (AFC Bournemouth) - Elite - Foil",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_47",
+      "number": "47",
+      "name": "Evanilson (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_48",
+      "number": "48",
+      "name": "Ilya Zabarnyi (AFC Bournemouth) - Key Player",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_49",
+      "number": "49",
+      "name": "Marcus Tavernier (AFC Bournemouth) - Key Player",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_50",
+      "number": "50",
+      "name": "Enes Ünal (AFC Bournemouth)",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_51",
+      "number": "51",
+      "name": "Evanilson (AFC Bournemouth) - Super Signing - Silver Foil",
+      "sectionId": "club_afc_bournemouth",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_52",
+      "number": "52",
+      "name": "Crest (Arsenal) - Foil",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_53",
+      "number": "53",
+      "name": "David Raya (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_54",
+      "number": "54",
+      "name": "Neto (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_55",
+      "number": "55",
+      "name": "Jurriën Timber (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_56",
+      "number": "56",
+      "name": "Jakub Kiwior (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_57",
+      "number": "57",
+      "name": "Flag (Arsenal) - Fabric",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_58",
+      "number": "58",
+      "name": "William Saliba (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_59",
+      "number": "59",
+      "name": "Kieran Tierney (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_60",
+      "number": "60",
+      "name": "Ben White (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_61",
+      "number": "61",
+      "name": "Gabriel Magalhães (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_62",
+      "number": "62",
+      "name": "Oleksandr Zinchenko (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_63",
+      "number": "63",
+      "name": "Takehiro Tomiyasu (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_64",
+      "number": "64",
+      "name": "Riccardo Calafiori (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_65",
+      "number": "65",
+      "name": "Thomas Partey (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_66",
+      "number": "66",
+      "name": "Martin Ødegaard (Arsenal) - Captain - Foil",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_67",
+      "number": "67",
+      "name": "Jorginho (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_68",
+      "number": "68",
+      "name": "Mikel Merino (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_69",
+      "number": "69",
+      "name": "Kai Havertz (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_70",
+      "number": "70",
+      "name": "Bukayo Saka (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_71",
+      "number": "71",
+      "name": "Gabriel Jesus (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_72",
+      "number": "72",
+      "name": "Gabriel Martinelli (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_73",
+      "number": "73",
+      "name": "Leandro Trossard (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_74",
+      "number": "74",
+      "name": "Riccardo Calafiori (Arsenal) - Rising Star",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_75",
+      "number": "75",
+      "name": "William Saliba (Arsenal) - Elite - Foil",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_76",
+      "number": "76",
+      "name": "Declan Rice (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_77",
+      "number": "77",
+      "name": "Declan Rice (Arsenal) - Key Player",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_78",
+      "number": "78",
+      "name": "Bukayo Saka (Arsenal) - Key Player",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_79",
+      "number": "79",
+      "name": "Raheem Sterling (Arsenal)",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_80",
+      "number": "80",
+      "name": "Mikel Merino (Arsenal) - Super Signing - Silver Foil",
+      "sectionId": "club_arsenal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_81",
+      "number": "81",
+      "name": "Crest (Aston Villa) - Foil",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_82",
+      "number": "82",
+      "name": "Emiliano Martínez (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_83",
+      "number": "83",
+      "name": "Robin Olsen (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_84",
+      "number": "84",
+      "name": "Lucas Digne (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_85",
+      "number": "85",
+      "name": "Pau Torres (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_86",
+      "number": "86",
+      "name": "Flag (Aston Villa) - Fabric",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_87",
+      "number": "87",
+      "name": "Matty Cash (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_88",
+      "number": "88",
+      "name": "Diego Carlos (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_89",
+      "number": "89",
+      "name": "Ezri Konsa (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_90",
+      "number": "90",
+      "name": "Tyrone Mings (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_91",
+      "number": "91",
+      "name": "Kosta Nedeljković (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_92",
+      "number": "92",
+      "name": "Ian Maatsen (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_93",
+      "number": "93",
+      "name": "Ross Barkley (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_94",
+      "number": "94",
+      "name": "John McGinn (Aston Villa) - Captain - Foil",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_95",
+      "number": "95",
+      "name": "Youri Tielemans (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_96",
+      "number": "96",
+      "name": "Emiliano Buendía (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_97",
+      "number": "97",
+      "name": "Jaden Philogene (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_98",
+      "number": "98",
+      "name": "Amadou Onana (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_99",
+      "number": "99",
+      "name": "Leon Bailey (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_100",
+      "number": "100",
+      "name": "Jacob Ramsey (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_101",
+      "number": "101",
+      "name": "Boubacar Kamara (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_102",
+      "number": "102",
+      "name": "Jhon Durán (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_103",
+      "number": "103",
+      "name": "Morgan Rogers (Aston Villa) - Rising Star",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_104",
+      "number": "104",
+      "name": "Emiliano Martínez (Aston Villa) - Elite - Foil",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_105",
+      "number": "105",
+      "name": "Morgan Rogers (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_106",
+      "number": "106",
+      "name": "Ezri Konsa (Aston Villa) - Key Player",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_107",
+      "number": "107",
+      "name": "Ollie Watkins (Aston Villa) - Key Player",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_108",
+      "number": "108",
+      "name": "Ollie Watkins (Aston Villa)",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_109",
+      "number": "109",
+      "name": "Amadou Onana (Aston Villa) - Super Signing - Silver Foil",
+      "sectionId": "club_aston_villa",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_110",
+      "number": "110",
+      "name": "Crest (Brentford) - Foil",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_111",
+      "number": "111",
+      "name": "Mark Flekken (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_112",
+      "number": "112",
+      "name": "Hákon Rafn Valdimarsson (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_113",
+      "number": "113",
+      "name": "Ben Mee (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_114",
+      "number": "114",
+      "name": "Kristoffer Ajer (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_115",
+      "number": "115",
+      "name": "Flag (Brentford) - Fabric",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_116",
+      "number": "116",
+      "name": "Aaron Hickey (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_117",
+      "number": "117",
+      "name": "Rico Henry (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_118",
+      "number": "118",
+      "name": "Sepp Van de Berg (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_119",
+      "number": "119",
+      "name": "Ethan Pinnock (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_120",
+      "number": "120",
+      "name": "Nathan Collins (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_121",
+      "number": "121",
+      "name": "Mads Roerslev (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_122",
+      "number": "122",
+      "name": "Christian Nørgaard (Brentford) - Captain - Foil",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_123",
+      "number": "123",
+      "name": "Mathias Jensen (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_124",
+      "number": "124",
+      "name": "Fábio Carvalho (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_125",
+      "number": "125",
+      "name": "Yehor Yarmolyuk (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_126",
+      "number": "126",
+      "name": "Mikkel Damsgaard (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_127",
+      "number": "127",
+      "name": "Vitaly Janelt (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_128",
+      "number": "128",
+      "name": "Igor Thiago (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_129",
+      "number": "129",
+      "name": "Yoane Wissa (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_130",
+      "number": "130",
+      "name": "Bryan Mbeumo (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_131",
+      "number": "131",
+      "name": "Keane Lewis-Potter (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_132",
+      "number": "132",
+      "name": "Kevin Schade (Brentford) - Rising Star",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_133",
+      "number": "133",
+      "name": "Yoane Wissa (Brentford) - Elite - Foil",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_134",
+      "number": "134",
+      "name": "Kevin Schade (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_135",
+      "number": "135",
+      "name": "Ethan Pinnock (Brentford) - Key Player",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_136",
+      "number": "136",
+      "name": "Bryan Mbeumo (Brentford) - Key Player",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_137",
+      "number": "137",
+      "name": "Gustavo Nunes (Brentford)",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_138",
+      "number": "138",
+      "name": "Fábio Carvalho (Brentford) - Super Signing - Silver Foil",
+      "sectionId": "club_brentford",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_139",
+      "number": "139",
+      "name": "Crest (Brighton & Hove Albion) - Foil",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_140",
+      "number": "140",
+      "name": "Bart Verbruggen (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_141",
+      "number": "141",
+      "name": "Jason Steele (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_142",
+      "number": "142",
+      "name": "Joël Veltman (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_143",
+      "number": "143",
+      "name": "James Milner (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_144",
+      "number": "144",
+      "name": "Flag (Brighton & Hove Albion) - Fabric",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_145",
+      "number": "145",
+      "name": "Lewis Dunk (Brighton & Hove Albion) - Captain - Foil",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_146",
+      "number": "146",
+      "name": "Ferdi Kadioglu (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_147",
+      "number": "147",
+      "name": "Jan Paul van Hecke (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_148",
+      "number": "148",
+      "name": "Pervis Estupiñán (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_149",
+      "number": "149",
+      "name": "Solly March (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_150",
+      "number": "150",
+      "name": "Brajan Gruda (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_151",
+      "number": "151",
+      "name": "Carlos Baleba (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_152",
+      "number": "152",
+      "name": "Kaoru Mitoma (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_153",
+      "number": "153",
+      "name": "Mats Wieffer (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_154",
+      "number": "154",
+      "name": "Matt O'Riley (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_155",
+      "number": "155",
+      "name": "Jack Hinshelwood (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_156",
+      "number": "156",
+      "name": "João Pedro (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_157",
+      "number": "157",
+      "name": "Simon Adingra (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_158",
+      "number": "158",
+      "name": "Georginio Rutter (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_159",
+      "number": "159",
+      "name": "Yankuba Minteh (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_160",
+      "number": "160",
+      "name": "Danny Welbeck (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_161",
+      "number": "161",
+      "name": "Yankuba Minteh (Brighton & Hove Albion) - Rising Star",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_162",
+      "number": "162",
+      "name": "João Pedro (Brighton & Hove Albion) - Elite - Foil",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_163",
+      "number": "163",
+      "name": "Julio Enciso (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_164",
+      "number": "164",
+      "name": "Kaoru Mitoma (Brighton & Hove Albion) - Key Player",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_165",
+      "number": "165",
+      "name": "Danny Welbeck (Brighton & Hove Albion) - Key Player",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_166",
+      "number": "166",
+      "name": "Evan Ferguson (Brighton & Hove Albion)",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_167",
+      "number": "167",
+      "name": "Georginio Rutter (Brighton & Hove Albion) - Super Signing - Silver Foil",
+      "sectionId": "club_brighton_hove_albion",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_168",
+      "number": "168",
+      "name": "Crest (Chelsea) - Foil",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_169",
+      "number": "169",
+      "name": "Robert Sánchez (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_170",
+      "number": "170",
+      "name": "Filip Jörgensen (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_171",
+      "number": "171",
+      "name": "Levi Colwill (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_172",
+      "number": "172",
+      "name": "Reece James (Chelsea) - Captain - Foil",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_173",
+      "number": "173",
+      "name": "Flag (Chelsea) - Fabric",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_174",
+      "number": "174",
+      "name": "Axel Disasi (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_175",
+      "number": "175",
+      "name": "Marc Cucurella (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_176",
+      "number": "176",
+      "name": "Tosin Adarabioyo (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_177",
+      "number": "177",
+      "name": "Benoît Badiashile (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_178",
+      "number": "178",
+      "name": "Malo Gusto (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_179",
+      "number": "179",
+      "name": "Wesley Fofana (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_180",
+      "number": "180",
+      "name": "Enzo Fernández (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_181",
+      "number": "181",
+      "name": "Kiernan Dewsbury-Hall (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_182",
+      "number": "182",
+      "name": "Moisés Caicedo (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_183",
+      "number": "183",
+      "name": "Roméo Lavia (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_184",
+      "number": "184",
+      "name": "Pedro Neto (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_185",
+      "number": "185",
+      "name": "Mykhaylo Mudryk (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_186",
+      "number": "186",
+      "name": "João Félix (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_187",
+      "number": "187",
+      "name": "Nicolas Jackson (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_188",
+      "number": "188",
+      "name": "Christopher Nkunku (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_189",
+      "number": "189",
+      "name": "Jadon Sancho (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_190",
+      "number": "190",
+      "name": "Noni Madueke (Chelsea) - Rising Star",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_191",
+      "number": "191",
+      "name": "Cole Palmer (Chelsea) - Elite - Foil",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_192",
+      "number": "192",
+      "name": "Noni Madueke (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_193",
+      "number": "193",
+      "name": "Marc Cucurella (Chelsea) - Key Player",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_194",
+      "number": "194",
+      "name": "Moisés Caicedo (Chelsea) - Key Player",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_195",
+      "number": "195",
+      "name": "Cole Palmer (Chelsea)",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_196",
+      "number": "196",
+      "name": "João Félix (Chelsea) - Super Signing - Silver Foil",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_197",
+      "number": "197",
+      "name": "Crest (Crystal Palace) - Foil",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_198",
+      "number": "198",
+      "name": "Dean Henderson (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_199",
+      "number": "199",
+      "name": "Matt Turner (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_200",
+      "number": "200",
+      "name": "Daniel Muñoz (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_201",
+      "number": "201",
+      "name": "Nathaniel Clyne (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_202",
+      "number": "202",
+      "name": "Flag (Crystal Palace) - Fabric",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_203",
+      "number": "203",
+      "name": "Joel Ward (Crystal Palace) - Captain - Foil",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_204",
+      "number": "204",
+      "name": "Tyrick Mitchell (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_205",
+      "number": "205",
+      "name": "Maxence Lacroix (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_206",
+      "number": "206",
+      "name": "Marc Guéhi (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_207",
+      "number": "207",
+      "name": "Chris Richards (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_208",
+      "number": "208",
+      "name": "Trevoh Chalobah (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_209",
+      "number": "209",
+      "name": "Chadi Riad (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_210",
+      "number": "210",
+      "name": "Ismaïla Sarr (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_211",
+      "number": "211",
+      "name": "Jefferson Lerma (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_212",
+      "number": "212",
+      "name": "Eberechi Eze (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_213",
+      "number": "213",
+      "name": "Jeffrey Schlupp (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_214",
+      "number": "214",
+      "name": "Daichi Kamada (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_215",
+      "number": "215",
+      "name": "Adam Wharton (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_216",
+      "number": "216",
+      "name": "Cheick Doucouré (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_217",
+      "number": "217",
+      "name": "Eddie Nketiah (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_218",
+      "number": "218",
+      "name": "Matheus França (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_219",
+      "number": "219",
+      "name": "Adam Wharton (Crystal Palace) - Rising Star",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_220",
+      "number": "220",
+      "name": "Eberechi Eze (Crystal Palace) - Elite - Foil",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_221",
+      "number": "221",
+      "name": "Will Hughes (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_222",
+      "number": "222",
+      "name": "Marc Guéhi (Crystal Palace) - Key Player",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_223",
+      "number": "223",
+      "name": "Jean-Philippe Mateta (Crystal Palace) - Key Player",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_224",
+      "number": "224",
+      "name": "Jean-Philippe Mateta (Crystal Palace)",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_225",
+      "number": "225",
+      "name": "Eddie Nketiah (Crystal Palace) - Super Signing - Silver Foil",
+      "sectionId": "club_crystal_palace",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_226",
+      "number": "226",
+      "name": "Crest (Everton) - Foil",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_227",
+      "number": "227",
+      "name": "Jordan Pickford (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_228",
+      "number": "228",
+      "name": "João Virgínia (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_229",
+      "number": "229",
+      "name": "Ashley Young (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_230",
+      "number": "230",
+      "name": "Vitaliy Mykolenko (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_231",
+      "number": "231",
+      "name": "Flag (Everton) - Fabric",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_232",
+      "number": "232",
+      "name": "Nathan Patterson (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_233",
+      "number": "233",
+      "name": "Michael Keane (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_234",
+      "number": "234",
+      "name": "James Tarkowski (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_235",
+      "number": "235",
+      "name": "Jake O'Brien (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_236",
+      "number": "236",
+      "name": "Séamus Coleman (Everton) - Captain - Foil",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_237",
+      "number": "237",
+      "name": "Jarrad Branthwaite (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_238",
+      "number": "238",
+      "name": "Oreil Mangala (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_239",
+      "number": "239",
+      "name": "Abdoulaye Doucouré (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_240",
+      "number": "240",
+      "name": "Idrissa Gana Gueye (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_241",
+      "number": "241",
+      "name": "James Garner (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_242",
+      "number": "242",
+      "name": "Tim Iroegbunam (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_243",
+      "number": "243",
+      "name": "Dwight McNeil (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_244",
+      "number": "244",
+      "name": "Iliman Ndiaye (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_245",
+      "number": "245",
+      "name": "Jack Harrison (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_246",
+      "number": "246",
+      "name": "Beto (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_247",
+      "number": "247",
+      "name": "Armando Broja (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_248",
+      "number": "248",
+      "name": "Jarrad Branthwaite (Everton) - Rising Star",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_249",
+      "number": "249",
+      "name": "James Tarkowski (Everton) - Elite - Foil",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_250",
+      "number": "250",
+      "name": "Dominic Calvert-Lewin (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_251",
+      "number": "251",
+      "name": "Jordan Pickford (Everton) - Key Player",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_252",
+      "number": "252",
+      "name": "James Garner (Everton) - Key Player",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_253",
+      "number": "253",
+      "name": "Jesper Lindstrøm (Everton)",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_254",
+      "number": "254",
+      "name": "Iliman Ndiaye (Everton) - Super Signing - Silver Foil",
+      "sectionId": "club_everton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_255",
+      "number": "255",
+      "name": "Crest (Fulham) - Foil",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_256",
+      "number": "256",
+      "name": "Bernd Leno (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_257",
+      "number": "257",
+      "name": "Steven Benda (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_258",
+      "number": "258",
+      "name": "Timothy Castagne (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_259",
+      "number": "259",
+      "name": "Ryan Sessegnon (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_260",
+      "number": "260",
+      "name": "Flag (Fulham) - Fabric",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_261",
+      "number": "261",
+      "name": "Kenny Tete (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_262",
+      "number": "262",
+      "name": "Calvin Bassey (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_263",
+      "number": "263",
+      "name": "Joachim Andersen (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_264",
+      "number": "264",
+      "name": "Jorge Cuenca (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_265",
+      "number": "265",
+      "name": "Issa Diop (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_266",
+      "number": "266",
+      "name": "Antonee Robinson (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_267",
+      "number": "267",
+      "name": "Harrison Reed (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_268",
+      "number": "268",
+      "name": "Tom Cairney (Fulham) - Captain - Foil",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_269",
+      "number": "269",
+      "name": "Sander Berge (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_270",
+      "number": "270",
+      "name": "Andreas Pereira (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_271",
+      "number": "271",
+      "name": "Saša Lukić (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_272",
+      "number": "272",
+      "name": "Emile Smith-Rowe (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_273",
+      "number": "273",
+      "name": "Harry Wilson (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_274",
+      "number": "274",
+      "name": "Rodrigo Muniz (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_275",
+      "number": "275",
+      "name": "Adama Traoré (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_276",
+      "number": "276",
+      "name": "Alex Iwobi (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_277",
+      "number": "277",
+      "name": "Rodrigo Muniz (Fulham) - Rising Star",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_278",
+      "number": "278",
+      "name": "Antonee Robinson (Fulham) - Elite - Foil",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_279",
+      "number": "279",
+      "name": "Raúl Jiménez (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_280",
+      "number": "280",
+      "name": "Bernd Leno (Fulham) - Key Player",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_281",
+      "number": "281",
+      "name": "Andreas Pereira (Fulham) - Key Player",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_282",
+      "number": "282",
+      "name": "Reiss Nelson (Fulham)",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_283",
+      "number": "283",
+      "name": "Emile Smith-Rowe (Fulham) - Super Signing - Silver Foil",
+      "sectionId": "club_fulham",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_284",
+      "number": "284",
+      "name": "Crest (Ipswich Town) - Foil",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_285",
+      "number": "285",
+      "name": "Arijanet Murić (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_286",
+      "number": "286",
+      "name": "Christian Walton (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_287",
+      "number": "287",
+      "name": "Jacob Greaves (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_288",
+      "number": "288",
+      "name": "Dara O'Shea (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_289",
+      "number": "289",
+      "name": "Flag (Ipswich Town) - Fabric",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_290",
+      "number": "290",
+      "name": "Leif Davis (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_291",
+      "number": "291",
+      "name": "Luke Woolfenden (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_292",
+      "number": "292",
+      "name": "Cameron Burgess (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_293",
+      "number": "293",
+      "name": "Ben Johnson (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_294",
+      "number": "294",
+      "name": "Axel Tuanzebe (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_295",
+      "number": "295",
+      "name": "Sam Morsy (Ipswich Town) - Captain - Foil",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_296",
+      "number": "296",
+      "name": "Wes Burns (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_297",
+      "number": "297",
+      "name": "Kalvin Phillips (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_298",
+      "number": "298",
+      "name": "Jens Cajuste (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_299",
+      "number": "299",
+      "name": "Jack Taylor (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_300",
+      "number": "300",
+      "name": "Chiedozie Ogbene (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_301",
+      "number": "301",
+      "name": "Massimo Luongo (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_302",
+      "number": "302",
+      "name": "Liam Delap (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_303",
+      "number": "303",
+      "name": "Omari Hutchinson (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_304",
+      "number": "304",
+      "name": "Sam Szmodics (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_305",
+      "number": "305",
+      "name": "George Hirst (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_306",
+      "number": "306",
+      "name": "Omari Hutchinson (Ipswich Town) - Rising Star",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_307",
+      "number": "307",
+      "name": "Sam Szmodics (Ipswich Town) - Elite - Foil",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_308",
+      "number": "308",
+      "name": "Conor Chaplin (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_309",
+      "number": "309",
+      "name": "Dara O'Shea (Ipswich Town) - Key Player",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_310",
+      "number": "310",
+      "name": "Leif Davis (Ipswich Town) - Key Player",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_311",
+      "number": "311",
+      "name": "Jack Clarke (Ipswich Town)",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_312",
+      "number": "312",
+      "name": "Liam Delap (Ipswich Town) - Super Signing - Silver Foil",
+      "sectionId": "club_ipswich_town",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_313",
+      "number": "313",
+      "name": "Everton v AFC Bournemouth",
+      "sectionId": "season",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_314",
+      "number": "314",
+      "name": "Crystal Palace v Leicester City",
+      "sectionId": "season",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_315",
+      "number": "315",
+      "name": "Manchester City v Arsenal",
+      "sectionId": "season",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_316",
+      "number": "316",
+      "name": "Chelsea v Brighton & Hove Albion",
+      "sectionId": "season",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_317",
+      "number": "317",
+      "name": "Brentford v Wolverhampton Wanderers",
+      "sectionId": "season",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_318",
+      "number": "318",
+      "name": "Brighton & Hove Albion v Tottenham Hotspur",
+      "sectionId": "season",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_319",
+      "number": "319",
+      "name": "Kepa Arrizabalaga (AFC Bournemouth)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_320",
+      "number": "320",
+      "name": "Gabriel Martinelli (Arsenal)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_321",
+      "number": "321",
+      "name": "Lucas Digne (Aston Villa)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_322",
+      "number": "322",
+      "name": "Ben Mee (Brentford)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_323",
+      "number": "323",
+      "name": "Lewis Dunk ((Brighton & Hove Albion))",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_324",
+      "number": "324",
+      "name": "Pedro Neto (Chelsea)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_325",
+      "number": "325",
+      "name": "Dean Henderson (Crystal Palace)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_326",
+      "number": "326",
+      "name": "Dominic Calvert-Lewin (Everton)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_327",
+      "number": "327",
+      "name": "Alex Iwobi (Fulham)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_328",
+      "number": "328",
+      "name": "Ben Johnson (Ipswich Town)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_329",
+      "number": "329",
+      "name": "Jordan Ayew (Leicester City)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_330",
+      "number": "330",
+      "name": "Trent Alexander-Arnold (Liverpool)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_331",
+      "number": "331",
+      "name": "Bernardo Silva (Manchester City)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_332",
+      "number": "332",
+      "name": "Harry Maguire (Manchester United)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_333",
+      "number": "333",
+      "name": "Harvey Barnes (Newcastle United)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_334",
+      "number": "334",
+      "name": "James Ward-Prowse (Nottingham Forest)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_335",
+      "number": "335",
+      "name": "Adam Lallana (Southampton)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_336",
+      "number": "336",
+      "name": "James Maddison (Tottenham Hotspur)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_337",
+      "number": "337",
+      "name": "Aaron Wan-Bissaka (West Ham United)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_338",
+      "number": "338",
+      "name": "Matt Doherty (Wolverhampton Wanderers)",
+      "sectionId": "sticker_stars",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_339",
+      "number": "339",
+      "name": "Thierry Henry (Arsenal)",
+      "sectionId": "records",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_340",
+      "number": "340",
+      "name": "James Milner (Brighton & Hove Albion)",
+      "sectionId": "records",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_341",
+      "number": "341",
+      "name": "John Terry (Chelsea)",
+      "sectionId": "records",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_342",
+      "number": "342",
+      "name": "Jamie Vardy (Leicester City)",
+      "sectionId": "records",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_343",
+      "number": "343",
+      "name": "Michael Owen (Liverpool)",
+      "sectionId": "records",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_344",
+      "number": "344",
+      "name": "Kevin De Bruyne (Manchester City)",
+      "sectionId": "records",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_345",
+      "number": "345",
+      "name": "Brad Friedel (Tottenham Hotspur)",
+      "sectionId": "records",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_346",
+      "number": "346",
+      "name": "Teddy Sheringham (West Ham United)",
+      "sectionId": "records",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_347",
+      "number": "347",
+      "name": "Crest (Leicester City) - Foil",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_348",
+      "number": "348",
+      "name": "Danny Ward (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_349",
+      "number": "349",
+      "name": "Mads Hermansen (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_350",
+      "number": "350",
+      "name": "Victor Kristiansen (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_351",
+      "number": "351",
+      "name": "Ricardo Pereira (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_352",
+      "number": "352",
+      "name": "Flag (Leicester City) - Fabric",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_353",
+      "number": "353",
+      "name": "James Justin (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_354",
+      "number": "354",
+      "name": "Wout Faes (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_355",
+      "number": "355",
+      "name": "Conor Coady (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_356",
+      "number": "356",
+      "name": "Caleb Okoli (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_357",
+      "number": "357",
+      "name": "Jannik Vestergaard (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_358",
+      "number": "358",
+      "name": "Wilfred Ndidi (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_359",
+      "number": "359",
+      "name": "Harry Winks (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_360",
+      "number": "360",
+      "name": "Bilal El Khannouss (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_361",
+      "number": "361",
+      "name": "Hamza Choudhury (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_362",
+      "number": "362",
+      "name": "Oliver Skipp (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_363",
+      "number": "363",
+      "name": "Boubakary Soumaré (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_364",
+      "number": "364",
+      "name": "Facundo Buonanotte (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_365",
+      "number": "365",
+      "name": "Jamie Vardy (Leicester City) - Captain - Foil",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_366",
+      "number": "366",
+      "name": "Stephy Mavididi (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_367",
+      "number": "367",
+      "name": "Bobby De Cordova-Reid (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_368",
+      "number": "368",
+      "name": "Jordan Ayew (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_369",
+      "number": "369",
+      "name": "Facundo Buonanotte (Leicester City) - Rising Star",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_370",
+      "number": "370",
+      "name": "Wilfred Ndidi (Leicester City) - Elite - Foil",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_371",
+      "number": "371",
+      "name": "Abdul Fatawu (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_372",
+      "number": "372",
+      "name": "Mads Hermansen (Leicester City) - Key Player",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_373",
+      "number": "373",
+      "name": "Harry Winks (Leicester City) - Key Player",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_374",
+      "number": "374",
+      "name": "Odsonne Edouard (Leicester City)",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_375",
+      "number": "375",
+      "name": "Bilal El Khannouss (Leicester City) - Super Signing - Silver Foil",
+      "sectionId": "club_leicester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_376",
+      "number": "376",
+      "name": "Crest (Liverpool) - Foil",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_377",
+      "number": "377",
+      "name": "Alisson Becker (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_378",
+      "number": "378",
+      "name": "Caoimhín Kelleher (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_379",
+      "number": "379",
+      "name": "Andrew Robertson (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_380",
+      "number": "380",
+      "name": "Trent Alexander-Arnold (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_381",
+      "number": "381",
+      "name": "Flag (Liverpool) - Fabric",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_382",
+      "number": "382",
+      "name": "Joe Gomez (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_383",
+      "number": "383",
+      "name": "Virgil van Dijk (Liverpool) - Captain - Foil",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_384",
+      "number": "384",
+      "name": "Ibrahima Konaté (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_385",
+      "number": "385",
+      "name": "Kóstas Tsimíkas (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_386",
+      "number": "386",
+      "name": "Jarell Quansah (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_387",
+      "number": "387",
+      "name": "Conor Bradley (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_388",
+      "number": "388",
+      "name": "Wataru Endō (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_389",
+      "number": "389",
+      "name": "Dominik Szoboszlai (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_390",
+      "number": "390",
+      "name": "Alexis Mac Allister (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_391",
+      "number": "391",
+      "name": "Curtis Jones (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_392",
+      "number": "392",
+      "name": "Harvey Elliott (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_393",
+      "number": "393",
+      "name": "Ryan Gravenberch (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_394",
+      "number": "394",
+      "name": "Darwin Núñez (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_395",
+      "number": "395",
+      "name": "Mohamed Salah (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_396",
+      "number": "396",
+      "name": "Federico Chiesa (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_397",
+      "number": "397",
+      "name": "Cody Gakpo (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_398",
+      "number": "398",
+      "name": "Conor Bradley (Liverpool) - Rising Star",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_399",
+      "number": "399",
+      "name": "Mohamed Salah (Liverpool) - Elite - Foil",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_400",
+      "number": "400",
+      "name": "Luis Díaz (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_401",
+      "number": "401",
+      "name": "Alexis Mac Allister (Liverpool) - Key Player",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_402",
+      "number": "402",
+      "name": "Diogo Jota (Liverpool) - Key Player",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_403",
+      "number": "403",
+      "name": "Diogo Jota (Liverpool)",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_404",
+      "number": "404",
+      "name": "Federico Chiesa (Liverpool) - Super Signing - Silver Foil",
+      "sectionId": "club_liverpool",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_405",
+      "number": "405",
+      "name": "Crest (Manchester City) - Foil",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_406",
+      "number": "406",
+      "name": "Stefan Ortega Moreno (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_407",
+      "number": "407",
+      "name": "Ederson (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_408",
+      "number": "408",
+      "name": "Joško Gvardiol (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_409",
+      "number": "409",
+      "name": "Manuel Akanji (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_410",
+      "number": "410",
+      "name": "Flag (Manchester City) - Fabric",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_411",
+      "number": "411",
+      "name": "Kyle Walker (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_412",
+      "number": "412",
+      "name": "Rúben Dias (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_413",
+      "number": "413",
+      "name": "John Stones (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_414",
+      "number": "414",
+      "name": "Nathan Aké (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_415",
+      "number": "415",
+      "name": "Rico Lewis (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_416",
+      "number": "416",
+      "name": "Mateo Kovačić (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_417",
+      "number": "417",
+      "name": "Jack Grealish (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_418",
+      "number": "418",
+      "name": "Jérémy Doku (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_419",
+      "number": "419",
+      "name": "Rodri (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_420",
+      "number": "420",
+      "name": "Kevin De Bruyne (Manchester City) - Captain - Foil",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_421",
+      "number": "421",
+      "name": "İlkay Gündoğan (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_422",
+      "number": "422",
+      "name": "Bernardo Silva (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_423",
+      "number": "423",
+      "name": "Matheus Nunes (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_424",
+      "number": "424",
+      "name": "Phil Foden (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_425",
+      "number": "425",
+      "name": "Oscar Bobb (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_426",
+      "number": "426",
+      "name": "James McAtee (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_427",
+      "number": "427",
+      "name": "Oscar Bobb (Manchester City) - Rising Star",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_428",
+      "number": "428",
+      "name": "Erling Haaland (Manchester City) - Elite - Foil",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_429",
+      "number": "429",
+      "name": "Savinho Sávio (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_430",
+      "number": "430",
+      "name": "Joško Gvardiol (Manchester City) - Key Player",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_431",
+      "number": "431",
+      "name": "Phil Foden (Manchester City) - Key Player",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_432",
+      "number": "432",
+      "name": "Erling Haaland (Manchester City)",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_433",
+      "number": "433",
+      "name": "Savinho Sávio (Manchester City) - Super Signing - Silver Foil",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_434",
+      "number": "434",
+      "name": "Crest (Manchester United) - Foil",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_435",
+      "number": "435",
+      "name": "Altay Bayindir (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_436",
+      "number": "436",
+      "name": "André Onana (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_437",
+      "number": "437",
+      "name": "Tyrell Malacia (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_438",
+      "number": "438",
+      "name": "Leny Yoro (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_439",
+      "number": "439",
+      "name": "Flag (Manchester United) - Fabric",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_440",
+      "number": "440",
+      "name": "Noussair Mazraoui (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_441",
+      "number": "441",
+      "name": "Matthijs de Ligt (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_442",
+      "number": "442",
+      "name": "Harry Maguire (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_443",
+      "number": "443",
+      "name": "Lisandro Martínez (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_444",
+      "number": "444",
+      "name": "Diogo Dalot (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_445",
+      "number": "445",
+      "name": "Luke Shaw (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_446",
+      "number": "446",
+      "name": "Mason Mount (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_447",
+      "number": "447",
+      "name": "Bruno Fernandes (Manchester United) - Captain - Foil",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_448",
+      "number": "448",
+      "name": "Christian Eriksen (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_449",
+      "number": "449",
+      "name": "Casemiro (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_450",
+      "number": "450",
+      "name": "Manuel Ugarte (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_451",
+      "number": "451",
+      "name": "Kobbie Mainoo (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_452",
+      "number": "452",
+      "name": "Marcus Rashford (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_453",
+      "number": "453",
+      "name": "Joshua Zirkzee (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_454",
+      "number": "454",
+      "name": "Amad Diallo (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_455",
+      "number": "455",
+      "name": "Alejandro Garnacho (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_456",
+      "number": "456",
+      "name": "Leny Yoro (Manchester United) - Rising Star",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_457",
+      "number": "457",
+      "name": "Kobbie Mainoo (Manchester United) - Elite - Foil",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_458",
+      "number": "458",
+      "name": "Rasmus Højlund (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_459",
+      "number": "459",
+      "name": "Bruno Fernandes (Manchester United) - Key Player",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_460",
+      "number": "460",
+      "name": "Alejandro Garnacho (Manchester United) - Key Player",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_461",
+      "number": "461",
+      "name": "Antony (Manchester United)",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_462",
+      "number": "462",
+      "name": "Manuel Ugarte (Manchester United) - Super Signing - Silver Foil",
+      "sectionId": "club_manchester_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_463",
+      "number": "463",
+      "name": "Crest (Newcastle United) - Foil",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_464",
+      "number": "464",
+      "name": "Martin Dúbravka (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_465",
+      "number": "465",
+      "name": "Nick Pope (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_466",
+      "number": "466",
+      "name": "Emil Krafth (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_467",
+      "number": "467",
+      "name": "Lewis Hall (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_468",
+      "number": "468",
+      "name": "Flag (Newcastle United) - Fabric",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_469",
+      "number": "469",
+      "name": "Kieran Trippier (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_470",
+      "number": "470",
+      "name": "Sven Botman (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_471",
+      "number": "471",
+      "name": "Fabian Schär (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_472",
+      "number": "472",
+      "name": "Jamaal Lascelles (Newcastle United) - Captain - Foil",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_473",
+      "number": "473",
+      "name": "Tino Livramento (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_474",
+      "number": "474",
+      "name": "Lloyd Kelly (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_475",
+      "number": "475",
+      "name": "Dan Burn (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_476",
+      "number": "476",
+      "name": "Joelinton (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_477",
+      "number": "477",
+      "name": "Sandro Tonali (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_478",
+      "number": "478",
+      "name": "Jacob Murphy (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_479",
+      "number": "479",
+      "name": "Miguel Almirón (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_480",
+      "number": "480",
+      "name": "Joe Willock (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_481",
+      "number": "481",
+      "name": "Bruno Guimarães (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_482",
+      "number": "482",
+      "name": "Callum Wilson (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_483",
+      "number": "483",
+      "name": "Anthony Gordon (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_484",
+      "number": "484",
+      "name": "Harvey Barnes (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_485",
+      "number": "485",
+      "name": "Tino Livramento (Newcastle United) - Rising Star",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_486",
+      "number": "486",
+      "name": "Alexander Isak (Newcastle United) - Elite - Foil",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_487",
+      "number": "487",
+      "name": "Sean Longstaff (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_488",
+      "number": "488",
+      "name": "Bruno Guimarães (Newcastle United) - Key Player",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_489",
+      "number": "489",
+      "name": "Anthony Gordon (Newcastle United) - Key Player",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_490",
+      "number": "490",
+      "name": "Alexander Isak (Newcastle United)",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_491",
+      "number": "491",
+      "name": "Lewis Hall (Newcastle United) - Super Signing - Silver Foil",
+      "sectionId": "club_newcastle_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_492",
+      "number": "492",
+      "name": "Crest (Nottingham Forest) - Foil",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_493",
+      "number": "493",
+      "name": "Matz Sels (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_494",
+      "number": "494",
+      "name": "Carlos Miguel (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_495",
+      "number": "495",
+      "name": "Álex Moreno (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_496",
+      "number": "496",
+      "name": "Willy Boly (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_497",
+      "number": "497",
+      "name": "Flag (Nottingham Forest) - Fabric",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_498",
+      "number": "498",
+      "name": "Morato (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_499",
+      "number": "499",
+      "name": "Murillo (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_500",
+      "number": "500",
+      "name": "Neco Williams (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_501",
+      "number": "501",
+      "name": "Harry Toffolo (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_502",
+      "number": "502",
+      "name": "Nikola Milenković (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_503",
+      "number": "503",
+      "name": "Ola Aina (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_504",
+      "number": "504",
+      "name": "Ibrahim Sangaré (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_505",
+      "number": "505",
+      "name": "Elliot Anderson (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_506",
+      "number": "506",
+      "name": "Morgan Gibbs-White (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_507",
+      "number": "507",
+      "name": "Nicolás Domínguez (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_508",
+      "number": "508",
+      "name": "James Ward-Prowse (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_509",
+      "number": "509",
+      "name": "Ryan Yates (Nottingham Forest) - Captain - Foil",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_510",
+      "number": "510",
+      "name": "Taiwo Awoniyi (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_511",
+      "number": "511",
+      "name": "Chris Wood (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_512",
+      "number": "512",
+      "name": "Callum Hudson-Odoi (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_513",
+      "number": "513",
+      "name": "Anthony Elanga (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_514",
+      "number": "514",
+      "name": "Murillo (Nottingham Forest) - Rising Star",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_515",
+      "number": "515",
+      "name": "Morgan Gibbs-White (Nottingham Forest) - Elite - Foil",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_516",
+      "number": "516",
+      "name": "Danilo (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_517",
+      "number": "517",
+      "name": "Nikola Milenković (Nottingham Forest) - Key Player",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_518",
+      "number": "518",
+      "name": "Chris Wood (Nottingham Forest) - Key Player",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_519",
+      "number": "519",
+      "name": "Ramón Sosa (Nottingham Forest)",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_520",
+      "number": "520",
+      "name": "Elliot Anderson (Nottingham Forest) - Super Signing - Silver Foil",
+      "sectionId": "club_nottingham_forest",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_521",
+      "number": "521",
+      "name": "Crest (Southampton) - Foil",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_522",
+      "number": "522",
+      "name": "Aaron Ramsdale (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_523",
+      "number": "523",
+      "name": "Gavin Bazunu (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_524",
+      "number": "524",
+      "name": "Yukinari Sugawara (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_525",
+      "number": "525",
+      "name": "Charlie Taylor (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_526",
+      "number": "526",
+      "name": "Flag (Southampton) - Fabric",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_527",
+      "number": "527",
+      "name": "Kyle Walker-Peters (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_528",
+      "number": "528",
+      "name": "Jack Stephens (Southampton) - Captain - Foil",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_529",
+      "number": "529",
+      "name": "Taylor Harwood-Bellis (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_530",
+      "number": "530",
+      "name": "James Bree (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_531",
+      "number": "531",
+      "name": "Jan Bednarek (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_532",
+      "number": "532",
+      "name": "Flynn Downes (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_533",
+      "number": "533",
+      "name": "Joe Aribo (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_534",
+      "number": "534",
+      "name": "Will Smallbone (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_535",
+      "number": "535",
+      "name": "Adam Lallana (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_536",
+      "number": "536",
+      "name": "Mateus Fernandes (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_537",
+      "number": "537",
+      "name": "Maxwel Cornet (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_538",
+      "number": "538",
+      "name": "Ryan Fraser (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_539",
+      "number": "539",
+      "name": "Tyler Dibling (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_540",
+      "number": "540",
+      "name": "Adam Armstrong (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_541",
+      "number": "541",
+      "name": "Ross Stewart (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_542",
+      "number": "542",
+      "name": "Ben Brereton Díaz (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_543",
+      "number": "543",
+      "name": "Tyler Dibling (Southampton) - Rising Star",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_544",
+      "number": "544",
+      "name": "Kyle Walker-Peters (Southampton) - Elite - Foil",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_545",
+      "number": "545",
+      "name": "Lesley Ugochukwu (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_546",
+      "number": "546",
+      "name": "Jan Bednarek (Southampton) - Key Player",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_547",
+      "number": "547",
+      "name": "Adam Armstrong (Southampton) - Key Player",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_548",
+      "number": "548",
+      "name": "Cameron Archer (Southampton)",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_549",
+      "number": "549",
+      "name": "Aaron Ramsdale (Southampton) - Super Signing - Silver Foil",
+      "sectionId": "club_southampton",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_550",
+      "number": "550",
+      "name": "Crest (Tottenham Hotspur) - Foil",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_551",
+      "number": "551",
+      "name": "Guglielmo Vicario (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_552",
+      "number": "552",
+      "name": "Fraser Forster (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_553",
+      "number": "553",
+      "name": "Djed Spence (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_554",
+      "number": "554",
+      "name": "Ben Davies (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_555",
+      "number": "555",
+      "name": "Flag (Tottenham Hotspur) - Fabric",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_556",
+      "number": "556",
+      "name": "Radu Drăgușin (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_557",
+      "number": "557",
+      "name": "Destiny Udogie (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_558",
+      "number": "558",
+      "name": "Cristian Romero (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_559",
+      "number": "559",
+      "name": "Pedro Porro (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_560",
+      "number": "560",
+      "name": "Micky van de Ven (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_561",
+      "number": "561",
+      "name": "Yves Bissouma (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_562",
+      "number": "562",
+      "name": "James Maddison (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_563",
+      "number": "563",
+      "name": "Archie Gray (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_564",
+      "number": "564",
+      "name": "Lucas Bergvall (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_565",
+      "number": "565",
+      "name": "Dejan Kulusevski (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_566",
+      "number": "566",
+      "name": "Pape Matar Sarr (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_567",
+      "number": "567",
+      "name": "Rodrigo Bentancur (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_568",
+      "number": "568",
+      "name": "Richarlison (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_569",
+      "number": "569",
+      "name": "Timo Werner (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_570",
+      "number": "570",
+      "name": "Dominic Solanke (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_571",
+      "number": "571",
+      "name": "Brennan Johnson (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_572",
+      "number": "572",
+      "name": "Lucas Bergvall (Tottenham Hotspur) - Rising Star",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_573",
+      "number": "573",
+      "name": "Son Heung-min (Tottenham Hotspur) - Elite - Foil",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_574",
+      "number": "574",
+      "name": "Son Heung-min (Tottenham Hotspur) - Captain - Foil",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_575",
+      "number": "575",
+      "name": "Micky van de Ven (Tottenham Hotspur) - Key Player",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_576",
+      "number": "576",
+      "name": "Pedro Porro (Tottenham Hotspur) - Key Player",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_577",
+      "number": "577",
+      "name": "Wilson Odobert (Tottenham Hotspur)",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_578",
+      "number": "578",
+      "name": "Dominic Solanke (Tottenham Hotspur) - Super Signing - Silver Foil",
+      "sectionId": "club_tottenham_hotspur",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_579",
+      "number": "579",
+      "name": "Crest (West Ham United) - Foil",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_580",
+      "number": "580",
+      "name": "Łukasz Fabiański (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_581",
+      "number": "581",
+      "name": "Alphonse Areola (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_582",
+      "number": "582",
+      "name": "Maximilian Kilman (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_583",
+      "number": "583",
+      "name": "Aaron Wan-Bissaka (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_584",
+      "number": "584",
+      "name": "Flag (West Ham United) - Fabric",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_585",
+      "number": "585",
+      "name": "Aaron Cresswell (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_586",
+      "number": "586",
+      "name": "Vladimír Coufal (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_587",
+      "number": "587",
+      "name": "Konstantínos Mavropános (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_588",
+      "number": "588",
+      "name": "Jean-Clair Todibo (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_589",
+      "number": "589",
+      "name": "Emerson Palmieri (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_590",
+      "number": "590",
+      "name": "Carlos Soler (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_591",
+      "number": "591",
+      "name": "Lucas Paquetá (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_592",
+      "number": "592",
+      "name": "Mohammed Kudus (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_593",
+      "number": "593",
+      "name": "Edson Álvarez (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_594",
+      "number": "594",
+      "name": "Guido Rodríguez (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_595",
+      "number": "595",
+      "name": "Tomáš Souček (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_596",
+      "number": "596",
+      "name": "Andrew Irving (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_597",
+      "number": "597",
+      "name": "Michail Antonio (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_598",
+      "number": "598",
+      "name": "Niclas Füllkrug (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_599",
+      "number": "599",
+      "name": "Luis Guilherme (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_600",
+      "number": "600",
+      "name": "Danny Ings (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_601",
+      "number": "601",
+      "name": "Crysencio Summerville (West Ham United) - Rising Star",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_602",
+      "number": "602",
+      "name": "Mohammed Kudus (West Ham United) - Elite - Foil",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_603",
+      "number": "603",
+      "name": "Crysencio Summerville (West Ham United)",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_604",
+      "number": "604",
+      "name": "Alphonse Areola (West Ham United) - Key Player",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_605",
+      "number": "605",
+      "name": "Jarrod Bowen (West Ham United) - Key Player",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_606",
+      "number": "606",
+      "name": "Jarrod Bowen (West Ham United) - Captain - Foil",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_607",
+      "number": "607",
+      "name": "Maximilian Kilman (West Ham United) - Super Signing - Silver Foil",
+      "sectionId": "club_west_ham_united",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_608",
+      "number": "608",
+      "name": "Crest (Wolverhampton Wanderers) - Foil",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_609",
+      "number": "609",
+      "name": "José Sá (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_610",
+      "number": "610",
+      "name": "Sam Johnstone (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_611",
+      "number": "611",
+      "name": "Craig Dawson (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_612",
+      "number": "612",
+      "name": "Nélson Semedo (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_613",
+      "number": "613",
+      "name": "Flag (Wolverhampton Wanderers) - Fabric",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_614",
+      "number": "614",
+      "name": "Matt Doherty (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_615",
+      "number": "615",
+      "name": "Rayan Aït-Nouri (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_616",
+      "number": "616",
+      "name": "Santiago Bueno (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_617",
+      "number": "617",
+      "name": "Yerson Mosquera (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_618",
+      "number": "618",
+      "name": "Toti Gomes (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_619",
+      "number": "619",
+      "name": "Mario Lemina (Wolverhampton Wanderers) - Captain - Foil",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_620",
+      "number": "620",
+      "name": "Boubacar Traoré (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_621",
+      "number": "621",
+      "name": "André (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_622",
+      "number": "622",
+      "name": "João Gomes (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_623",
+      "number": "623",
+      "name": "Tommy Doyle (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_624",
+      "number": "624",
+      "name": "Jørgen Strand Larsen (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_625",
+      "number": "625",
+      "name": "Matheus Cunha (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_626",
+      "number": "626",
+      "name": "Rodrigo Gomes (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_627",
+      "number": "627",
+      "name": "Pablo Sarabia (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_628",
+      "number": "628",
+      "name": "Carlos Forbs (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_629",
+      "number": "629",
+      "name": "Jean-Ricner Bellegarde (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_630",
+      "number": "630",
+      "name": "Rodrigo Gomes (Wolverhampton Wanderers) - Rising Star",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_631",
+      "number": "631",
+      "name": "Matheus Cunha (Wolverhampton Wanderers) - Elite - Foil",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_632",
+      "number": "632",
+      "name": "Hwang Hee-Chan (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_633",
+      "number": "633",
+      "name": "Rayan Aït-Nouri (Wolverhampton Wanderers) - Key Player",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_634",
+      "number": "634",
+      "name": "Mario Lemina (Wolverhampton Wanderers) - Key Player",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_635",
+      "number": "635",
+      "name": "Gonçalo Guedes (Wolverhampton Wanderers)",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_636",
+      "number": "636",
+      "name": "Sam Johnstone (Wolverhampton Wanderers) - Super Signing - Silver Foil",
+      "sectionId": "club_wolverhampton_wanderers",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U1",
+      "number": "U1",
+      "name": "Julio Soler",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U2",
+      "number": "U2",
+      "name": "Myles Lewis-Skelly",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U3",
+      "number": "U3",
+      "name": "Axel Disasi",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U4",
+      "number": "U4",
+      "name": "Andrés García",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U5",
+      "number": "U5",
+      "name": "Lamare Bogarde",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U6",
+      "number": "U6",
+      "name": "Donyell Malen",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U7",
+      "number": "U7",
+      "name": "Marco Asensio",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U8",
+      "number": "U8",
+      "name": "Marcus Rashford",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U9",
+      "number": "U9",
+      "name": "Michael Kayode",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U10",
+      "number": "U10",
+      "name": "Paris Maghoma",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U11",
+      "number": "U11",
+      "name": "Eiran Cashin",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U12",
+      "number": "U12",
+      "name": "Diego Gómez",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U13",
+      "number": "U13",
+      "name": "Mathis Amougou",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U14",
+      "number": "U14",
+      "name": "Marc Guiu",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U15",
+      "number": "U15",
+      "name": "Ben Chilwell",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U16",
+      "number": "U16",
+      "name": "Romain Esse",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U17",
+      "number": "U17",
+      "name": "Justin Devenny",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U18",
+      "number": "U18",
+      "name": "Carlos Alcaraz",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U19",
+      "number": "U19",
+      "name": "Josh King",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U20",
+      "number": "U20",
+      "name": "Willian",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U21",
+      "number": "U21",
+      "name": "Alex Palmer",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U22",
+      "number": "U22",
+      "name": "Jaden Philogene",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U23",
+      "number": "U23",
+      "name": "Jakub Stolarczyk",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U24",
+      "number": "U24",
+      "name": "Woyo Coulibaly",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U25",
+      "number": "U25",
+      "name": "Vitezslav Jaros",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U26",
+      "number": "U26",
+      "name": "Vitor Reis",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U27",
+      "number": "U27",
+      "name": "Abdukodir Khusanov",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U28",
+      "number": "U28",
+      "name": "Jahmai Simpson-Pusey",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U29",
+      "number": "U29",
+      "name": "Nico González",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U30",
+      "number": "U30",
+      "name": "Nico O’Reilly",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U31",
+      "number": "U31",
+      "name": "Omar Marmoush",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U32",
+      "number": "U32",
+      "name": "Patrick Dorgu",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U33",
+      "number": "U33",
+      "name": "Toby Collyer",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U34",
+      "number": "U34",
+      "name": "Jota Silva",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U35",
+      "number": "U35",
+      "name": "Joe Lumley",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U36",
+      "number": "U36",
+      "name": "Nathan Wood",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U37",
+      "number": "U37",
+      "name": "Welington",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U38",
+      "number": "U38",
+      "name": "Joachim Kayi Sanda",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U39",
+      "number": "U39",
+      "name": "Albert Grønbaek",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U40",
+      "number": "U40",
+      "name": "Antonín Kinsky",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U41",
+      "number": "U41",
+      "name": "Kevin Danso",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U42",
+      "number": "U42",
+      "name": "Mathys Tel",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U43",
+      "number": "U43",
+      "name": "Oliver Scarles",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U44",
+      "number": "U44",
+      "name": "Evan Ferguson",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U45",
+      "number": "U45",
+      "name": "Emmanuel Agbadou",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U46",
+      "number": "U46",
+      "name": "Nasser Djiga",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U47",
+      "number": "U47",
+      "name": "Pedro Lima",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_U48",
+      "number": "U48",
+      "name": "Marshall Munetsi",
+      "sectionId": "updates",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_premier_league_2025_46YE",
+      "number": "46YE",
+      "name": "Antoine Semenyo (AFC Bournemouth) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_46OR",
+      "number": "46OR",
+      "name": "Antoine Semenyo (AFC Bournemouth) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_46PU",
+      "number": "46PU",
+      "name": "Antoine Semenyo (AFC Bournemouth) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_46GR",
+      "number": "46GR",
+      "name": "Antoine Semenyo (AFC Bournemouth) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_75YE",
+      "number": "75YE",
+      "name": "William Saliba (Arsenal) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_75OR",
+      "number": "75OR",
+      "name": "William Saliba (Arsenal) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_75PU",
+      "number": "75PU",
+      "name": "William Saliba (Arsenal) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_75GR",
+      "number": "75GR",
+      "name": "William Saliba (Arsenal) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_104YE",
+      "number": "104YE",
+      "name": "Emiliano Martínez (Aston Villa) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_104OR",
+      "number": "104OR",
+      "name": "Emiliano Martínez (Aston Villa) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_104PU",
+      "number": "104PU",
+      "name": "Emiliano Martínez (Aston Villa) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_104GR",
+      "number": "104GR",
+      "name": "Emiliano Martínez (Aston Villa) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_133YE",
+      "number": "133YE",
+      "name": "Yoane Wissa (Brentford) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_133OR",
+      "number": "133OR",
+      "name": "Yoane Wissa (Brentford) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_133PU",
+      "number": "133PU",
+      "name": "Yoane Wissa (Brentford) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_133GR",
+      "number": "133GR",
+      "name": "Yoane Wissa (Brentford) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_162YE",
+      "number": "162YE",
+      "name": "João Pedro (Brighton & Hove Albion) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_162OR",
+      "number": "162OR",
+      "name": "João Pedro (Brighton & Hove Albion) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_162PU",
+      "number": "162PU",
+      "name": "João Pedro (Brighton & Hove Albion) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_162GR",
+      "number": "162GR",
+      "name": "João Pedro (Brighton & Hove Albion) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_191YE",
+      "number": "191YE",
+      "name": "Cole Palmer (Chelsea) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_191OR",
+      "number": "191OR",
+      "name": "Cole Palmer (Chelsea) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_191PU",
+      "number": "191PU",
+      "name": "Cole Palmer (Chelsea) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_191GR",
+      "number": "191GR",
+      "name": "Cole Palmer (Chelsea) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_220YE",
+      "number": "220YE",
+      "name": "Eberechi Eze (Crystal Palace) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_220OR",
+      "number": "220OR",
+      "name": "Eberechi Eze (Crystal Palace) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_220PU",
+      "number": "220PU",
+      "name": "Eberechi Eze (Crystal Palace) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_220GR",
+      "number": "220GR",
+      "name": "Eberechi Eze (Crystal Palace) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_249YE",
+      "number": "249YE",
+      "name": "James Tarkowski (Everton) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_249OR",
+      "number": "249OR",
+      "name": "James Tarkowski (Everton) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_249PU",
+      "number": "249PU",
+      "name": "James Tarkowski (Everton) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_249GR",
+      "number": "249GR",
+      "name": "James Tarkowski (Everton) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_278YE",
+      "number": "278YE",
+      "name": "Antonee Robinson (Fulham) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_278OR",
+      "number": "278OR",
+      "name": "Antonee Robinson (Fulham) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_278PU",
+      "number": "278PU",
+      "name": "Antonee Robinson (Fulham) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_278GR",
+      "number": "278GR",
+      "name": "Antonee Robinson (Fulham) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_307YE",
+      "number": "307YE",
+      "name": "Sam Szmodics (Ipswich Town) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_307OR",
+      "number": "307OR",
+      "name": "Sam Szmodics (Ipswich Town) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_307PU",
+      "number": "307PU",
+      "name": "Sam Szmodics (Ipswich Town) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_307GR",
+      "number": "307GR",
+      "name": "Sam Szmodics (Ipswich Town) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_370YE",
+      "number": "370YE",
+      "name": "Wilfred Ndidi (Leicester City) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_370OR",
+      "number": "370OR",
+      "name": "Wilfred Ndidi (Leicester City) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_370PU",
+      "number": "370PU",
+      "name": "Wilfred Ndidi (Leicester City) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_370GR",
+      "number": "370GR",
+      "name": "Wilfred Ndidi (Leicester City) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_399YE",
+      "number": "399YE",
+      "name": "Mohamed Salah (Liverpool) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_399OR",
+      "number": "399OR",
+      "name": "Mohamed Salah (Liverpool) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_399PU",
+      "number": "399PU",
+      "name": "Mohamed Salah (Liverpool) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_399GR",
+      "number": "399GR",
+      "name": "Mohamed Salah (Liverpool) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_428YE",
+      "number": "428YE",
+      "name": "Erling Haaland (Manchester City) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_428OR",
+      "number": "428OR",
+      "name": "Erling Haaland (Manchester City) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_428PU",
+      "number": "428PU",
+      "name": "Erling Haaland (Manchester City) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_428GR",
+      "number": "428GR",
+      "name": "Erling Haaland (Manchester City) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_457YE",
+      "number": "457YE",
+      "name": "Kobbie Mainoo (Manchester United) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_457OR",
+      "number": "457OR",
+      "name": "Kobbie Mainoo (Manchester United) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_457PU",
+      "number": "457PU",
+      "name": "Kobbie Mainoo (Manchester United) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_457GR",
+      "number": "457GR",
+      "name": "Kobbie Mainoo (Manchester United) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_486YE",
+      "number": "486YE",
+      "name": "Alexander Isak (Newcastle United) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_486OR",
+      "number": "486OR",
+      "name": "Alexander Isak (Newcastle United) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_486PU",
+      "number": "486PU",
+      "name": "Alexander Isak (Newcastle United) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_486GR",
+      "number": "486GR",
+      "name": "Alexander Isak (Newcastle United) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_515YE",
+      "number": "515YE",
+      "name": "Morgan Gibbs-White (Nottingham Forest) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_515OR",
+      "number": "515OR",
+      "name": "Morgan Gibbs-White (Nottingham Forest) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_515PU",
+      "number": "515PU",
+      "name": "Morgan Gibbs-White (Nottingham Forest) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_515GR",
+      "number": "515GR",
+      "name": "Morgan Gibbs-White (Nottingham Forest) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_544YE",
+      "number": "544YE",
+      "name": "Kyle Walker-Peters (Southampton) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_544OR",
+      "number": "544OR",
+      "name": "Kyle Walker-Peters (Southampton) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_544PU",
+      "number": "544PU",
+      "name": "Kyle Walker-Peters (Southampton) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_544GR",
+      "number": "544GR",
+      "name": "Kyle Walker-Peters (Southampton) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_573YE",
+      "number": "573YE",
+      "name": "Son Heung-min (Tottenham Hotspur) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_573OR",
+      "number": "573OR",
+      "name": "Son Heung-min (Tottenham Hotspur) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_573PU",
+      "number": "573PU",
+      "name": "Son Heung-min (Tottenham Hotspur) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_573GR",
+      "number": "573GR",
+      "name": "Son Heung-min (Tottenham Hotspur) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_602YE",
+      "number": "602YE",
+      "name": "Mohammed Kudus (West Ham United) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_602OR",
+      "number": "602OR",
+      "name": "Mohammed Kudus (West Ham United) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_602PU",
+      "number": "602PU",
+      "name": "Mohammed Kudus (West Ham United) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_602GR",
+      "number": "602GR",
+      "name": "Mohammed Kudus (West Ham United) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_631YE",
+      "number": "631YE",
+      "name": "Matheus Cunha (Wolverhampton Wanderers) — Elite Amarela",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_631OR",
+      "number": "631OR",
+      "name": "Matheus Cunha (Wolverhampton Wanderers) — Elite Dourada",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_631PU",
+      "number": "631PU",
+      "name": "Matheus Cunha (Wolverhampton Wanderers) — Elite Roxa",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    },
+    {
+      "id": "panini_premier_league_2025_631GR",
+      "number": "631GR",
+      "name": "Matheus Cunha (Wolverhampton Wanderers) — Elite Verde",
+      "sectionId": "elite_variants",
+      "countsTowardCompletion": false
+    }
+  ]
+}
