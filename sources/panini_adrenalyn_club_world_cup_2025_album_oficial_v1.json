@@ -1,0 +1,2933 @@
+{
+  "officialId": "panini.mundial_clubes2025.adrenalyn-xl",
+  "version": 1,
+  "name": "Adrenalyn XL — Mundial de Clubes FIFA 2025",
+  "collection": "Adrenalyn XL — Mundial de Clubes FIFA 2025",
+  "year": "2025",
+  "publisher": "Panini",
+  "collectionType": "cards",
+  "availability": "online",
+  "libraryCategory": {
+    "id": "club-world-cup-men",
+    "name": "Mundial de Clubes — Masculino",
+    "order": 50
+  },
+  "description": "369 cards principais (1–369) e 18 edições limitadas, com seus códigos LE. Todos os 387 cards físicos contam para 100%. Itens exclusivos do jogo digital não estão incluídos.",
+  "plannedTotal": 387,
+  "variantCount": 0,
+  "variantLabel": "Variantes opcionais",
+  "coverAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp",
+  "sections": [
+    {
+      "id": "golden",
+      "name": "Golden Baller",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "invincible",
+      "name": "Invincible",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_ca_boca_juniors",
+      "name": "CA Boca Juniors",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_ca_river_plate",
+      "name": "CA River Plate",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_fc_red_bull_salzburg",
+      "name": "FC Red Bull Salzburg",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_botafogo_fr",
+      "name": "Botafogo FR",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_cr_flamengo",
+      "name": "CR Flamengo",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_fluminense_fc",
+      "name": "Fluminense FC",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_se_palmeiras",
+      "name": "SE Palmeiras",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_al_ahly_fc",
+      "name": "Al Ahly FC",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_chelsea",
+      "name": "Chelsea",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_manchester_city",
+      "name": "Manchester City",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_paris_saint_germain",
+      "name": "Paris Saint-Germain",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_fc_bayern_munchen",
+      "name": "FC Bayern München",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_borussia_dortmund",
+      "name": "Borussia Dortmund",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_fc_internazionale_milano",
+      "name": "FC Internazionale Milano",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_juventus",
+      "name": "Juventus",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_urawa_red_diamonds",
+      "name": "Urawa Red Diamonds",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_ulsan_hd_fc",
+      "name": "Ulsan HD FC",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_club_leon",
+      "name": "Club León",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_cf_monterrey",
+      "name": "CF Monterrey",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_cf_pachuca",
+      "name": "CF Pachuca",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_wydad_ac",
+      "name": "Wydad AC",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_auckland_city_fc",
+      "name": "Auckland City FC",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_sl_benfica",
+      "name": "SL Benfica",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_fc_porto",
+      "name": "FC Porto",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_al_hilal_sfc",
+      "name": "Al-Hilal SFC",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_mamelodi_sundowns",
+      "name": "Mamelodi Sundowns",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_atletico_de_madrid",
+      "name": "Atlético de Madrid",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_real_madrid_cf",
+      "name": "Real Madrid CF",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_esperance_de_tunis",
+      "name": "Espérance de Tunis",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "club_al_ain_fc",
+      "name": "Al Ain FC",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "titan",
+      "name": "Titan",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "magician",
+      "name": "Magician",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "goal_machine",
+      "name": "Goal Machine",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "top_keeper",
+      "name": "Top Keeper",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "game_changer",
+      "name": "Game Changer",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "new_hero",
+      "name": "New Hero",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "legend",
+      "name": "Legend",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    },
+    {
+      "id": "limited",
+      "name": "Edições limitadas",
+      "imageAsset": "assets/album_library/imagens/panini_adrenalyn_club_world_cup_2025/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_1",
+      "number": "1",
+      "name": "Cole Palmer",
+      "sectionId": "golden",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_2",
+      "number": "2",
+      "name": "Erling Haaland",
+      "sectionId": "golden",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_3",
+      "number": "3",
+      "name": "Rúben Dias",
+      "sectionId": "golden",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_4",
+      "number": "4",
+      "name": "Harry Kane",
+      "sectionId": "golden",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_5",
+      "number": "5",
+      "name": "Messi / Oblak / Bellingham / Bastoni",
+      "sectionId": "invincible",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_6",
+      "number": "6",
+      "name": "Gregor Kobel",
+      "sectionId": "golden",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_7",
+      "number": "7",
+      "name": "Lautaro Martínez",
+      "sectionId": "golden",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_8",
+      "number": "8",
+      "name": "Vini Jr.",
+      "sectionId": "golden",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_9",
+      "number": "9",
+      "name": "Kylian Mbappé",
+      "sectionId": "golden",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_10",
+      "number": "10",
+      "name": "Edinson Cavani",
+      "sectionId": "club_ca_boca_juniors",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_11",
+      "number": "11",
+      "name": "Agustín Marchesín",
+      "sectionId": "club_ca_boca_juniors",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_12",
+      "number": "12",
+      "name": "Marcelo Saracchi",
+      "sectionId": "club_ca_boca_juniors",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_13",
+      "number": "13",
+      "name": "Luis Advíncula",
+      "sectionId": "club_ca_boca_juniors",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_14",
+      "number": "14",
+      "name": "Ander Herrera",
+      "sectionId": "club_ca_boca_juniors",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_15",
+      "number": "15",
+      "name": "Tomás Belmonte",
+      "sectionId": "club_ca_boca_juniors",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_16",
+      "number": "16",
+      "name": "Carlos Palacios",
+      "sectionId": "club_ca_boca_juniors",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_17",
+      "number": "17",
+      "name": "Alan Velasco",
+      "sectionId": "club_ca_boca_juniors",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_18",
+      "number": "18",
+      "name": "Miguel Merentiel",
+      "sectionId": "club_ca_boca_juniors",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_19",
+      "number": "19",
+      "name": "Franco Armani",
+      "sectionId": "club_ca_river_plate",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_20",
+      "number": "20",
+      "name": "Germán Pezzella",
+      "sectionId": "club_ca_river_plate",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_21",
+      "number": "21",
+      "name": "Lucas Martínez Quarta",
+      "sectionId": "club_ca_river_plate",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_22",
+      "number": "22",
+      "name": "Marcos Acuña",
+      "sectionId": "club_ca_river_plate",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_23",
+      "number": "23",
+      "name": "Franco Mastantuono",
+      "sectionId": "club_ca_river_plate",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_24",
+      "number": "24",
+      "name": "Manuel Lanzini",
+      "sectionId": "club_ca_river_plate",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_25",
+      "number": "25",
+      "name": "Rodrigo Aliendro",
+      "sectionId": "club_ca_river_plate",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_26",
+      "number": "26",
+      "name": "Miguel Borja",
+      "sectionId": "club_ca_river_plate",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_27",
+      "number": "27",
+      "name": "Gonzalo Montiel",
+      "sectionId": "club_ca_river_plate",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_28",
+      "number": "28",
+      "name": "Maurits Kjaergaard",
+      "sectionId": "club_fc_red_bull_salzburg",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_29",
+      "number": "29",
+      "name": "Samson Baidoo",
+      "sectionId": "club_fc_red_bull_salzburg",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_30",
+      "number": "30",
+      "name": "Hendry Blank",
+      "sectionId": "club_fc_red_bull_salzburg",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_31",
+      "number": "31",
+      "name": "Aleksa Terzić",
+      "sectionId": "club_fc_red_bull_salzburg",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_32",
+      "number": "32",
+      "name": "Oscar Gloukh",
+      "sectionId": "club_fc_red_bull_salzburg",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_33",
+      "number": "33",
+      "name": "Nicolás Capaldo",
+      "sectionId": "club_fc_red_bull_salzburg",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_34",
+      "number": "34",
+      "name": "Dorgeles Nene",
+      "sectionId": "club_fc_red_bull_salzburg",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_35",
+      "number": "35",
+      "name": "Karim Konaté",
+      "sectionId": "club_fc_red_bull_salzburg",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_36",
+      "number": "36",
+      "name": "Alexander Schlager",
+      "sectionId": "club_fc_red_bull_salzburg",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_37",
+      "number": "37",
+      "name": "Gregore",
+      "sectionId": "club_botafogo_fr",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_38",
+      "number": "38",
+      "name": "John Victor",
+      "sectionId": "club_botafogo_fr",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_39",
+      "number": "39",
+      "name": "Alex Telles",
+      "sectionId": "club_botafogo_fr",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_40",
+      "number": "40",
+      "name": "Vitinho",
+      "sectionId": "club_botafogo_fr",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_41",
+      "number": "41",
+      "name": "Marlon Freitas",
+      "sectionId": "club_botafogo_fr",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_42",
+      "number": "42",
+      "name": "Matheus Martins",
+      "sectionId": "club_botafogo_fr",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_43",
+      "number": "43",
+      "name": "Igor Jesus",
+      "sectionId": "club_botafogo_fr",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_44",
+      "number": "44",
+      "name": "Artur",
+      "sectionId": "club_botafogo_fr",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_45",
+      "number": "45",
+      "name": "Jefferson Savarino",
+      "sectionId": "club_botafogo_fr",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_46",
+      "number": "46",
+      "name": "Giorgian de Arrascaeta",
+      "sectionId": "club_cr_flamengo",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_47",
+      "number": "47",
+      "name": "Agustín Rossi",
+      "sectionId": "club_cr_flamengo",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_48",
+      "number": "48",
+      "name": "Danilo",
+      "sectionId": "club_cr_flamengo",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_49",
+      "number": "49",
+      "name": "Alex Sandro",
+      "sectionId": "club_cr_flamengo",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_50",
+      "number": "50",
+      "name": "Erick Pulgar",
+      "sectionId": "club_cr_flamengo",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_51",
+      "number": "51",
+      "name": "Gerson",
+      "sectionId": "club_cr_flamengo",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_52",
+      "number": "52",
+      "name": "Pedro",
+      "sectionId": "club_cr_flamengo",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_53",
+      "number": "53",
+      "name": "Michael",
+      "sectionId": "club_cr_flamengo",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_54",
+      "number": "54",
+      "name": "Everton",
+      "sectionId": "club_cr_flamengo",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_55",
+      "number": "55",
+      "name": "Fábio",
+      "sectionId": "club_fluminense_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_56",
+      "number": "56",
+      "name": "Samuel Xavier",
+      "sectionId": "club_fluminense_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_57",
+      "number": "57",
+      "name": "Ganso",
+      "sectionId": "club_fluminense_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_58",
+      "number": "58",
+      "name": "Martinelli",
+      "sectionId": "club_fluminense_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_59",
+      "number": "59",
+      "name": "Jhon Arias",
+      "sectionId": "club_fluminense_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_60",
+      "number": "60",
+      "name": "Germán Cano",
+      "sectionId": "club_fluminense_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_61",
+      "number": "61",
+      "name": "Agustín Canobbio",
+      "sectionId": "club_fluminense_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_62",
+      "number": "62",
+      "name": "Riquelme",
+      "sectionId": "club_fluminense_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_63",
+      "number": "63",
+      "name": "Thiago Silva",
+      "sectionId": "club_fluminense_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_64",
+      "number": "64",
+      "name": "Weverton",
+      "sectionId": "club_se_palmeiras",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_65",
+      "number": "65",
+      "name": "Murilo",
+      "sectionId": "club_se_palmeiras",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_66",
+      "number": "66",
+      "name": "Marcos Rocha",
+      "sectionId": "club_se_palmeiras",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_67",
+      "number": "67",
+      "name": "Raphael Veiga",
+      "sectionId": "club_se_palmeiras",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_68",
+      "number": "68",
+      "name": "Aníbal Moreno",
+      "sectionId": "club_se_palmeiras",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_69",
+      "number": "69",
+      "name": "Richard Ríos",
+      "sectionId": "club_se_palmeiras",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_70",
+      "number": "70",
+      "name": "Estêvão",
+      "sectionId": "club_se_palmeiras",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_71",
+      "number": "71",
+      "name": "José Manuel López",
+      "sectionId": "club_se_palmeiras",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_72",
+      "number": "72",
+      "name": "Gustavo Gómez",
+      "sectionId": "club_se_palmeiras",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_73",
+      "number": "73",
+      "name": "Amr El Solia",
+      "sectionId": "club_al_ahly_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_74",
+      "number": "74",
+      "name": "Mohamed El Shenawy",
+      "sectionId": "club_al_ahly_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_75",
+      "number": "75",
+      "name": "Yasser Ibrahim",
+      "sectionId": "club_al_ahly_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_76",
+      "number": "76",
+      "name": "Rami Rabia",
+      "sectionId": "club_al_ahly_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_77",
+      "number": "77",
+      "name": "Mohamed Hany",
+      "sectionId": "club_al_ahly_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_78",
+      "number": "78",
+      "name": "Marawan Attia",
+      "sectionId": "club_al_ahly_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_79",
+      "number": "79",
+      "name": "Afsha",
+      "sectionId": "club_al_ahly_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_80",
+      "number": "80",
+      "name": "Hussein Elshahat",
+      "sectionId": "club_al_ahly_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_81",
+      "number": "81",
+      "name": "Emam Ashour",
+      "sectionId": "club_al_ahly_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_82",
+      "number": "82",
+      "name": "Enzo Fernández",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_83",
+      "number": "83",
+      "name": "Robert Sánchez",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_84",
+      "number": "84",
+      "name": "Levi Colwill",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_85",
+      "number": "85",
+      "name": "Malo Gusto",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_86",
+      "number": "86",
+      "name": "Moisés Caicedo",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_87",
+      "number": "87",
+      "name": "Cole Palmer",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_88",
+      "number": "88",
+      "name": "Christopher Nkunku",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_89",
+      "number": "89",
+      "name": "Noni Madueke",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_90",
+      "number": "90",
+      "name": "Marc Cucurella",
+      "sectionId": "club_chelsea",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_91",
+      "number": "91",
+      "name": "Kevin De Bruyne",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_92",
+      "number": "92",
+      "name": "Ederson",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_93",
+      "number": "93",
+      "name": "Rúben Dias",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_94",
+      "number": "94",
+      "name": "Joško Gvardiol",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_95",
+      "number": "95",
+      "name": "Bernardo Silva",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_96",
+      "number": "96",
+      "name": "Mateo Kovačić",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_97",
+      "number": "97",
+      "name": "Omar Marmoush",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_98",
+      "number": "98",
+      "name": "Erling Haaland",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_99",
+      "number": "99",
+      "name": "Phil Foden",
+      "sectionId": "club_manchester_city",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_100",
+      "number": "100",
+      "name": "Bradley Barcola",
+      "sectionId": "club_paris_saint_germain",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_101",
+      "number": "101",
+      "name": "Gianluigi Donnarumma",
+      "sectionId": "club_paris_saint_germain",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_102",
+      "number": "102",
+      "name": "Lucas Beraldo",
+      "sectionId": "club_paris_saint_germain",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_103",
+      "number": "103",
+      "name": "João Neves",
+      "sectionId": "club_paris_saint_germain",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_104",
+      "number": "104",
+      "name": "Vitinha",
+      "sectionId": "club_paris_saint_germain",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_105",
+      "number": "105",
+      "name": "Warren Zaïre-Emery",
+      "sectionId": "club_paris_saint_germain",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_106",
+      "number": "106",
+      "name": "Goncalo Ramos",
+      "sectionId": "club_paris_saint_germain",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_107",
+      "number": "107",
+      "name": "Bradley Barcola",
+      "sectionId": "club_paris_saint_germain",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_108",
+      "number": "108",
+      "name": "Warren Zaïre-Emery",
+      "sectionId": "club_paris_saint_germain",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_109",
+      "number": "109",
+      "name": "Manuel Neuer",
+      "sectionId": "club_fc_bayern_munchen",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_110",
+      "number": "110",
+      "name": "Alphonso Davies",
+      "sectionId": "club_fc_bayern_munchen",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_111",
+      "number": "111",
+      "name": "Dayot Upamecano",
+      "sectionId": "club_fc_bayern_munchen",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_112",
+      "number": "112",
+      "name": "Raphaël Guerreiro",
+      "sectionId": "club_fc_bayern_munchen",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_113",
+      "number": "113",
+      "name": "Aleksandar Pavlović",
+      "sectionId": "club_fc_bayern_munchen",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_114",
+      "number": "114",
+      "name": "Jamal Musiala",
+      "sectionId": "club_fc_bayern_munchen",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_115",
+      "number": "115",
+      "name": "Harry Kane",
+      "sectionId": "club_fc_bayern_munchen",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_116",
+      "number": "116",
+      "name": "Michael Olise",
+      "sectionId": "club_fc_bayern_munchen",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_117",
+      "number": "117",
+      "name": "Thomas Müller",
+      "sectionId": "club_fc_bayern_munchen",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_118",
+      "number": "118",
+      "name": "Emre Can",
+      "sectionId": "club_borussia_dortmund",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_119",
+      "number": "119",
+      "name": "Julian Ryerson",
+      "sectionId": "club_borussia_dortmund",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_120",
+      "number": "120",
+      "name": "Niklas Süle",
+      "sectionId": "club_borussia_dortmund",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_121",
+      "number": "121",
+      "name": "Pascal Gross",
+      "sectionId": "club_borussia_dortmund",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_122",
+      "number": "122",
+      "name": "Julian Brandt",
+      "sectionId": "club_borussia_dortmund",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_123",
+      "number": "123",
+      "name": "Serhou Guirassy",
+      "sectionId": "club_borussia_dortmund",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_124",
+      "number": "124",
+      "name": "Jamie Gittens",
+      "sectionId": "club_borussia_dortmund",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_125",
+      "number": "125",
+      "name": "Karim Adeyemi",
+      "sectionId": "club_borussia_dortmund",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_126",
+      "number": "126",
+      "name": "Gregor Kobel",
+      "sectionId": "club_borussia_dortmund",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_127",
+      "number": "127",
+      "name": "Nicolò Barella",
+      "sectionId": "club_fc_internazionale_milano",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_128",
+      "number": "128",
+      "name": "Yann Sommer",
+      "sectionId": "club_fc_internazionale_milano",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_129",
+      "number": "129",
+      "name": "Francesco Acerbi",
+      "sectionId": "club_fc_internazionale_milano",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_130",
+      "number": "130",
+      "name": "Stefan De Vrij",
+      "sectionId": "club_fc_internazionale_milano",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_131",
+      "number": "131",
+      "name": "Benjamin Pavard",
+      "sectionId": "club_fc_internazionale_milano",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_132",
+      "number": "132",
+      "name": "Hakan Calhanoğlu",
+      "sectionId": "club_fc_internazionale_milano",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_133",
+      "number": "133",
+      "name": "Marcus Thuram",
+      "sectionId": "club_fc_internazionale_milano",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_134",
+      "number": "134",
+      "name": "Lautaro Martínez",
+      "sectionId": "club_fc_internazionale_milano",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_135",
+      "number": "135",
+      "name": "Federico Dimarco",
+      "sectionId": "club_fc_internazionale_milano",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_136",
+      "number": "136",
+      "name": "Bremer",
+      "sectionId": "club_juventus",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_137",
+      "number": "137",
+      "name": "Andrea Cambiaso",
+      "sectionId": "club_juventus",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_138",
+      "number": "138",
+      "name": "Douglas Luiz",
+      "sectionId": "club_juventus",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_139",
+      "number": "139",
+      "name": "Teun Koopmeiners",
+      "sectionId": "club_juventus",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_140",
+      "number": "140",
+      "name": "Francisco Conceição",
+      "sectionId": "club_juventus",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_141",
+      "number": "141",
+      "name": "Timothy Weah",
+      "sectionId": "club_juventus",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_142",
+      "number": "142",
+      "name": "Dušan Vlahović",
+      "sectionId": "club_juventus",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_143",
+      "number": "143",
+      "name": "Nico González",
+      "sectionId": "club_juventus",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_144",
+      "number": "144",
+      "name": "Kenan Yildiz",
+      "sectionId": "club_juventus",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_145",
+      "number": "145",
+      "name": "Shusaku Nishikawa",
+      "sectionId": "club_urawa_red_diamonds",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_146",
+      "number": "146",
+      "name": "Marius Høibråten",
+      "sectionId": "club_urawa_red_diamonds",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_147",
+      "number": "147",
+      "name": "Takuya Ogiwara",
+      "sectionId": "club_urawa_red_diamonds",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_148",
+      "number": "148",
+      "name": "Taishi Matsumotо",
+      "sectionId": "club_urawa_red_diamonds",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_149",
+      "number": "149",
+      "name": "Ryoma Watanabe",
+      "sectionId": "club_urawa_red_diamonds",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_150",
+      "number": "150",
+      "name": "Genki Haraguchi",
+      "sectionId": "club_urawa_red_diamonds",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_151",
+      "number": "151",
+      "name": "Thiago Santana",
+      "sectionId": "club_urawa_red_diamonds",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_152",
+      "number": "152",
+      "name": "Takuro Kaneko",
+      "sectionId": "club_urawa_red_diamonds",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_153",
+      "number": "153",
+      "name": "Takahiro Sekine",
+      "sectionId": "club_urawa_red_diamonds",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_154",
+      "number": "154",
+      "name": "Young-Gwon Kim",
+      "sectionId": "club_ulsan_hd_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_155",
+      "number": "155",
+      "name": "Jung-In Moon",
+      "sectionId": "club_ulsan_hd_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_156",
+      "number": "156",
+      "name": "Sang-Woo Kang",
+      "sectionId": "club_ulsan_hd_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_157",
+      "number": "157",
+      "name": "Jong-Gyu Yoon",
+      "sectionId": "club_ulsan_hd_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_158",
+      "number": "158",
+      "name": "Jin-Hyun Lee",
+      "sectionId": "club_ulsan_hd_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_159",
+      "number": "159",
+      "name": "Hui-Gyun Lee",
+      "sectionId": "club_ulsan_hd_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_160",
+      "number": "160",
+      "name": "Matías Lacava",
+      "sectionId": "club_ulsan_hd_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_161",
+      "number": "161",
+      "name": "Yool Heo",
+      "sectionId": "club_ulsan_hd_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_162",
+      "number": "162",
+      "name": "Won-Sang Um",
+      "sectionId": "club_ulsan_hd_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_163",
+      "number": "163",
+      "name": "Andrés Guardado",
+      "sectionId": "club_club_leon",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_164",
+      "number": "164",
+      "name": "Stiven Barreiro",
+      "sectionId": "club_club_leon",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_165",
+      "number": "165",
+      "name": "Salvador Reyes",
+      "sectionId": "club_club_leon",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_166",
+      "number": "166",
+      "name": "Adonis Frías",
+      "sectionId": "club_club_leon",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_167",
+      "number": "167",
+      "name": "James Rodríguez",
+      "sectionId": "club_club_leon",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_168",
+      "number": "168",
+      "name": "Ángel Estrada",
+      "sectionId": "club_club_leon",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_169",
+      "number": "169",
+      "name": "Jhonder Cádiz",
+      "sectionId": "club_club_leon",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_170",
+      "number": "170",
+      "name": "Ettson Ayón",
+      "sectionId": "club_club_leon",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_171",
+      "number": "171",
+      "name": "Stiven Mendoza",
+      "sectionId": "club_club_leon",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_172",
+      "number": "172",
+      "name": "Stefan Medina",
+      "sectionId": "club_cf_monterrey",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_173",
+      "number": "173",
+      "name": "Esteban Andrada",
+      "sectionId": "club_cf_monterrey",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_174",
+      "number": "174",
+      "name": "Víctor Guzmán",
+      "sectionId": "club_cf_monterrey",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_175",
+      "number": "175",
+      "name": "Sergio Ramos",
+      "sectionId": "club_cf_monterrey",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_176",
+      "number": "176",
+      "name": "Héctor Moreno",
+      "sectionId": "club_cf_monterrey",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_177",
+      "number": "177",
+      "name": "Jorge Rodríguez",
+      "sectionId": "club_cf_monterrey",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_178",
+      "number": "178",
+      "name": "Óliver Torres",
+      "sectionId": "club_cf_monterrey",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_179",
+      "number": "179",
+      "name": "Germán Berterame",
+      "sectionId": "club_cf_monterrey",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_180",
+      "number": "180",
+      "name": "Sergio Canales",
+      "sectionId": "club_cf_monterrey",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_181",
+      "number": "181",
+      "name": "Gustavo Cabral",
+      "sectionId": "club_cf_pachuca",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_182",
+      "number": "182",
+      "name": "Bryan González",
+      "sectionId": "club_cf_pachuca",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_183",
+      "number": "183",
+      "name": "Sergio Barreto",
+      "sectionId": "club_cf_pachuca",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_184",
+      "number": "184",
+      "name": "Luis Rodríguez",
+      "sectionId": "club_cf_pachuca",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_185",
+      "number": "185",
+      "name": "Pedro Pedraza",
+      "sectionId": "club_cf_pachuca",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_186",
+      "number": "186",
+      "name": "Elías Montiel",
+      "sectionId": "club_cf_pachuca",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_187",
+      "number": "187",
+      "name": "Oussama Idrissi",
+      "sectionId": "club_cf_pachuca",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_188",
+      "number": "188",
+      "name": "Salomón Rondón",
+      "sectionId": "club_cf_pachuca",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_189",
+      "number": "189",
+      "name": "Carlos Moreno",
+      "sectionId": "club_cf_pachuca",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_190",
+      "number": "190",
+      "name": "Jamal Harkass",
+      "sectionId": "club_wydad_ac",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_191",
+      "number": "191",
+      "name": "Youssef El Motie",
+      "sectionId": "club_wydad_ac",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_192",
+      "number": "192",
+      "name": "Ayoub Boucheta",
+      "sectionId": "club_wydad_ac",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_193",
+      "number": "193",
+      "name": "Mehdi Moubarik",
+      "sectionId": "club_wydad_ac",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_194",
+      "number": "194",
+      "name": "Hamza Sakhi",
+      "sectionId": "club_wydad_ac",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_195",
+      "number": "195",
+      "name": "Oussama Zemraoui",
+      "sectionId": "club_wydad_ac",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_196",
+      "number": "196",
+      "name": "Cassius Mailula",
+      "sectionId": "club_wydad_ac",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_197",
+      "number": "197",
+      "name": "Mohamed Rayhі",
+      "sectionId": "club_wydad_ac",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_198",
+      "number": "198",
+      "name": "Mohаmed Moufid",
+      "sectionId": "club_wydad_ac",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_199",
+      "number": "199",
+      "name": "Dylan Manickum",
+      "sectionId": "club_auckland_city_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_200",
+      "number": "200",
+      "name": "Nathan Lobo",
+      "sectionId": "club_auckland_city_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_201",
+      "number": "201",
+      "name": "Adam Mitchell",
+      "sectionId": "club_auckland_city_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_202",
+      "number": "202",
+      "name": "Michael Den Heijer",
+      "sectionId": "club_auckland_city_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_203",
+      "number": "203",
+      "name": "Mario Ilich",
+      "sectionId": "club_auckland_city_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_204",
+      "number": "204",
+      "name": "Gerard Garriga",
+      "sectionId": "club_auckland_city_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_205",
+      "number": "205",
+      "name": "Ryan De Vries",
+      "sectionId": "club_auckland_city_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_206",
+      "number": "206",
+      "name": "Angus Kilkolly",
+      "sectionId": "club_auckland_city_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_207",
+      "number": "207",
+      "name": "Conor Tracey",
+      "sectionId": "club_auckland_city_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_208",
+      "number": "208",
+      "name": "Florentino",
+      "sectionId": "club_sl_benfica",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_209",
+      "number": "209",
+      "name": "Anatoliy Trubin",
+      "sectionId": "club_sl_benfica",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_210",
+      "number": "210",
+      "name": "Nicolás Otamendi",
+      "sectionId": "club_sl_benfica",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_211",
+      "number": "211",
+      "name": "Leandro Barreiro",
+      "sectionId": "club_sl_benfica",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_212",
+      "number": "212",
+      "name": "Fredrik Aursnes",
+      "sectionId": "club_sl_benfica",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_213",
+      "number": "213",
+      "name": "Vangelis Pavlidis",
+      "sectionId": "club_sl_benfica",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_214",
+      "number": "214",
+      "name": "Kerem Aktürkoğlu",
+      "sectionId": "club_sl_benfica",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_215",
+      "number": "215",
+      "name": "Ángel Di María",
+      "sectionId": "club_sl_benfica",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_216",
+      "number": "216",
+      "name": "António Silva",
+      "sectionId": "club_sl_benfica",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_217",
+      "number": "217",
+      "name": "Diogo Costa",
+      "sectionId": "club_fc_porto",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_218",
+      "number": "218",
+      "name": "Francisco Moura",
+      "sectionId": "club_fc_porto",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_219",
+      "number": "219",
+      "name": "João Mário",
+      "sectionId": "club_fc_porto",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_220",
+      "number": "220",
+      "name": "Alan Varela",
+      "sectionId": "club_fc_porto",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_221",
+      "number": "221",
+      "name": "Stephen Eustáquio",
+      "sectionId": "club_fc_porto",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_222",
+      "number": "222",
+      "name": "Fábio Vieira",
+      "sectionId": "club_fc_porto",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_223",
+      "number": "223",
+      "name": "Samu Aghehowa",
+      "sectionId": "club_fc_porto",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_224",
+      "number": "224",
+      "name": "Danny Namaso",
+      "sectionId": "club_fc_porto",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_225",
+      "number": "225",
+      "name": "Pepê",
+      "sectionId": "club_fc_porto",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_226",
+      "number": "226",
+      "name": "Salem Al-Dawsari",
+      "sectionId": "club_al_hilal_sfc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_227",
+      "number": "227",
+      "name": "Yassine Bounou",
+      "sectionId": "club_al_hilal_sfc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_228",
+      "number": "228",
+      "name": "Renan Lodi",
+      "sectionId": "club_al_hilal_sfc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_229",
+      "number": "229",
+      "name": "Kalidou Koulibaly",
+      "sectionId": "club_al_hilal_sfc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_230",
+      "number": "230",
+      "name": "Ruben Neves",
+      "sectionId": "club_al_hilal_sfc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_231",
+      "number": "231",
+      "name": "Sergej Milinković-Savić",
+      "sectionId": "club_al_hilal_sfc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_232",
+      "number": "232",
+      "name": "Marcos Leonardo",
+      "sectionId": "club_al_hilal_sfc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_233",
+      "number": "233",
+      "name": "Aleksandar Mitrović",
+      "sectionId": "club_al_hilal_sfc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_234",
+      "number": "234",
+      "name": "Ali Al-Bulaihi",
+      "sectionId": "club_al_hilal_sfc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_235",
+      "number": "235",
+      "name": "Themba Zwane",
+      "sectionId": "club_mamelodi_sundowns",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_236",
+      "number": "236",
+      "name": "Aubrey Modiba",
+      "sectionId": "club_mamelodi_sundowns",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_237",
+      "number": "237",
+      "name": "Khuliso Mudau",
+      "sectionId": "club_mamelodi_sundowns",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_238",
+      "number": "238",
+      "name": "Rivaldo Coetzee",
+      "sectionId": "club_mamelodi_sundowns",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_239",
+      "number": "239",
+      "name": "Теbohо Mokoena",
+      "sectionId": "club_mamelodi_sundowns",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_240",
+      "number": "240",
+      "name": "Marcelo Allende",
+      "sectionId": "club_mamelodi_sundowns",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_241",
+      "number": "241",
+      "name": "Peter Shalulile",
+      "sectionId": "club_mamelodi_sundowns",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_242",
+      "number": "242",
+      "name": "Ioraam Rayners",
+      "sectionId": "club_mamelodi_sundowns",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_243",
+      "number": "243",
+      "name": "Ronwen Williams",
+      "sectionId": "club_mamelodi_sundowns",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_244",
+      "number": "244",
+      "name": "Koke",
+      "sectionId": "club_atletico_de_madrid",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_245",
+      "number": "245",
+      "name": "Jan Oblak",
+      "sectionId": "club_atletico_de_madrid",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_246",
+      "number": "246",
+      "name": "José María Giménez",
+      "sectionId": "club_atletico_de_madrid",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_247",
+      "number": "247",
+      "name": "Axel Witsel",
+      "sectionId": "club_atletico_de_madrid",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_248",
+      "number": "248",
+      "name": "Rodrigo De Paul",
+      "sectionId": "club_atletico_de_madrid",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_249",
+      "number": "249",
+      "name": "Conor Gallagher",
+      "sectionId": "club_atletico_de_madrid",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_250",
+      "number": "250",
+      "name": "Julián Alvarez",
+      "sectionId": "club_atletico_de_madrid",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_251",
+      "number": "251",
+      "name": "Antoine Griezmann",
+      "sectionId": "club_atletico_de_madrid",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_252",
+      "number": "252",
+      "name": "Marcos Llorente",
+      "sectionId": "club_atletico_de_madrid",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_253",
+      "number": "253",
+      "name": "Luka Modrić",
+      "sectionId": "club_real_madrid_cf",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_254",
+      "number": "254",
+      "name": "Thibaut Courtois",
+      "sectionId": "club_real_madrid_cf",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_255",
+      "number": "255",
+      "name": "Éder Militão",
+      "sectionId": "club_real_madrid_cf",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_256",
+      "number": "256",
+      "name": "Eduardo Camavinga",
+      "sectionId": "club_real_madrid_cf",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_257",
+      "number": "257",
+      "name": "Federico Valverde",
+      "sectionId": "club_real_madrid_cf",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_258",
+      "number": "258",
+      "name": "Rodrygo",
+      "sectionId": "club_real_madrid_cf",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_259",
+      "number": "259",
+      "name": "Vini Jr.",
+      "sectionId": "club_real_madrid_cf",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_260",
+      "number": "260",
+      "name": "Kylian Mbappé",
+      "sectionId": "club_real_madrid_cf",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_261",
+      "number": "261",
+      "name": "Daniel Carvajal",
+      "sectionId": "club_real_madrid_cf",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_262",
+      "number": "262",
+      "name": "Yassine Meriah",
+      "sectionId": "club_esperance_de_tunis",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_263",
+      "number": "263",
+      "name": "Amanallah Memmiche",
+      "sectionId": "club_esperance_de_tunis",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_264",
+      "number": "264",
+      "name": "Mohamed Amine Tougai",
+      "sectionId": "club_esperance_de_tunis",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_265",
+      "number": "265",
+      "name": "Hamza Jelassi",
+      "sectionId": "club_esperance_de_tunis",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_266",
+      "number": "266",
+      "name": "Houssem Tka",
+      "sectionId": "club_esperance_de_tunis",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_267",
+      "number": "267",
+      "name": "Roger Aholou",
+      "sectionId": "club_esperance_de_tunis",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_268",
+      "number": "268",
+      "name": "Youcef Belaili",
+      "sectionId": "club_esperance_de_tunis",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_269",
+      "number": "269",
+      "name": "Rodrigo Rodrigues",
+      "sectionId": "club_esperance_de_tunis",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_270",
+      "number": "270",
+      "name": "Mohamed Amine Ben Hamida",
+      "sectionId": "club_esperance_de_tunis",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_271",
+      "number": "271",
+      "name": "Khalid Eisa",
+      "sectionId": "club_al_ain_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_272",
+      "number": "272",
+      "name": "Kouame Autonne",
+      "sectionId": "club_al_ain_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_273",
+      "number": "273",
+      "name": "Erik Menezes",
+      "sectionId": "club_al_ain_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_274",
+      "number": "274",
+      "name": "Kaku",
+      "sectionId": "club_al_ain_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_275",
+      "number": "275",
+      "name": "Yong-Woo Park",
+      "sectionId": "club_al_ain_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_276",
+      "number": "276",
+      "name": "Abdoul Traore",
+      "sectionId": "club_al_ain_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_277",
+      "number": "277",
+      "name": "Soufiane Rahimi",
+      "sectionId": "club_al_ain_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_278",
+      "number": "278",
+      "name": "Kodjo Laba",
+      "sectionId": "club_al_ain_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_279",
+      "number": "279",
+      "name": "Bandar Al Ahbabі",
+      "sectionId": "club_al_ain_fc",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_280",
+      "number": "280",
+      "name": "Wesley Fofana",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_281",
+      "number": "281",
+      "name": "John Stones",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_282",
+      "number": "282",
+      "name": "Joško Gvardiol",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_283",
+      "number": "283",
+      "name": "Min-jae Kim",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_284",
+      "number": "284",
+      "name": "Alphonso Davies",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_285",
+      "number": "285",
+      "name": "Nico Schlotterbeck",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_286",
+      "number": "286",
+      "name": "Denzel Dumfries",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_287",
+      "number": "287",
+      "name": "Alessandro Bastoni",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_288",
+      "number": "288",
+      "name": "Federico Gatti",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_289",
+      "number": "289",
+      "name": "Gerardo Arteaga",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_290",
+      "number": "290",
+      "name": "Nicolás Otamendi",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_291",
+      "number": "291",
+      "name": "Nehuen Pérez",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_292",
+      "number": "292",
+      "name": "Kalidou Koulibaly",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_293",
+      "number": "293",
+      "name": "João Cancelo",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_294",
+      "number": "294",
+      "name": "José María Giménez",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_295",
+      "number": "295",
+      "name": "Nahuel Molina",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_296",
+      "number": "296",
+      "name": "Éder Militão",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_297",
+      "number": "297",
+      "name": "Antonio Rüdiger",
+      "sectionId": "titan",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_298",
+      "number": "298",
+      "name": "Franco Mastantuono",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_299",
+      "number": "299",
+      "name": "Gregore",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_300",
+      "number": "300",
+      "name": "Gerson",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_301",
+      "number": "301",
+      "name": "Richard Rios",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_302",
+      "number": "302",
+      "name": "Moisés Caicedo",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_303",
+      "number": "303",
+      "name": "Kevin De Bruyne",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_304",
+      "number": "304",
+      "name": "Vitinha",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_305",
+      "number": "305",
+      "name": "Joshua Kimmich",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_306",
+      "number": "306",
+      "name": "Jamal Musiala",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_307",
+      "number": "307",
+      "name": "Gio Reyna",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_308",
+      "number": "308",
+      "name": "Hakan Çalhanoğlu",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_309",
+      "number": "309",
+      "name": "Khéphren Thuram",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_310",
+      "number": "310",
+      "name": "Won-Sang Um",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_311",
+      "number": "311",
+      "name": "Orkun Kökçü",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_312",
+      "number": "312",
+      "name": "Sergej Milinković-Savić",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_313",
+      "number": "313",
+      "name": "Rodrigo De Paul",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_314",
+      "number": "314",
+      "name": "Jude Bellingham",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_315",
+      "number": "315",
+      "name": "Cristian Roldán",
+      "sectionId": "magician",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_316",
+      "number": "316",
+      "name": "Karim Konaté",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_317",
+      "number": "317",
+      "name": "Wessam Abou Ali",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_318",
+      "number": "318",
+      "name": "Nicolas Jackson",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_319",
+      "number": "319",
+      "name": "Erling Haaland",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_320",
+      "number": "320",
+      "name": "Bradley Barcola",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_321",
+      "number": "321",
+      "name": "Serge Gnabry",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_322",
+      "number": "322",
+      "name": "Michael Olise",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_323",
+      "number": "323",
+      "name": "Serhou Guirassy",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_324",
+      "number": "324",
+      "name": "Lautaro Martínez",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_325",
+      "number": "325",
+      "name": "Marcus Thuram",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_326",
+      "number": "326",
+      "name": "Dušan Vlahović",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_327",
+      "number": "327",
+      "name": "Vangelis Pavlidis",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_328",
+      "number": "328",
+      "name": "Samu Aghehowa",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_329",
+      "number": "329",
+      "name": "Aleksandar Mitrović",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_330",
+      "number": "330",
+      "name": "Julián Alvarez",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_331",
+      "number": "331",
+      "name": "Rodrygo",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_332",
+      "number": "332",
+      "name": "Luis Suárez",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_333",
+      "number": "333",
+      "name": "Jesús Ferreira",
+      "sectionId": "goal_machine",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_334",
+      "number": "334",
+      "name": "Robert Sánchez",
+      "sectionId": "top_keeper",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_335",
+      "number": "335",
+      "name": "Ederson",
+      "sectionId": "top_keeper",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_336",
+      "number": "336",
+      "name": "Manuel Neuer",
+      "sectionId": "top_keeper",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_337",
+      "number": "337",
+      "name": "Yann Sommer",
+      "sectionId": "top_keeper",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_338",
+      "number": "338",
+      "name": "Michele Di Gregorio",
+      "sectionId": "top_keeper",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_339",
+      "number": "339",
+      "name": "Diogo Costa",
+      "sectionId": "top_keeper",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_340",
+      "number": "340",
+      "name": "Yassine Bounou",
+      "sectionId": "top_keeper",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_341",
+      "number": "341",
+      "name": "Jan Oblak",
+      "sectionId": "top_keeper",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_342",
+      "number": "342",
+      "name": "Thibaut Courtois",
+      "sectionId": "top_keeper",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_343",
+      "number": "343",
+      "name": "Igor Jesus",
+      "sectionId": "game_changer",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_344",
+      "number": "344",
+      "name": "Jadon Sancho",
+      "sectionId": "game_changer",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_345",
+      "number": "345",
+      "name": "Rodri",
+      "sectionId": "game_changer",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_346",
+      "number": "346",
+      "name": "Warren Zaïre-Emery",
+      "sectionId": "game_changer",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_347",
+      "number": "347",
+      "name": "Leroy Sané",
+      "sectionId": "game_changer",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_348",
+      "number": "348",
+      "name": "Weston McKennie",
+      "sectionId": "game_changer",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_349",
+      "number": "349",
+      "name": "Ruben Neves",
+      "sectionId": "game_changer",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_350",
+      "number": "350",
+      "name": "Federico Valverde",
+      "sectionId": "game_changer",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_351",
+      "number": "351",
+      "name": "Jordan Morris",
+      "sectionId": "game_changer",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_352",
+      "number": "352",
+      "name": "Mads Bidstrup",
+      "sectionId": "new_hero",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_353",
+      "number": "353",
+      "name": "Estêvão",
+      "sectionId": "new_hero",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_354",
+      "number": "354",
+      "name": "Levi Colwill",
+      "sectionId": "new_hero",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_355",
+      "number": "355",
+      "name": "João Neves",
+      "sectionId": "new_hero",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_356",
+      "number": "356",
+      "name": "Aleksandar Pavlović",
+      "sectionId": "new_hero",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_357",
+      "number": "357",
+      "name": "Kenan Yildiz",
+      "sectionId": "new_hero",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_358",
+      "number": "358",
+      "name": "Endrick",
+      "sectionId": "new_hero",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_359",
+      "number": "359",
+      "name": "Amanallah Memmiche",
+      "sectionId": "new_hero",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_360",
+      "number": "360",
+      "name": "Benjamin Cremaschi",
+      "sectionId": "new_hero",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_361",
+      "number": "361",
+      "name": "Edinson Cavani",
+      "sectionId": "legend",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_362",
+      "number": "362",
+      "name": "Thiago Silva",
+      "sectionId": "legend",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_363",
+      "number": "363",
+      "name": "Mohamed El Shenawy",
+      "sectionId": "legend",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_364",
+      "number": "364",
+      "name": "Bernardo Silva",
+      "sectionId": "legend",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_365",
+      "number": "365",
+      "name": "Manuel Neuer",
+      "sectionId": "legend",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_366",
+      "number": "366",
+      "name": "Ángel Di María",
+      "sectionId": "legend",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_367",
+      "number": "367",
+      "name": "Antoine Griezmann",
+      "sectionId": "legend",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_368",
+      "number": "368",
+      "name": "Luka Modrić",
+      "sectionId": "legend",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_369",
+      "number": "369",
+      "name": "Lionel Messi",
+      "sectionId": "legend",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-CP",
+      "number": "LE-CP",
+      "name": "Cole Palmer",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-EH",
+      "number": "LE-EH",
+      "name": "Erling Haaland",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-EST",
+      "number": "LE-EST",
+      "name": "Estêvão",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-FM",
+      "number": "LE-FM",
+      "name": "Franco Mastantuono",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-HK",
+      "number": "LE-HK",
+      "name": "Harry Kane",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-JA",
+      "number": "LE-JA",
+      "name": "Julián Alvarez",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-JB",
+      "number": "LE-JB",
+      "name": "Jude Bellingham",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-JC",
+      "number": "LE-JC",
+      "name": "João Cancelo",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-JM",
+      "number": "LE-JM",
+      "name": "Jamal Musiala",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-KM",
+      "number": "LE-KM",
+      "name": "Kylian Mbappé",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-KY",
+      "number": "LE-KY",
+      "name": "Kenan Yildiz",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-LM",
+      "number": "LE-LM",
+      "name": "Lautaro Martínez",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-MO",
+      "number": "LE-MO",
+      "name": "Michael Olise",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-NB",
+      "number": "LE-NB",
+      "name": "Nicolò Barella",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-PF",
+      "number": "LE-PF",
+      "name": "Phil Foden",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-ROD",
+      "number": "LE-ROD",
+      "name": "Rodri",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-VJ",
+      "number": "LE-VJ",
+      "name": "Vini Jr.",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_adrenalyn_club_world_cup_2025_LE-VP",
+      "number": "LE-VP",
+      "name": "Vangelis Pavlidis",
+      "sectionId": "limited",
+      "countsTowardCompletion": true
+    }
+  ]
+}

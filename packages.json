@@ -525,6 +525,27 @@
       "file": "albums/pokemon-mew-2023-standard-v1.zip",
       "bytes": 115339,
       "sha256": "ce64515c60bde5ed14a2183a822ce9ada014394e088c917c408339f8ddcf7ac4"
+    },
+    {
+      "officialId": "panini.marvelanthology2026.standard",
+      "version": 1,
+      "file": "albums/panini-marvel-anthology-2026-standard-v1.zip",
+      "bytes": 33606,
+      "sha256": "08b364005860c41936a50a8478817a6647f7a9ef2bfde4dd7f99246bd0900462"
+    },
+    {
+      "officialId": "panini.mundial_clubes2025.adrenalyn-xl",
+      "version": 1,
+      "file": "albums/panini-adrenalyn-club-world-cup-2025-standard-v1.zip",
+      "bytes": 180262,
+      "sha256": "f89fca0f2358ac2176be7f2ccb2908e0b6be3f5f26382ef743d9342a3ebd953c"
+    },
+    {
+      "officialId": "panini.premierleague2025.standard",
+      "version": 1,
+      "file": "albums/panini-premier-league-2025-standard-v1.zip",
+      "bytes": 189979,
+      "sha256": "1df37cd04e4ecbf0258613a818ec7c3bd656de9875b09bb4a5a664b6bfffb79c"
     }
   ]
 }

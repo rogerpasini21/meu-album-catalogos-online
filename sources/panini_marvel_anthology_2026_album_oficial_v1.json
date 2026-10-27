@@ -1,0 +1,1043 @@
+{
+  "officialId": "panini.marvelanthology2026.standard",
+  "version": 1,
+  "name": "Marvel Anthology",
+  "collection": "Marvel Anthology",
+  "year": "2026",
+  "publisher": "Panini",
+  "collectionType": "cards",
+  "availability": "online",
+  "libraryCategory": {
+    "id": "heroes",
+    "name": "Heróis",
+    "order": 90
+  },
+  "description": "142 cards: 100 base, 12 Canvas, 10 Legacy, 10 Glow-in-the-dark e 10 Lenticular. Paralelas, Memorabilia, Medallion, Checklist Card e Black Card não estão incluídos nesta edição.",
+  "plannedTotal": 142,
+  "variantCount": 0,
+  "variantLabel": "Variantes opcionais",
+  "coverAsset": "assets/album_library/imagens/panini_marvel_anthology_2026/capa.webp",
+  "sections": [
+    {
+      "id": "principal",
+      "name": "Cards base",
+      "imageAsset": "assets/album_library/imagens/panini_marvel_anthology_2026/capa.webp"
+    },
+    {
+      "id": "canvas",
+      "name": "Canvas",
+      "imageAsset": "assets/album_library/imagens/panini_marvel_anthology_2026/capa.webp"
+    },
+    {
+      "id": "legacy",
+      "name": "Legacy",
+      "imageAsset": "assets/album_library/imagens/panini_marvel_anthology_2026/capa.webp"
+    },
+    {
+      "id": "glow",
+      "name": "Glow-in-the-dark",
+      "imageAsset": "assets/album_library/imagens/panini_marvel_anthology_2026/capa.webp"
+    },
+    {
+      "id": "lenticular",
+      "name": "Lenticular",
+      "imageAsset": "assets/album_library/imagens/panini_marvel_anthology_2026/capa.webp"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "panini_marvel_anthology_2026_1",
+      "number": "1",
+      "name": "The Fantastic Four Are Born!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_2",
+      "number": "2",
+      "name": "With Great Power…",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_3",
+      "number": "3",
+      "name": "The Return of Captain America!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_4",
+      "number": "4",
+      "name": "X-Men: The Strangest Super Heroes of All!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_5",
+      "number": "5",
+      "name": "Hawkeye Strikes!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_6",
+      "number": "6",
+      "name": "Final Chapter",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_7",
+      "number": "7",
+      "name": "The Coming of Galactus",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_8",
+      "number": "8",
+      "name": "The Black Panther!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_9",
+      "number": "9",
+      "name": "Face It, Tiger…",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_10",
+      "number": "10",
+      "name": "Agent of S.H.I.E.L.D.!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_11",
+      "number": "11",
+      "name": "The Kree-Skrull War",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_12",
+      "number": "12",
+      "name": "The Night Gwen Stacy Died",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_13",
+      "number": "13",
+      "name": "The Champions!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_14",
+      "number": "14",
+      "name": "And Now… The Wolverine!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_15",
+      "number": "15",
+      "name": "X-Men: Second Genesis",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_16",
+      "number": "16",
+      "name": "The Eternals",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_17",
+      "number": "17",
+      "name": "What if…?",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_18",
+      "number": "18",
+      "name": "Iron Man: Demon in a Bottle",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_19",
+      "number": "19",
+      "name": "Dark Phoenix Saga",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_20",
+      "number": "20",
+      "name": "The Death of Captain Marvel",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_21",
+      "number": "21",
+      "name": "The Death of Elektra",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_22",
+      "number": "22",
+      "name": "The New Captain Marvel",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_23",
+      "number": "23",
+      "name": "Night of The Hobgoblin",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_24",
+      "number": "24",
+      "name": "Professor Xavier is a Jerk!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_25",
+      "number": "25",
+      "name": "The Worthy Beta Ray Bill",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_26",
+      "number": "26",
+      "name": "The Spectacular Spider-Ham!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_27",
+      "number": "27",
+      "name": "The Black Costume",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_28",
+      "number": "28",
+      "name": "Apocalypse Now!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_29",
+      "number": "29",
+      "name": "Gray Hulk",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_30",
+      "number": "30",
+      "name": "The Wedding of Peter and MJ",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_31",
+      "number": "31",
+      "name": "Kraven’s Last Hunt",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_32",
+      "number": "32",
+      "name": "Armor Wars",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_33",
+      "number": "33",
+      "name": "Venom",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_34",
+      "number": "34",
+      "name": "Inferno",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_35",
+      "number": "35",
+      "name": "She-Hulk Breaks the Fourth Wall",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_36",
+      "number": "36",
+      "name": "Enter… Deadpool!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_37",
+      "number": "37",
+      "name": "Infinity Gauntlet",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_38",
+      "number": "38",
+      "name": "X-Men: Mutant Genesis 2.0",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_39",
+      "number": "39",
+      "name": "War Machine",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_40",
+      "number": "40",
+      "name": "Carnage: Savage Genesis!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_41",
+      "number": "41",
+      "name": "An Invisible Enemy",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_42",
+      "number": "42",
+      "name": "The Clone Saga Begins",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_43",
+      "number": "43",
+      "name": "Age of Apocalypse",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_44",
+      "number": "44",
+      "name": "Onslaught",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_45",
+      "number": "45",
+      "name": "Heroes Reborn",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_46",
+      "number": "46",
+      "name": "Night of the Goblin",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_47",
+      "number": "47",
+      "name": "Justice, Like Lightning…",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_48",
+      "number": "48",
+      "name": "Heroes Return",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_49",
+      "number": "49",
+      "name": "Guardian Devil",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_50",
+      "number": "50",
+      "name": "Earth X",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_51",
+      "number": "51",
+      "name": "The Sentry",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_52",
+      "number": "52",
+      "name": "The Ultimate Universe",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_53",
+      "number": "53",
+      "name": "E is for Extinction",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_54",
+      "number": "54",
+      "name": "Wolverine: Origin",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_55",
+      "number": "55",
+      "name": "Avengers Disassembled!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_56",
+      "number": "56",
+      "name": "New Avengers",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_57",
+      "number": "57",
+      "name": "Runaways: Teenagers On The Run!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_58",
+      "number": "58",
+      "name": "X-23",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_59",
+      "number": "59",
+      "name": "Wolverine: Public Enemy",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_60",
+      "number": "60",
+      "name": "New, Young Avengers",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_61",
+      "number": "61",
+      "name": "No More Mutants",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_62",
+      "number": "62",
+      "name": "Planet Hulk",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_63",
+      "number": "63",
+      "name": "Civil War",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_64",
+      "number": "64",
+      "name": "The Immortal Iron Fist",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_65",
+      "number": "65",
+      "name": "The Illuminati",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_66",
+      "number": "66",
+      "name": "The Death of Captain America",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_67",
+      "number": "67",
+      "name": "Annihilation",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_68",
+      "number": "68",
+      "name": "One More Day",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_69",
+      "number": "69",
+      "name": "Asgardians Reborn",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_70",
+      "number": "70",
+      "name": "A New Captain America",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_71",
+      "number": "71",
+      "name": "World War Hulk",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_72",
+      "number": "72",
+      "name": "Secret Invasion",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_73",
+      "number": "73",
+      "name": "Dark Reign Begins",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_74",
+      "number": "74",
+      "name": "Siege",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_75",
+      "number": "75",
+      "name": "The Heroic Age",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_76",
+      "number": "76",
+      "name": "The Death of The Human Torch",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_77",
+      "number": "77",
+      "name": "Fear Itself",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_78",
+      "number": "78",
+      "name": "Miles Morales: Spider-Man",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_79",
+      "number": "79",
+      "name": "The New Guardians of the Galaxy",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_80",
+      "number": "80",
+      "name": "Avengers Vs X-Men",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_81",
+      "number": "81",
+      "name": "The God Butcher",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_82",
+      "number": "82",
+      "name": "Superior Spider-Man",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_83",
+      "number": "83",
+      "name": "Age of Ultron",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_84",
+      "number": "84",
+      "name": "Infinity",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_85",
+      "number": "85",
+      "name": "The New Ms. Marvel",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_86",
+      "number": "86",
+      "name": "Who Killed The Watcher?",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_87",
+      "number": "87",
+      "name": "Spider-Gwen",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_88",
+      "number": "88",
+      "name": "Spider-Verse",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_89",
+      "number": "89",
+      "name": "Sam Wilson is Captain America",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_90",
+      "number": "90",
+      "name": "Secret Wars",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_91",
+      "number": "91",
+      "name": "The Goddess of Thunder",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_92",
+      "number": "92",
+      "name": "Secret Empire",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_93",
+      "number": "93",
+      "name": "The Krakoan Age",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_94",
+      "number": "94",
+      "name": "The King in Black is Coming!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_95",
+      "number": "95",
+      "name": "Enter… Spider-Boy!",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_96",
+      "number": "96",
+      "name": "Ultimate Invasion",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_97",
+      "number": "97",
+      "name": "The New Ultimate Spider-Man",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_98",
+      "number": "98",
+      "name": "Blood Hunt",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_99",
+      "number": "99",
+      "name": "X-Men: From the Ashes…",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_100",
+      "number": "100",
+      "name": "One World Under Doom",
+      "sectionId": "principal",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_C1",
+      "number": "C1",
+      "name": "1602",
+      "sectionId": "canvas",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_C2",
+      "number": "C2",
+      "name": "Age of Apocalypse",
+      "sectionId": "canvas",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_C3",
+      "number": "C3",
+      "name": "Marvel Zombies",
+      "sectionId": "canvas",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_C4",
+      "number": "C4",
+      "name": "Ultimate Universe",
+      "sectionId": "canvas",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_C5",
+      "number": "C5",
+      "name": "Old Man Logan",
+      "sectionId": "canvas",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_C6",
+      "number": "C6",
+      "name": "2099",
+      "sectionId": "canvas",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_C7",
+      "number": "C7",
+      "name": "New Ultimate Universe",
+      "sectionId": "canvas",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_C8",
+      "number": "C8",
+      "name": "House of M",
+      "sectionId": "canvas",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_C9",
+      "number": "C9",
+      "name": "Hulk: Future Imperfect",
+      "sectionId": "canvas",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_C10",
+      "number": "C10",
+      "name": "Reign",
+      "sectionId": "canvas",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_C11",
+      "number": "C11",
+      "name": "MC2",
+      "sectionId": "canvas",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_C12",
+      "number": "C12",
+      "name": "Captain Carter",
+      "sectionId": "canvas",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_Y1",
+      "number": "Y1",
+      "name": "Red Hulk",
+      "sectionId": "legacy",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_Y2",
+      "number": "Y2",
+      "name": "Captain America (Sam Wilson)",
+      "sectionId": "legacy",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_Y3",
+      "number": "Y3",
+      "name": "War Machine",
+      "sectionId": "legacy",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_Y4",
+      "number": "Y4",
+      "name": "Spider-Man (Ben Reilly)",
+      "sectionId": "legacy",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_Y5",
+      "number": "Y5",
+      "name": "Black Panther (Shuri)",
+      "sectionId": "legacy",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_Y6",
+      "number": "Y6",
+      "name": "Daredevil (Elektra Natchios)",
+      "sectionId": "legacy",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_Y7",
+      "number": "Y7",
+      "name": "Venom (Mac Gargan)",
+      "sectionId": "legacy",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_Y8",
+      "number": "Y8",
+      "name": "Throg",
+      "sectionId": "legacy",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_Y9",
+      "number": "Y9",
+      "name": "Ironheart",
+      "sectionId": "legacy",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_Y10",
+      "number": "Y10",
+      "name": "U.S.Agent",
+      "sectionId": "legacy",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_G1",
+      "number": "G1",
+      "name": "Thor",
+      "sectionId": "glow",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_G2",
+      "number": "G2",
+      "name": "Daredevil",
+      "sectionId": "glow",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_G3",
+      "number": "G3",
+      "name": "Magneto",
+      "sectionId": "glow",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_G4",
+      "number": "G4",
+      "name": "Ghost Rider",
+      "sectionId": "glow",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_G5",
+      "number": "G5",
+      "name": "Green Goblin",
+      "sectionId": "glow",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_G6",
+      "number": "G6",
+      "name": "Spider-Man",
+      "sectionId": "glow",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_G7",
+      "number": "G7",
+      "name": "Moon Knight",
+      "sectionId": "glow",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_G8",
+      "number": "G8",
+      "name": "Doctor Strange",
+      "sectionId": "glow",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_G9",
+      "number": "G9",
+      "name": "Gambit",
+      "sectionId": "glow",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_G10",
+      "number": "G10",
+      "name": "Cyclops",
+      "sectionId": "glow",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_L1",
+      "number": "L1",
+      "name": "Spider-Man/Peter Parker",
+      "sectionId": "lenticular",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_L2",
+      "number": "L2",
+      "name": "Captain America/Steve Rogers",
+      "sectionId": "lenticular",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_L3",
+      "number": "L3",
+      "name": "Iron Man/Tony Stark",
+      "sectionId": "lenticular",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_L4",
+      "number": "L4",
+      "name": "Wolverine/Logan",
+      "sectionId": "lenticular",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_L5",
+      "number": "L5",
+      "name": "Thor/Jane Foster",
+      "sectionId": "lenticular",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_L6",
+      "number": "L6",
+      "name": "Venom/Eddie Brock",
+      "sectionId": "lenticular",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_L7",
+      "number": "L7",
+      "name": "Deadpool/Wade Wilson",
+      "sectionId": "lenticular",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_L8",
+      "number": "L8",
+      "name": "Spider Gwen/Gwen Stacy",
+      "sectionId": "lenticular",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_L9",
+      "number": "L9",
+      "name": "Captain Marvel/Carol Danvers",
+      "sectionId": "lenticular",
+      "countsTowardCompletion": true
+    },
+    {
+      "id": "panini_marvel_anthology_2026_L10",
+      "number": "L10",
+      "name": "Mystique/Raven Darkhölme",
+      "sectionId": "lenticular",
+      "countsTowardCompletion": true
+    }
+  ]
+}
