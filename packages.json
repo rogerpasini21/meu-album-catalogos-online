@@ -546,6 +546,27 @@
       "file": "albums/panini-premier-league-2025-standard-v1.zip",
       "bytes": 189979,
       "sha256": "1df37cd04e4ecbf0258613a818ec7c3bd656de9875b09bb4a5a664b6bfffb79c"
+    },
+    {
+      "officialId": "topps.f1turboattax2026.standard",
+      "version": 1,
+      "file": "albums/topps-f1-turbo-attax-2026-standard-v1.zip",
+      "bytes": 215702,
+      "sha256": "302c460e3569d1ff630de9598fe715002ab256d3e30f2eff35a1931d03321665"
+    },
+    {
+      "officialId": "topps.nbachromeupdates2025-26.standard",
+      "version": 1,
+      "file": "albums/topps-nba-chrome-updates-2025-26-standard-v1.zip",
+      "bytes": 197367,
+      "sha256": "9f9cbaa2981645ee8c19b6fd5f8bbdc0832dea9520c450dd7d88571cc38bbe2d"
+    },
+    {
+      "officialId": "topps.ufcchrome2026.standard",
+      "version": 1,
+      "file": "albums/topps-ufc-chrome-2026-standard-v1.zip",
+      "bytes": 177429,
+      "sha256": "95c2b8310b585168a4628a5b1ec2b42f42c6c6469a15979c6bf9d764abbc9724"
     }
   ]
 }
